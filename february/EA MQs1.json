@@ -1,0 +1,145 @@
+{
+    "participant": [
+        {
+            "id": "c67e6366-e3df-11ef-a78b-0242ac130004",
+            "tournament_id": 0,
+            "name": "Red Team",
+            "players": [
+                "RCN | Goodnight",
+                "RCN | imp",
+                "Koalano🐨"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "e300458e-e3e1-11ef-b71b-0242ac130004",
+            "tournament_id": 0,
+            "name": "Blue Team",
+            "players": [
+                "RCN | TOC",
+                "Mistax",
+                "Simon"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "d08b8a3e-e3e2-11ef-8971-0242ac130004",
+            "tournament_id": 0,
+            "name": "Athlos TEST",
+            "players": [
+                "Vieira",
+                "TheHikingViking",
+                "galahad"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "388b72f8-e3ec-11ef-b009-0242ac130004",
+            "tournament_id": 0,
+            "name": "Athlos TEST2",
+            "players": [
+                "HikingViking2",
+                "HikingViking3",
+                "HikingViking4"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "EA MQs1",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 3
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 3,
+            "status": 4,
+            "opponent1": {
+                "id": "c67e6366-e3df-11ef-a78b-0242ac130004",
+                "name": "Red Team",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "e300458e-e3e1-11ef-b71b-0242ac130004",
+                "name": "Blue Team",
+                "seed": 4,
+                "forfeit": 1
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 3,
+            "status": 3,
+            "opponent1": {
+                "id": "d08b8a3e-e3e2-11ef-8971-0242ac130004",
+                "name": "Athlos TEST",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "388b72f8-e3ec-11ef-b009-0242ac130004",
+                "name": "Athlos TEST2",
+                "seed": 3
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 3,
+            "status": 0,
+            "opponent1": {
+                "id": "c67e6366-e3df-11ef-a78b-0242ac130004",
+                "name": "Red Team",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
+}
