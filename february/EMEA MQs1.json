@@ -93245,18 +93245,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "149abc6a-dfbd-11ef-bdd3-0242ac130004",
                 "name": "Slipy Esports",
-                "seed": 663
+                "seed": 663,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b0be0b9e-e033-11ef-b8e6-0242ac130004",
                 "name": "RYABIKOVS",
-                "seed": 1386
+                "seed": 1386,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "149abc6a-dfbd-11ef-bdd3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0be0b9e-e033-11ef-b8e6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "149abc6a-dfbd-11ef-bdd3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0be0b9e-e033-11ef-b8e6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2801,
@@ -95780,18 +95815,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "32877092-e1fc-11ef-8f13-0242ac130004",
                 "name": "Cacho tabique zadix",
-                "seed": 147
+                "seed": 147,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "409c909a-e0e4-11ef-948a-0242ac130004",
                 "name": "Phantom Force",
-                "seed": 1902
+                "seed": 1902,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "32877092-e1fc-11ef-8f13-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "409c909a-e0e4-11ef-948a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "32877092-e1fc-11ef-8f13-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "409c909a-e0e4-11ef-948a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2926,
@@ -98355,18 +98425,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "a2639da6-dfb2-11ef-a6b9-0242ac130004",
                 "name": "QWertys",
-                "seed": 619
+                "seed": 619,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3e8b6d16-e07c-11ef-9380-0242ac130004",
                 "name": "BIBANESI",
-                "seed": 1430
+                "seed": 1430,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a2639da6-dfb2-11ef-a6b9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3e8b6d16-e07c-11ef-9380-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a2639da6-dfb2-11ef-a6b9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3e8b6d16-e07c-11ef-9380-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3053,
@@ -99337,7 +99442,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bd0c49f8-e027-11ef-b6f9-0242ac130004",
+                "name": "F/A Borti",
+                "seed": 272
             },
             "opponent2": {
                 "id": null
@@ -99979,7 +100086,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7c46ff04-e1a7-11ef-ad45-0242ac130004",
+                "name": "VNeS",
+                "seed": 313
             },
             "opponent2": {
                 "id": null
@@ -100881,7 +100990,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c482c036-e0d6-11ef-a1b5-0242ac130004",
+                "name": "NcS",
+                "seed": 260
             },
             "opponent2": {
                 "id": null
@@ -103303,7 +103414,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f9068546-e157-11ef-8398-0242ac130004",
+                "name": "kpk",
+                "seed": 223
             },
             "opponent2": {
                 "id": null
@@ -103383,7 +103496,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b2d0c5f0-dff4-11ef-8c5e-0242ac130004",
+                "name": "Deus Lo Volt",
+                "seed": 351
             },
             "opponent2": {
                 "id": null
@@ -103607,7 +103722,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1dac7936-e41a-11ef-bc3a-0242ac130004",
+                "name": "Night Agents Esport",
+                "seed": 434
             },
             "opponent2": {
                 "id": null
@@ -105805,7 +105922,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "32877092-e1fc-11ef-8f13-0242ac130004",
+                "name": "Cacho tabique zadix",
+                "seed": 147
             },
             "opponent2": {
                 "id": null
