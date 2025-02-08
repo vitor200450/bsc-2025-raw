@@ -30391,18 +30391,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9a7b2678-e33a-11ef-acf9-0242ac130004",
                 "name": "Simply Lovely",
-                "seed": 195
+                "seed": 195,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "56affafc-e3dc-11ef-9a81-0242ac130004",
                 "name": "Peasant",
-                "seed": 830
+                "seed": 830,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9a7b2678-e33a-11ef-acf9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56affafc-e3dc-11ef-9a81-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9a7b2678-e33a-11ef-acf9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56affafc-e3dc-11ef-9a81-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 396,
@@ -39745,10 +39780,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9a7b2678-e33a-11ef-acf9-0242ac130004",
+                "name": "Simply Lovely",
+                "seed": 195
             },
             "opponent2": {
-                "id": null
+                "id": "bfd543c2-e02e-11ef-a393-0242ac130004",
+                "name": "The Beta boys",
+                "seed": 318
             },
             "match_games": []
         },
