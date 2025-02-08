@@ -55707,18 +55707,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
                 "name": "PMZ’S TEAM",
-                "seed": 196
+                "seed": 196,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1ee1d5e0-e3f6-11ef-b03c-0242ac130004",
                 "name": "Complexity",
-                "seed": 836
+                "seed": 836,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ee1d5e0-e3f6-11ef-b03c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ee1d5e0-e3f6-11ef-b03c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 915,
