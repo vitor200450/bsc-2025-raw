@@ -4227,18 +4227,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
                 "name": "NeeBo Gaming",
-                "seed": 60
+                "seed": 60,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c1d38252-e1f9-11ef-9a3d-0242ac130004",
                 "name": "きらきらにしくん",
-                "seed": 197
+                "seed": 197,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d38252-e1f9-11ef-9a3d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d38252-e1f9-11ef-9a3d-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 52,
@@ -6515,10 +6550,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                "name": "NeeBo Gaming",
+                "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "38b731c0-e18c-11ef-a727-0242ac130004",
+                "name": "NEXUS",
+                "seed": 188
             },
             "match_games": []
         },
