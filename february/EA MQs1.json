@@ -10956,18 +10956,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
                 "name": "RPG",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "84fefc94-e235-11ef-98bf-0242ac130004",
                 "name": "無職透明",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 216,
@@ -11196,18 +11231,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34904dfc-e556-11ef-a468-0242ac130004",
                 "name": "KazzHyunjun",
-                "seed": 238
+                "seed": 238,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1bffa12e-e304-11ef-a997-0242ac130004",
                 "name": "Crayon Raccoon",
-                "seed": 211
+                "seed": 211,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "34904dfc-e556-11ef-a468-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1bffa12e-e304-11ef-a997-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "34904dfc-e556-11ef-a468-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1bffa12e-e304-11ef-a997-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 221,
@@ -11537,10 +11607,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                "name": "無職透明",
+                "seed": 202
             },
             "opponent2": {
-                "id": null
+                "id": "bfda79dc-e09c-11ef-952f-0242ac130004",
+                "name": "Big Dixk",
+                "seed": 23
             },
             "match_games": []
         },
@@ -11578,7 +11652,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "34904dfc-e556-11ef-a468-0242ac130004",
+                "name": "KazzHyunjun",
+                "seed": 238
             },
             "match_games": []
         },
