@@ -11834,18 +11834,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b816762a-e177-11ef-b3e3-0242ac130004",
                 "name": "Pineapple San",
-                "seed": 185
+                "seed": 185,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2358f34e-e52f-11ef-b0c3-0242ac130004",
                 "name": "ぽてとウマー‼️",
-                "seed": 40
+                "seed": 40,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2358f34e-e52f-11ef-b0c3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2358f34e-e52f-11ef-b0c3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2358f34e-e52f-11ef-b0c3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 228,
