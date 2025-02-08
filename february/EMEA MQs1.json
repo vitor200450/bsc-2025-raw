@@ -19842,7 +19842,7 @@
                 "RR|Riley",
                 "rayhaan <3"
             ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Rug Rats.jpg"
         },
         {
             "id": "2eacdcb6-e0f6-11ef-9a76-0242ac130004",
@@ -33038,18 +33038,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55e684c4-e08a-11ef-b2df-0242ac130004",
                 "name": "Ryzeflash🥶🥶🥶🥶",
-                "seed": 1473
+                "seed": 1473,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "796f83bc-e334-11ef-b49c-0242ac130004",
                 "name": "Team Nasdas",
-                "seed": 2624
+                "seed": 2624,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "55e684c4-e08a-11ef-b2df-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "796f83bc-e334-11ef-b49c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "55e684c4-e08a-11ef-b2df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "796f83bc-e334-11ef-b49c-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "55e684c4-e08a-11ef-b2df-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "796f83bc-e334-11ef-b49c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -76690,7 +76740,9 @@
                 "seed": 576
             },
             "opponent2": {
-                "id": null
+                "id": "796f83bc-e334-11ef-b49c-0242ac130004",
+                "name": "Team Nasdas",
+                "seed": 2624
             },
             "match_games": []
         },
@@ -77896,7 +77948,9 @@
                 "seed": 208
             },
             "opponent2": {
-                "id": null
+                "id": "8d3b2a40-e0d7-11ef-9a80-0242ac130004",
+                "name": "AZILTEK",
+                "seed": 1841
             },
             "match_games": []
         },
