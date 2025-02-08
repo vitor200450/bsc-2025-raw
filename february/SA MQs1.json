@@ -11524,18 +11524,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a38e852-e095-11ef-83d9-0242ac130004",
                 "name": "fairy lights",
-                "seed": 409
+                "seed": 409,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cfa80bd2-e195-11ef-b7ea-0242ac130004",
                 "name": "Los Dibujitos",
-                "seed": 616
+                "seed": 616,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7a38e852-e095-11ef-83d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfa80bd2-e195-11ef-b7ea-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7a38e852-e095-11ef-83d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cfa80bd2-e195-11ef-b7ea-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 87,
@@ -13967,18 +14002,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
                 "name": "BONDE DO TIGRAO",
-                "seed": 444
+                "seed": 444,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bc8ef320-e16e-11ef-b5db-0242ac130004",
                 "name": "Imposibles",
-                "seed": 581
+                "seed": 581,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc8ef320-e16e-11ef-b5db-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bc8ef320-e16e-11ef-b5db-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 207,
@@ -18051,18 +18121,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f58808f6-dfac-11ef-aed7-0242ac130004",
                 "name": "STN",
-                "seed": 158
+                "seed": 158,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
                 "name": "Aeternum",
-                "seed": 867
+                "seed": 867,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f58808f6-dfac-11ef-aed7-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f58808f6-dfac-11ef-aed7-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -20864,7 +20969,9 @@
                 "seed": 104
             },
             "opponent2": {
-                "id": null
+                "id": "7a38e852-e095-11ef-83d9-0242ac130004",
+                "name": "fairy lights",
+                "seed": 409
             },
             "match_games": []
         },
@@ -21900,7 +22007,9 @@
                 "seed": 69
             },
             "opponent2": {
-                "id": null
+                "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                "name": "BONDE DO TIGRAO",
+                "seed": 444
             },
             "match_games": []
         },
@@ -23633,7 +23742,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
+                "name": "Aeternum",
+                "seed": 867
             },
             "opponent2": {
                 "id": null
