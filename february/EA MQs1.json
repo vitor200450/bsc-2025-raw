@@ -3073,16 +3073,18 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e0d25c6-e55e-11ef-b75a-0242ac130004",
                 "name": "Serenade2",
-                "seed": 16
+                "seed": 16,
+                "score": 1
             },
             "opponent2": {
                 "id": "00865700-e55a-11ef-ac33-0242ac130004",
                 "name": "FairLibra",
-                "seed": 241
+                "seed": 241,
+                "score": 1
             },
             "match_games": []
         },
@@ -7571,10 +7573,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5e0d25c6-e55e-11ef-b75a-0242ac130004",
+                "name": "Serenade2",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "ebcf51d0-e055-11ef-a04f-0242ac130004",
+                "name": "うきさく",
+                "seed": 113
             },
             "match_games": []
         },
