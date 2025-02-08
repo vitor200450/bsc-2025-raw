@@ -36992,18 +36992,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08144cdc-e3c2-11ef-bca8-0242ac130004",
                 "name": "Pristine Inc",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "992f98ca-e0b1-11ef-815b-0242ac130004",
                 "name": "The Black",
-                "seed": 464
+                "seed": 464,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "08144cdc-e3c2-11ef-bca8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "992f98ca-e0b1-11ef-815b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "08144cdc-e3c2-11ef-bca8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "992f98ca-e0b1-11ef-815b-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 534,
@@ -40782,18 +40817,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
                 "name": "Crow’s Nest Esport",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d39080b8-e09a-11ef-8099-0242ac130004",
                 "name": "Grav3Robberz",
-                "seed": 455
+                "seed": 455,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d39080b8-e09a-11ef-8099-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d39080b8-e09a-11ef-8099-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 678,
@@ -43453,7 +43523,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08144cdc-e3c2-11ef-bca8-0242ac130004",
+                "name": "Pristine Inc",
+                "seed": 49
             },
             "opponent2": {
                 "id": null
@@ -44639,7 +44711,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                "name": "Crow’s Nest Esport",
+                "seed": 58
             },
             "opponent2": {
                 "id": null
