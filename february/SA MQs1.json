@@ -37823,18 +37823,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "63069ca6-e0db-11ef-9dd1-0242ac130004",
                 "name": "Skull Hands",
-                "seed": 481
+                "seed": 481,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dbb49176-e301-11ef-b90c-0242ac130004",
                 "name": "Peanut Butters",
-                "seed": 737
+                "seed": 737,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "63069ca6-e0db-11ef-9dd1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dbb49176-e301-11ef-b90c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "63069ca6-e0db-11ef-9dd1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dbb49176-e301-11ef-b90c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 774,
@@ -39118,18 +39153,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
                 "name": "South Park BR",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "902532a0-e479-11ef-b560-0242ac130004",
                 "name": "BDB",
-                "seed": 789
+                "seed": 789,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "902532a0-e479-11ef-b560-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "902532a0-e479-11ef-b560-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 830,
@@ -40792,7 +40862,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dbb49176-e301-11ef-b90c-0242ac130004",
+                "name": "Peanut Butters",
+                "seed": 737
             },
             "opponent2": {
                 "id": null
@@ -41246,7 +41318,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
+                "name": "South Park BR",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
