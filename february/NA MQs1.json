@@ -49166,18 +49166,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "297ea0ca-e359-11ef-a4c0-0242ac130004",
                 "name": "Quackers",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "664ffe8c-e25e-11ef-ae3c-0242ac130004",
                 "name": "SSG|ZERU",
-                "seed": 753
+                "seed": 753,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "297ea0ca-e359-11ef-a4c0-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "664ffe8c-e25e-11ef-ae3c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "297ea0ca-e359-11ef-a4c0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "664ffe8c-e25e-11ef-ae3c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 778,
@@ -54287,10 +54322,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "664ffe8c-e25e-11ef-ae3c-0242ac130004",
+                "name": "SSG|ZERU",
+                "seed": 753
             },
             "opponent2": {
-                "id": null
+                "id": "832c5f88-e55a-11ef-a12f-0242ac130004",
+                "name": "Los Molly's",
+                "seed": 144
             },
             "match_games": []
         },
