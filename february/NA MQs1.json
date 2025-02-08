@@ -56362,18 +56362,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
                 "name": "Lunar",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "45f98132-e1b2-11ef-bae8-0242ac130004",
                 "name": "BMS",
-                "seed": 126
+                "seed": 126,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "45f98132-e1b2-11ef-bae8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "45f98132-e1b2-11ef-bae8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 946,
@@ -57107,7 +57142,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                "name": "Lunar",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
