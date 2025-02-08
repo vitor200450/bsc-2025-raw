@@ -28510,18 +28510,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33e363f6-e012-11ef-adae-0242ac130004",
                 "name": "Egg glazers",
-                "seed": 266
+                "seed": 266,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dce15e36-e26a-11ef-a383-0242ac130004",
                 "name": "Just for fun",
-                "seed": 759
+                "seed": 759,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "33e363f6-e012-11ef-adae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dce15e36-e26a-11ef-a383-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "33e363f6-e012-11ef-adae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dce15e36-e26a-11ef-a383-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 357,
@@ -39539,7 +39574,9 @@
                 "seed": 778
             },
             "opponent2": {
-                "id": null
+                "id": "33e363f6-e012-11ef-adae-0242ac130004",
+                "name": "Egg glazers",
+                "seed": 266
             },
             "match_games": []
         },
