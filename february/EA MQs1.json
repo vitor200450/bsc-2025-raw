@@ -8702,18 +8702,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
                 "name": "Monaka",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "72671eb4-dfe1-11ef-8afc-0242ac130004",
                 "name": "KT",
-                "seed": 85
+                "seed": 85,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72671eb4-dfe1-11ef-8afc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "72671eb4-dfe1-11ef-8afc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "72671eb4-dfe1-11ef-8afc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 161,
@@ -10074,7 +10124,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                "name": "Monaka",
+                "seed": 44
             },
             "match_games": []
         },
