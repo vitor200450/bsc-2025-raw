@@ -15628,18 +15628,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ccc90990-e4db-11ef-a103-0242ac130004",
                 "name": "Mythic Blue",
-                "seed": 148
+                "seed": 148,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2ab1c4ca-e5ef-11ef-8715-0242ac130004",
                 "name": "一刻者",
-                "seed": 877
+                "seed": 877,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ccc90990-e4db-11ef-a103-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ab1c4ca-e5ef-11ef-8715-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ccc90990-e4db-11ef-a103-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ab1c4ca-e5ef-11ef-8715-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 184,
@@ -30777,9 +30812,7 @@
                 "seed": 838
             },
             "opponent2": {
-                "id": "e9fd2fa4-e22a-11ef-90a4-0242ac130004",
-                "name": "STAFF GAMING",
-                "seed": 699
+                "id": null
             },
             "match_games": []
         },
