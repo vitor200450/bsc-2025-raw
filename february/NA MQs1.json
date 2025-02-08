@@ -49880,18 +49880,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "efe94580-e183-11ef-b1de-0242ac130004",
                 "name": "AlmightyTilin",
-                "seed": 56
+                "seed": 56,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "27313602-e2fa-11ef-81a5-0242ac130004",
                 "name": "Red 5",
-                "seed": 201
+                "seed": 201,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "efe94580-e183-11ef-b1de-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "27313602-e2fa-11ef-81a5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "efe94580-e183-11ef-b1de-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "27313602-e2fa-11ef-81a5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 796,
@@ -51131,18 +51166,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31c6c622-e368-11ef-ad24-0242ac130004",
                 "name": "Stanley Steemers",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b080987a-e29c-11ef-8b99-0242ac130004",
                 "name": "vndy",
-                "seed": 780
+                "seed": 780,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b080987a-e29c-11ef-8b99-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b080987a-e29c-11ef-8b99-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b080987a-e29c-11ef-8b99-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 826,
@@ -54316,10 +54401,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27313602-e2fa-11ef-81a5-0242ac130004",
+                "name": "Red 5",
+                "seed": 201
             },
             "opponent2": {
-                "id": null
+                "id": "c02f7626-e196-11ef-a325-0242ac130004",
+                "name": "Ping Diff",
+                "seed": 73
             },
             "match_games": []
         },
@@ -54600,7 +54689,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                "name": "Stanley Steemers",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
