@@ -3666,18 +3666,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a46120c-e176-11ef-bc95-0242ac130004",
                 "name": "ガチバトラー",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b338ab02-e486-11ef-b8dc-0242ac130004",
                 "name": "Toxic Tea",
-                "seed": 228
+                "seed": 228,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2a46120c-e176-11ef-bc95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b338ab02-e486-11ef-b8dc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2a46120c-e176-11ef-bc95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b338ab02-e486-11ef-b8dc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -5857,10 +5892,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2a46120c-e176-11ef-bc95-0242ac130004",
+                "name": "ガチバトラー",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "6d4da168-dff1-11ef-9f30-0242ac130004",
+                "name": "SANABI",
+                "seed": 100
             },
             "match_games": []
         },
