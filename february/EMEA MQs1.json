@@ -49948,18 +49948,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "916ae0d4-e01d-11ef-b501-0242ac130004",
                 "name": "PIT",
-                "seed": 1317
+                "seed": 1317,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "004a12be-e531-11ef-ad59-0242ac130004",
                 "name": "SHIBUYA",
-                "seed": 2780
+                "seed": 2780,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "916ae0d4-e01d-11ef-b501-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "004a12be-e531-11ef-ad59-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "916ae0d4-e01d-11ef-b501-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "004a12be-e531-11ef-ad59-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 881,
@@ -62690,18 +62725,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d0d51c84-e0b9-11ef-b824-0242ac130004",
                 "name": "ZEB",
-                "seed": 1687
+                "seed": 1687,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b3967aee-e20a-11ef-b810-0242ac130004",
                 "name": "bonyari",
-                "seed": 2410
+                "seed": 2410,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d0d51c84-e0b9-11ef-b824-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b3967aee-e20a-11ef-b810-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d0d51c84-e0b9-11ef-b824-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b3967aee-e20a-11ef-b810-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1503,
@@ -80076,7 +80146,9 @@
                 "seed": 333
             },
             "opponent2": {
-                "id": null
+                "id": "d9075a54-e1cf-11ef-bdd9-0242ac130004",
+                "name": "CAPITÁN SALAMI",
+                "seed": 2381
             },
             "match_games": []
         },
@@ -81726,7 +81798,9 @@
                 "seed": 732
             },
             "opponent2": {
-                "id": null
+                "id": "004a12be-e531-11ef-ad59-0242ac130004",
+                "name": "SHIBUYA",
+                "seed": 2780
             },
             "match_games": []
         },
@@ -87514,7 +87588,9 @@
                 "seed": 362
             },
             "opponent2": {
-                "id": null
+                "id": "d0d51c84-e0b9-11ef-b824-0242ac130004",
+                "name": "ZEB",
+                "seed": 1687
             },
             "match_games": []
         },
