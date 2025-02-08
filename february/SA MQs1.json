@@ -38428,18 +38428,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1438e10c-dfef-11ef-bf4b-0242ac130004",
                 "name": "S4D SPORTS",
-                "seed": 40
+                "seed": 40,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "133c03fc-e2aa-11ef-8883-0242ac130004",
                 "name": "RIKOTONAS",
-                "seed": 729
+                "seed": 729,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1438e10c-dfef-11ef-bf4b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "133c03fc-e2aa-11ef-8883-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "1438e10c-dfef-11ef-bf4b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "133c03fc-e2aa-11ef-8883-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 792,
@@ -38683,18 +38718,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2c429d4-e050-11ef-9d4f-0242ac130004",
                 "name": "Nova",
-                "seed": 388
+                "seed": 388,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5c2db3bc-e192-11ef-9131-0242ac130004",
                 "name": "Alá baianos",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a2c429d4-e050-11ef-9d4f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c2db3bc-e192-11ef-9131-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a2c429d4-e050-11ef-9d4f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c2db3bc-e192-11ef-9131-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 803,
@@ -38763,18 +38833,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "af2d2db4-e1c8-11ef-9ad8-0242ac130004",
                 "name": "DeRucula",
-                "seed": 100
+                "seed": 100,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
                 "name": "ARB Nova",
-                "seed": 868
+                "seed": 868,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "af2d2db4-e1c8-11ef-9ad8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "af2d2db4-e1c8-11ef-9ad8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 807,
@@ -41362,7 +41467,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1438e10c-dfef-11ef-bf4b-0242ac130004",
+                "name": "S4D SPORTS",
+                "seed": 40
             },
             "opponent2": {
                 "id": null
