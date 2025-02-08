@@ -39065,18 +39065,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d7ef3eb8-e100-11ef-ae86-0242ac130004",
                 "name": "Virgens FC",
-                "seed": 56
+                "seed": 56,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "195ee162-dff5-11ef-8c98-0242ac130004",
                 "name": "Os maluquinhos",
-                "seed": 201
+                "seed": 201,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d7ef3eb8-e100-11ef-ae86-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "195ee162-dff5-11ef-8c98-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d7ef3eb8-e100-11ef-ae86-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "195ee162-dff5-11ef-8c98-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d7ef3eb8-e100-11ef-ae86-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "195ee162-dff5-11ef-8c98-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 796,
@@ -42231,18 +42281,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ee102742-e025-11ef-8782-0242ac130004",
                 "name": "Storm Esports",
-                "seed": 106
+                "seed": 106,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0b2af91e-e040-11ef-8006-0242ac130004",
                 "name": "New Generation",
-                "seed": 362
+                "seed": 362,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ee102742-e025-11ef-8782-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0b2af91e-e040-11ef-8006-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ee102742-e025-11ef-8782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b2af91e-e040-11ef-8006-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "ee102742-e025-11ef-8782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b2af91e-e040-11ef-8006-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 863,
@@ -44075,7 +44175,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "195ee162-dff5-11ef-8c98-0242ac130004",
+                "name": "Os maluquinhos",
+                "seed": 201
             },
             "opponent2": {
                 "id": null
@@ -44702,7 +44804,9 @@
                 "seed": 279
             },
             "opponent2": {
-                "id": null
+                "id": "ee102742-e025-11ef-8782-0242ac130004",
+                "name": "Storm Esports",
+                "seed": 106
             },
             "match_games": []
         },
