@@ -41031,18 +41031,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d33e750a-e0a6-11ef-98ab-0242ac130004",
                 "name": "Galaxy team",
-                "seed": 1609
+                "seed": 1609,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "efea8efa-e24a-11ef-b121-0242ac130004",
                 "name": "🌵Cucumber 🌵",
-                "seed": 2488
+                "seed": 2488,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d33e750a-e0a6-11ef-98ab-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "efea8efa-e24a-11ef-b121-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d33e750a-e0a6-11ef-98ab-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efea8efa-e24a-11ef-b121-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d33e750a-e0a6-11ef-98ab-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "efea8efa-e24a-11ef-b121-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 439,
@@ -46991,18 +47041,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b1a5bde-e07b-11ef-885e-0242ac130004",
                 "name": "AFTH",
-                "seed": 1428
+                "seed": 1428,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "57f88b22-e3d7-11ef-a77e-0242ac130004",
                 "name": "SkepSar",
-                "seed": 2669
+                "seed": 2669,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3b1a5bde-e07b-11ef-885e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57f88b22-e3d7-11ef-a77e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3b1a5bde-e07b-11ef-885e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57f88b22-e3d7-11ef-a77e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 729,
@@ -77794,7 +77879,9 @@
                 "seed": 440
             },
             "opponent2": {
-                "id": null
+                "id": "efea8efa-e24a-11ef-b121-0242ac130004",
+                "name": "🌵Cucumber 🌵",
+                "seed": 2488
             },
             "match_games": []
         },
@@ -80490,7 +80577,9 @@
                 "seed": 621
             },
             "opponent2": {
-                "id": null
+                "id": "3b1a5bde-e07b-11ef-885e-0242ac130004",
+                "name": "AFTH",
+                "seed": 1428
             },
             "match_games": []
         },
