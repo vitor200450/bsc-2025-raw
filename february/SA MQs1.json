@@ -46467,18 +46467,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa68e60c-e1c7-11ef-93ed-0242ac130004",
                 "name": "Tribe 6ix One",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "66143ec4-e0e2-11ef-ae32-0242ac130004",
                 "name": "EGO 2.0",
-                "seed": 126
+                "seed": 126,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "aa68e60c-e1c7-11ef-93ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "66143ec4-e0e2-11ef-ae32-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "aa68e60c-e1c7-11ef-93ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "66143ec4-e0e2-11ef-ae32-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 946,
@@ -47419,7 +47454,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa68e60c-e1c7-11ef-93ed-0242ac130004",
+                "name": "Tribe 6ix One",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
