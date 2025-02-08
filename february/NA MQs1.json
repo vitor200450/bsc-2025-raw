@@ -55967,18 +55967,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ebd4c70a-e2ad-11ef-88a5-0242ac130004",
                 "name": "Wildcard",
-                "seed": 45
+                "seed": 45,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
                 "name": "HVC|Hood",
-                "seed": 84
+                "seed": 84,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ebd4c70a-e2ad-11ef-88a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ebd4c70a-e2ad-11ef-88a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 921,
@@ -56292,18 +56327,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5aef0f6-e0c0-11ef-a29a-0242ac130004",
                 "name": "60hz",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
                 "name": "BLAZE SPORTS",
-                "seed": 159
+                "seed": 159,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e5aef0f6-e0c0-11ef-a29a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e5aef0f6-e0c0-11ef-a29a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 932,
@@ -57361,7 +57431,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "ebd4c70a-e2ad-11ef-88a5-0242ac130004",
+                "name": "Wildcard",
+                "seed": 45
             },
             "match_games": []
         },
@@ -57454,7 +57526,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5aef0f6-e0c0-11ef-a29a-0242ac130004",
+                "name": "60hz",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
