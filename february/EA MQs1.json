@@ -4874,18 +4874,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "444fe922-e057-11ef-95b8-0242ac130004",
                 "name": "ミューイング🤫",
-                "seed": 114
+                "seed": 114,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
                 "name": "Rein Sou",
-                "seed": 143
+                "seed": 143,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "444fe922-e057-11ef-95b8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "444fe922-e057-11ef-95b8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 75,
@@ -5315,18 +5350,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
                 "name": "RPG",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a62f9556-e5a3-11ef-8d2e-0242ac130004",
                 "name": "APN Gaming",
-                "seed": 247
+                "seed": 247,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a62f9556-e5a3-11ef-8d2e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a62f9556-e5a3-11ef-8d2e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 90,
@@ -7049,7 +7119,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
+                "name": "Rein Sou",
+                "seed": 143
             },
             "match_games": []
         },
@@ -7192,7 +7264,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fb60c62c-e47b-11ef-b4a5-0242ac130004",
+                "name": "RPG",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
