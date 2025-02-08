@@ -17588,18 +17588,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
                 "name": "Bikini Bottom",
-                "seed": 367
+                "seed": 367,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "75358666-e1ae-11ef-9cec-0242ac130004",
                 "name": "Grimace Slayers",
-                "seed": 658
+                "seed": 658,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75358666-e1ae-11ef-9cec-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75358666-e1ae-11ef-9cec-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 313,
@@ -17928,18 +17963,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
                 "name": "Crow’s Nest Esport",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b702c8e2-e61d-11ef-b4ab-0242ac130004",
                 "name": "FRUIT EATS",
-                "seed": 967
+                "seed": 967,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b702c8e2-e61d-11ef-b4ab-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b702c8e2-e61d-11ef-b4ab-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 330,
@@ -19788,18 +19858,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "7735da60-e050-11ef-8284-0242ac130004",
                 "name": "TM| Mafia",
-                "seed": 398
+                "seed": 398,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f53b420-e171-11ef-822e-0242ac130004",
                 "name": "Toes",
-                "seed": 627
+                "seed": 627,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7735da60-e050-11ef-8284-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f53b420-e171-11ef-822e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7735da60-e050-11ef-8284-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f53b420-e171-11ef-822e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 423,
@@ -24234,7 +24339,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                "name": "Crow’s Nest Esport",
+                "seed": 58
             },
             "opponent2": {
                 "id": null
