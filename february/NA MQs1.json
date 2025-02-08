@@ -56083,18 +56083,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
                 "name": "SmashKok",
-                "seed": 781
+                "seed": 781,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2460d18e-e175-11ef-abfe-0242ac130004",
                 "name": "Rocket Berserk",
-                "seed": 628
+                "seed": 628,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 918,
@@ -56718,18 +56753,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
                 "name": "Kimchi Fund",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9dfd76ee-e50a-11ef-b685-0242ac130004",
                 "name": "Bad_ramdons",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9dfd76ee-e50a-11ef-b685-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9dfd76ee-e50a-11ef-b685-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 934,
@@ -58023,10 +58093,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                "name": "Rocket Berserk",
+                "seed": 628
             },
             "opponent2": {
-                "id": null
+                "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
+                "name": "Sovereign",
+                "seed": 52
             },
             "match_games": []
         },
@@ -58163,10 +58237,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                "name": "Kimchi Fund",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                "name": "RC",
+                "seed": 690
             },
             "match_games": []
         },
