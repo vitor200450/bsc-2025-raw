@@ -59184,18 +59184,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
                 "name": "DOUG ENJOYERS",
-                "seed": 104
+                "seed": 104,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
                 "name": "Triunfadores",
-                "seed": 424
+                "seed": 424,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 967,
