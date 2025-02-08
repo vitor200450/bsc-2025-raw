@@ -39270,18 +39270,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
                 "name": "ixiTeam",
-                "seed": 88
+                "seed": 88,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d8ac136a-dfe0-11ef-8756-0242ac130004",
                 "name": "AR |Buenos Aires",
-                "seed": 169
+                "seed": 169,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d8ac136a-dfe0-11ef-8756-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d8ac136a-dfe0-11ef-8756-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d8ac136a-dfe0-11ef-8756-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 801,
@@ -41296,18 +41346,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "054e2780-e03d-11ef-a28a-0242ac130004",
                 "name": "Skibidi Wings",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24e3aab6-e515-11ef-85f9-0242ac130004",
                 "name": "Skibidismegma",
-                "seed": 818
+                "seed": 818,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "054e2780-e03d-11ef-a28a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24e3aab6-e515-11ef-85f9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "054e2780-e03d-11ef-a28a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24e3aab6-e515-11ef-85f9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "054e2780-e03d-11ef-a28a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24e3aab6-e515-11ef-85f9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 844,
@@ -44016,7 +44116,9 @@
                 "seed": 553
             },
             "opponent2": {
-                "id": null
+                "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
+                "name": "ixiTeam",
+                "seed": 88
             },
             "match_games": []
         },
@@ -44425,10 +44527,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "054e2780-e03d-11ef-a28a-0242ac130004",
+                "name": "Skibidi Wings",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "aa2caf04-e0bc-11ef-8b50-0242ac130004",
+                "name": "Vortex",
+                "seed": 434
             },
             "match_games": []
         },
