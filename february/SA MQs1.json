@@ -39223,18 +39223,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ad390c56-e189-11ef-858e-0242ac130004",
                 "name": "BLITZ",
-                "seed": 605
+                "seed": 605,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d3f7cb8-dfd8-11ef-8d45-0242ac130004",
                 "name": "Vênus",
-                "seed": 164
+                "seed": 164,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ad390c56-e189-11ef-858e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d3f7cb8-dfd8-11ef-8d45-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ad390c56-e189-11ef-858e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2d3f7cb8-dfd8-11ef-8d45-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 809,
@@ -40083,11 +40118,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f5225314-e063-11ef-8b01-0242ac130004",
                 "name": "DIP TEAM",
-                "seed": 405
+                "seed": 405,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c0478180-e560-11ef-9e5c-0242ac130004",
@@ -41758,18 +41794,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a918479c-e0a1-11ef-9a54-0242ac130004",
                 "name": "Los tapu",
-                "seed": 414
+                "seed": 414,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
                 "name": "Aeternum",
-                "seed": 867
+                "seed": 867,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a918479c-e0a1-11ef-9a54-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a918479c-e0a1-11ef-9a54-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0aae4c06-e5c3-11ef-9880-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 871,
@@ -43321,7 +43392,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "c0478180-e560-11ef-9e5c-0242ac130004",
+                "name": "OVOSHI",
+                "seed": 149
             },
             "match_games": []
         },
