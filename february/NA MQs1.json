@@ -38757,18 +38757,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
                 "name": "PMZ’S TEAM",
-                "seed": 196
+                "seed": 196,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8d4521bc-e1d6-11ef-85fc-0242ac130004",
                 "name": "Nova X",
-                "seed": 708
+                "seed": 708,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d4521bc-e1d6-11ef-85fc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d4521bc-e1d6-11ef-85fc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "729fe2d4-e4c9-11ef-88dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d4521bc-e1d6-11ef-85fc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 583,
@@ -39882,18 +39932,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6c4c4bd6-e5cb-11ef-bf2a-0242ac130004",
                 "name": "Phobius",
-                "seed": 924
+                "seed": 924,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1273c6f0-e12c-11ef-8028-0242ac130004",
                 "name": "SPIKE_HOTDOG",
-                "seed": 613
+                "seed": 613,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6c4c4bd6-e5cb-11ef-bf2a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1273c6f0-e12c-11ef-8028-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6c4c4bd6-e5cb-11ef-bf2a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1273c6f0-e12c-11ef-8028-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 620,
@@ -45466,7 +45551,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1273c6f0-e12c-11ef-8028-0242ac130004",
+                "name": "SPIKE_HOTDOG",
+                "seed": 613
             },
             "opponent2": {
                 "id": null
