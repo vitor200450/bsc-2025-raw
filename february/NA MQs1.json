@@ -53169,18 +53169,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "951ccf80-e144-11ef-b604-0242ac130004",
                 "name": "Moños 🎀",
-                "seed": 622
+                "seed": 622,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b92535ca-e108-11ef-a2bc-0242ac130004",
                 "name": "Zenith Stars",
-                "seed": 147
+                "seed": 147,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b92535ca-e108-11ef-a2bc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b92535ca-e108-11ef-a2bc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 879,
@@ -53519,18 +53554,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
                 "name": "33% ASEAN",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3fcbc04e-e32a-11ef-8d48-0242ac130004",
                 "name": "M&L",
-                "seed": 795
+                "seed": 795,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3fcbc04e-e32a-11ef-8d48-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fcbc04e-e32a-11ef-8d48-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fcbc04e-e32a-11ef-8d48-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 886,
@@ -54956,7 +55041,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                "name": "Moños 🎀",
+                "seed": 622
             },
             "match_games": []
         },
@@ -55029,10 +55116,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3fcbc04e-e32a-11ef-8d48-0242ac130004",
+                "name": "M&L",
+                "seed": 795
             },
             "opponent2": {
-                "id": null
+                "id": "8c8ffc04-e1ec-11ef-851e-0242ac130004",
+                "name": "Emo Boys",
+                "seed": 102
             },
             "match_games": []
         },
