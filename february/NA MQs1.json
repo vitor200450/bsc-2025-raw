@@ -50177,18 +50177,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f967a84c-e140-11ef-9473-0242ac130004",
                 "name": "Toxic Kings",
-                "seed": 620
+                "seed": 620,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1136e290-e046-11ef-8e4f-0242ac130004",
                 "name": "NG|Trifecta",
-                "seed": 364
+                "seed": 364,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1136e290-e046-11ef-8e4f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1136e290-e046-11ef-8e4f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 831,
@@ -50527,18 +50562,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65a692a4-e063-11ef-9c9a-0242ac130004",
                 "name": "Age of Virgins",
-                "seed": 434
+                "seed": 434,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
                 "name": "RC",
-                "seed": 690
+                "seed": 690,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "65a692a4-e063-11ef-9c9a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "65a692a4-e063-11ef-9c9a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 845,
@@ -50567,18 +50637,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
                 "name": "AERA",
-                "seed": 914
+                "seed": 914,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
                 "name": "Bikini Bottom",
-                "seed": 367
+                "seed": 367,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 847,
@@ -52152,7 +52257,9 @@
                 "seed": 277
             },
             "opponent2": {
-                "id": null
+                "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                "name": "Toxic Kings",
+                "seed": 620
             },
             "match_games": []
         },
