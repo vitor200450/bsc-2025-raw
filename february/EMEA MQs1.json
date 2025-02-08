@@ -56157,18 +56157,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d02d358c-e0a5-11ef-9b13-0242ac130004",
                 "name": "LoSabesTheGoatIsBack",
-                "seed": 1602
+                "seed": 1602,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "41d6ad8e-e250-11ef-93e1-0242ac130004",
                 "name": "Triforce",
-                "seed": 2495
+                "seed": 2495,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d02d358c-e0a5-11ef-9b13-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "41d6ad8e-e250-11ef-93e1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d02d358c-e0a5-11ef-9b13-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "41d6ad8e-e250-11ef-93e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "d02d358c-e0a5-11ef-9b13-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "41d6ad8e-e250-11ef-93e1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1079,
@@ -72494,18 +72544,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca431988-e06a-11ef-a279-0242ac130004",
                 "name": "GREEK GANG ESPORTS",
-                "seed": 1403
+                "seed": 1403,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7ca7624e-e400-11ef-a4ce-0242ac130004",
                 "name": "ACN",
-                "seed": 2694
+                "seed": 2694,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ca431988-e06a-11ef-a279-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ca7624e-e400-11ef-a4ce-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ca431988-e06a-11ef-a279-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7ca7624e-e400-11ef-a4ce-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "ca431988-e06a-11ef-a279-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ca7624e-e400-11ef-a4ce-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1825,
@@ -88422,7 +88522,9 @@
                 "seed": 447
             },
             "opponent2": {
-                "id": null
+                "id": "41d6ad8e-e250-11ef-93e1-0242ac130004",
+                "name": "Triforce",
+                "seed": 2495
             },
             "match_games": []
         },
@@ -95878,7 +95980,9 @@
                 "seed": 646
             },
             "opponent2": {
-                "id": null
+                "id": "ca431988-e06a-11ef-a279-0242ac130004",
+                "name": "GREEK GANG ESPORTS",
+                "seed": 1403
             },
             "match_games": []
         },
