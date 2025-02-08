@@ -38157,18 +38157,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a195b16-e0c1-11ef-a415-0242ac130004",
                 "name": "fancique",
-                "seed": 1721
+                "seed": 1721,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2b90583e-e1bc-11ef-ae82-0242ac130004",
                 "name": "Die Chefs 👨‍🍳",
-                "seed": 2376
+                "seed": 2376,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5a195b16-e0c1-11ef-a415-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2b90583e-e1bc-11ef-ae82-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5a195b16-e0c1-11ef-a415-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b90583e-e1bc-11ef-ae82-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 319,
@@ -60581,18 +60616,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "19ca312c-e0d8-11ef-8cf2-0242ac130004",
                 "name": "TUIX",
-                "seed": 1847
+                "seed": 1847,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1766d30c-e18e-11ef-a0a7-0242ac130004",
                 "name": "Hologra%e",
-                "seed": 2250
+                "seed": 2250,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "19ca312c-e0d8-11ef-8cf2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1766d30c-e18e-11ef-a0a7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "19ca312c-e0d8-11ef-8cf2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1766d30c-e18e-11ef-a0a7-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1451,
@@ -85411,7 +85481,9 @@
                 "seed": 202
             },
             "opponent2": {
-                "id": null
+                "id": "19ca312c-e0d8-11ef-8cf2-0242ac130004",
+                "name": "TUIX",
+                "seed": 1847
             },
             "match_games": []
         },
