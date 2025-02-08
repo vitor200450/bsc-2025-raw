@@ -3207,18 +3207,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "63ee2b54-e052-11ef-a136-0242ac130004",
                 "name": "昱翔team",
-                "seed": 112
+                "seed": 112,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d6ab3b3a-e0ae-11ef-801c-0242ac130004",
                 "name": "倫政は準特",
-                "seed": 145
+                "seed": 145,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "63ee2b54-e052-11ef-a136-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6ab3b3a-e0ae-11ef-801c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "63ee2b54-e052-11ef-a136-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6ab3b3a-e0ae-11ef-801c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -3248,18 +3283,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
                 "name": "あちゃじゃがファンクラブFANZA",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "836af03c-e167-11ef-acd5-0242ac130004",
                 "name": "INB",
-                "seed": 176
+                "seed": 176,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "836af03c-e167-11ef-acd5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "836af03c-e167-11ef-acd5-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -5803,7 +5873,9 @@
                 "seed": 48
             },
             "opponent2": {
-                "id": null
+                "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
+                "name": "あちゃじゃがファンクラブFANZA",
+                "seed": 81
             },
             "match_games": []
         },
