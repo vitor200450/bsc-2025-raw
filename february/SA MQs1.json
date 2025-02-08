@@ -17089,18 +17089,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e66b549c-e0b8-11ef-bb3e-0242ac130004",
                 "name": "Mata famoso na norte",
-                "seed": 426
+                "seed": 426,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "79ca4540-e181-11ef-bdcb-0242ac130004",
                 "name": "GG Wellplayed",
-                "seed": 599
+                "seed": 599,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e66b549c-e0b8-11ef-bb3e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "79ca4540-e181-11ef-bdcb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e66b549c-e0b8-11ef-bb3e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "79ca4540-e181-11ef-bdcb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 383,
@@ -22830,7 +22865,9 @@
                 "seed": 87
             },
             "opponent2": {
-                "id": null
+                "id": "79ca4540-e181-11ef-bdcb-0242ac130004",
+                "name": "GG Wellplayed",
+                "seed": 599
             },
             "match_games": []
         },
