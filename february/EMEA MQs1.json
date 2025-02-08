@@ -38018,18 +38018,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da49ec62-e092-11ef-b10b-0242ac130004",
                 "name": "Space Trociny",
-                "seed": 1512
+                "seed": 1512,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "248c5756-e309-11ef-8d8c-0242ac130004",
                 "name": "Los novatos",
-                "seed": 2585
+                "seed": 2585,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "da49ec62-e092-11ef-b10b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "248c5756-e309-11ef-8d8c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "da49ec62-e092-11ef-b10b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "248c5756-e309-11ef-8d8c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 329,
@@ -71563,7 +71598,9 @@
                 "seed": 537
             },
             "opponent2": {
-                "id": null
+                "id": "248c5756-e309-11ef-8d8c-0242ac130004",
+                "name": "Los novatos",
+                "seed": 2585
             },
             "match_games": []
         },
