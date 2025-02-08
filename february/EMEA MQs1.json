@@ -49990,7 +49990,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04bb1008-e0b5-11ef-bfe2-0242ac130004",
                 "name": "DODGERS",
@@ -49999,7 +49999,8 @@
             "opponent2": {
                 "id": "da087d80-e219-11ef-b609-0242ac130004",
                 "name": "Genius",
-                "seed": 2428
+                "seed": 2428,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -85618,7 +85619,9 @@
                 "seed": 380
             },
             "opponent2": {
-                "id": null
+                "id": "04bb1008-e0b5-11ef-bfe2-0242ac130004",
+                "name": "DODGERS",
+                "seed": 1669
             },
             "match_games": []
         },
