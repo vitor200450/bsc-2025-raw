@@ -40057,18 +40057,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
                 "name": "AERA",
-                "seed": 914
+                "seed": 914,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d307254-e145-11ef-86f2-0242ac130004",
                 "name": "High Class",
-                "seed": 623
+                "seed": 623,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d307254-e145-11ef-86f2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d307254-e145-11ef-86f2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 668,
@@ -41782,18 +41817,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c897536-e442-11ef-9725-0242ac130004",
                 "name": "Evanescence",
-                "seed": 59
+                "seed": 59,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a1d1c88c-e092-11ef-ae9b-0242ac130004",
                 "name": "M-Gaming",
-                "seed": 454
+                "seed": 454,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1c897536-e442-11ef-9725-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1d1c88c-e092-11ef-ae9b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1c897536-e442-11ef-9725-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1d1c88c-e092-11ef-ae9b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 742,
@@ -43697,10 +43767,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a077332e-e5b4-11ef-8f57-0242ac130004",
+                "name": "AERA",
+                "seed": 914
             },
             "opponent2": {
-                "id": null
+                "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                "name": "Bikini Bottom",
+                "seed": 367
             },
             "match_games": []
         },
@@ -44297,7 +44371,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1c897536-e442-11ef-9725-0242ac130004",
+                "name": "Evanescence",
+                "seed": 59
             },
             "opponent2": {
                 "id": null
