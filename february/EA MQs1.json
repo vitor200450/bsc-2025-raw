@@ -10481,18 +10481,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53defccc-e492-11ef-8f97-0242ac130004",
                 "name": "Fat Pigs",
-                "seed": 231
+                "seed": 231,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
                 "name": "브대남의 월파 도전기",
-                "seed": 218
+                "seed": 218,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53defccc-e492-11ef-8f97-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "53defccc-e492-11ef-8f97-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 215,
