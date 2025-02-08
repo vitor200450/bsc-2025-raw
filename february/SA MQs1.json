@@ -45612,18 +45612,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
                 "name": "Panela da Saturn 🪐",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ce15c7c-e4f9-11ef-9bf9-0242ac130004",
                 "name": "EliteSports Champion",
-                "seed": 95
+                "seed": 95,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ce15c7c-e4f9-11ef-9bf9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ce15c7c-e4f9-11ef-9bf9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 933,
@@ -46691,7 +46726,9 @@
                 "seed": 543
             },
             "opponent2": {
-                "id": null
+                "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                "name": "Panela da Saturn 🪐",
+                "seed": 34
             },
             "match_games": []
         },
