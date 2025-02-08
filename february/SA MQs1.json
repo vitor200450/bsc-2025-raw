@@ -39738,18 +39738,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
                 "name": "Panela da Saturn 🪐",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7702ad20-dffb-11ef-9fcd-0242ac130004",
                 "name": "aucateia",
-                "seed": 223
+                "seed": 223,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7702ad20-dffb-11ef-9fcd-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7702ad20-dffb-11ef-9fcd-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 840,
@@ -40298,18 +40333,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "54fefefe-e57d-11ef-87e5-0242ac130004",
                 "name": "DRN",
-                "seed": 74
+                "seed": 74,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4baa940a-e59e-11ef-b4f9-0242ac130004",
                 "name": "OS PECINHAS",
-                "seed": 842
+                "seed": 842,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "54fefefe-e57d-11ef-87e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4baa940a-e59e-11ef-b4f9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "54fefefe-e57d-11ef-87e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4baa940a-e59e-11ef-b4f9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 861,
@@ -41863,7 +41933,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a911089c-e03d-11ef-ad8e-0242ac130004",
+                "name": "Panela da Saturn 🪐",
+                "seed": 34
             },
             "opponent2": {
                 "id": null
