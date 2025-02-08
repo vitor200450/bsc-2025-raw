@@ -10401,18 +10401,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
                 "name": "F/A Definer",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9d2388d8-e412-11ef-ab05-0242ac130004",
                 "name": "Feasible Gaming",
-                "seed": 223
+                "seed": 223,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9d2388d8-e412-11ef-ab05-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9d2388d8-e412-11ef-ab05-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 211,
