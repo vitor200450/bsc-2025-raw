@@ -10711,18 +10711,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f9635b34-dfe7-11ef-a674-0242ac130004",
                 "name": "Chelsea",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
                 "name": "Monaka",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f9635b34-dfe7-11ef-a674-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f9635b34-dfe7-11ef-a674-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 209,
@@ -11573,7 +11608,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                "name": "Monaka",
+                "seed": 44
             },
             "match_games": []
         },
