@@ -37162,18 +37162,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "66a4be80-e052-11ef-a951-0242ac130004",
                 "name": "SGJ",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "29164744-e0db-11ef-a972-0242ac130004",
                 "name": "FallenGodz",
-                "seed": 520
+                "seed": 520,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29164744-e0db-11ef-a972-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "29164744-e0db-11ef-a972-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 546,
@@ -42079,7 +42114,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                "name": "SGJ",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
