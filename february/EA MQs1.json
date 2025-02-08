@@ -5715,18 +5715,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6bcc898-e06f-11ef-a6ad-0242ac130004",
                 "name": "ROL | TELUGU",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "20552448-e0a6-11ef-b306-0242ac130004",
                 "name": "KIT",
-                "seed": 138
+                "seed": 138,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6bcc898-e06f-11ef-a6ad-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "20552448-e0a6-11ef-b306-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e6bcc898-e06f-11ef-a6ad-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "20552448-e0a6-11ef-b306-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 91,
@@ -7774,7 +7809,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "20552448-e0a6-11ef-b306-0242ac130004",
+                "name": "KIT",
+                "seed": 138
             },
             "match_games": []
         },
