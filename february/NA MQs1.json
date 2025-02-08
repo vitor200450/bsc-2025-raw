@@ -55823,18 +55823,83 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69c9ebf0-e019-11ef-b7cf-0242ac130004",
                 "name": "Doomsday",
-                "seed": 281
+                "seed": 281,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
                 "name": "DOUG ENJOYERS",
-                "seed": 104
+                "seed": 104,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "69c9ebf0-e019-11ef-b7cf-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "69c9ebf0-e019-11ef-b7cf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "69c9ebf0-e019-11ef-b7cf-0242ac130004",
+                        "score": null
+                    },
+                    "opponent2": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": null
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "69c9ebf0-e019-11ef-b7cf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 908,
@@ -59051,10 +59116,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                "name": "DOUG ENJOYERS",
+                "seed": 104
             },
             "opponent2": {
-                "id": null
+                "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                "name": "Triunfadores",
+                "seed": 424
             },
             "match_games": []
         },
