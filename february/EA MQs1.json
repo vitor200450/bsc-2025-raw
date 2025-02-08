@@ -2975,18 +2975,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "668f67ca-dfed-11ef-b20c-0242ac130004",
                 "name": "超級帥哥隊",
-                "seed": 97
+                "seed": 97,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0fe2908-e12d-11ef-bdfa-0242ac130004",
                 "name": "ぱちんかす",
-                "seed": 160
+                "seed": 160,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "668f67ca-dfed-11ef-b20c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0fe2908-e12d-11ef-bdfa-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "668f67ca-dfed-11ef-b20c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0fe2908-e12d-11ef-bdfa-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -5448,7 +5483,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "668f67ca-dfed-11ef-b20c-0242ac130004",
+                "name": "超級帥哥隊",
+                "seed": 97
             },
             "match_games": []
         },
