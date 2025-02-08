@@ -4658,18 +4658,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08286024-dfed-11ef-8b20-0242ac130004",
                 "name": "我有夢想",
-                "seed": 95
+                "seed": 95,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b22242ba-e138-11ef-a789-0242ac130004",
                 "name": "( ˘•ω•˘ )",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "08286024-dfed-11ef-8b20-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b22242ba-e138-11ef-a789-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "08286024-dfed-11ef-8b20-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b22242ba-e138-11ef-a789-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 73,
@@ -5370,18 +5405,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
                 "name": "シャイニングデラックス",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "849db99a-e139-11ef-874c-0242ac130004",
                 "name": "Piging.wpb",
-                "seed": 163
+                "seed": 163,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "849db99a-e139-11ef-874c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "849db99a-e139-11ef-874c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 105,
@@ -6527,7 +6597,9 @@
                 "seed": 223
             },
             "opponent2": {
-                "id": null
+                "id": "b22242ba-e138-11ef-a789-0242ac130004",
+                "name": "( ˘•ω•˘ )",
+                "seed": 162
             },
             "match_games": []
         },
@@ -6803,7 +6875,9 @@
                 "seed": 222
             },
             "opponent2": {
-                "id": null
+                "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
+                "name": "シャイニングデラックス",
+                "seed": 94
             },
             "match_games": []
         },
