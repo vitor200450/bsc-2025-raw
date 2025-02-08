@@ -7493,18 +7493,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1754c6e-dfd7-11ef-abdd-0242ac130004",
                 "name": "EffortResult",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3c555fa-e097-11ef-8b85-0242ac130004",
                 "name": "オートエイマー2",
-                "seed": 129
+                "seed": 129,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d1754c6e-dfd7-11ef-abdd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3c555fa-e097-11ef-8b85-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d1754c6e-dfd7-11ef-abdd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3c555fa-e097-11ef-8b85-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 130,
@@ -8802,7 +8837,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1754c6e-dfd7-11ef-abdd-0242ac130004",
+                "name": "EffortResult",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
