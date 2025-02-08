@@ -13223,18 +13223,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "19a6a066-e1c5-11ef-acdb-0242ac130004",
                 "name": "WAKAS FC",
-                "seed": 177
+                "seed": 177,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "648ab35c-e421-11ef-9d74-0242ac130004",
                 "name": "Casuals",
-                "seed": 848
+                "seed": 848,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "19a6a066-e1c5-11ef-acdb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "648ab35c-e421-11ef-9d74-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "19a6a066-e1c5-11ef-acdb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "648ab35c-e421-11ef-9d74-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "19a6a066-e1c5-11ef-acdb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "648ab35c-e421-11ef-9d74-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -35039,10 +35089,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "648ab35c-e421-11ef-9d74-0242ac130004",
+                "name": "Casuals",
+                "seed": 848
             },
             "opponent2": {
-                "id": null
+                "id": "53f0e414-e1c7-11ef-8032-0242ac130004",
+                "name": "SPECTRAK",
+                "seed": 689
             },
             "match_games": []
         },
