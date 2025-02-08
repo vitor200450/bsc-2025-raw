@@ -45057,11 +45057,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "96994d22-e566-11ef-900d-0242ac130004",
                 "name": "GoodPlay",
-                "seed": 825
+                "seed": 825,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "9f924d68-e1bd-11ef-bd67-0242ac130004",
@@ -45282,7 +45283,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "71ef4ab2-e115-11ef-a1ba-0242ac130004",
                 "name": "ONFIRE BS",
@@ -45291,7 +45292,8 @@
             "opponent2": {
                 "id": "aa59f26e-e30c-11ef-9d55-0242ac130004",
                 "name": "ixiTeam",
-                "seed": 88
+                "seed": 88,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -45467,11 +45469,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58a078ae-e04a-11ef-8f5d-0242ac130004",
                 "name": "MML Salchipaperos",
-                "seed": 36
+                "seed": 36,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2d3f7cb8-dfd8-11ef-8d45-0242ac130004",
@@ -45487,7 +45490,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "89e6feec-e0e5-11ef-9059-0242ac130004",
                 "name": "Faith Sword #1",
@@ -45496,7 +45499,8 @@
             "opponent2": {
                 "id": "11931946-e1bf-11ef-be2d-0242ac130004",
                 "name": "JNA | SPORTS",
-                "seed": 653
+                "seed": 653,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -45812,7 +45816,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9f10cce-e4e6-11ef-8873-0242ac130004",
                 "name": "Sanguchitos",
@@ -45821,7 +45825,8 @@
             "opponent2": {
                 "id": "9bdd9a40-e17e-11ef-9111-0242ac130004",
                 "name": "Chaos Crew",
-                "seed": 597
+                "seed": 597,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -46812,11 +46817,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "05d882b6-e1a7-11ef-9994-0242ac130004",
                 "name": "New Life",
-                "seed": 51
+                "seed": 51,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2c0599d8-e003-11ef-bf0e-0242ac130004",
@@ -46942,18 +46948,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "32250da6-e01e-11ef-aaa6-0242ac130004",
                 "name": "MINI  XB",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c8fda7f6-e2a3-11ef-8836-0242ac130004",
                 "name": "CAP|CAPCON",
-                "seed": 134
+                "seed": 134,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "32250da6-e01e-11ef-aaa6-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c8fda7f6-e2a3-11ef-8836-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "32250da6-e01e-11ef-aaa6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c8fda7f6-e2a3-11ef-8836-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 954,
@@ -47017,7 +47058,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f2c0abde-e0d1-11ef-ba5e-0242ac130004",
                 "name": "Los Crias Team",
@@ -47026,7 +47067,8 @@
             "opponent2": {
                 "id": "88732816-e3dc-11ef-bdcb-0242ac130004",
                 "name": "BH COMANDA",
-                "seed": 102
+                "seed": 102,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -47132,11 +47174,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7adb9d88-e016-11ef-93e3-0242ac130004",
                 "name": "Lightsinshadows",
-                "seed": 278
+                "seed": 278,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5c0ca354-e5d7-11ef-9cef-0242ac130004",
@@ -47378,7 +47421,9 @@
                 "seed": 868
             },
             "opponent2": {
-                "id": null
+                "id": "2d3f7cb8-dfd8-11ef-8d45-0242ac130004",
+                "name": "Vênus",
+                "seed": 164
             },
             "match_games": []
         },
@@ -47391,7 +47436,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "89e6feec-e0e5-11ef-9059-0242ac130004",
+                "name": "Faith Sword #1",
+                "seed": 500
             },
             "opponent2": {
                 "id": null
@@ -47680,7 +47727,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "2c0599d8-e003-11ef-bf0e-0242ac130004",
+                "name": "Os pé preto",
+                "seed": 78
             },
             "match_games": []
         },
@@ -47713,10 +47762,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c8fda7f6-e2a3-11ef-8836-0242ac130004",
+                "name": "CAP|CAPCON",
+                "seed": 134
             },
             "opponent2": {
-                "id": null
+                "id": "cd08036e-e190-11ef-a884-0242ac130004",
+                "name": "Luna Lupus",
+                "seed": 70
             },
             "match_games": []
         },
@@ -47729,7 +47782,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f2c0abde-e0d1-11ef-ba5e-0242ac130004",
+                "name": "Los Crias Team",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
@@ -47761,10 +47816,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5c0ca354-e5d7-11ef-9cef-0242ac130004",
+                "name": "PEPAPINES FC",
+                "seed": 150
             },
             "opponent2": {
-                "id": null
+                "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                "name": "tropa do fafa",
+                "seed": 854
             },
             "match_games": []
         },
