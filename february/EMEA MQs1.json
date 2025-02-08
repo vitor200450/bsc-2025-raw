@@ -39681,11 +39681,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fb8e7b8e-e0ad-11ef-9349-0242ac130004",
                 "name": "Vortex Guardians",
-                "seed": 1640
+                "seed": 1640,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d4cc8650-e236-11ef-bc1c-0242ac130004",
@@ -79864,7 +79865,9 @@
                 "seed": 409
             },
             "opponent2": {
-                "id": null
+                "id": "d4cc8650-e236-11ef-bc1c-0242ac130004",
+                "name": "CAS",
+                "seed": 2457
             },
             "match_games": []
         },
