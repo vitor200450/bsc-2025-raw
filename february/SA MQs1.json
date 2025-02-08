@@ -45681,18 +45681,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9607f368-e282-11ef-995b-0242ac130004",
                 "name": "Digital Monsters",
-                "seed": 717
+                "seed": 717,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f9d8946e-e1ed-11ef-a127-0242ac130004",
                 "name": "🔥Orden Fenix🔥",
-                "seed": 692
+                "seed": 692,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "9607f368-e282-11ef-995b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9d8946e-e1ed-11ef-a127-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9607f368-e282-11ef-995b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f9d8946e-e1ed-11ef-a127-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "9607f368-e282-11ef-995b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f9d8946e-e1ed-11ef-a127-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 919,
@@ -45701,18 +45751,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29ae1952-e121-11ef-955b-0242ac130004",
                 "name": "777",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d8a6e770-e0ec-11ef-b451-0242ac130004",
                 "name": "3DBR Two",
-                "seed": 109
+                "seed": 109,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "29ae1952-e121-11ef-955b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d8a6e770-e0ec-11ef-b451-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29ae1952-e121-11ef-955b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d8a6e770-e0ec-11ef-b451-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "29ae1952-e121-11ef-955b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d8a6e770-e0ec-11ef-b451-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 920,
@@ -47882,7 +47982,9 @@
                 "seed": 500
             },
             "opponent2": {
-                "id": null
+                "id": "9607f368-e282-11ef-995b-0242ac130004",
+                "name": "Digital Monsters",
+                "seed": 717
             },
             "match_games": []
         },
@@ -47895,10 +47997,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d8a6e770-e0ec-11ef-b451-0242ac130004",
+                "name": "3DBR Two",
+                "seed": 109
             },
             "opponent2": {
-                "id": null
+                "id": "73afed18-e5c8-11ef-8188-0242ac130004",
+                "name": "Leans, Pt. 2",
+                "seed": 45
             },
             "match_games": []
         },
