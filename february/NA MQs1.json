@@ -32044,15 +32044,49 @@
             "opponent1": {
                 "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
                 "name": "PL | Maquedas",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b39dd600-e4f2-11ef-8faf-0242ac130004",
                 "name": "SneakIt",
                 "seed": 883,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b39dd600-e4f2-11ef-8faf-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b39dd600-e4f2-11ef-8faf-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 424,
