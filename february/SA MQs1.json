@@ -12878,18 +12878,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0a51f1b4-e040-11ef-890f-0242ac130004",
                 "name": "Macacos🦧",
-                "seed": 361
+                "seed": 361,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ed9b809a-e1ce-11ef-ac12-0242ac130004",
                 "name": "Stars of Brawl | SOB",
-                "seed": 664
+                "seed": 664,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0a51f1b4-e040-11ef-890f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ed9b809a-e1ce-11ef-ac12-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0a51f1b4-e040-11ef-890f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ed9b809a-e1ce-11ef-ac12-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 121,
@@ -17829,18 +17864,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58e44f72-e052-11ef-acf4-0242ac130004",
                 "name": "MYN TRINITY",
-                "seed": 391
+                "seed": 391,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "95953f7a-e1a2-11ef-9dec-0242ac130004",
                 "name": "Son of God",
-                "seed": 634
+                "seed": 634,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "58e44f72-e052-11ef-acf4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "95953f7a-e1a2-11ef-9dec-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "58e44f72-e052-11ef-acf4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "95953f7a-e1a2-11ef-9dec-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 327,
@@ -22450,18 +22520,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da39f926-dfe1-11ef-bf9d-0242ac130004",
                 "name": "KAMIKAZE",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
                 "name": "tropa do fafa",
-                "seed": 854
+                "seed": 854,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "da39f926-dfe1-11ef-bf9d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "da39f926-dfe1-11ef-bf9d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 512,
@@ -25349,7 +25454,9 @@
                 "seed": 122
             },
             "opponent2": {
-                "id": null
+                "id": "95953f7a-e1a2-11ef-9dec-0242ac130004",
+                "name": "Son of God",
+                "seed": 634
             },
             "match_games": []
         },
@@ -26980,7 +27087,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                "name": "tropa do fafa",
+                "seed": 854
             },
             "opponent2": {
                 "id": null
