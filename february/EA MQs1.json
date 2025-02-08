@@ -12043,18 +12043,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
                 "name": "Rein Sou",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
                 "name": "Uhyoo!",
-                "seed": 47
+                "seed": 47,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "4d6331c0-e0ae-11ef-82a2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 235,
@@ -12063,18 +12098,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
                 "name": "크롱유튜브구독",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
                 "name": "브대남의 월파 도전기",
-                "seed": 218
+                "seed": 218,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 236,
