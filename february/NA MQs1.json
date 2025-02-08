@@ -38037,18 +38037,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "01a72c92-e0d0-11ef-9ea8-0242ac130004",
                 "name": "El Grèvol",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
                 "name": "Los eso brad",
-                "seed": 381
+                "seed": 381,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "01a72c92-e0d0-11ef-9ea8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "01a72c92-e0d0-11ef-9ea8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 581,
@@ -42157,18 +42192,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c45286e2-e5cb-11ef-8217-0242ac130004",
                 "name": "🐖🐬",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aca20cd4-e0b7-11ef-906b-0242ac130004",
                 "name": "Seguidores Del Sol",
-                "seed": 470
+                "seed": 470,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c45286e2-e5cb-11ef-8217-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca20cd4-e0b7-11ef-906b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c45286e2-e5cb-11ef-8217-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca20cd4-e0b7-11ef-906b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 766,
@@ -44277,7 +44347,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c45286e2-e5cb-11ef-8217-0242ac130004",
+                "name": "🐖🐬",
+                "seed": 43
             },
             "opponent2": {
                 "id": null
