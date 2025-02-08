@@ -36886,18 +36886,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8214540-e096-11ef-a2b3-0242ac130004",
                 "name": "GSY",
-                "seed": 1529
+                "seed": 1529,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "92a78744-e2e9-11ef-b593-0242ac130004",
                 "name": "Melodians",
-                "seed": 2568
+                "seed": 2568,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c8214540-e096-11ef-a2b3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "92a78744-e2e9-11ef-b593-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c8214540-e096-11ef-a2b3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "92a78744-e2e9-11ef-b593-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 265,
@@ -57674,18 +57709,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58d0720e-e0b1-11ef-b2e8-0242ac130004",
                 "name": "Ashwagandha",
-                "seed": 1655
+                "seed": 1655,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6307701c-e226-11ef-8aa0-0242ac130004",
                 "name": "BBC Team",
-                "seed": 2442
+                "seed": 2442,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "58d0720e-e0b1-11ef-b2e8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6307701c-e226-11ef-8aa0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "58d0720e-e0b1-11ef-b2e8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6307701c-e226-11ef-8aa0-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1431,
@@ -70549,7 +70619,9 @@
                 "seed": 240
             },
             "opponent2": {
-                "id": null
+                "id": "ab091a2e-e0d1-11ef-8116-0242ac130004",
+                "name": "SF Esports EMEA",
+                "seed": 1809
             },
             "match_games": []
         },
@@ -71117,7 +71189,9 @@
                 "seed": 520
             },
             "opponent2": {
-                "id": null
+                "id": "92a78744-e2e9-11ef-b593-0242ac130004",
+                "name": "Melodians",
+                "seed": 2568
             },
             "match_games": []
         },
@@ -78147,7 +78221,9 @@
                 "seed": 514
             },
             "opponent2": {
-                "id": null
+                "id": "c4f8db10-e2e6-11ef-b079-0242ac130004",
+                "name": "NF|Gaming",
+                "seed": 2562
             },
             "match_games": []
         },
@@ -78293,7 +78369,9 @@
                 "seed": 639
             },
             "opponent2": {
-                "id": null
+                "id": "2949bdfe-e3f6-11ef-82b7-0242ac130004",
+                "name": "Golden Warriors",
+                "seed": 2687
             },
             "match_games": []
         },
@@ -81789,7 +81867,9 @@
                 "seed": 394
             },
             "opponent2": {
-                "id": null
+                "id": "6307701c-e226-11ef-8aa0-0242ac130004",
+                "name": "BBC Team",
+                "seed": 2442
             },
             "match_games": []
         },
