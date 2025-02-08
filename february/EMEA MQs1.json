@@ -34527,18 +34527,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a964e41e-e090-11ef-ae86-0242ac130004",
                 "name": "Madness",
-                "seed": 1504
+                "seed": 1504,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "27e16bf6-e310-11ef-9d95-0242ac130004",
                 "name": "Los tetes",
-                "seed": 2593
+                "seed": 2593,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a964e41e-e090-11ef-ae86-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "27e16bf6-e310-11ef-9d95-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a964e41e-e090-11ef-ae86-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "27e16bf6-e310-11ef-9d95-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 105,
@@ -78645,7 +78680,9 @@
                 "seed": 545
             },
             "opponent2": {
-                "id": null
+                "id": "27e16bf6-e310-11ef-9d95-0242ac130004",
+                "name": "Los tetes",
+                "seed": 2593
             },
             "match_games": []
         },
