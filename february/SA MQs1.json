@@ -47109,18 +47109,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2dfff7be-e590-11ef-b15c-0242ac130004",
                 "name": "Arcanous",
-                "seed": 62
+                "seed": 62,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4c3264a8-e1a1-11ef-a75e-0242ac130004",
                 "name": "RASPUTIANOS",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2dfff7be-e590-11ef-b15c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4c3264a8-e1a1-11ef-a75e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2dfff7be-e590-11ef-b15c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c3264a8-e1a1-11ef-a75e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "2dfff7be-e590-11ef-b15c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4c3264a8-e1a1-11ef-a75e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 947,
@@ -48308,7 +48358,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "4c3264a8-e1a1-11ef-a75e-0242ac130004",
+                "name": "RASPUTIANOS",
+                "seed": 67
             },
             "match_games": []
         },
