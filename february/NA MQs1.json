@@ -29117,7 +29117,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "170e2a40-e044-11ef-b419-0242ac130004",
                 "name": "meow",
@@ -29126,7 +29126,8 @@
             "opponent2": {
                 "id": "d40a8b90-e632-11ef-9793-0242ac130004",
                 "name": "Mythic Knights",
-                "seed": 1002
+                "seed": 1002,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -39632,10 +39633,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "170e2a40-e044-11ef-b419-0242ac130004",
+                "name": "meow",
+                "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "eac9de86-e0e1-11ef-8402-0242ac130004",
+                "name": "LA TLACUACHADA",
+                "seed": 535
             },
             "match_games": []
         },
