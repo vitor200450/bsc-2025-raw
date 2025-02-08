@@ -43690,18 +43690,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9a7a493c-e151-11ef-a9c3-0242ac130004",
                 "name": "Fighting Capybaras",
-                "seed": 2020
+                "seed": 2020,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "483c6cac-e162-11ef-836d-0242ac130004",
                 "name": "ASA|BSC",
-                "seed": 2077
+                "seed": 2077,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9a7a493c-e151-11ef-a9c3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "483c6cac-e162-11ef-836d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9a7a493c-e151-11ef-a9c3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "483c6cac-e162-11ef-836d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 579,
