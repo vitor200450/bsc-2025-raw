@@ -49101,18 +49101,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "66a4be80-e052-11ef-a951-0242ac130004",
                 "name": "SGJ",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f5bdade2-e003-11ef-81b1-0242ac130004",
                 "name": "SODOMA&GOMORRA",
-                "seed": 249
+                "seed": 249,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5bdade2-e003-11ef-81b1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5bdade2-e003-11ef-81b1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 786,
@@ -51541,7 +51576,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "66a4be80-e052-11ef-a951-0242ac130004",
+                "name": "SGJ",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
