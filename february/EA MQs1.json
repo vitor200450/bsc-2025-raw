@@ -6477,18 +6477,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e28437e6-dfd1-11ef-bb9a-0242ac130004",
                 "name": "White Listening",
-                "seed": 75
+                "seed": 75,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5050fb06-e171-11ef-9f08-0242ac130004",
                 "name": "we_are_pro",
-                "seed": 182
+                "seed": 182,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e28437e6-dfd1-11ef-bb9a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5050fb06-e171-11ef-9f08-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e28437e6-dfd1-11ef-bb9a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5050fb06-e171-11ef-9f08-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 125,
