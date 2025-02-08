@@ -51160,18 +51160,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
                 "name": "🏀🦐🔥",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aac5dfc0-e347-11ef-bbe1-0242ac130004",
                 "name": "MAX Gaming",
-                "seed": 805
+                "seed": 805,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "aac5dfc0-e347-11ef-bbe1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aac5dfc0-e347-11ef-bbe1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aac5dfc0-e347-11ef-bbe1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 824,
@@ -54762,10 +54812,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                "name": "🏀🦐🔥",
+                "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                "name": "Clutch Or Cope🏆🤡",
+                "seed": 860
             },
             "match_games": []
         },
