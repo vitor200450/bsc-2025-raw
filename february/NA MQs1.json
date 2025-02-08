@@ -49126,18 +49126,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81bd0ea8-e060-11ef-9579-0242ac130004",
                 "name": "Cold Rebels",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53b21216-e25d-11ef-b953-0242ac130004",
                 "name": "TOILETS EXPORTS",
-                "seed": 752
+                "seed": 752,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "81bd0ea8-e060-11ef-9579-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53b21216-e25d-11ef-b953-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "81bd0ea8-e060-11ef-9579-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53b21216-e25d-11ef-b953-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 782,
@@ -51782,18 +51817,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a14a38ea-e11e-11ef-8cb4-0242ac130004",
                 "name": "F/A Cardinals",
-                "seed": 54
+                "seed": 54,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55afa83c-e02b-11ef-a0e8-0242ac130004",
                 "name": "Valent Team",
-                "seed": 310
+                "seed": 310,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a14a38ea-e11e-11ef-8cb4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55afa83c-e02b-11ef-a0e8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a14a38ea-e11e-11ef-8cb4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55afa83c-e02b-11ef-a0e8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 892,
@@ -52006,7 +52076,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81bd0ea8-e060-11ef-9579-0242ac130004",
+                "name": "Cold Rebels",
+                "seed": 17
             },
             "opponent2": {
                 "id": null
@@ -52902,7 +52974,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a14a38ea-e11e-11ef-8cb4-0242ac130004",
+                "name": "F/A Cardinals",
+                "seed": 54
             },
             "opponent2": {
                 "id": null
