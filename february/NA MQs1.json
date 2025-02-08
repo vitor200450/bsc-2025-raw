@@ -48801,18 +48801,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
                 "name": "Yellow|Brown|White",
-                "seed": 128
+                "seed": 128,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "49151bb4-e591-11ef-83cf-0242ac130004",
                 "name": "Chasmac Gaming",
-                "seed": 129
+                "seed": 129,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "49151bb4-e591-11ef-83cf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49151bb4-e591-11ef-83cf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 771,
@@ -49816,18 +49851,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d2afd44-e139-11ef-9e41-0242ac130004",
                 "name": "GAMAN CRUSADERS",
-                "seed": 617
+                "seed": 617,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b2fdbab6-e016-11ef-84d1-0242ac130004",
                 "name": "Masked Bees",
-                "seed": 152
+                "seed": 152,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2d2afd44-e139-11ef-9e41-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b2fdbab6-e016-11ef-84d1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2d2afd44-e139-11ef-9e41-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b2fdbab6-e016-11ef-84d1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 799,
@@ -51177,18 +51247,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52bc29a8-e543-11ef-a258-0242ac130004",
                 "name": "Johnny Walkers",
-                "seed": 98
+                "seed": 98,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
                 "name": "BLAZE SPORTS",
-                "seed": 159
+                "seed": 159,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "52bc29a8-e543-11ef-a258-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "52bc29a8-e543-11ef-a258-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "db1d2e0a-e183-11ef-af73-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 839,
@@ -53274,7 +53379,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "49151bb4-e591-11ef-83cf-0242ac130004",
+                "name": "Chasmac Gaming",
+                "seed": 129
             },
             "match_games": []
         },
