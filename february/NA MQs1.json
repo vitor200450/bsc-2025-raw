@@ -56432,18 +56432,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
                 "name": "Crow’s Nest Esport",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c8f3b02e-e1e1-11ef-ba98-0242ac130004",
                 "name": "LAPA",
-                "seed": 186
+                "seed": 186,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c8f3b02e-e1e1-11ef-ba98-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ae04b7b0-e031-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c8f3b02e-e1e1-11ef-ba98-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 939,
