@@ -31807,18 +31807,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "88c296c0-e04f-11ef-b46e-0242ac130004",
                 "name": "Team Gangster",
-                "seed": 114
+                "seed": 114,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74e855be-e19d-11ef-8e59-0242ac130004",
                 "name": "REVERSE HEALERS",
-                "seed": 626
+                "seed": 626,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "88c296c0-e04f-11ef-b46e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74e855be-e19d-11ef-8e59-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "88c296c0-e04f-11ef-b46e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "74e855be-e19d-11ef-8e59-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "88c296c0-e04f-11ef-b46e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74e855be-e19d-11ef-8e59-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 660,
@@ -37391,10 +37441,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "88c296c0-e04f-11ef-b46e-0242ac130004",
+                "name": "Team Gangster",
+                "seed": 114
             },
             "opponent2": {
-                "id": null
+                "id": "2b64fa9a-e0f9-11ef-8678-0242ac130004",
+                "name": "BK Onyx",
+                "seed": 143
             },
             "match_games": []
         },
