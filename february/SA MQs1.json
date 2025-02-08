@@ -12898,18 +12898,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28d5f490-dffb-11ef-81ec-0242ac130004",
                 "name": "Os beicinho birutão",
-                "seed": 221
+                "seed": 221,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "38290718-e4d1-11ef-83d7-0242ac130004",
                 "name": "WK GAMING",
-                "seed": 804
+                "seed": 804,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "28d5f490-dffb-11ef-81ec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38290718-e4d1-11ef-83d7-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "28d5f490-dffb-11ef-81ec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38290718-e4d1-11ef-83d7-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 156,
@@ -13882,18 +13917,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c72be5ea-dfed-11ef-87fd-0242ac130004",
                 "name": "Shadow Wise",
-                "seed": 188
+                "seed": 188,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1afc8a90-e588-11ef-a4c0-0242ac130004",
                 "name": "AZM/INMORTAL",
-                "seed": 837
+                "seed": 837,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c72be5ea-dfed-11ef-87fd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1afc8a90-e588-11ef-a4c0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c72be5ea-dfed-11ef-87fd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1afc8a90-e588-11ef-a4c0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 208,
@@ -21148,7 +21218,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28d5f490-dffb-11ef-81ec-0242ac130004",
+                "name": "Os beicinho birutão",
+                "seed": 221
             },
             "opponent2": {
                 "id": null
@@ -21592,7 +21664,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c72be5ea-dfed-11ef-87fd-0242ac130004",
+                "name": "Shadow Wise",
+                "seed": 188
             },
             "opponent2": {
                 "id": null
