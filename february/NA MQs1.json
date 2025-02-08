@@ -59615,7 +59615,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
                 "name": "Last hope",
@@ -59624,7 +59624,8 @@
             "opponent2": {
                 "id": "868fae38-e009-11ef-8228-0242ac130004",
                 "name": "CXT",
-                "seed": 75
+                "seed": 75,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -59899,7 +59900,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
+                "name": "Last hope",
+                "seed": 630
             },
             "opponent2": {
                 "id": null
