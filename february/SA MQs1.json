@@ -38168,7 +38168,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ff5266a6-e19b-11ef-9972-0242ac130004",
                 "name": "STAR FORCE",
@@ -38177,7 +38177,8 @@
             "opponent2": {
                 "id": "e916a814-e1c5-11ef-9cfb-0242ac130004",
                 "name": "OSHUMILDES",
-                "seed": 656
+                "seed": 656,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -40479,18 +40480,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd6c8afc-e0f9-11ef-907b-0242ac130004",
                 "name": "Bicasesan",
-                "seed": 127
+                "seed": 127,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "65d424d8-e006-11ef-a62d-0242ac130004",
                 "name": "SQUAD ONE",
-                "seed": 130
+                "seed": 130,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bd6c8afc-e0f9-11ef-907b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65d424d8-e006-11ef-a62d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "bd6c8afc-e0f9-11ef-907b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65d424d8-e006-11ef-a62d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 835,
@@ -43323,7 +43359,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "ff5266a6-e19b-11ef-9972-0242ac130004",
+                "name": "STAR FORCE",
+                "seed": 625
             },
             "match_games": []
         },
@@ -43831,7 +43869,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "65d424d8-e006-11ef-a62d-0242ac130004",
+                "name": "SQUAD ONE",
+                "seed": 130
             },
             "match_games": []
         },
