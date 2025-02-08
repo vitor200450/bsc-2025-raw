@@ -38198,18 +38198,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
                 "name": "ATFG Esports",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cdc26fbe-e4f7-11ef-a4b3-0242ac130004",
                 "name": "Las Betias",
-                "seed": 816
+                "seed": 816,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cdc26fbe-e4f7-11ef-a4b3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cdc26fbe-e4f7-11ef-a4b3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 784,
@@ -39218,18 +39253,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bf8161a-e0c9-11ef-b43b-0242ac130004",
                 "name": "Wizynianos30hz",
-                "seed": 460
+                "seed": 460,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ab374d44-e550-11ef-86e1-0242ac130004",
                 "name": "OÁSIS GANG",
-                "seed": 821
+                "seed": 821,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3bf8161a-e0c9-11ef-b43b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3bf8161a-e0c9-11ef-b43b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 828,
@@ -40508,18 +40578,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
                 "name": "Fumaça e cachaça",
-                "seed": 627
+                "seed": 627,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
                 "name": "Shadow Warriors",
-                "seed": 654
+                "seed": 654,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 875,
@@ -41189,7 +41294,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                "name": "ATFG Esports",
+                "seed": 48
             },
             "opponent2": {
                 "id": null
@@ -41547,7 +41654,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                "name": "OÁSIS GANG",
+                "seed": 821
             },
             "opponent2": {
                 "id": null
@@ -41932,7 +42041,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                "name": "Fumaça e cachaça",
+                "seed": 627
             },
             "match_games": []
         },
