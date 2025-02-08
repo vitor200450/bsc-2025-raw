@@ -39157,18 +39157,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "487dbe2a-e4f3-11ef-839b-0242ac130004",
                 "name": "Cholos",
-                "seed": 884
+                "seed": 884,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
                 "name": "Virus",
-                "seed": 372
+                "seed": 372,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "487dbe2a-e4f3-11ef-839b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "487dbe2a-e4f3-11ef-839b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 597,
@@ -43527,18 +43562,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b14cb5c-e563-11ef-9fa9-0242ac130004",
                 "name": "PlayedTheseGamesB4",
-                "seed": 211
+                "seed": 211,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d03af7ce-e025-11ef-a439-0242ac130004",
                 "name": "Notice me senpai",
-                "seed": 302
+                "seed": 302,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "1b14cb5c-e563-11ef-9fa9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d03af7ce-e025-11ef-a439-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1b14cb5c-e563-11ef-9fa9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d03af7ce-e025-11ef-a439-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 735,
