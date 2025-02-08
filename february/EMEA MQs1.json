@@ -51787,18 +51787,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "817a9904-e0cb-11ef-adc3-0242ac130004",
                 "name": "Ripers",
-                "seed": 1772
+                "seed": 1772,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f84f074a-e1a2-11ef-b8d9-0242ac130004",
                 "name": "EXT",
-                "seed": 2325
+                "seed": 2325,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "817a9904-e0cb-11ef-adc3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f84f074a-e1a2-11ef-b8d9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "817a9904-e0cb-11ef-adc3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f84f074a-e1a2-11ef-b8d9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 975,
@@ -51859,18 +51894,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a2acce6-e0ed-11ef-be21-0242ac130004",
                 "name": "Janet1Boulot",
-                "seed": 1941
+                "seed": 1941,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "92b6a558-e177-11ef-bd25-0242ac130004",
                 "name": "Simply Lovely",
-                "seed": 2156
+                "seed": 2156,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3a2acce6-e0ed-11ef-be21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92b6a558-e177-11ef-bd25-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3a2acce6-e0ed-11ef-be21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "92b6a558-e177-11ef-bd25-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 979,
@@ -72875,18 +72945,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5f9b3e0-e14a-11ef-9285-0242ac130004",
                 "name": "BSL eSports",
-                "seed": 2006
+                "seed": 2006,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a38dd4a-e166-11ef-9c87-0242ac130004",
                 "name": "Storm Breakers",
-                "seed": 2091
+                "seed": 2091,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e5f9b3e0-e14a-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a38dd4a-e166-11ef-9c87-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e5f9b3e0-e14a-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a38dd4a-e166-11ef-9c87-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2019,
@@ -82491,7 +82596,9 @@
                 "seed": 277
             },
             "opponent2": {
-                "id": null
+                "id": "f84f074a-e1a2-11ef-b8d9-0242ac130004",
+                "name": "EXT",
+                "seed": 2325
             },
             "match_games": []
         },
@@ -82527,7 +82634,9 @@
                 "seed": 108
             },
             "opponent2": {
-                "id": null
+                "id": "3a2acce6-e0ed-11ef-be21-0242ac130004",
+                "name": "Janet1Boulot",
+                "seed": 1941
             },
             "match_games": []
         },
@@ -92185,7 +92294,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "e5f9b3e0-e14a-11ef-9285-0242ac130004",
+                "name": "BSL eSports",
+                "seed": 2006
             },
             "match_games": []
         },
