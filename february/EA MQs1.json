@@ -4754,18 +4754,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a1bfa56-dfde-11ef-b3b5-0242ac130004",
                 "name": "らーとむ",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b098c448-e2da-11ef-abe3-0242ac130004",
                 "name": "Super Idol 的笑容",
-                "seed": 207
+                "seed": 207,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7a1bfa56-dfde-11ef-b3b5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b098c448-e2da-11ef-abe3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7a1bfa56-dfde-11ef-b3b5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b098c448-e2da-11ef-abe3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 76,
@@ -5867,18 +5902,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4114e74-e2dd-11ef-8d87-0242ac130004",
                 "name": "Gen.G Esports",
-                "seed": 22
+                "seed": 22,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ee97ea6-e49a-11ef-b287-0242ac130004",
                 "name": "Scary Creatures",
-                "seed": 235
+                "seed": 235,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d4114e74-e2dd-11ef-8d87-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ee97ea6-e49a-11ef-b287-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d4114e74-e2dd-11ef-8d87-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ee97ea6-e49a-11ef-b287-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 126,
@@ -6630,10 +6700,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a1bfa56-dfde-11ef-b3b5-0242ac130004",
+                "name": "らーとむ",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "e06e50fa-e16a-11ef-bc5b-0242ac130004",
+                "name": "Special",
+                "seed": 178
             },
             "match_games": []
         },
@@ -7066,10 +7140,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d4114e74-e2dd-11ef-8d87-0242ac130004",
+                "name": "Gen.G Esports",
+                "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "ae6e0396-e0bd-11ef-8137-0242ac130004",
+                "name": "アルビダ海賊団",
+                "seed": 150
             },
             "match_games": []
         },
