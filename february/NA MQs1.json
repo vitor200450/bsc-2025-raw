@@ -41391,7 +41391,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7b3ed8a-e5ff-11ef-8e65-0242ac130004",
                 "name": "GGs",
@@ -41400,7 +41400,8 @@
             "opponent2": {
                 "id": "c3ae9866-e067-11ef-bdd2-0242ac130004",
                 "name": "hungry hippos",
-                "seed": 437
+                "seed": 437,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -49146,10 +49147,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a7b3ed8a-e5ff-11ef-8e65-0242ac130004",
+                "name": "GGs",
+                "seed": 949
             },
             "opponent2": {
-                "id": null
+                "id": "b3d96bca-e033-11ef-b18a-0242ac130004",
+                "name": "Sin modales",
+                "seed": 332
             },
             "match_games": []
         },
