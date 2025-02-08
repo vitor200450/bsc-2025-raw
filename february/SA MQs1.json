@@ -15721,18 +15721,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3095ea9c-e0d1-11ef-b754-0242ac130004",
                 "name": "Amostradinhos",
-                "seed": 468
+                "seed": 468,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5db1c32c-e11a-11ef-bf9f-0242ac130004",
                 "name": "LATAM TU TERROR",
-                "seed": 557
+                "seed": 557,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3095ea9c-e0d1-11ef-b754-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5db1c32c-e11a-11ef-bf9f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3095ea9c-e0d1-11ef-b754-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5db1c32c-e11a-11ef-bf9f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -28045,7 +28080,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "3095ea9c-e0d1-11ef-b754-0242ac130004",
+                "name": "Amostradinhos",
+                "seed": 468
             },
             "match_games": []
         },
