@@ -45167,18 +45167,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f5aa722-e0dc-11ef-871f-0242ac130004",
                 "name": "RPR|Reaper",
-                "seed": 484
+                "seed": 484,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
                 "name": "ARB Nova",
-                "seed": 868
+                "seed": 868,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5f5aa722-e0dc-11ef-871f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "5f5aa722-e0dc-11ef-871f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 916,
@@ -45287,18 +45322,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9b1e78c-e58c-11ef-a2ce-0242ac130004",
                 "name": "Balinhas",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1e01c080-e1a4-11ef-b7a1-0242ac130004",
                 "name": "BST",
-                "seed": 636
+                "seed": 636,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e9b1e78c-e58c-11ef-a2ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e01c080-e1a4-11ef-b7a1-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e9b1e78c-e58c-11ef-a2ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e01c080-e1a4-11ef-b7a1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 922,
@@ -46377,18 +46447,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5864b02a-e186-11ef-8819-0242ac130004",
                 "name": "LOS MACACOS",
-                "seed": 54
+                "seed": 54,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ba1e1278-dfe9-11ef-ac4d-0242ac130004",
                 "name": "ĎØMĪŅŲ§🔥",
-                "seed": 182
+                "seed": 182,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5864b02a-e186-11ef-8819-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ba1e1278-dfe9-11ef-ac4d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "5864b02a-e186-11ef-8819-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ba1e1278-dfe9-11ef-ac4d-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 959,
@@ -46589,7 +46694,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "45e48b28-e5c3-11ef-b98c-0242ac130004",
+                "name": "ARB Nova",
+                "seed": 868
             },
             "opponent2": {
                 "id": null
@@ -46637,7 +46744,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9b1e78c-e58c-11ef-a2ce-0242ac130004",
+                "name": "Balinhas",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
