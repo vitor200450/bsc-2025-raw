@@ -37627,18 +37627,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38894362-e4b8-11ef-8398-0242ac130004",
                 "name": "Omega DSD",
-                "seed": 872
+                "seed": 872,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f09418a2-e043-11ef-86d4-0242ac130004",
                 "name": "OBE Gaming",
-                "seed": 360
+                "seed": 360,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "38894362-e4b8-11ef-8398-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f09418a2-e043-11ef-86d4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "38894362-e4b8-11ef-8398-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f09418a2-e043-11ef-86d4-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 557,
@@ -39442,18 +39477,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7a50956-e32c-11ef-a934-0242ac130004",
                 "name": "Cabritos",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28ed884a-e0c2-11ef-ab2e-0242ac130004",
                 "name": "Royals",
-                "seed": 485
+                "seed": 485,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28ed884a-e0c2-11ef-ab2e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28ed884a-e0c2-11ef-ab2e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 618,
@@ -44863,7 +44933,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                "name": "Cabritos",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
