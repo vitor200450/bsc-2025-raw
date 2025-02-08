@@ -10406,18 +10406,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
                 "name": "GoNext",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
                 "name": "NeeBo Gaming",
-                "seed": 60
+                "seed": 60,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 206,
@@ -11192,10 +11227,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                "name": "GoNext",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "a3821f1e-e48a-11ef-a78a-0242ac130004",
+                "name": "なのに君は何をしてるの",
+                "seed": 229
             },
             "match_games": []
         },
