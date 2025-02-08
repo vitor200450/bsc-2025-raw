@@ -49061,18 +49061,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3326d8b2-e625-11ef-9090-0242ac130004",
                 "name": "LSCH",
-                "seed": 977
+                "seed": 977,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e86f9680-e028-11ef-be2f-0242ac130004",
                 "name": "Yvl",
-                "seed": 304
+                "seed": 304,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3326d8b2-e625-11ef-9090-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e86f9680-e028-11ef-be2f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3326d8b2-e625-11ef-9090-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e86f9680-e028-11ef-be2f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 784,
@@ -51631,7 +51666,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e86f9680-e028-11ef-be2f-0242ac130004",
+                "name": "Yvl",
+                "seed": 304
             },
             "opponent2": {
                 "id": null
