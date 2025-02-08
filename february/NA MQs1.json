@@ -49861,18 +49861,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e63fb1c-e034-11ef-9bff-0242ac130004",
                 "name": "BERSERKERS",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
                 "name": "Los eso brad",
-                "seed": 381
+                "seed": 381,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2e63fb1c-e034-11ef-9bff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2e63fb1c-e034-11ef-9bff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "57b09f0a-e04a-11ef-8f34-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 803,
@@ -49976,18 +50011,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "78cfb0e0-e12b-11ef-bb73-0242ac130004",
                 "name": "Brawl Pirates",
-                "seed": 612
+                "seed": 612,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a27f47e-e0d2-11ef-9f55-0242ac130004",
                 "name": "Skibidi Sigmas",
-                "seed": 157
+                "seed": 157,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "78cfb0e0-e12b-11ef-bb73-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a27f47e-e0d2-11ef-9f55-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "78cfb0e0-e12b-11ef-bb73-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a27f47e-e0d2-11ef-9f55-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 807,
@@ -51062,18 +51132,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
                 "name": "Kimchi Fund",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04dcab58-e2b0-11ef-a7a0-0242ac130004",
                 "name": "NA Dinos",
-                "seed": 783
+                "seed": 783,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04dcab58-e2b0-11ef-a7a0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04dcab58-e2b0-11ef-a7a0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 842,
@@ -53607,7 +53712,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                "name": "Kimchi Fund",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
