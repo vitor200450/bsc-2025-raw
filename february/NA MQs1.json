@@ -39807,18 +39807,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52702a02-e10c-11ef-bd03-0242ac130004",
                 "name": "H",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "230d9c98-e0b4-11ef-88ad-0242ac130004",
                 "name": "Azteca Sports",
-                "seed": 469
+                "seed": 469,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "230d9c98-e0b4-11ef-88ad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "230d9c98-e0b4-11ef-88ad-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 638,
@@ -42837,18 +42872,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0e93c47c-e078-11ef-976c-0242ac130004",
                 "name": "Hapelon",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69f6214a-e10c-11ef-bfb3-0242ac130004",
                 "name": "Sparphen",
-                "seed": 582
+                "seed": 582,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0e93c47c-e078-11ef-976c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69f6214a-e10c-11ef-bfb3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0e93c47c-e078-11ef-976c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69f6214a-e10c-11ef-bfb3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 744,
@@ -44591,10 +44661,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                "name": "H",
+                "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "a7a583ba-dfad-11ef-9fb9-0242ac130004",
+                "name": "Los Brad's",
+                "seed": 213
             },
             "match_games": []
         },
@@ -45481,7 +45555,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0e93c47c-e078-11ef-976c-0242ac130004",
+                "name": "Hapelon",
+                "seed": 70
             },
             "opponent2": {
                 "id": null
