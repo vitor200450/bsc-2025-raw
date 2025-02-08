@@ -51671,18 +51671,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
                 "name": "DAA|Team",
-                "seed": 117
+                "seed": 117,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2817737c-e02c-11ef-91ef-0242ac130004",
                 "name": "Los calcetines",
-                "seed": 140
+                "seed": 140,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2817737c-e02c-11ef-91ef-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2817737c-e02c-11ef-91ef-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2817737c-e02c-11ef-91ef-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 827,
@@ -55677,7 +55727,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                "name": "DAA|Team",
+                "seed": 117
             },
             "match_games": []
         },
