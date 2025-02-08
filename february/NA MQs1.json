@@ -40380,18 +40380,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "50281fda-e5b6-11ef-9209-0242ac130004",
                 "name": "Blazing Suns",
-                "seed": 916
+                "seed": 916,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "77654ab2-e144-11ef-8730-0242ac130004",
                 "name": "Goon Squad",
-                "seed": 621
+                "seed": 621,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "50281fda-e5b6-11ef-9209-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77654ab2-e144-11ef-8730-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "50281fda-e5b6-11ef-9209-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "77654ab2-e144-11ef-8730-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "50281fda-e5b6-11ef-9209-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "77654ab2-e144-11ef-8730-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 604,
@@ -49079,10 +49129,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "77654ab2-e144-11ef-8730-0242ac130004",
+                "name": "Goon Squad",
+                "seed": 621
             },
             "opponent2": {
-                "id": null
+                "id": "58852f10-e1ec-11ef-be52-0242ac130004",
+                "name": "Gods of madness ☄️",
+                "seed": 148
             },
             "match_games": []
         },
