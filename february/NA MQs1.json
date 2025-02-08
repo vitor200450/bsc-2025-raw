@@ -26301,18 +26301,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83f8ead8-e048-11ef-a5fb-0242ac130004",
                 "name": "Creed",
-                "seed": 122
+                "seed": 122,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2033377c-e595-11ef-9e02-0242ac130004",
                 "name": "Wasteland",
-                "seed": 903
+                "seed": 903,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "83f8ead8-e048-11ef-a5fb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2033377c-e595-11ef-9e02-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "83f8ead8-e048-11ef-a5fb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2033377c-e595-11ef-9e02-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 326,
