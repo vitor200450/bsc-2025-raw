@@ -48641,18 +48641,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
                 "name": "newbas",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "32ea41a0-e246-11ef-8bfa-0242ac130004",
                 "name": "Sublime",
-                "seed": 39
+                "seed": 39,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32ea41a0-e246-11ef-8bfa-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32ea41a0-e246-11ef-8bfa-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 983,
@@ -49104,7 +49139,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "32ea41a0-e246-11ef-8bfa-0242ac130004",
+                "name": "Sublime",
+                "seed": 39
             },
             "match_games": []
         },
