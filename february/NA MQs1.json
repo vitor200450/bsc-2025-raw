@@ -50962,18 +50962,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a4e8050-e020-11ef-a2e6-0242ac130004",
                 "name": "Crodieeeeeee!!!!!",
-                "seed": 50
+                "seed": 50,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
                 "name": "The winner",
-                "seed": 207
+                "seed": 207,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8a4e8050-e020-11ef-a2e6-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8a4e8050-e020-11ef-a2e6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 844,
@@ -51682,18 +51717,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
                 "name": "Lunar",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ef7f73d0-e291-11ef-870b-0242ac130004",
                 "name": "MaSque",
-                "seed": 771
+                "seed": 771,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7f73d0-e291-11ef-870b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7f73d0-e291-11ef-870b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 866,
@@ -52392,18 +52462,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
                 "name": "Last hope",
-                "seed": 630
+                "seed": 630,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2ca23e50-e00d-11ef-82e2-0242ac130004",
                 "name": "TSS Ninja’s",
-                "seed": 139
+                "seed": 139,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ca23e50-e00d-11ef-82e2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2ca23e50-e00d-11ef-82e2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 891,
@@ -53230,10 +53335,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
+                "name": "The winner",
+                "seed": 207
             },
             "opponent2": {
-                "id": null
+                "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                "name": "RC",
+                "seed": 690
             },
             "match_games": []
         },
@@ -53414,7 +53523,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                "name": "Lunar",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -53617,7 +53728,9 @@
                 "seed": 779
             },
             "opponent2": {
-                "id": null
+                "id": "2ca4b214-e17c-11ef-bcbd-0242ac130004",
+                "name": "Last hope",
+                "seed": 630
             },
             "match_games": []
         },
