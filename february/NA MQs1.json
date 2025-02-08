@@ -44697,18 +44697,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bb54d350-e5db-11ef-808d-0242ac130004",
                 "name": "ALS_4444",
-                "seed": 934
+                "seed": 934,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "227abf52-e11f-11ef-8215-0242ac130004",
                 "name": "Snipers 2 Esports",
-                "seed": 603
+                "seed": 603,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "bb54d350-e5db-11ef-808d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "227abf52-e11f-11ef-8215-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bb54d350-e5db-11ef-808d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "227abf52-e11f-11ef-8215-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 752,
@@ -47389,10 +47424,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "227abf52-e11f-11ef-8215-0242ac130004",
+                "name": "Snipers 2 Esports",
+                "seed": 603
             },
             "opponent2": {
-                "id": null
+                "id": "93f4a02c-e015-11ef-b7fc-0242ac130004",
+                "name": "思维局限",
+                "seed": 166
             },
             "match_games": []
         },
