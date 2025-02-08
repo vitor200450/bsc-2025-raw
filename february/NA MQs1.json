@@ -55987,18 +55987,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52702a02-e10c-11ef-bd03-0242ac130004",
                 "name": "H",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd2f5562-e1d1-11ef-b0c8-0242ac130004",
                 "name": "AGoodOne",
-                "seed": 172
+                "seed": 172,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f5562-e1d1-11ef-b0c8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f5562-e1d1-11ef-b0c8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 929,
@@ -56262,18 +56297,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "444d9db8-e023-11ef-921c-0242ac130004",
                 "name": "FrostBitten",
-                "seed": 295
+                "seed": 295,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
                 "name": "SMUC",
-                "seed": 167
+                "seed": 167,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "444d9db8-e023-11ef-921c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "444d9db8-e023-11ef-921c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 941,
@@ -56302,18 +56372,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ed082d2-e588-11ef-862a-0242ac130004",
                 "name": "Hambreados F/A",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a0b52ba-e1cd-11ef-b625-0242ac130004",
                 "name": "Liberty BloodHawks🦅",
-                "seed": 695
+                "seed": 695,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3ed082d2-e588-11ef-862a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a0b52ba-e1cd-11ef-b625-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3ed082d2-e588-11ef-862a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a0b52ba-e1cd-11ef-b625-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 943,
@@ -57097,7 +57202,9 @@
                 "seed": 282
             },
             "opponent2": {
-                "id": null
+                "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
+                "name": "SMUC",
+                "seed": 167
             },
             "match_games": []
         },
