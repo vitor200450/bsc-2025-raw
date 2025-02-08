@@ -37887,18 +37887,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcd10d48-e02d-11ef-b370-0242ac130004",
                 "name": "SKCalalas NA",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "13bbeae6-e0e2-11ef-9f1b-0242ac130004",
                 "name": "OneTrickRegrigorator",
-                "seed": 536
+                "seed": 536,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fcd10d48-e02d-11ef-b370-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "13bbeae6-e0e2-11ef-9f1b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "fcd10d48-e02d-11ef-b370-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "13bbeae6-e0e2-11ef-9f1b-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 570,
@@ -43471,7 +43506,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fcd10d48-e02d-11ef-b370-0242ac130004",
+                "name": "SKCalalas NA",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
