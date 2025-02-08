@@ -45747,18 +45747,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4c050b3e-e02a-11ef-ae8a-0242ac130004",
                 "name": "XAROPES",
-                "seed": 319
+                "seed": 319,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
                 "name": "Los tilinos",
-                "seed": 703
+                "seed": 703,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4c050b3e-e02a-11ef-ae8a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "4c050b3e-e02a-11ef-ae8a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 931,
@@ -46577,18 +46612,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28188ff0-e0c7-11ef-8d98-0242ac130004",
                 "name": "GgJ eSports",
-                "seed": 454
+                "seed": 454,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cd08036e-e190-11ef-a884-0242ac130004",
                 "name": "Luna Lupus",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "28188ff0-e0c7-11ef-8d98-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd08036e-e190-11ef-a884-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "28188ff0-e0c7-11ef-8d98-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cd08036e-e190-11ef-a884-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 955,
@@ -46732,18 +46802,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1d6d29e-e021-11ef-8def-0242ac130004",
                 "name": "Amigos do Vaguinho",
-                "seed": 299
+                "seed": 299,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
                 "name": "tropa do fafa",
-                "seed": 854
+                "seed": 854,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a1d6d29e-e021-11ef-8def-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a1d6d29e-e021-11ef-8def-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1f386d34-e5b7-11ef-a698-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 961,
@@ -47031,7 +47136,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
+                "name": "Los tilinos",
+                "seed": 703
             },
             "match_games": []
         },
