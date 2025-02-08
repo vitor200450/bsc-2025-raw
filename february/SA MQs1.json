@@ -49947,18 +49947,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bc782664-e3ca-11ef-9069-0242ac130004",
                 "name": "Underrated Ones",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28235056-e19a-11ef-bee0-0242ac130004",
                 "name": "TIME ESPORTS",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bc782664-e3ca-11ef-9069-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "bc782664-e3ca-11ef-9069-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Business",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000292.png",
+                    "opponent1": {
+                        "id": "bc782664-e3ca-11ef-9069-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 995,
