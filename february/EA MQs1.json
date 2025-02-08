@@ -9734,18 +9734,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0469b93a-e07c-11ef-9512-0242ac130004",
                 "name": "Ones Who Live",
-                "seed": 38
+                "seed": 38,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
                 "name": "Trivial Esports",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 189,
@@ -10489,7 +10539,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                "name": "Trivial Esports",
+                "seed": 91
             },
             "match_games": []
         },
