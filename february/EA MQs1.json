@@ -5170,18 +5170,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e427cb72-dfdf-11ef-86e4-0242ac130004",
                 "name": "ぽこぽこ侍",
-                "seed": 82
+                "seed": 82,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "22a6a270-e165-11ef-a50a-0242ac130004",
                 "name": "OFS",
-                "seed": 175
+                "seed": 175,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e427cb72-dfdf-11ef-86e4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a6a270-e165-11ef-a50a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e427cb72-dfdf-11ef-86e4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a6a270-e165-11ef-a50a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 81,
@@ -5400,18 +5435,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3094aeea-dfe9-11ef-b977-0242ac130004",
                 "name": "da-kumata-",
-                "seed": 90
+                "seed": 90,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aae421d6-e141-11ef-b09d-0242ac130004",
                 "name": "YF戰隊",
-                "seed": 167
+                "seed": 167,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3094aeea-dfe9-11ef-b977-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aae421d6-e141-11ef-b09d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3094aeea-dfe9-11ef-b977-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aae421d6-e141-11ef-b09d-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 89,
@@ -7282,7 +7352,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "e427cb72-dfdf-11ef-86e4-0242ac130004",
+                "name": "ぽこぽこ侍",
+                "seed": 82
             },
             "match_games": []
         },
@@ -7360,7 +7432,9 @@
                 "seed": 218
             },
             "opponent2": {
-                "id": null
+                "id": "3094aeea-dfe9-11ef-b977-0242ac130004",
+                "name": "da-kumata-",
+                "seed": 90
             },
             "match_games": []
         },
