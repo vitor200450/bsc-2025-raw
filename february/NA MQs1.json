@@ -55302,18 +55302,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb15dd56-e0cd-11ef-bd33-0242ac130004",
                 "name": "Otters",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
                 "name": "Flash Point",
-                "seed": 928
+                "seed": 928,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "cb15dd56-e0cd-11ef-bd33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cb15dd56-e0cd-11ef-bd33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 900,
@@ -57155,10 +57190,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
+                "name": "Flash Point",
+                "seed": 928
             },
             "opponent2": {
-                "id": null
+                "id": "bf11df5e-e358-11ef-96cd-0242ac130004",
+                "name": "The Fellow Brawlers",
+                "seed": 96
             },
             "match_games": []
         },
