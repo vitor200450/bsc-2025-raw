@@ -12018,18 +12018,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
                 "name": "GoNext",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3821f1e-e48a-11ef-a78a-0242ac130004",
                 "name": "なのに君は何をしてるの",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3821f1e-e48a-11ef-a78a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3821f1e-e48a-11ef-a78a-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 232,
