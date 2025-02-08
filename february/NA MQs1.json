@@ -60144,18 +60144,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d6b49d84-e053-11ef-81f2-0242ac130004",
                 "name": "M2 Demons",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "87239968-e1c6-11ef-8821-0242ac130004",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d6b49d84-e053-11ef-81f2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d6b49d84-e053-11ef-81f2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 987,
