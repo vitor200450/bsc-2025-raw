@@ -13271,53 +13271,18 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 4,
+            "status": 3,
             "opponent1": {
                 "id": "879cf098-e062-11ef-a960-0242ac130004",
                 "name": "ミ★ 𝘱𝘦𝘬𝘪𝘯𝘦𝘳𝘴",
-                "seed": 433,
-                "score": 2,
-                "result": "win"
+                "seed": 433
             },
             "opponent2": {
                 "id": "713f625e-e116-11ef-b48b-0242ac130004",
                 "name": "🧧",
-                "seed": 592,
-                "score": 0,
-                "result": "loss"
+                "seed": 592
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Hard Rock Mine",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
-                    "opponent1": {
-                        "id": "879cf098-e062-11ef-a960-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "713f625e-e116-11ef-b48b-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Bounty",
-                    "mapName": "Layer Cake",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
-                    "opponent1": {
-                        "id": "879cf098-e062-11ef-a960-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "713f625e-e116-11ef-b48b-0242ac130004",
-                        "score": 0
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 47,
@@ -38475,7 +38440,9 @@
                 "seed": 949
             },
             "opponent2": {
-                "id": null
+                "id": "c3ae9866-e067-11ef-bdd2-0242ac130004",
+                "name": "hungry hippos",
+                "seed": 437
             },
             "match_games": []
         },
