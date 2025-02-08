@@ -12505,18 +12505,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82d7a6a0-e0c8-11ef-b318-0242ac130004",
                 "name": "Perú es clave",
-                "seed": 457
+                "seed": 457,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "085c53a2-e132-11ef-b52e-0242ac130004",
                 "name": "Perna Haters",
-                "seed": 568
+                "seed": 568,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "82d7a6a0-e0c8-11ef-b318-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "085c53a2-e132-11ef-b52e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "82d7a6a0-e0c8-11ef-b318-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "085c53a2-e132-11ef-b52e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 107,
@@ -16400,18 +16435,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "253272aa-e037-11ef-bdfd-0242ac130004",
                 "name": "Vira-Latas F/A",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "43221350-e1e1-11ef-b857-0242ac130004",
                 "name": "Equipo choclo",
-                "seed": 684
+                "seed": 684,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "253272aa-e037-11ef-bdfd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "43221350-e1e1-11ef-b857-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "253272aa-e037-11ef-bdfd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "43221350-e1e1-11ef-b857-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 257,
@@ -23817,7 +23887,9 @@
                 "seed": 56
             },
             "opponent2": {
-                "id": null
+                "id": "085c53a2-e132-11ef-b52e-0242ac130004",
+                "name": "Perna Haters",
+                "seed": 568
             },
             "match_games": []
         },
