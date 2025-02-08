@@ -50132,18 +50132,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
                 "name": "sintikols gaming",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3121b0b2-e28f-11ef-b52e-0242ac130004",
                 "name": "og_claps👎",
-                "seed": 770
+                "seed": 770,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3121b0b2-e28f-11ef-b52e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3121b0b2-e28f-11ef-b52e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 834,
@@ -50592,18 +50627,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3ec3fc6-e11e-11ef-8d65-0242ac130004",
                 "name": "ANTIPERUANOS",
-                "seed": 602
+                "seed": 602,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
                 "name": "SMUC",
-                "seed": 167
+                "seed": 167,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f3ec3fc6-e11e-11ef-8d65-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "f3ec3fc6-e11e-11ef-8d65-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3cf15f2-e021-11ef-af5b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 857,
@@ -51967,7 +52037,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                "name": "sintikols gaming",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
