@@ -56718,18 +56718,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
                 "name": "🏀🦐🔥",
-                "seed": 37
+                "seed": 37,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
                 "name": "Clutch Or Cope🏆🤡",
-                "seed": 860
+                "seed": 860,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "ce100b1c-e1ea-11ef-9dd8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 925,
@@ -58179,18 +58229,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b658b37a-e0f0-11ef-b48e-0242ac130004",
                 "name": "Overdrive",
-                "seed": 46
+                "seed": 46,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
                 "name": "Los prietos 🐐",
-                "seed": 851
+                "seed": 851,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b658b37a-e0f0-11ef-b48e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "b658b37a-e0f0-11ef-b48e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "b658b37a-e0f0-11ef-b48e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 953,
@@ -58858,7 +58958,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                "name": "Clutch Or Cope🏆🤡",
+                "seed": 860
             },
             "match_games": []
         },
@@ -59132,7 +59234,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
+                "name": "Los prietos 🐐",
+                "seed": 851
             },
             "match_games": []
         },
