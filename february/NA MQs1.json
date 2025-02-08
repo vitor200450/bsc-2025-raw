@@ -28718,7 +28718,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "170e2a40-e044-11ef-b419-0242ac130004",
                 "name": "meow",
@@ -30576,18 +30576,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
                 "name": "Team Cilantro 👅",
-                "seed": 158
+                "seed": 158,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ecf9fcae-e497-11ef-95cb-0242ac130004",
                 "name": "The glory",
-                "seed": 867
+                "seed": 867,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ecf9fcae-e497-11ef-95cb-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ecf9fcae-e497-11ef-95cb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ecf9fcae-e497-11ef-95cb-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 408,
@@ -39407,10 +39457,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
+                "name": "Team Cilantro 👅",
+                "seed": 158
             },
             "opponent2": {
-                "id": null
+                "id": "52a18a6a-e040-11ef-a5bd-0242ac130004",
+                "name": "DeliFRIum",
+                "seed": 355
             },
             "match_games": []
         },
