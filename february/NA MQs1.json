@@ -58144,18 +58144,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87239968-e1c6-11ef-8821-0242ac130004",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7e1e5dca-e1bd-11ef-93ec-0242ac130004",
                 "name": "Be For Real (BFR)",
-                "seed": 675
+                "seed": 675,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e1e5dca-e1bd-11ef-93ec-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7e1e5dca-e1bd-11ef-93ec-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7e1e5dca-e1bd-11ef-93ec-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 949,
@@ -59402,7 +59452,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                "name": "RJG Team 🔥🔥🔥",
+                "seed": 35
             },
             "match_games": []
         },
