@@ -45911,18 +45911,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab374d44-e550-11ef-86e1-0242ac130004",
                 "name": "OÁSIS GANG",
-                "seed": 821
+                "seed": 821,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e492e034-e5a6-11ef-8ed4-0242ac130004",
                 "name": "Decow Stars",
-                "seed": 844
+                "seed": 844,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e492e034-e5a6-11ef-8ed4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e492e034-e5a6-11ef-8ed4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e492e034-e5a6-11ef-8ed4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 927,
@@ -47860,7 +47910,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "ab374d44-e550-11ef-86e1-0242ac130004",
+                "name": "OÁSIS GANG",
+                "seed": 821
             },
             "match_games": []
         },
