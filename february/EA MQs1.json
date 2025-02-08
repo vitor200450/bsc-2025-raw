@@ -10121,18 +10121,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "26d6a9fc-e09e-11ef-8d9a-0242ac130004",
                 "name": "TENKUOTOSHI",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
                 "name": "あちゃじゃがファンクラブFANZA",
-                "seed": 81
+                "seed": 81,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "26d6a9fc-e09e-11ef-8d9a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "26d6a9fc-e09e-11ef-8d9a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b8582aa8-dfdc-11ef-9474-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 197,
