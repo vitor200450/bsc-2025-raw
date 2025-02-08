@@ -49311,18 +49311,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
                 "name": "Triunfadores",
-                "seed": 424
+                "seed": 424,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8d47f0f0-e1c1-11ef-ba38-0242ac130004",
                 "name": "SSJ",
-                "seed": 680
+                "seed": 680,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d47f0f0-e1c1-11ef-ba38-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "bbc38654-e05b-11ef-9d08-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d47f0f0-e1c1-11ef-ba38-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 793,
