@@ -27741,7 +27741,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e9a134c-e009-11ef-a13d-0242ac130004",
                 "name": "Corvus Aeternus",
@@ -27750,7 +27750,8 @@
             "opponent2": {
                 "id": "c6529372-e136-11ef-bf5b-0242ac130004",
                 "name": "Team Bat Heroic",
-                "seed": 569
+                "seed": 569,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -38104,10 +38105,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4e9a134c-e009-11ef-a13d-0242ac130004",
+                "name": "Corvus Aeternus",
+                "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "96994d22-e566-11ef-900d-0242ac130004",
+                "name": "GoodPlay",
+                "seed": 825
             },
             "match_games": []
         },
