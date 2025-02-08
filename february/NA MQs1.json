@@ -38767,18 +38767,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5f76e12-e319-11ef-b005-0242ac130004",
                 "name": "Tonotos Gaming",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fcb4b32c-e114-11ef-ba3a-0242ac130004",
                 "name": "Pirates",
-                "seed": 589
+                "seed": 589,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fcb4b32c-e114-11ef-ba3a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fcb4b32c-e114-11ef-ba3a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 600,
@@ -44349,7 +44384,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                "name": "Tonotos Gaming",
+                "seed": 77
             },
             "opponent2": {
                 "id": null
