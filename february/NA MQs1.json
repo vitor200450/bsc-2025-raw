@@ -18325,18 +18325,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c255d074-e021-11ef-ae38-0242ac130004",
                 "name": "EJDC",
-                "seed": 292
+                "seed": 292,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c32197ba-e231-11ef-a396-0242ac130004",
                 "name": "Bag71",
-                "seed": 733
+                "seed": 733,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c255d074-e021-11ef-ae38-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c32197ba-e231-11ef-a396-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c255d074-e021-11ef-ae38-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c32197ba-e231-11ef-a396-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c255d074-e021-11ef-ae38-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c32197ba-e231-11ef-a396-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 157,
@@ -27636,7 +27686,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "dfdb9378-e255-11ef-9ba4-0242ac130004",
                 "name": "Zenith stars two",
@@ -33096,7 +33146,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "1d0025fa-e023-11ef-a0fc-0242ac130004",
                 "name": "The Reign",
@@ -36090,7 +36140,9 @@
                 "seed": 804
             },
             "opponent2": {
-                "id": null
+                "id": "c255d074-e021-11ef-ae38-0242ac130004",
+                "name": "EJDC",
+                "seed": 292
             },
             "match_games": []
         },
