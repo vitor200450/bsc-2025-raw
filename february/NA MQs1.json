@@ -44492,18 +44492,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe0c436a-e2b9-11ef-8004-0242ac130004",
                 "name": "Los brawleros fc",
-                "seed": 787
+                "seed": 787,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d59c6d20-e015-11ef-bdd0-0242ac130004",
                 "name": "Primos Washos",
-                "seed": 275
+                "seed": 275,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fe0c436a-e2b9-11ef-8004-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d59c6d20-e015-11ef-bdd0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "fe0c436a-e2b9-11ef-8004-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d59c6d20-e015-11ef-bdd0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "fe0c436a-e2b9-11ef-8004-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d59c6d20-e015-11ef-bdd0-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 731,
@@ -47841,7 +47891,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "d59c6d20-e015-11ef-bdd0-0242ac130004",
+                "name": "Primos Washos",
+                "seed": 275
             },
             "match_games": []
         },
