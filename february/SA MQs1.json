@@ -28498,18 +28498,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e811498-e0f7-11ef-b783-0242ac130004",
                 "name": "MKU|BEACH",
-                "seed": 69
+                "seed": 69,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
                 "name": "BONDE DO TIGRAO",
-                "seed": 444
+                "seed": 444,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4e811498-e0f7-11ef-b783-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4e811498-e0f7-11ef-b783-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 616,
@@ -29799,18 +29834,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d033078a-e03e-11ef-9f48-0242ac130004",
                 "name": "ACRE HATERS🦖",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "869cd3e0-e0f6-11ef-a4a3-0242ac130004",
                 "name": "TP | TEAM POLLO |TP",
-                "seed": 519
+                "seed": 519,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d033078a-e03e-11ef-9f48-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "869cd3e0-e0f6-11ef-a4a3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d033078a-e03e-11ef-9f48-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "869cd3e0-e0f6-11ef-a4a3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 674,
@@ -30959,18 +31029,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d3cb1fd0-e611-11ef-9257-0242ac130004",
                 "name": "Chandan",
-                "seed": 883
+                "seed": 883,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
                 "name": "Shadow Warriors",
-                "seed": 654
+                "seed": 654,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d3cb1fd0-e611-11ef-9257-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d3cb1fd0-e611-11ef-9257-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 725,
@@ -32784,7 +32889,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b446db2c-e0c1-11ef-8930-0242ac130004",
+                "name": "BONDE DO TIGRAO",
+                "seed": 444
             },
             "opponent2": {
                 "id": null
@@ -33254,7 +33361,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d033078a-e03e-11ef-9f48-0242ac130004",
+                "name": "ACRE HATERS🦖",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -33665,7 +33774,9 @@
                 "seed": 627
             },
             "opponent2": {
-                "id": null
+                "id": "6e81ebe2-e1c3-11ef-b2cb-0242ac130004",
+                "name": "Shadow Warriors",
+                "seed": 654
             },
             "match_games": []
         },
