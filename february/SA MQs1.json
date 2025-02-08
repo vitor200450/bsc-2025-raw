@@ -49306,11 +49306,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8fda7f6-e2a3-11ef-8836-0242ac130004",
                 "name": "CAP|CAPCON",
-                "seed": 134
+                "seed": 134,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "cd08036e-e190-11ef-a884-0242ac130004",
@@ -49766,10 +49767,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd08036e-e190-11ef-a884-0242ac130004",
+                "name": "Luna Lupus",
+                "seed": 70
             },
             "opponent2": {
-                "id": null
+                "id": "f2c0abde-e0d1-11ef-ba5e-0242ac130004",
+                "name": "Los Crias Team",
+                "seed": 27
             },
             "match_games": []
         },

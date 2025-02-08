@@ -19320,18 +19320,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1db5dd50-e046-11ef-9707-0242ac130004",
                 "name": "GMA",
-                "seed": 365
+                "seed": 365,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8a3614c6-e1af-11ef-904e-0242ac130004",
                 "name": "Predator Mode On",
-                "seed": 660
+                "seed": 660,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1db5dd50-e046-11ef-9707-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a3614c6-e1af-11ef-904e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1db5dd50-e046-11ef-9707-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a3614c6-e1af-11ef-904e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 185,
@@ -32926,18 +32961,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "04ba4488-e048-11ef-8978-0242ac130004",
                 "name": "Los Primos Cracks",
-                "seed": 374
+                "seed": 374,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "726f8d62-e1a6-11ef-8bc4-0242ac130004",
                 "name": "IFGF BRUZZ",
-                "seed": 651
+                "seed": 651,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "04ba4488-e048-11ef-8978-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "726f8d62-e1a6-11ef-8bc4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "04ba4488-e048-11ef-8978-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "726f8d62-e1a6-11ef-8bc4-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 489,
@@ -35556,7 +35626,9 @@
                 "seed": 148
             },
             "opponent2": {
-                "id": null
+                "id": "1db5dd50-e046-11ef-9707-0242ac130004",
+                "name": "GMA",
+                "seed": 365
             },
             "match_games": []
         },
