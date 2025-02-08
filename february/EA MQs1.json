@@ -5005,7 +5005,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
                 "name": "Monaka",
@@ -5014,7 +5014,8 @@
             "opponent2": {
                 "id": "7f7adaa4-e361-11ef-aa90-0242ac130004",
                 "name": "JSY",
-                "seed": 213
+                "seed": 213,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -7969,10 +7970,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                "name": "Monaka",
+                "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "72671eb4-dfe1-11ef-8afc-0242ac130004",
+                "name": "KT",
+                "seed": 85
             },
             "match_games": []
         },
