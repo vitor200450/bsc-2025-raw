@@ -5310,18 +5310,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5d65c88-e1fa-11ef-a1e6-0242ac130004",
                 "name": "Genius",
-                "seed": 39
+                "seed": 39,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
                 "name": "브대남의 월파 도전기",
-                "seed": 218
+                "seed": 218,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d5d65c88-e1fa-11ef-a1e6-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d5d65c88-e1fa-11ef-a1e6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 88,
@@ -5520,18 +5555,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4b02623e-e027-11ef-8ed2-0242ac130004",
                 "name": "SMZN COMMAND",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "71550b98-e0be-11ef-9fa4-0242ac130004",
                 "name": "自主練いこか",
-                "seed": 151
+                "seed": 151,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4b02623e-e027-11ef-8ed2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "71550b98-e0be-11ef-9fa4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4b02623e-e027-11ef-8ed2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "71550b98-e0be-11ef-9fa4-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 95,
@@ -7248,7 +7318,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                "name": "브대남의 월파 도전기",
+                "seed": 218
             },
             "opponent2": {
                 "id": null
