@@ -50087,18 +50087,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d62982-e0e5-11ef-85c0-0242ac130004",
                 "name": "3DBR ONE",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "78a726b2-e10c-11ef-9538-0242ac130004",
                 "name": "Game Life",
-                "seed": 543
+                "seed": 543,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "70d62982-e0e5-11ef-85c0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78a726b2-e10c-11ef-9538-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "70d62982-e0e5-11ef-85c0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "78a726b2-e10c-11ef-9538-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1002,
