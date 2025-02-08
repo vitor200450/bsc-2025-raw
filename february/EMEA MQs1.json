@@ -35610,18 +35610,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f4a899e-e0a2-11ef-959e-0242ac130004",
                 "name": "LRX/TEAM",
-                "seed": 1585
+                "seed": 1585,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa17e740-e260-11ef-b39f-0242ac130004",
                 "name": "BAT LEGENDS",
-                "seed": 2512
+                "seed": 2512,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0f4a899e-e0a2-11ef-959e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa17e740-e260-11ef-b39f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f4a899e-e0a2-11ef-959e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa17e740-e260-11ef-b39f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0f4a899e-e0a2-11ef-959e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa17e740-e260-11ef-b39f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 167,
@@ -77508,7 +77558,9 @@
                 "seed": 464
             },
             "opponent2": {
-                "id": null
+                "id": "0f4a899e-e0a2-11ef-959e-0242ac130004",
+                "name": "LRX/TEAM",
+                "seed": 1585
             },
             "match_games": []
         },
