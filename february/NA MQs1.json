@@ -51897,18 +51897,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
                 "name": "Nameless",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fdf0d658-e272-11ef-a5cc-0242ac130004",
                 "name": "SementalesEsports.",
-                "seed": 763
+                "seed": 763,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdf0d658-e272-11ef-a5cc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdf0d658-e272-11ef-a5cc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 882,
@@ -53322,10 +53357,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                "name": "Nameless",
+                "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "3dcbed84-e55d-11ef-8f16-0242ac130004",
+                "name": "FEW OAK",
+                "seed": 891
             },
             "match_games": []
         },
