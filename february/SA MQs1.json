@@ -41684,18 +41684,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13409862-e30a-11ef-bcb9-0242ac130004",
                 "name": "ToTheMoon🌒",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7e0c0ccc-e016-11ef-a43f-0242ac130004",
                 "name": "Tribe 6ix Two",
-                "seed": 279
+                "seed": 279,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "13409862-e30a-11ef-bcb9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7e0c0ccc-e016-11ef-a43f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "13409862-e30a-11ef-bcb9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7e0c0ccc-e016-11ef-a43f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 862,
@@ -41779,18 +41814,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9a9d349e-e028-11ef-96fe-0242ac130004",
                 "name": "GALÁTICS",
-                "seed": 87
+                "seed": 87,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "235fce3c-e1e0-11ef-8a43-0242ac130004",
                 "name": "Kmz Argentina",
-                "seed": 682
+                "seed": 682,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9a9d349e-e028-11ef-96fe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "235fce3c-e1e0-11ef-8a43-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "9a9d349e-e028-11ef-96fe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "235fce3c-e1e0-11ef-8a43-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 865,
@@ -42339,18 +42409,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "667004ea-e1a3-11ef-95ac-0242ac130004",
                 "name": "Papus",
-                "seed": 110
+                "seed": 110,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0d3e57a-e5f4-11ef-bae9-0242ac130004",
                 "name": "Inka Chips",
-                "seed": 878
+                "seed": 878,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "667004ea-e1a3-11ef-95ac-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0d3e57a-e5f4-11ef-bae9-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "667004ea-e1a3-11ef-95ac-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0d3e57a-e5f4-11ef-bae9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 879,
@@ -43983,7 +44088,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7e0c0ccc-e016-11ef-a43f-0242ac130004",
+                "name": "Tribe 6ix Two",
+                "seed": 279
             },
             "opponent2": {
                 "id": null
@@ -44004,7 +44111,9 @@
                 "seed": 810
             },
             "opponent2": {
-                "id": null
+                "id": "9a9d349e-e028-11ef-96fe-0242ac130004",
+                "name": "GALÁTICS",
+                "seed": 87
             },
             "match_games": []
         },
@@ -44128,7 +44237,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "667004ea-e1a3-11ef-95ac-0242ac130004",
+                "name": "Papus",
+                "seed": 110
             },
             "match_games": []
         },
