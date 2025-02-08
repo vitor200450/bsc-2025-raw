@@ -55972,18 +55972,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
                 "name": "Draft 4 Me",
-                "seed": 60
+                "seed": 60,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd2f4f0c-e025-11ef-b495-0242ac130004",
                 "name": "Nettspend Nuggets",
-                "seed": 69
+                "seed": 69,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f4f0c-e025-11ef-b495-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd2f4f0c-e025-11ef-b495-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 923,
