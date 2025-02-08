@@ -39160,18 +39160,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e67eccc-e0ba-11ef-8d71-0242ac130004",
                 "name": "Piercing Fang",
-                "seed": 1689
+                "seed": 1689,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "daf65b88-e208-11ef-b33a-0242ac130004",
                 "name": "S-Q-S",
-                "seed": 2408
+                "seed": 2408,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3e67eccc-e0ba-11ef-8d71-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "daf65b88-e208-11ef-b33a-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3e67eccc-e0ba-11ef-8d71-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "daf65b88-e208-11ef-b33a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3e67eccc-e0ba-11ef-8d71-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "daf65b88-e208-11ef-b33a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 351,
@@ -67014,18 +67064,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5d1fe5d2-e0a8-11ef-8ce9-0242ac130004",
                 "name": "SBB",
-                "seed": 1614
+                "seed": 1614,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c7aae0b8-e248-11ef-8ba6-0242ac130004",
                 "name": "CKG ESPORTS",
-                "seed": 2483
+                "seed": 2483,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5d1fe5d2-e0a8-11ef-8ce9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c7aae0b8-e248-11ef-8ba6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5d1fe5d2-e0a8-11ef-8ce9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c7aae0b8-e248-11ef-8ba6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5d1fe5d2-e0a8-11ef-8ce9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c7aae0b8-e248-11ef-8ba6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1719,
@@ -77055,7 +77155,9 @@
                 "seed": 360
             },
             "opponent2": {
-                "id": null
+                "id": "daf65b88-e208-11ef-b33a-0242ac130004",
+                "name": "S-Q-S",
+                "seed": 2408
             },
             "match_games": []
         },
@@ -86573,7 +86675,9 @@
                 "seed": 871
             },
             "opponent2": {
-                "id": null
+                "id": "8c34fd10-e5f5-11ef-8f04-0242ac130004",
+                "name": "E sport / AMC",
+                "seed": 2919
             },
             "match_games": []
         },
@@ -89771,7 +89875,9 @@
                 "seed": 435
             },
             "opponent2": {
-                "id": null
+                "id": "c7aae0b8-e248-11ef-8ba6-0242ac130004",
+                "name": "CKG ESPORTS",
+                "seed": 2483
             },
             "match_games": []
         },
