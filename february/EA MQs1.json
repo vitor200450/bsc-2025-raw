@@ -4839,18 +4839,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
                 "name": "ファイナルラストフォース",
-                "seed": 53
+                "seed": 53,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c0905448-e243-11ef-a8e9-0242ac130004",
                 "name": "YSR",
-                "seed": 204
+                "seed": 204,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0905448-e243-11ef-a8e9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0905448-e243-11ef-a8e9-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 60,
@@ -7950,10 +7985,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                "name": "ファイナルラストフォース",
+                "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "af9969f2-dfd4-11ef-a876-0242ac130004",
+                "name": "恋するプリモママ",
+                "seed": 76
             },
             "match_games": []
         },
