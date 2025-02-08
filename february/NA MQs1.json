@@ -50887,18 +50887,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2460d18e-e175-11ef-abfe-0242ac130004",
                 "name": "Rocket Berserk",
-                "seed": 628
+                "seed": 628,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
                 "name": "Virus",
-                "seed": 372
+                "seed": 372,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6dd7b3b6-e047-11ef-a2e2-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 811,
@@ -55569,7 +55619,9 @@
                 "seed": 781
             },
             "opponent2": {
-                "id": null
+                "id": "2460d18e-e175-11ef-abfe-0242ac130004",
+                "name": "Rocket Berserk",
+                "seed": 628
             },
             "match_games": []
         },
