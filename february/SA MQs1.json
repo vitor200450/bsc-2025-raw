@@ -38143,18 +38143,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "568301e4-e348-11ef-aac1-0242ac130004",
                 "name": "HiddenX",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d5221e20-e016-11ef-b6d8-0242ac130004",
                 "name": "GoatSports🐢",
-                "seed": 281
+                "seed": 281,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d5221e20-e016-11ef-b6d8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d5221e20-e016-11ef-b6d8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 790,
@@ -39083,18 +39118,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5dce304-e0c2-11ef-b7e1-0242ac130004",
                 "name": "JLG GAMING",
-                "seed": 447
+                "seed": 447,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
                 "name": "Los tilinos",
-                "seed": 703
+                "seed": 703,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b5dce304-e0c2-11ef-b7e1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "b5dce304-e0c2-11ef-b7e1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "64d7f278-e24d-11ef-9b9c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 837,
@@ -40535,7 +40605,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                "name": "HiddenX",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
