@@ -47879,7 +47879,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0a95376a-e0dd-11ef-a028-0242ac130004",
                 "name": "TrenTrio",
@@ -47888,7 +47888,8 @@
             "opponent2": {
                 "id": "b7db9efe-e188-11ef-b8dc-0242ac130004",
                 "name": "Team Verty",
-                "seed": 2228
+                "seed": 2228,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -84621,7 +84622,9 @@
                 "seed": 180
             },
             "opponent2": {
-                "id": null
+                "id": "0a95376a-e0dd-11ef-a028-0242ac130004",
+                "name": "TrenTrio",
+                "seed": 1869
             },
             "match_games": []
         },
