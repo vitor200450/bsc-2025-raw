@@ -40567,18 +40567,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7f6c606-e0e3-11ef-888f-0242ac130004",
                 "name": "order of oink",
-                "seed": 108
+                "seed": 108,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f967a84c-e140-11ef-9473-0242ac130004",
                 "name": "Toxic Kings",
-                "seed": 620
+                "seed": 620,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c7f6c606-e0e3-11ef-888f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c7f6c606-e0e3-11ef-888f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "c7f6c606-e0e3-11ef-888f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 636,
@@ -45901,7 +45951,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f967a84c-e140-11ef-9473-0242ac130004",
+                "name": "Toxic Kings",
+                "seed": 620
             },
             "opponent2": {
                 "id": null
