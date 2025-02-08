@@ -45981,7 +45981,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
                 "name": "South Park BR",
@@ -45990,7 +45990,8 @@
             "opponent2": {
                 "id": "c0478180-e560-11ef-9e5c-0242ac130004",
                 "name": "OVOSHI",
-                "seed": 149
+                "seed": 149,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -47925,10 +47926,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b69729a6-e0ba-11ef-b67d-0242ac130004",
+                "name": "South Park BR",
+                "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "e9f10cce-e4e6-11ef-8873-0242ac130004",
+                "name": "Sanguchitos",
+                "seed": 812
             },
             "match_games": []
         },
