@@ -48841,18 +48841,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3b3c054-e107-11ef-aa0a-0242ac130004",
                 "name": "Shadow Garden 🐝",
-                "seed": 577
+                "seed": 577,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
                 "name": "Troyan Ponies",
-                "seed": 704
+                "seed": 704,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a3b3c054-e107-11ef-aa0a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a3b3c054-e107-11ef-aa0a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 773,
@@ -50011,18 +50046,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "402c8c3a-e262-11ef-9202-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "68393802-dff8-11ef-8c53-0242ac130004",
                 "name": "Doing too much",
-                "seed": 237
+                "seed": 237,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "68393802-dff8-11ef-8c53-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "68393802-dff8-11ef-8c53-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 814,
@@ -50071,18 +50141,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
                 "name": "HVC|Hood",
-                "seed": 84
+                "seed": 84,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b2c71b8a-e428-11ef-a5ea-0242ac130004",
                 "name": "Bald Asian Beaners",
-                "seed": 852
+                "seed": 852,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b2c71b8a-e428-11ef-a5ea-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "b2addf26-e383-11ef-ae5d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b2c71b8a-e428-11ef-a5ea-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 817,
@@ -52205,7 +52310,9 @@
                 "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "a3b3c054-e107-11ef-aa0a-0242ac130004",
+                "name": "Shadow Garden 🐝",
+                "seed": 577
             },
             "match_games": []
         },
@@ -52550,7 +52657,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                "name": "OCTANE ESPORTS",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
