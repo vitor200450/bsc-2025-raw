@@ -39332,18 +39332,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
                 "name": "Kimchi Fund",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "71dc943c-e0cd-11ef-84a2-0242ac130004",
                 "name": "New Era",
-                "seed": 498
+                "seed": 498,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "71dc943c-e0cd-11ef-84a2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "71dc943c-e0cd-11ef-84a2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 658,
@@ -42796,7 +42831,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c9cc77a4-e5b2-11ef-bae1-0242ac130004",
+                "name": "Kimchi Fund",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
