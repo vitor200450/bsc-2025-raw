@@ -4905,18 +4905,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2815884-dff9-11ef-bf87-0242ac130004",
                 "name": "啊？超荒唐好好笑...👀",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ca7300b2-e100-11ef-8df5-0242ac130004",
                 "name": "I Don know",
-                "seed": 154
+                "seed": 154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c2815884-dff9-11ef-bf87-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca7300b2-e100-11ef-8df5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c2815884-dff9-11ef-bf87-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ca7300b2-e100-11ef-8df5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 87,
@@ -6540,7 +6575,9 @@
                 "seed": 231
             },
             "opponent2": {
-                "id": null
+                "id": "ca7300b2-e100-11ef-8df5-0242ac130004",
+                "name": "I Don know",
+                "seed": 154
             },
             "match_games": []
         },
