@@ -50021,18 +50021,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52702a02-e10c-11ef-bd03-0242ac130004",
                 "name": "H",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a7a583ba-dfad-11ef-9fb9-0242ac130004",
                 "name": "Los Brad's",
-                "seed": 213
+                "seed": 213,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a7a583ba-dfad-11ef-9fb9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a7a583ba-dfad-11ef-9fb9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 832,
@@ -50921,18 +50956,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
                 "name": "Kangaroos",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "936b9ae4-dffb-11ef-8e90-0242ac130004",
                 "name": "MLJ",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "936b9ae4-dffb-11ef-8e90-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "936b9ae4-dffb-11ef-8e90-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 877,
@@ -51839,7 +51909,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "52702a02-e10c-11ef-bd03-0242ac130004",
+                "name": "H",
+                "seed": 44
             },
             "opponent2": {
                 "id": null
