@@ -46021,18 +46021,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "518db4c0-e1a1-11ef-b513-0242ac130004",
                 "name": "Northeast Team",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35445b98-e1dd-11ef-af38-0242ac130004",
                 "name": "Fearless",
-                "seed": 677
+                "seed": 677,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "518db4c0-e1a1-11ef-b513-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35445b98-e1dd-11ef-af38-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "518db4c0-e1a1-11ef-b513-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35445b98-e1dd-11ef-af38-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "518db4c0-e1a1-11ef-b513-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35445b98-e1dd-11ef-af38-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 925,
@@ -46597,15 +46647,49 @@
             "opponent1": {
                 "id": "8e5de660-e023-11ef-9247-0242ac130004",
                 "name": "Ex0",
-                "seed": 303
+                "seed": 303,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1af337e0-e17a-11ef-8840-0242ac130004",
                 "name": "Secos e Molhados",
                 "seed": 594,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8e5de660-e023-11ef-9247-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1af337e0-e17a-11ef-8840-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8e5de660-e023-11ef-9247-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1af337e0-e17a-11ef-8840-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 937,
