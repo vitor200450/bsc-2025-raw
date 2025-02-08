@@ -9886,18 +9886,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b1e7142-e009-11ef-b354-0242ac130004",
                 "name": "Touros Negros",
-                "seed": 256
+                "seed": 256,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "61f29514-e3fa-11ef-8748-0242ac130004",
                 "name": "TINS",
-                "seed": 769
+                "seed": 769,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2b1e7142-e009-11ef-b354-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61f29514-e3fa-11ef-8748-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2b1e7142-e009-11ef-b354-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "61f29514-e3fa-11ef-8748-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -10014,18 +10049,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f245c8a-e0c3-11ef-b536-0242ac130004",
                 "name": "Os Elétricos",
-                "seed": 449
+                "seed": 449,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
                 "name": "AQP|Dragons",
-                "seed": 576
+                "seed": 576,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0f245c8a-e0c3-11ef-b536-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f245c8a-e0c3-11ef-b536-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0f245c8a-e0c3-11ef-b536-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -13470,18 +13555,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0df8af9c-e004-11ef-ab47-0242ac130004",
                 "name": "COQUETTES",
-                "seed": 244
+                "seed": 244,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0a1a98a6-e430-11ef-b5e9-0242ac130004",
                 "name": "Brawlzilla",
-                "seed": 781
+                "seed": 781,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0df8af9c-e004-11ef-ab47-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0a1a98a6-e430-11ef-b5e9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0df8af9c-e004-11ef-ab47-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0a1a98a6-e430-11ef-b5e9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 164,
@@ -16426,18 +16546,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b64fa9a-e0f9-11ef-8678-0242ac130004",
                 "name": "BK Onyx",
-                "seed": 143
+                "seed": 143,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6fdbd824-e608-11ef-ac17-0242ac130004",
                 "name": "Black and white",
-                "seed": 882
+                "seed": 882,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2b64fa9a-e0f9-11ef-8678-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fdbd824-e608-11ef-ac17-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2b64fa9a-e0f9-11ef-8678-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fdbd824-e608-11ef-ac17-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 296,
@@ -18496,18 +18651,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "821112ec-e0f0-11ef-9ac3-0242ac130004",
                 "name": "The Walkers 69",
-                "seed": 510
+                "seed": 510,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "274c600c-e0f3-11ef-ad3e-0242ac130004",
                 "name": "Daek RAVEB",
-                "seed": 515
+                "seed": 515,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "821112ec-e0f0-11ef-9ac3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "274c600c-e0f3-11ef-ad3e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "821112ec-e0f0-11ef-9ac3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "274c600c-e0f3-11ef-ad3e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -18941,18 +19131,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "26951f80-e019-11ef-93b9-0242ac130004",
                 "name": "Sismo :v",
-                "seed": 286
+                "seed": 286,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "472393ca-e308-11ef-99f7-0242ac130004",
                 "name": "Triángulouff",
-                "seed": 739
+                "seed": 739,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "26951f80-e019-11ef-93b9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "472393ca-e308-11ef-99f7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "26951f80-e019-11ef-93b9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "472393ca-e308-11ef-99f7-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 405,
@@ -19766,18 +19991,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "661e46a8-e042-11ef-ac30-0242ac130004",
                 "name": "Fantasma",
-                "seed": 366
+                "seed": 366,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2c997ca2-e1ca-11ef-88be-0242ac130004",
                 "name": "LosPericotes",
-                "seed": 659
+                "seed": 659,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "661e46a8-e042-11ef-ac30-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2c997ca2-e1ca-11ef-88be-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "661e46a8-e042-11ef-ac30-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2c997ca2-e1ca-11ef-88be-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 441,
@@ -20420,18 +20680,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6e45292-e35b-11ef-b712-0242ac130004",
                 "name": "SYD🐻🔥",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8986d56e-e5c5-11ef-b366-0242ac130004",
                 "name": "RUSH",
-                "seed": 870
+                "seed": 870,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a6e45292-e35b-11ef-b712-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8986d56e-e5c5-11ef-b366-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a6e45292-e35b-11ef-b712-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8986d56e-e5c5-11ef-b366-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 472,
@@ -21112,18 +21407,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7adb9d88-e016-11ef-93e3-0242ac130004",
                 "name": "Lightsinshadows",
-                "seed": 278
+                "seed": 278,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5072da18-e32f-11ef-8038-0242ac130004",
                 "name": "Frog Games",
-                "seed": 747
+                "seed": 747,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7adb9d88-e016-11ef-93e3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5072da18-e32f-11ef-8038-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7adb9d88-e016-11ef-93e3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5072da18-e32f-11ef-8038-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 501,
@@ -21417,7 +21747,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b1e7142-e009-11ef-b354-0242ac130004",
+                "name": "Touros Negros",
+                "seed": 256
             },
             "opponent2": {
                 "id": null
@@ -21474,7 +21806,9 @@
                 "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                "name": "AQP|Dragons",
+                "seed": 576
             },
             "match_games": []
         },
@@ -22809,7 +23143,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0a1a98a6-e430-11ef-b5e9-0242ac130004",
+                "name": "Brawlzilla",
+                "seed": 781
             },
             "opponent2": {
                 "id": null
@@ -23961,7 +24297,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b64fa9a-e0f9-11ef-8678-0242ac130004",
+                "name": "BK Onyx",
+                "seed": 143
             },
             "opponent2": {
                 "id": null
@@ -24746,7 +25084,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "821112ec-e0f0-11ef-9ac3-0242ac130004",
+                "name": "The Walkers 69",
+                "seed": 510
             },
             "match_games": []
         },
@@ -25493,7 +25833,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8986d56e-e5c5-11ef-b366-0242ac130004",
+                "name": "RUSH",
+                "seed": 870
             },
             "opponent2": {
                 "id": null
@@ -25849,7 +26191,7 @@
             "match_games": []
         },
         {
-            "id": 772,
+            "id": 769,
             "number": 1,
             "stage_id": 0,
             "group_id": 0,
@@ -25865,7 +26207,7 @@
             "match_games": []
         },
         {
-            "id": 773,
+            "id": 770,
             "number": 2,
             "stage_id": 0,
             "group_id": 0,
@@ -25881,7 +26223,7 @@
             "match_games": []
         },
         {
-            "id": 774,
+            "id": 771,
             "number": 3,
             "stage_id": 0,
             "group_id": 0,
@@ -25897,7 +26239,7 @@
             "match_games": []
         },
         {
-            "id": 775,
+            "id": 772,
             "number": 4,
             "stage_id": 0,
             "group_id": 0,
@@ -25913,7 +26255,7 @@
             "match_games": []
         },
         {
-            "id": 776,
+            "id": 773,
             "number": 5,
             "stage_id": 0,
             "group_id": 0,
@@ -25929,7 +26271,7 @@
             "match_games": []
         },
         {
-            "id": 777,
+            "id": 774,
             "number": 6,
             "stage_id": 0,
             "group_id": 0,
@@ -25945,7 +26287,7 @@
             "match_games": []
         },
         {
-            "id": 778,
+            "id": 775,
             "number": 7,
             "stage_id": 0,
             "group_id": 0,
@@ -25961,7 +26303,7 @@
             "match_games": []
         },
         {
-            "id": 779,
+            "id": 776,
             "number": 8,
             "stage_id": 0,
             "group_id": 0,
@@ -25977,7 +26319,7 @@
             "match_games": []
         },
         {
-            "id": 780,
+            "id": 777,
             "number": 9,
             "stage_id": 0,
             "group_id": 0,
@@ -25993,7 +26335,7 @@
             "match_games": []
         },
         {
-            "id": 781,
+            "id": 778,
             "number": 10,
             "stage_id": 0,
             "group_id": 0,
@@ -26009,7 +26351,7 @@
             "match_games": []
         },
         {
-            "id": 782,
+            "id": 779,
             "number": 11,
             "stage_id": 0,
             "group_id": 0,
@@ -26025,7 +26367,7 @@
             "match_games": []
         },
         {
-            "id": 783,
+            "id": 780,
             "number": 12,
             "stage_id": 0,
             "group_id": 0,
@@ -26041,7 +26383,7 @@
             "match_games": []
         },
         {
-            "id": 784,
+            "id": 781,
             "number": 13,
             "stage_id": 0,
             "group_id": 0,
@@ -26057,7 +26399,7 @@
             "match_games": []
         },
         {
-            "id": 785,
+            "id": 782,
             "number": 14,
             "stage_id": 0,
             "group_id": 0,
@@ -26073,7 +26415,7 @@
             "match_games": []
         },
         {
-            "id": 786,
+            "id": 783,
             "number": 15,
             "stage_id": 0,
             "group_id": 0,
@@ -26089,7 +26431,7 @@
             "match_games": []
         },
         {
-            "id": 787,
+            "id": 784,
             "number": 16,
             "stage_id": 0,
             "group_id": 0,
@@ -26105,7 +26447,7 @@
             "match_games": []
         },
         {
-            "id": 788,
+            "id": 785,
             "number": 17,
             "stage_id": 0,
             "group_id": 0,
@@ -26121,7 +26463,7 @@
             "match_games": []
         },
         {
-            "id": 789,
+            "id": 786,
             "number": 18,
             "stage_id": 0,
             "group_id": 0,
@@ -26137,7 +26479,7 @@
             "match_games": []
         },
         {
-            "id": 790,
+            "id": 787,
             "number": 19,
             "stage_id": 0,
             "group_id": 0,
@@ -26153,7 +26495,7 @@
             "match_games": []
         },
         {
-            "id": 791,
+            "id": 788,
             "number": 20,
             "stage_id": 0,
             "group_id": 0,
@@ -26169,7 +26511,7 @@
             "match_games": []
         },
         {
-            "id": 792,
+            "id": 789,
             "number": 21,
             "stage_id": 0,
             "group_id": 0,
@@ -26185,7 +26527,7 @@
             "match_games": []
         },
         {
-            "id": 793,
+            "id": 790,
             "number": 22,
             "stage_id": 0,
             "group_id": 0,
@@ -26201,7 +26543,7 @@
             "match_games": []
         },
         {
-            "id": 794,
+            "id": 791,
             "number": 23,
             "stage_id": 0,
             "group_id": 0,
@@ -26217,7 +26559,7 @@
             "match_games": []
         },
         {
-            "id": 795,
+            "id": 792,
             "number": 24,
             "stage_id": 0,
             "group_id": 0,
@@ -26233,7 +26575,7 @@
             "match_games": []
         },
         {
-            "id": 796,
+            "id": 793,
             "number": 25,
             "stage_id": 0,
             "group_id": 0,
@@ -26249,7 +26591,7 @@
             "match_games": []
         },
         {
-            "id": 797,
+            "id": 794,
             "number": 26,
             "stage_id": 0,
             "group_id": 0,
@@ -26265,7 +26607,7 @@
             "match_games": []
         },
         {
-            "id": 798,
+            "id": 795,
             "number": 27,
             "stage_id": 0,
             "group_id": 0,
@@ -26281,7 +26623,7 @@
             "match_games": []
         },
         {
-            "id": 799,
+            "id": 796,
             "number": 28,
             "stage_id": 0,
             "group_id": 0,
@@ -26297,7 +26639,7 @@
             "match_games": []
         },
         {
-            "id": 800,
+            "id": 797,
             "number": 29,
             "stage_id": 0,
             "group_id": 0,
@@ -26313,7 +26655,7 @@
             "match_games": []
         },
         {
-            "id": 801,
+            "id": 798,
             "number": 30,
             "stage_id": 0,
             "group_id": 0,
@@ -26329,7 +26671,7 @@
             "match_games": []
         },
         {
-            "id": 802,
+            "id": 799,
             "number": 31,
             "stage_id": 0,
             "group_id": 0,
@@ -26345,7 +26687,7 @@
             "match_games": []
         },
         {
-            "id": 803,
+            "id": 800,
             "number": 32,
             "stage_id": 0,
             "group_id": 0,
@@ -26361,7 +26703,7 @@
             "match_games": []
         },
         {
-            "id": 804,
+            "id": 801,
             "number": 33,
             "stage_id": 0,
             "group_id": 0,
@@ -26377,7 +26719,7 @@
             "match_games": []
         },
         {
-            "id": 805,
+            "id": 802,
             "number": 34,
             "stage_id": 0,
             "group_id": 0,
@@ -26393,7 +26735,7 @@
             "match_games": []
         },
         {
-            "id": 806,
+            "id": 803,
             "number": 35,
             "stage_id": 0,
             "group_id": 0,
@@ -26409,7 +26751,7 @@
             "match_games": []
         },
         {
-            "id": 807,
+            "id": 804,
             "number": 36,
             "stage_id": 0,
             "group_id": 0,
@@ -26425,7 +26767,7 @@
             "match_games": []
         },
         {
-            "id": 808,
+            "id": 805,
             "number": 37,
             "stage_id": 0,
             "group_id": 0,
@@ -26441,7 +26783,7 @@
             "match_games": []
         },
         {
-            "id": 809,
+            "id": 806,
             "number": 38,
             "stage_id": 0,
             "group_id": 0,
@@ -26457,7 +26799,7 @@
             "match_games": []
         },
         {
-            "id": 810,
+            "id": 807,
             "number": 39,
             "stage_id": 0,
             "group_id": 0,
@@ -26473,7 +26815,7 @@
             "match_games": []
         },
         {
-            "id": 811,
+            "id": 808,
             "number": 40,
             "stage_id": 0,
             "group_id": 0,
@@ -26489,7 +26831,7 @@
             "match_games": []
         },
         {
-            "id": 812,
+            "id": 809,
             "number": 41,
             "stage_id": 0,
             "group_id": 0,
@@ -26505,7 +26847,7 @@
             "match_games": []
         },
         {
-            "id": 813,
+            "id": 810,
             "number": 42,
             "stage_id": 0,
             "group_id": 0,
@@ -26521,7 +26863,7 @@
             "match_games": []
         },
         {
-            "id": 814,
+            "id": 811,
             "number": 43,
             "stage_id": 0,
             "group_id": 0,
@@ -26537,7 +26879,7 @@
             "match_games": []
         },
         {
-            "id": 815,
+            "id": 812,
             "number": 44,
             "stage_id": 0,
             "group_id": 0,
@@ -26553,7 +26895,7 @@
             "match_games": []
         },
         {
-            "id": 816,
+            "id": 813,
             "number": 45,
             "stage_id": 0,
             "group_id": 0,
@@ -26569,7 +26911,7 @@
             "match_games": []
         },
         {
-            "id": 817,
+            "id": 814,
             "number": 46,
             "stage_id": 0,
             "group_id": 0,
@@ -26585,7 +26927,7 @@
             "match_games": []
         },
         {
-            "id": 818,
+            "id": 815,
             "number": 47,
             "stage_id": 0,
             "group_id": 0,
@@ -26601,7 +26943,7 @@
             "match_games": []
         },
         {
-            "id": 819,
+            "id": 816,
             "number": 48,
             "stage_id": 0,
             "group_id": 0,
@@ -26617,7 +26959,7 @@
             "match_games": []
         },
         {
-            "id": 820,
+            "id": 817,
             "number": 49,
             "stage_id": 0,
             "group_id": 0,
@@ -26633,7 +26975,7 @@
             "match_games": []
         },
         {
-            "id": 821,
+            "id": 818,
             "number": 50,
             "stage_id": 0,
             "group_id": 0,
@@ -26649,7 +26991,7 @@
             "match_games": []
         },
         {
-            "id": 822,
+            "id": 819,
             "number": 51,
             "stage_id": 0,
             "group_id": 0,
@@ -26665,7 +27007,7 @@
             "match_games": []
         },
         {
-            "id": 823,
+            "id": 820,
             "number": 52,
             "stage_id": 0,
             "group_id": 0,
@@ -26681,7 +27023,7 @@
             "match_games": []
         },
         {
-            "id": 824,
+            "id": 821,
             "number": 53,
             "stage_id": 0,
             "group_id": 0,
@@ -26697,7 +27039,7 @@
             "match_games": []
         },
         {
-            "id": 825,
+            "id": 822,
             "number": 54,
             "stage_id": 0,
             "group_id": 0,
@@ -26713,7 +27055,7 @@
             "match_games": []
         },
         {
-            "id": 826,
+            "id": 823,
             "number": 55,
             "stage_id": 0,
             "group_id": 0,
@@ -26729,7 +27071,7 @@
             "match_games": []
         },
         {
-            "id": 827,
+            "id": 824,
             "number": 56,
             "stage_id": 0,
             "group_id": 0,
@@ -26745,7 +27087,7 @@
             "match_games": []
         },
         {
-            "id": 828,
+            "id": 825,
             "number": 57,
             "stage_id": 0,
             "group_id": 0,
@@ -26761,7 +27103,7 @@
             "match_games": []
         },
         {
-            "id": 829,
+            "id": 826,
             "number": 58,
             "stage_id": 0,
             "group_id": 0,
@@ -26777,7 +27119,7 @@
             "match_games": []
         },
         {
-            "id": 830,
+            "id": 827,
             "number": 59,
             "stage_id": 0,
             "group_id": 0,
@@ -26793,7 +27135,7 @@
             "match_games": []
         },
         {
-            "id": 831,
+            "id": 828,
             "number": 60,
             "stage_id": 0,
             "group_id": 0,
@@ -26809,7 +27151,7 @@
             "match_games": []
         },
         {
-            "id": 832,
+            "id": 829,
             "number": 61,
             "stage_id": 0,
             "group_id": 0,
@@ -26825,7 +27167,7 @@
             "match_games": []
         },
         {
-            "id": 833,
+            "id": 830,
             "number": 62,
             "stage_id": 0,
             "group_id": 0,
@@ -26841,7 +27183,7 @@
             "match_games": []
         },
         {
-            "id": 834,
+            "id": 831,
             "number": 63,
             "stage_id": 0,
             "group_id": 0,
@@ -26857,7 +27199,7 @@
             "match_games": []
         },
         {
-            "id": 835,
+            "id": 832,
             "number": 64,
             "stage_id": 0,
             "group_id": 0,
@@ -26873,7 +27215,7 @@
             "match_games": []
         },
         {
-            "id": 836,
+            "id": 833,
             "number": 65,
             "stage_id": 0,
             "group_id": 0,
@@ -26889,7 +27231,7 @@
             "match_games": []
         },
         {
-            "id": 837,
+            "id": 834,
             "number": 66,
             "stage_id": 0,
             "group_id": 0,
@@ -26905,7 +27247,7 @@
             "match_games": []
         },
         {
-            "id": 838,
+            "id": 835,
             "number": 67,
             "stage_id": 0,
             "group_id": 0,
@@ -26921,7 +27263,7 @@
             "match_games": []
         },
         {
-            "id": 839,
+            "id": 836,
             "number": 68,
             "stage_id": 0,
             "group_id": 0,
@@ -26937,7 +27279,7 @@
             "match_games": []
         },
         {
-            "id": 840,
+            "id": 837,
             "number": 69,
             "stage_id": 0,
             "group_id": 0,
@@ -26953,7 +27295,7 @@
             "match_games": []
         },
         {
-            "id": 841,
+            "id": 838,
             "number": 70,
             "stage_id": 0,
             "group_id": 0,
@@ -26969,7 +27311,7 @@
             "match_games": []
         },
         {
-            "id": 842,
+            "id": 839,
             "number": 71,
             "stage_id": 0,
             "group_id": 0,
@@ -26985,7 +27327,7 @@
             "match_games": []
         },
         {
-            "id": 843,
+            "id": 840,
             "number": 72,
             "stage_id": 0,
             "group_id": 0,
@@ -27001,7 +27343,7 @@
             "match_games": []
         },
         {
-            "id": 844,
+            "id": 841,
             "number": 73,
             "stage_id": 0,
             "group_id": 0,
@@ -27017,7 +27359,7 @@
             "match_games": []
         },
         {
-            "id": 845,
+            "id": 842,
             "number": 74,
             "stage_id": 0,
             "group_id": 0,
@@ -27033,7 +27375,7 @@
             "match_games": []
         },
         {
-            "id": 846,
+            "id": 843,
             "number": 75,
             "stage_id": 0,
             "group_id": 0,
@@ -27049,7 +27391,7 @@
             "match_games": []
         },
         {
-            "id": 847,
+            "id": 844,
             "number": 76,
             "stage_id": 0,
             "group_id": 0,
@@ -27065,7 +27407,7 @@
             "match_games": []
         },
         {
-            "id": 848,
+            "id": 845,
             "number": 77,
             "stage_id": 0,
             "group_id": 0,
@@ -27081,7 +27423,7 @@
             "match_games": []
         },
         {
-            "id": 849,
+            "id": 846,
             "number": 78,
             "stage_id": 0,
             "group_id": 0,
@@ -27097,7 +27439,7 @@
             "match_games": []
         },
         {
-            "id": 850,
+            "id": 847,
             "number": 79,
             "stage_id": 0,
             "group_id": 0,
@@ -27113,7 +27455,7 @@
             "match_games": []
         },
         {
-            "id": 851,
+            "id": 848,
             "number": 80,
             "stage_id": 0,
             "group_id": 0,
@@ -27129,7 +27471,7 @@
             "match_games": []
         },
         {
-            "id": 852,
+            "id": 849,
             "number": 81,
             "stage_id": 0,
             "group_id": 0,
@@ -27145,7 +27487,7 @@
             "match_games": []
         },
         {
-            "id": 853,
+            "id": 850,
             "number": 82,
             "stage_id": 0,
             "group_id": 0,
@@ -27161,7 +27503,7 @@
             "match_games": []
         },
         {
-            "id": 854,
+            "id": 851,
             "number": 83,
             "stage_id": 0,
             "group_id": 0,
@@ -27177,7 +27519,7 @@
             "match_games": []
         },
         {
-            "id": 855,
+            "id": 852,
             "number": 84,
             "stage_id": 0,
             "group_id": 0,
@@ -27193,7 +27535,7 @@
             "match_games": []
         },
         {
-            "id": 856,
+            "id": 853,
             "number": 85,
             "stage_id": 0,
             "group_id": 0,
@@ -27209,7 +27551,7 @@
             "match_games": []
         },
         {
-            "id": 857,
+            "id": 854,
             "number": 86,
             "stage_id": 0,
             "group_id": 0,
@@ -27225,7 +27567,7 @@
             "match_games": []
         },
         {
-            "id": 858,
+            "id": 855,
             "number": 87,
             "stage_id": 0,
             "group_id": 0,
@@ -27241,7 +27583,7 @@
             "match_games": []
         },
         {
-            "id": 859,
+            "id": 856,
             "number": 88,
             "stage_id": 0,
             "group_id": 0,
@@ -27257,7 +27599,7 @@
             "match_games": []
         },
         {
-            "id": 860,
+            "id": 857,
             "number": 89,
             "stage_id": 0,
             "group_id": 0,
@@ -27273,7 +27615,7 @@
             "match_games": []
         },
         {
-            "id": 861,
+            "id": 858,
             "number": 90,
             "stage_id": 0,
             "group_id": 0,
@@ -27289,7 +27631,7 @@
             "match_games": []
         },
         {
-            "id": 862,
+            "id": 859,
             "number": 91,
             "stage_id": 0,
             "group_id": 0,
@@ -27305,7 +27647,7 @@
             "match_games": []
         },
         {
-            "id": 863,
+            "id": 860,
             "number": 92,
             "stage_id": 0,
             "group_id": 0,
@@ -27321,7 +27663,7 @@
             "match_games": []
         },
         {
-            "id": 864,
+            "id": 861,
             "number": 93,
             "stage_id": 0,
             "group_id": 0,
@@ -27337,7 +27679,7 @@
             "match_games": []
         },
         {
-            "id": 865,
+            "id": 862,
             "number": 94,
             "stage_id": 0,
             "group_id": 0,
@@ -27353,7 +27695,7 @@
             "match_games": []
         },
         {
-            "id": 866,
+            "id": 863,
             "number": 95,
             "stage_id": 0,
             "group_id": 0,
@@ -27369,7 +27711,7 @@
             "match_games": []
         },
         {
-            "id": 867,
+            "id": 864,
             "number": 96,
             "stage_id": 0,
             "group_id": 0,
@@ -27385,7 +27727,7 @@
             "match_games": []
         },
         {
-            "id": 868,
+            "id": 865,
             "number": 97,
             "stage_id": 0,
             "group_id": 0,
@@ -27401,7 +27743,7 @@
             "match_games": []
         },
         {
-            "id": 869,
+            "id": 866,
             "number": 98,
             "stage_id": 0,
             "group_id": 0,
@@ -27417,7 +27759,7 @@
             "match_games": []
         },
         {
-            "id": 870,
+            "id": 867,
             "number": 99,
             "stage_id": 0,
             "group_id": 0,
@@ -27433,7 +27775,7 @@
             "match_games": []
         },
         {
-            "id": 871,
+            "id": 868,
             "number": 100,
             "stage_id": 0,
             "group_id": 0,
@@ -27449,7 +27791,7 @@
             "match_games": []
         },
         {
-            "id": 872,
+            "id": 869,
             "number": 101,
             "stage_id": 0,
             "group_id": 0,
@@ -27465,7 +27807,7 @@
             "match_games": []
         },
         {
-            "id": 873,
+            "id": 870,
             "number": 102,
             "stage_id": 0,
             "group_id": 0,
@@ -27481,7 +27823,7 @@
             "match_games": []
         },
         {
-            "id": 874,
+            "id": 871,
             "number": 103,
             "stage_id": 0,
             "group_id": 0,
@@ -27497,7 +27839,7 @@
             "match_games": []
         },
         {
-            "id": 875,
+            "id": 872,
             "number": 104,
             "stage_id": 0,
             "group_id": 0,
@@ -27513,7 +27855,7 @@
             "match_games": []
         },
         {
-            "id": 876,
+            "id": 873,
             "number": 105,
             "stage_id": 0,
             "group_id": 0,
@@ -27529,7 +27871,7 @@
             "match_games": []
         },
         {
-            "id": 877,
+            "id": 874,
             "number": 106,
             "stage_id": 0,
             "group_id": 0,
@@ -27545,7 +27887,7 @@
             "match_games": []
         },
         {
-            "id": 878,
+            "id": 875,
             "number": 107,
             "stage_id": 0,
             "group_id": 0,
@@ -27561,7 +27903,7 @@
             "match_games": []
         },
         {
-            "id": 879,
+            "id": 876,
             "number": 108,
             "stage_id": 0,
             "group_id": 0,
@@ -27577,7 +27919,7 @@
             "match_games": []
         },
         {
-            "id": 880,
+            "id": 877,
             "number": 109,
             "stage_id": 0,
             "group_id": 0,
@@ -27593,7 +27935,7 @@
             "match_games": []
         },
         {
-            "id": 881,
+            "id": 878,
             "number": 110,
             "stage_id": 0,
             "group_id": 0,
@@ -27609,7 +27951,7 @@
             "match_games": []
         },
         {
-            "id": 882,
+            "id": 879,
             "number": 111,
             "stage_id": 0,
             "group_id": 0,
@@ -27625,7 +27967,7 @@
             "match_games": []
         },
         {
-            "id": 883,
+            "id": 880,
             "number": 112,
             "stage_id": 0,
             "group_id": 0,
@@ -27641,7 +27983,7 @@
             "match_games": []
         },
         {
-            "id": 884,
+            "id": 881,
             "number": 113,
             "stage_id": 0,
             "group_id": 0,
@@ -27657,7 +27999,7 @@
             "match_games": []
         },
         {
-            "id": 885,
+            "id": 882,
             "number": 114,
             "stage_id": 0,
             "group_id": 0,
@@ -27673,7 +28015,7 @@
             "match_games": []
         },
         {
-            "id": 886,
+            "id": 883,
             "number": 115,
             "stage_id": 0,
             "group_id": 0,
@@ -27689,7 +28031,7 @@
             "match_games": []
         },
         {
-            "id": 887,
+            "id": 884,
             "number": 116,
             "stage_id": 0,
             "group_id": 0,
@@ -27705,7 +28047,7 @@
             "match_games": []
         },
         {
-            "id": 888,
+            "id": 885,
             "number": 117,
             "stage_id": 0,
             "group_id": 0,
@@ -27721,7 +28063,7 @@
             "match_games": []
         },
         {
-            "id": 889,
+            "id": 886,
             "number": 118,
             "stage_id": 0,
             "group_id": 0,
@@ -27737,7 +28079,7 @@
             "match_games": []
         },
         {
-            "id": 890,
+            "id": 887,
             "number": 119,
             "stage_id": 0,
             "group_id": 0,
@@ -27753,7 +28095,7 @@
             "match_games": []
         },
         {
-            "id": 891,
+            "id": 888,
             "number": 120,
             "stage_id": 0,
             "group_id": 0,
@@ -27769,7 +28111,7 @@
             "match_games": []
         },
         {
-            "id": 892,
+            "id": 889,
             "number": 121,
             "stage_id": 0,
             "group_id": 0,
@@ -27785,7 +28127,7 @@
             "match_games": []
         },
         {
-            "id": 893,
+            "id": 890,
             "number": 122,
             "stage_id": 0,
             "group_id": 0,
@@ -27801,7 +28143,7 @@
             "match_games": []
         },
         {
-            "id": 894,
+            "id": 891,
             "number": 123,
             "stage_id": 0,
             "group_id": 0,
@@ -27817,7 +28159,7 @@
             "match_games": []
         },
         {
-            "id": 895,
+            "id": 892,
             "number": 124,
             "stage_id": 0,
             "group_id": 0,
@@ -27833,8 +28175,56 @@
             "match_games": []
         },
         {
-            "id": 896,
+            "id": 893,
             "number": 125,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 3,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 894,
+            "number": 126,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 3,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 895,
+            "number": 127,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 3,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 896,
+            "number": 128,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 3,
