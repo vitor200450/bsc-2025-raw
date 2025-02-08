@@ -50677,18 +50677,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5f76e12-e319-11ef-b005-0242ac130004",
                 "name": "Tonotos Gaming",
-                "seed": 77
+                "seed": 77,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
                 "name": "Conquerors",
-                "seed": 692
+                "seed": 692,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "d5f76e12-e319-11ef-b005-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 813,
@@ -53142,18 +53192,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
                 "name": "OINKERS NA",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bfd543c2-e02e-11ef-a393-0242ac130004",
                 "name": "The Beta boys",
-                "seed": 318
+                "seed": 318,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bfd543c2-e02e-11ef-a393-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bfd543c2-e02e-11ef-a393-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 868,
@@ -55334,10 +55419,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                "name": "OINKERS NA",
+                "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "e8161086-e4d0-11ef-be14-0242ac130004",
+                "name": "LEGENDARY ESPORTS",
+                "seed": 190
             },
             "match_games": []
         },
