@@ -55807,18 +55807,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "402c8c3a-e262-11ef-9202-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "58852f10-e1ec-11ef-be52-0242ac130004",
                 "name": "Gods of madness ☄️",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58852f10-e1ec-11ef-be52-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "58852f10-e1ec-11ef-be52-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 920,
@@ -56062,18 +56097,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
                 "name": "SVA | 就将",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a668bb8c-e63a-11ef-9bbb-0242ac130004",
                 "name": "Star Sigmas",
-                "seed": 191
+                "seed": 191,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a668bb8c-e63a-11ef-9bbb-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a668bb8c-e63a-11ef-9bbb-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 931,
@@ -57037,7 +57107,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                "name": "OCTANE ESPORTS",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
