@@ -62344,18 +62344,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5cfc3998-e0d5-11ef-b7ef-0242ac130004",
                 "name": "Innovate",
-                "seed": 1831
+                "seed": 1831,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0bc1ccea-e194-11ef-8ab1-0242ac130004",
                 "name": "F/A Badboys",
-                "seed": 2266
+                "seed": 2266,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5cfc3998-e0d5-11ef-b7ef-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0bc1ccea-e194-11ef-8ab1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5cfc3998-e0d5-11ef-b7ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0bc1ccea-e194-11ef-8ab1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5cfc3998-e0d5-11ef-b7ef-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0bc1ccea-e194-11ef-8ab1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1387,
@@ -69726,18 +69776,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "358ed4a2-e016-11ef-8ca2-0242ac130004",
                 "name": "🍌Banania_prime🍌",
-                "seed": 1262
+                "seed": 1262,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9b76ab26-e572-11ef-8dbb-0242ac130004",
                 "name": "Time end",
-                "seed": 2835
+                "seed": 2835,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "358ed4a2-e016-11ef-8ca2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9b76ab26-e572-11ef-8dbb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "358ed4a2-e016-11ef-8ca2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b76ab26-e572-11ef-8dbb-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "358ed4a2-e016-11ef-8ca2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9b76ab26-e572-11ef-8dbb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1741,
@@ -84560,7 +84660,9 @@
                 "seed": 869
             },
             "opponent2": {
-                "id": null
+                "id": "d923899e-e5f4-11ef-9e2f-0242ac130004",
+                "name": "Cosmic kings",
+                "seed": 2917
             },
             "match_games": []
         },
@@ -89480,7 +89582,9 @@
                 "seed": 218
             },
             "opponent2": {
-                "id": null
+                "id": "0bc1ccea-e194-11ef-8ab1-0242ac130004",
+                "name": "F/A Badboys",
+                "seed": 2266
             },
             "match_games": []
         },
@@ -92770,7 +92874,9 @@
                 "seed": 787
             },
             "opponent2": {
-                "id": null
+                "id": "9b76ab26-e572-11ef-8dbb-0242ac130004",
+                "name": "Time end",
+                "seed": 2835
             },
             "match_games": []
         },
