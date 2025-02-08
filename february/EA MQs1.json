@@ -11998,18 +11998,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
                 "name": "ブルとバズ",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
                 "name": "シャイニングデラックス",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4fe7674-dfeb-11ef-b023-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 238,
