@@ -26543,18 +26543,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "80cb0514-dffb-11ef-8872-0242ac130004",
                 "name": "NANO TEAM",
-                "seed": 224
+                "seed": 224,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f8ad7b60-e01a-11ef-91c9-0242ac130004",
                 "name": "Culuji",
-                "seed": 289
+                "seed": 289,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "80cb0514-dffb-11ef-8872-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f8ad7b60-e01a-11ef-91c9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "80cb0514-dffb-11ef-8872-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f8ad7b60-e01a-11ef-91c9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 527,
@@ -28848,7 +28883,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c0478180-e560-11ef-9e5c-0242ac130004",
                 "name": "OVOSHI",
@@ -28857,7 +28892,8 @@
             "opponent2": {
                 "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
                 "name": "Brasil Força Z",
-                "seed": 364
+                "seed": 364,
+                "forfeit": 1
             },
             "match_games": []
         },
