@@ -30483,18 +30483,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c186668c-e066-11ef-b915-0242ac130004",
                 "name": "F.F.F.",
-                "seed": 115
+                "seed": 115,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
                 "name": "Fumaça e cachaça",
-                "seed": 627
+                "seed": 627,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c186668c-e066-11ef-b915-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c186668c-e066-11ef-b915-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 724,
@@ -33085,7 +33120,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                "name": "Fumaça e cachaça",
+                "seed": 627
             },
             "opponent2": {
                 "id": null
