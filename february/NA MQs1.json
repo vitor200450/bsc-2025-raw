@@ -39187,18 +39187,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
                 "name": "SmashKok",
-                "seed": 781
+                "seed": 781,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c2d97bae-e265-11ef-bcc2-0242ac130004",
                 "name": "ShadowCore Gaming",
-                "seed": 756
+                "seed": 756,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2d97bae-e265-11ef-bcc2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2d97bae-e265-11ef-bcc2-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 595,
@@ -42997,18 +43032,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
                 "name": "Lunar",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "400a3dc6-e0d5-11ef-8d01-0242ac130004",
                 "name": "Frescalatina",
-                "seed": 510
+                "seed": 510,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "400a3dc6-e0d5-11ef-8d01-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "400a3dc6-e0d5-11ef-8d01-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 706,
@@ -45664,7 +45734,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "38df591e-e2a6-11ef-b6c3-0242ac130004",
+                "name": "SmashKok",
+                "seed": 781
             },
             "match_games": []
         },
@@ -46627,7 +46699,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                "name": "Lunar",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
