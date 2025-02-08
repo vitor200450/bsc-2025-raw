@@ -37442,18 +37442,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b0540c6-e404-11ef-989b-0242ac130004",
                 "name": "ROSEAL",
-                "seed": 840
+                "seed": 840,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0d2da378-e032-11ef-a135-0242ac130004",
                 "name": "Legacy",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "0b0540c6-e404-11ef-989b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d2da378-e032-11ef-a135-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0b0540c6-e404-11ef-989b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d2da378-e032-11ef-a135-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 553,
@@ -42332,18 +42367,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
                 "name": "Nameless",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e236650a-e0d2-11ef-b722-0242ac130004",
                 "name": "Psych_Station",
-                "seed": 507
+                "seed": 507,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e236650a-e0d2-11ef-b722-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e236650a-e0d2-11ef-b722-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 738,
@@ -44997,7 +45067,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4bd9c7f6-e1a3-11ef-9f76-0242ac130004",
+                "name": "Nameless",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
