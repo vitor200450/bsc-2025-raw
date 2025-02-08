@@ -48786,18 +48786,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35871a7e-e4de-11ef-b22a-0242ac130004",
                 "name": "Chill Guys",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8d43e14c-e02f-11ef-9581-0242ac130004",
                 "name": "Team Tacos",
-                "seed": 320
+                "seed": 320,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "35871a7e-e4de-11ef-b22a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d43e14c-e02f-11ef-9581-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "35871a7e-e4de-11ef-b22a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d43e14c-e02f-11ef-9581-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 772,
@@ -49926,18 +49961,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7a50956-e32c-11ef-a934-0242ac130004",
                 "name": "Cabritos",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ea2be1b4-e32e-11ef-a060-0242ac130004",
                 "name": "T2 ESPORTS",
-                "seed": 796
+                "seed": 796,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ea2be1b4-e32e-11ef-a060-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ea2be1b4-e32e-11ef-a060-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -51605,7 +51675,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35871a7e-e4de-11ef-b22a-0242ac130004",
+                "name": "Chill Guys",
+                "seed": 64
             },
             "opponent2": {
                 "id": null
@@ -52009,7 +52081,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                "name": "Cabritos",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
