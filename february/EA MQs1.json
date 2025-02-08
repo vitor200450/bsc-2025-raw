@@ -11858,18 +11858,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a8f01a3a-e4af-11ef-bc27-0242ac130004",
                 "name": "RTオーティス専門",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c2b249a0-dfed-11ef-84ed-0242ac130004",
                 "name": "Just Wanna Prove",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a8f01a3a-e4af-11ef-bc27-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2b249a0-dfed-11ef-84ed-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a8f01a3a-e4af-11ef-bc27-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c2b249a0-dfed-11ef-84ed-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 231,
