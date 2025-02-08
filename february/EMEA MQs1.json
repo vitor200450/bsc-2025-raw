@@ -71325,18 +71325,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84513afa-e082-11ef-9e57-0242ac130004",
                 "name": "KBM8",
-                "seed": 1446
+                "seed": 1446,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "00194296-e3ac-11ef-8c15-0242ac130004",
                 "name": "Babooini team",
-                "seed": 2651
+                "seed": 2651,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "84513afa-e082-11ef-9e57-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00194296-e3ac-11ef-8c15-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "84513afa-e082-11ef-9e57-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00194296-e3ac-11ef-8c15-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "84513afa-e082-11ef-9e57-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "00194296-e3ac-11ef-8c15-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1913,
@@ -71694,18 +71744,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9f9bffee-e095-11ef-b107-0242ac130004",
                 "name": "TheStrangeLegends",
-                "seed": 1526
+                "seed": 1526,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1ff943ee-e2ef-11ef-b41b-0242ac130004",
                 "name": "MSN| Heaven",
-                "seed": 2571
+                "seed": 2571,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9f9bffee-e095-11ef-b107-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ff943ee-e2ef-11ef-b41b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9f9bffee-e095-11ef-b107-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1ff943ee-e2ef-11ef-b41b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1929,
@@ -91989,7 +92074,9 @@
                 "seed": 603
             },
             "opponent2": {
-                "id": null
+                "id": "00194296-e3ac-11ef-8c15-0242ac130004",
+                "name": "Babooini team",
+                "seed": 2651
             },
             "match_games": []
         },
@@ -92139,7 +92226,9 @@
                 "seed": 523
             },
             "opponent2": {
-                "id": null
+                "id": "1ff943ee-e2ef-11ef-b41b-0242ac130004",
+                "name": "MSN| Heaven",
+                "seed": 2571
             },
             "match_games": []
         },
