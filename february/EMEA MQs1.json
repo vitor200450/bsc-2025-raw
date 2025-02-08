@@ -34132,18 +34132,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7b392dbe-e00b-11ef-a2a5-0242ac130004",
                 "name": "BECKO|zacusca",
-                "seed": 1184
+                "seed": 1184,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "44f573e8-e5f1-11ef-b7b6-0242ac130004",
                 "name": "AN-TEAM",
-                "seed": 2913
+                "seed": 2913,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7b392dbe-e00b-11ef-a2a5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "44f573e8-e5f1-11ef-b7b6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7b392dbe-e00b-11ef-a2a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "44f573e8-e5f1-11ef-b7b6-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7b392dbe-e00b-11ef-a2a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "44f573e8-e5f1-11ef-b7b6-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 93,
@@ -38844,18 +38894,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "604474bc-e152-11ef-ae33-0242ac130004",
                 "name": "Manger bébé",
-                "seed": 2024
+                "seed": 2024,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f50568ea-e161-11ef-83ed-0242ac130004",
                 "name": "Burgeri",
-                "seed": 2073
+                "seed": 2073,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "604474bc-e152-11ef-ae33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f50568ea-e161-11ef-83ed-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "604474bc-e152-11ef-ae33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f50568ea-e161-11ef-83ed-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "604474bc-e152-11ef-ae33-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f50568ea-e161-11ef-83ed-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 323,
@@ -75652,7 +75752,9 @@
                 "seed": 865
             },
             "opponent2": {
-                "id": null
+                "id": "7b392dbe-e00b-11ef-a2a5-0242ac130004",
+                "name": "BECKO|zacusca",
+                "seed": 1184
             },
             "match_games": []
         },
@@ -77790,7 +77892,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "f50568ea-e161-11ef-83ed-0242ac130004",
+                "name": "Burgeri",
+                "seed": 2073
             },
             "match_games": []
         },
