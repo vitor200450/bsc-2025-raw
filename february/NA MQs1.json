@@ -22856,18 +22856,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3d96bca-e033-11ef-b18a-0242ac130004",
                 "name": "Sin modales",
-                "seed": 332
+                "seed": 332,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6ca93850-e1ca-11ef-8707-0242ac130004",
                 "name": "𝟘𝟘𝟘 squad",
-                "seed": 693
+                "seed": 693,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b3d96bca-e033-11ef-b18a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ca93850-e1ca-11ef-8707-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b3d96bca-e033-11ef-b18a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6ca93850-e1ca-11ef-8707-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 241,
@@ -38804,7 +38839,9 @@
                 "seed": 181
             },
             "opponent2": {
-                "id": null
+                "id": "b3d96bca-e033-11ef-b18a-0242ac130004",
+                "name": "Sin modales",
+                "seed": 332
             },
             "match_games": []
         },
