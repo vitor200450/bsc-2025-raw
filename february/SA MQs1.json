@@ -17884,18 +17884,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1c4c8c0c-e02d-11ef-b8f8-0242ac130004",
                 "name": "FF BERLIN",
-                "seed": 323
+                "seed": 323,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a28c01a-e24d-11ef-842e-0242ac130004",
                 "name": "Mió de baum",
-                "seed": 702
+                "seed": 702,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1c4c8c0c-e02d-11ef-b8f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a28c01a-e24d-11ef-842e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1c4c8c0c-e02d-11ef-b8f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a28c01a-e24d-11ef-842e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 401,
@@ -19552,18 +19587,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "14a775c2-e049-11ef-8615-0242ac130004",
                 "name": "Misto Redentor",
-                "seed": 374
+                "seed": 374,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "154e2e6e-e1be-11ef-9047-0242ac130004",
                 "name": "RTL",
-                "seed": 651
+                "seed": 651,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "14a775c2-e049-11ef-8615-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "154e2e6e-e1be-11ef-9047-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "14a775c2-e049-11ef-8615-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "154e2e6e-e1be-11ef-9047-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 489,
