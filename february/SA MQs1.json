@@ -10207,18 +10207,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9a0d4266-e0a6-11ef-9bc5-0242ac130004",
                 "name": "LOS PIKILINES FC🤓",
-                "seed": 416
+                "seed": 416,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c6b06564-e18c-11ef-aea9-0242ac130004",
                 "name": "Errado FC",
-                "seed": 609
+                "seed": 609,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9a0d4266-e0a6-11ef-9bc5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c6b06564-e18c-11ef-aea9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9a0d4266-e0a6-11ef-9bc5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c6b06564-e18c-11ef-aea9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -17217,18 +17252,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3fc22d8a-e06a-11ef-a536-0242ac130004",
                 "name": "Yoo",
-                "seed": 407
+                "seed": 407,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae12c330-e196-11ef-853b-0242ac130004",
                 "name": "Cachakistan BC",
-                "seed": 618
+                "seed": 618,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3fc22d8a-e06a-11ef-a536-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae12c330-e196-11ef-853b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3fc22d8a-e06a-11ef-a536-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae12c330-e196-11ef-853b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 375,
@@ -19600,18 +19670,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f0a708b8-e0de-11ef-a6e2-0242ac130004",
                 "name": "Cyil not",
-                "seed": 491
+                "seed": 491,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "359262a8-e10a-11ef-9aba-0242ac130004",
                 "name": "NPC|Mad Mew",
-                "seed": 534
+                "seed": 534,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f0a708b8-e0de-11ef-a6e2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "359262a8-e10a-11ef-9aba-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f0a708b8-e0de-11ef-a6e2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "359262a8-e10a-11ef-9aba-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 499,
@@ -20067,7 +20172,9 @@
                 "seed": 97
             },
             "opponent2": {
-                "id": null
+                "id": "c6b06564-e18c-11ef-aea9-0242ac130004",
+                "name": "Errado FC",
+                "seed": 609
             },
             "match_games": []
         },
@@ -23091,7 +23198,9 @@
                 "seed": 106
             },
             "opponent2": {
-                "id": null
+                "id": "ae12c330-e196-11ef-853b-0242ac130004",
+                "name": "Cachakistan BC",
+                "seed": 618
             },
             "match_games": []
         },
@@ -24151,7 +24260,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "f0a708b8-e0de-11ef-a6e2-0242ac130004",
+                "name": "Cyil not",
+                "seed": 491
             },
             "match_games": []
         },
