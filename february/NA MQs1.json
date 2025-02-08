@@ -20075,18 +20075,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
                 "name": "Draft 4 Me",
-                "seed": 60
+                "seed": 60,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "914ee31a-e61d-11ef-a4b5-0242ac130004",
                 "name": "Innocents",
-                "seed": 965
+                "seed": 965,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "914ee31a-e61d-11ef-a4b5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "914ee31a-e61d-11ef-a4b5-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 202,
@@ -26401,18 +26436,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "76aa1242-e293-11ef-9353-0242ac130004",
                 "name": "Cynical Gaming",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
                 "name": "FC Randoms",
-                "seed": 922
+                "seed": 922,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "76aa1242-e293-11ef-9353-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "76aa1242-e293-11ef-9353-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 342,
@@ -28571,18 +28641,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ed0c1d40-e04a-11ef-b08e-0242ac130004",
                 "name": "Spicy Lemonz",
-                "seed": 382
+                "seed": 382,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a44986d4-e19d-11ef-9ff1-0242ac130004",
                 "name": "KFG",
-                "seed": 643
+                "seed": 643,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ed0c1d40-e04a-11ef-b08e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a44986d4-e19d-11ef-9ff1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ed0c1d40-e04a-11ef-b08e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a44986d4-e19d-11ef-9ff1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -35575,10 +35680,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "be37b90e-e60b-11ef-b2df-0242ac130004",
+                "name": "Draft 4 Me",
+                "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "e707a58a-e0ff-11ef-9d70-0242ac130004",
+                "name": "BAS",
+                "seed": 572
             },
             "match_games": []
         },
@@ -36857,7 +36966,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
+                "name": "FC Randoms",
+                "seed": 922
             },
             "opponent2": {
                 "id": null
