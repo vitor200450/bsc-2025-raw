@@ -44842,18 +44842,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
                 "name": "ATFG Esports",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7b51b4a2-e1e5-11ef-9d9e-0242ac130004",
                 "name": "Los pinga larga",
-                "seed": 688
+                "seed": 688,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b51b4a2-e1e5-11ef-9d9e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b51b4a2-e1e5-11ef-9d9e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 905,
@@ -45077,18 +45112,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8c9175c-e268-11ef-8141-0242ac130004",
                 "name": "Los añasus",
-                "seed": 708
+                "seed": 708,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6bdff728-e004-11ef-8702-0242ac130004",
                 "name": "Reis da PL 👑",
-                "seed": 68
+                "seed": 68,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b8c9175c-e268-11ef-8141-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6bdff728-e004-11ef-8702-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "b8c9175c-e268-11ef-8141-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6bdff728-e004-11ef-8702-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 915,
@@ -46282,7 +46352,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "ee8aff34-e01c-11ef-a431-0242ac130004",
+                "name": "ATFG Esports",
+                "seed": 48
             },
             "match_games": []
         },
