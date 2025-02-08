@@ -39588,18 +39588,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5301fdc2-e0be-11ef-a6df-0242ac130004",
                 "name": "Magic Gaming",
-                "seed": 1704
+                "seed": 1704,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d14ce64-e1f8-11ef-9aba-0242ac130004",
                 "name": "Team Bully",
-                "seed": 2393
+                "seed": 2393,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5301fdc2-e0be-11ef-a6df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d14ce64-e1f8-11ef-9aba-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5301fdc2-e0be-11ef-a6df-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d14ce64-e1f8-11ef-9aba-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 383,
@@ -76179,7 +76214,9 @@
                 "seed": 345
             },
             "opponent2": {
-                "id": null
+                "id": "5301fdc2-e0be-11ef-a6df-0242ac130004",
+                "name": "Magic Gaming",
+                "seed": 1704
             },
             "match_games": []
         },
@@ -78005,7 +78042,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "483c6cac-e162-11ef-836d-0242ac130004",
+                "name": "ASA|BSC",
+                "seed": 2077
             },
             "match_games": []
         },
