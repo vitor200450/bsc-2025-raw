@@ -26473,18 +26473,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33113a66-e03a-11ef-94d1-0242ac130004",
                 "name": "PDA",
-                "seed": 65
+                "seed": 65,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f53a32e8-e169-11ef-bc4d-0242ac130004",
                 "name": "Perú Stars",
-                "seed": 577
+                "seed": 577,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "33113a66-e03a-11ef-94d1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f53a32e8-e169-11ef-bc4d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "33113a66-e03a-11ef-94d1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f53a32e8-e169-11ef-bc4d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 520,
@@ -28248,18 +28283,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "05594bb8-e40e-11ef-ad50-0242ac130004",
                 "name": "BOCA PASIÓN",
-                "seed": 772
+                "seed": 772,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31e48e5a-e00c-11ef-8163-0242ac130004",
                 "name": "Skibidi Sigmas",
-                "seed": 260
+                "seed": 260,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "05594bb8-e40e-11ef-ad50-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31e48e5a-e00c-11ef-8163-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "05594bb8-e40e-11ef-ad50-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31e48e5a-e00c-11ef-8163-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 579,
@@ -31594,18 +31664,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a82bb3d6-dff8-11ef-bedd-0242ac130004",
                 "name": "Team Doritos",
-                "seed": 71
+                "seed": 71,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f784efd8-e0c0-11ef-aca2-0242ac130004",
                 "name": "COMAC SPORTS GVG",
-                "seed": 442
+                "seed": 442,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a82bb3d6-dff8-11ef-bedd-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f784efd8-e0c0-11ef-aca2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a82bb3d6-dff8-11ef-bedd-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f784efd8-e0c0-11ef-aca2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 680,
@@ -34498,7 +34603,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f53a32e8-e169-11ef-bc4d-0242ac130004",
+                "name": "Perú Stars",
+                "seed": 577
             },
             "opponent2": {
                 "id": null
@@ -34981,7 +35088,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "05594bb8-e40e-11ef-ad50-0242ac130004",
+                "name": "BOCA PASIÓN",
+                "seed": 772
             },
             "match_games": []
         },
@@ -35844,7 +35953,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f784efd8-e0c0-11ef-aca2-0242ac130004",
+                "name": "COMAC SPORTS GVG",
+                "seed": 442
             },
             "opponent2": {
                 "id": null
