@@ -48846,18 +48846,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
                 "name": "Flash Point",
-                "seed": 928
+                "seed": 928,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a770d79a-e1bb-11ef-8c3a-0242ac130004",
                 "name": "BIM",
-                "seed": 672
+                "seed": 672,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a770d79a-e1bb-11ef-8c3a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e5be53a0-e5d1-11ef-b181-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a770d79a-e1bb-11ef-8c3a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 775,
