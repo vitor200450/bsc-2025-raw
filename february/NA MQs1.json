@@ -39972,18 +39972,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1f173b0-e1d6-11ef-bf3d-0242ac130004",
                 "name": "Eternity Gaming",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1c4ae330-e0d1-11ef-b3ad-0242ac130004",
                 "name": "TEAM TRASH JRZ",
-                "seed": 503
+                "seed": 503,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "d1f173b0-e1d6-11ef-bf3d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c4ae330-e0d1-11ef-b3ad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d1f173b0-e1d6-11ef-bf3d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1c4ae330-e0d1-11ef-b3ad-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 690,
@@ -40012,18 +40047,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3cda24b0-e5a1-11ef-9b6a-0242ac130004",
                 "name": "Team Lechuga",
-                "seed": 906
+                "seed": 906,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a0e7a7ae-e04f-11ef-aa16-0242ac130004",
                 "name": "Come salchichas",
-                "seed": 394
+                "seed": 394,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3cda24b0-e5a1-11ef-9b6a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0e7a7ae-e04f-11ef-aa16-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3cda24b0-e5a1-11ef-9b6a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a0e7a7ae-e04f-11ef-aa16-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 692,
@@ -42982,7 +43052,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1f173b0-e1d6-11ef-bf3d-0242ac130004",
+                "name": "Eternity Gaming",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
@@ -42998,7 +43070,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a0e7a7ae-e04f-11ef-aa16-0242ac130004",
+                "name": "Come salchichas",
+                "seed": 394
             },
             "opponent2": {
                 "id": null
