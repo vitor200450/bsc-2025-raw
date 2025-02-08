@@ -12038,18 +12038,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
                 "name": "ファイナルラストフォース",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
                 "name": "Monaka",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9474a32a-e1e2-11ef-b3c8-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 233,
