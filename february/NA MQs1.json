@@ -40982,18 +40982,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ed082d2-e588-11ef-862a-0242ac130004",
                 "name": "Hambreados F/A",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a1fd3ff0-e1df-11ef-96ce-0242ac130004",
                 "name": "LTW | SWEATS",
-                "seed": 714
+                "seed": 714,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3ed082d2-e588-11ef-862a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1fd3ff0-e1df-11ef-96ce-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3ed082d2-e588-11ef-862a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1fd3ff0-e1df-11ef-96ce-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 695,
@@ -41862,18 +41897,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb243fcc-e5b4-11ef-a095-0242ac130004",
                 "name": "doble P",
-                "seed": 915
+                "seed": 915,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "951ccf80-e144-11ef-b604-0242ac130004",
                 "name": "Moños 🎀",
-                "seed": 622
+                "seed": 622,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cb243fcc-e5b4-11ef-a095-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cb243fcc-e5b4-11ef-a095-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 732,
@@ -42257,18 +42327,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "75d2737e-e0f8-11ef-b671-0242ac130004",
                 "name": "ACAD",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "20670bc2-e0ec-11ef-b681-0242ac130004",
                 "name": "Lil Gum Gum",
-                "seed": 550
+                "seed": 550,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "75d2737e-e0f8-11ef-b671-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20670bc2-e0ec-11ef-b681-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "75d2737e-e0f8-11ef-b671-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20670bc2-e0ec-11ef-b681-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 750,
@@ -44552,7 +44657,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "951ccf80-e144-11ef-b604-0242ac130004",
+                "name": "Moños 🎀",
+                "seed": 622
             },
             "opponent2": {
                 "id": null
@@ -44698,7 +44805,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "75d2737e-e0f8-11ef-b671-0242ac130004",
+                "name": "ACAD",
+                "seed": 38
             },
             "opponent2": {
                 "id": null
