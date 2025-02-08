@@ -10046,18 +10046,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1baec8d4-e166-11ef-aab9-0242ac130004",
                 "name": "林烨帅哥❤️下山",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a1f3b2c-dfed-11ef-9edb-0242ac130004",
                 "name": "Lazystars",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1baec8d4-e166-11ef-aab9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a1f3b2c-dfed-11ef-9edb-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "1baec8d4-e166-11ef-aab9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a1f3b2c-dfed-11ef-9edb-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -10601,18 +10636,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
                 "name": "크롱유튜브구독",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0a0f3c0c-e180-11ef-8110-0242ac130004",
                 "name": "City",
-                "seed": 186
+                "seed": 186,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a0f3c0c-e180-11ef-8110-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a0f3c0c-e180-11ef-8110-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 214,
@@ -10988,7 +11058,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "1baec8d4-e166-11ef-aab9-0242ac130004",
+                "name": "林烨帅哥❤️下山",
+                "seed": 32
             },
             "match_games": []
         },
@@ -11151,10 +11223,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "58a8b0f6-e0a3-11ef-9290-0242ac130004",
+                "name": "크롱유튜브구독",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "83ea0f94-e3aa-11ef-9a9c-0242ac130004",
+                "name": "브대남의 월파 도전기",
+                "seed": 218
             },
             "match_games": []
         },
