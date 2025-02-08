@@ -55542,7 +55542,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e86f9680-e028-11ef-be2f-0242ac130004",
                 "name": "Yvl",
@@ -55551,7 +55551,8 @@
             "opponent2": {
                 "id": "9848d0b2-e5fb-11ef-8d75-0242ac130004",
                 "name": "OTM",
-                "seed": 944
+                "seed": 944,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -56032,18 +56033,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
                 "name": "Sovereign",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
                 "name": "Conquerors",
-                "seed": 692
+                "seed": 692,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95cd1b90-e1c8-11ef-90fa-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 919,
@@ -56277,18 +56313,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31c6c622-e368-11ef-ad24-0242ac130004",
                 "name": "Stanley Steemers",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
                 "name": "DAA|Team",
-                "seed": 117
+                "seed": 117,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3bca1696-e143-11ef-9ad2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -56597,18 +56668,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
                 "name": "The winner",
-                "seed": 207
+                "seed": 207,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
                 "name": "RC",
-                "seed": 690
+                "seed": 690,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "82635e8e-e0b0-11ef-8fa4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b46325f0-e1c7-11ef-b6f6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 935,
@@ -57137,7 +57243,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d6b49d84-e053-11ef-81f2-0242ac130004",
                 "name": "M2 Demons",
@@ -57146,7 +57252,8 @@
             "opponent2": {
                 "id": "c772f40c-e133-11ef-b7c5-0242ac130004",
                 "name": "Team Cilantro 👅",
-                "seed": 158
+                "seed": 158,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -57177,18 +57284,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4cb0aee0-e0ce-11ef-a9ea-0242ac130004",
                 "name": "ViscaBarca",
-                "seed": 499
+                "seed": 499,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
                 "name": "PL | Maquedas",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "4cb0aee0-e0ce-11ef-a9ea-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "4cb0aee0-e0ce-11ef-a9ea-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 950,
@@ -57197,18 +57339,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "58032d4a-e029-11ef-8d1a-0242ac130004",
                 "name": "BDiamonds",
-                "seed": 307
+                "seed": 307,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
                 "name": "Kangaroos",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "58032d4a-e029-11ef-8d1a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "58032d4a-e029-11ef-8d1a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 951,
@@ -57583,7 +57760,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "e86f9680-e028-11ef-be2f-0242ac130004",
+                "name": "Yvl",
+                "seed": 304
             },
             "match_games": []
         },
@@ -57768,7 +57947,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "31c6c622-e368-11ef-ad24-0242ac130004",
+                "name": "Stanley Steemers",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -57964,7 +58145,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d6b49d84-e053-11ef-81f2-0242ac130004",
+                "name": "M2 Demons",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
@@ -57980,10 +58163,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c9f34156-e1cd-11ef-b937-0242ac130004",
+                "name": "PL | Maquedas",
+                "seed": 142
             },
             "opponent2": {
-                "id": null
+                "id": "2a49c940-e5c4-11ef-a137-0242ac130004",
+                "name": "Kangaroos",
+                "seed": 78
             },
             "match_games": []
         },
