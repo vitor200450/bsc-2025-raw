@@ -4905,18 +4905,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
                 "name": "Uhyoo!",
-                "seed": 47
+                "seed": 47,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f37cbcb6-e2fc-11ef-b985-0242ac130004",
                 "name": "Mavericks",
-                "seed": 210
+                "seed": 210,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f37cbcb6-e2fc-11ef-b985-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f37cbcb6-e2fc-11ef-b985-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 80,
@@ -6736,7 +6771,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d6059ee6-dff5-11ef-8bdd-0242ac130004",
+                "name": "Uhyoo!",
+                "seed": 47
             },
             "opponent2": {
                 "id": null
