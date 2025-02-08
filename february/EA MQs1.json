@@ -5295,18 +5295,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa66b494-e12d-11ef-9d27-0242ac130004",
                 "name": "LINEレンジャー",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ed96c28-e558-11ef-80bc-0242ac130004",
                 "name": "🩵卓球部キャプテン🩵",
-                "seed": 239
+                "seed": 239,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fa66b494-e12d-11ef-9d27-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ed96c28-e558-11ef-80bc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "fa66b494-e12d-11ef-9d27-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ed96c28-e558-11ef-80bc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "fa66b494-e12d-11ef-9d27-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ed96c28-e558-11ef-80bc-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 78,
@@ -7949,10 +7999,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4ed96c28-e558-11ef-80bc-0242ac130004",
+                "name": "🩵卓球部キャプテン🩵",
+                "seed": 239
             },
             "opponent2": {
-                "id": null
+                "id": "1112a892-e0b1-11ef-a12f-0242ac130004",
+                "name": "Noob team",
+                "seed": 146
             },
             "match_games": []
         },
