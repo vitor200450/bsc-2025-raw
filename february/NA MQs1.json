@@ -59554,18 +59554,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7a50956-e32c-11ef-a934-0242ac130004",
                 "name": "Cabritos",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
                 "name": "Clutch Or Cope🏆🤡",
-                "seed": 860
+                "seed": 860,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c7a50956-e32c-11ef-a934-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 975,
@@ -60438,7 +60473,9 @@
                 "seed": 60
             },
             "opponent2": {
-                "id": null
+                "id": "f8a64be6-e449-11ef-b51d-0242ac130004",
+                "name": "Clutch Or Cope🏆🤡",
+                "seed": 860
             },
             "match_games": []
         },
