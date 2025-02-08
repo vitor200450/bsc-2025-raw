@@ -19765,18 +19765,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "43ea0c4a-e04a-11ef-a0b6-0242ac130004",
                 "name": "Spectral Warriors",
-                "seed": 380
+                "seed": 380,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "75989562-e19f-11ef-8ea3-0242ac130004",
                 "name": "ExP",
-                "seed": 645
+                "seed": 645,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "43ea0c4a-e04a-11ef-a0b6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75989562-e19f-11ef-8ea3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "43ea0c4a-e04a-11ef-a0b6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75989562-e19f-11ef-8ea3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 201,
@@ -34917,7 +34952,9 @@
                 "seed": 892
             },
             "opponent2": {
-                "id": null
+                "id": "43ea0c4a-e04a-11ef-a0b6-0242ac130004",
+                "name": "Spectral Warriors",
+                "seed": 380
             },
             "match_games": []
         },
