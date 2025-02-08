@@ -17620,18 +17620,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
                 "name": "Brasil Força Z",
-                "seed": 364
+                "seed": 364,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aa236394-e1cb-11ef-9229-0242ac130004",
                 "name": "BOLADÕES-ESPORT",
-                "seed": 661
+                "seed": 661,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa236394-e1cb-11ef-9229-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "aa236394-e1cb-11ef-9229-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa236394-e1cb-11ef-9229-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 249,
@@ -19864,18 +19914,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e9f7b280-e005-11ef-889a-0242ac130004",
                 "name": "Brawl CHUEK",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4315f1d0-e414-11ef-aea0-0242ac130004",
                 "name": "LaOrden",
-                "seed": 775
+                "seed": 775,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e9f7b280-e005-11ef-889a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4315f1d0-e414-11ef-aea0-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e9f7b280-e005-11ef-889a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4315f1d0-e414-11ef-aea0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e9f7b280-e005-11ef-889a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4315f1d0-e414-11ef-aea0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 324,
@@ -28469,7 +28569,9 @@
                 "seed": 149
             },
             "opponent2": {
-                "id": null
+                "id": "db8b5428-e040-11ef-aa6c-0242ac130004",
+                "name": "Brasil Força Z",
+                "seed": 364
             },
             "match_games": []
         },
@@ -29222,10 +29324,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e9f7b280-e005-11ef-889a-0242ac130004",
+                "name": "Brawl CHUEK",
+                "seed": 250
             },
             "opponent2": {
-                "id": null
+                "id": "85419c02-e00f-11ef-b945-0242ac130004",
+                "name": "OS PATRÕES",
+                "seed": 263
             },
             "match_games": []
         },
