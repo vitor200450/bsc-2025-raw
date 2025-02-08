@@ -8358,18 +8358,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
                 "name": "GoNext",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d8c08a2-e0a0-11ef-abce-0242ac130004",
                 "name": "NG",
-                "seed": 133
+                "seed": 133,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d8c08a2-e0a0-11ef-abce-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d8c08a2-e0a0-11ef-abce-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d8c08a2-e0a0-11ef-abce-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 154,
@@ -9783,10 +9833,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f298bbda-e18d-11ef-8fd0-0242ac130004",
+                "name": "GoNext",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "0f3dc2d4-e176-11ef-a0ff-0242ac130004",
+                "name": "NeeBo Gaming",
+                "seed": 60
             },
             "match_games": []
         },
