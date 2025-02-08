@@ -48101,18 +48101,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "63fc69cc-e092-11ef-a9ec-0242ac130004",
                 "name": "LOS CHAVALOTES",
-                "seed": 1509
+                "seed": 1509,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "99f2a8c8-e30a-11ef-8c19-0242ac130004",
                 "name": "Deidara’s Team",
-                "seed": 2588
+                "seed": 2588,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "63fc69cc-e092-11ef-a9ec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "99f2a8c8-e30a-11ef-8c19-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "63fc69cc-e092-11ef-a9ec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "99f2a8c8-e30a-11ef-8c19-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 841,
@@ -74127,7 +74162,9 @@
                 "seed": 153
             },
             "opponent2": {
-                "id": null
+                "id": "2503c1e8-e182-11ef-818d-0242ac130004",
+                "name": "Sauna_Squad",
+                "seed": 2201
             },
             "match_games": []
         },
@@ -75935,7 +75972,9 @@
                 "seed": 381
             },
             "opponent2": {
-                "id": null
+                "id": "e588e870-e219-11ef-b83f-0242ac130004",
+                "name": "Titan Gaming",
+                "seed": 2429
             },
             "match_games": []
         },
@@ -77109,7 +77148,9 @@
                 "seed": 372
             },
             "opponent2": {
-                "id": null
+                "id": "277068de-e211-11ef-afd7-0242ac130004",
+                "name": "Team Spirit",
+                "seed": 2420
             },
             "match_games": []
         },
@@ -78683,7 +78724,9 @@
                 "seed": 540
             },
             "opponent2": {
-                "id": null
+                "id": "99f2a8c8-e30a-11ef-8c19-0242ac130004",
+                "name": "Deidara’s Team",
+                "seed": 2588
             },
             "match_games": []
         },
@@ -80835,7 +80878,9 @@
                 "seed": 66
             },
             "opponent2": {
-                "id": null
+                "id": "3b29b9ec-e16d-11ef-be7c-0242ac130004",
+                "name": "Zero Revolution",
+                "seed": 2114
             },
             "match_games": []
         },
@@ -81865,7 +81910,9 @@
                 "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "ea52ad44-e167-11ef-8635-0242ac130004",
+                "name": "Jun1or Talent's",
+                "seed": 2098
             },
             "match_games": []
         },
@@ -82383,7 +82430,9 @@
                 "seed": 146
             },
             "opponent2": {
-                "id": null
+                "id": "b1c1acc8-e180-11ef-905f-0242ac130004",
+                "name": "Venom_Vortex",
+                "seed": 2194
             },
             "match_games": []
         },
