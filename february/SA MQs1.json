@@ -11294,18 +11294,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ce90e82-e052-11ef-a4ea-0242ac130004",
                 "name": "Flow eSports",
-                "seed": 392
+                "seed": 392,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9191ebd0-e1a2-11ef-9909-0242ac130004",
                 "name": "macacada",
-                "seed": 633
+                "seed": 633,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5ce90e82-e052-11ef-a4ea-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9191ebd0-e1a2-11ef-9909-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5ce90e82-e052-11ef-a4ea-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9191ebd0-e1a2-11ef-9909-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 71,
@@ -12337,18 +12372,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c35be964-e016-11ef-bec9-0242ac130004",
                 "name": "TUTS",
-                "seed": 280
+                "seed": 280,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c5a7f912-e32a-11ef-a92d-0242ac130004",
                 "name": "Team KoNoHa2",
-                "seed": 745
+                "seed": 745,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c35be964-e016-11ef-bec9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c5a7f912-e32a-11ef-a92d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "c35be964-e016-11ef-bec9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c5a7f912-e32a-11ef-a92d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 117,
@@ -14837,18 +14907,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "32261b04-e0e8-11ef-966b-0242ac130004",
                 "name": "Clã Sakai",
-                "seed": 501
+                "seed": 501,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9c1b1540-e0fd-11ef-b0ca-0242ac130004",
                 "name": "E$PARTANOS",
-                "seed": 524
+                "seed": 524,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "32261b04-e0e8-11ef-966b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c1b1540-e0fd-11ef-b0ca-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "32261b04-e0e8-11ef-966b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9c1b1540-e0fd-11ef-b0ca-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -19196,11 +19301,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "62988e5e-e05a-11ef-9dd7-0242ac130004",
                 "name": "Kt|Evil Rings",
-                "seed": 142
+                "seed": 142,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d3cb1fd0-e611-11ef-9257-0242ac130004",
@@ -20022,18 +20128,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "be0b203e-dfed-11ef-81ed-0242ac130004",
                 "name": "SkyGG",
-                "seed": 187
+                "seed": 187,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "afdba7e8-e599-11ef-9f83-0242ac130004",
                 "name": "Sleek's",
-                "seed": 838
+                "seed": 838,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "be0b203e-dfed-11ef-81ed-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "afdba7e8-e599-11ef-9f83-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "be0b203e-dfed-11ef-81ed-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "afdba7e8-e599-11ef-9f83-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 464,
@@ -20382,18 +20523,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab284470-e0eb-11ef-abca-0242ac130004",
                 "name": "WINX",
-                "seed": 502
+                "seed": 502,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "42ca2da8-e0fa-11ef-bda3-0242ac130004",
                 "name": "DGM LEGENDS",
-                "seed": 523
+                "seed": 523,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ab284470-e0eb-11ef-abca-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42ca2da8-e0fa-11ef-bda3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ab284470-e0eb-11ef-abca-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "42ca2da8-e0fa-11ef-bda3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 483,
@@ -21709,7 +21885,9 @@
                 "seed": 121
             },
             "opponent2": {
-                "id": null
+                "id": "9191ebd0-e1a2-11ef-9909-0242ac130004",
+                "name": "macacada",
+                "seed": 633
             },
             "match_games": []
         },
@@ -23073,7 +23251,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "9c1b1540-e0fd-11ef-b0ca-0242ac130004",
+                "name": "E$PARTANOS",
+                "seed": 524
             },
             "match_games": []
         },
@@ -24788,7 +24968,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d3cb1fd0-e611-11ef-9257-0242ac130004",
+                "name": "Chandan",
+                "seed": 883
             },
             "opponent2": {
                 "id": null
@@ -25132,7 +25314,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "afdba7e8-e599-11ef-9f83-0242ac130004",
+                "name": "Sleek's",
+                "seed": 838
             },
             "opponent2": {
                 "id": null
@@ -25289,7 +25473,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "42ca2da8-e0fa-11ef-bda3-0242ac130004",
+                "name": "DGM LEGENDS",
+                "seed": 523
             },
             "match_games": []
         },
