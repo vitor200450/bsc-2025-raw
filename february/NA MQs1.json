@@ -36452,18 +36452,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a74975f6-dff9-11ef-9771-0242ac130004",
                 "name": "Da bois",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d7e3dc8c-e0d6-11ef-9999-0242ac130004",
                 "name": "2Yellow4u",
-                "seed": 513
+                "seed": 513,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "a74975f6-dff9-11ef-9771-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7e3dc8c-e0d6-11ef-9999-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a74975f6-dff9-11ef-9771-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d7e3dc8c-e0d6-11ef-9999-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "a74975f6-dff9-11ef-9771-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7e3dc8c-e0d6-11ef-9999-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 514,
@@ -44662,18 +44712,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
                 "name": "33% ASEAN",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "34507df0-e0c2-11ef-8852-0242ac130004",
                 "name": "LETHAL DOMII’S",
-                "seed": 486
+                "seed": 486,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34507df0-e0c2-11ef-8852-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34507df0-e0c2-11ef-8852-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "34507df0-e0c2-11ef-8852-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 746,
@@ -45529,7 +45629,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a74975f6-dff9-11ef-9771-0242ac130004",
+                "name": "Da bois",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -47533,7 +47635,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b7e1faf4-e0ef-11ef-b9e4-0242ac130004",
+                "name": "33% ASEAN",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
