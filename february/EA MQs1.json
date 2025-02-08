@@ -6932,18 +6932,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e1c980ae-dff4-11ef-86bd-0242ac130004",
                 "name": "taranchuken",
-                "seed": 102
+                "seed": 102,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aaa41b86-e105-11ef-a85c-0242ac130004",
                 "name": "first time",
-                "seed": 155
+                "seed": 155,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e1c980ae-dff4-11ef-86bd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aaa41b86-e105-11ef-a85c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e1c980ae-dff4-11ef-86bd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aaa41b86-e105-11ef-a85c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -8564,7 +8599,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "e1c980ae-dff4-11ef-86bd-0242ac130004",
+                "name": "taranchuken",
+                "seed": 102
             },
             "match_games": []
         },
