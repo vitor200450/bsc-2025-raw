@@ -38484,7 +38484,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c181de46-e264-11ef-b05f-0242ac130004",
                 "name": "Vessete",
@@ -38493,7 +38493,8 @@
             "opponent2": {
                 "id": "e78d1b74-e376-11ef-8797-0242ac130004",
                 "name": "JSG peru-represent",
-                "seed": 761
+                "seed": 761,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41370,18 +41371,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
                 "name": "newbas",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6cd66ae8-e3b7-11ef-9273-0242ac130004",
                 "name": "Tropa do 113",
-                "seed": 154
+                "seed": 154,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cd66ae8-e3b7-11ef-9273-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cd66ae8-e3b7-11ef-9273-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 855,
@@ -43430,7 +43466,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c181de46-e264-11ef-b05f-0242ac130004",
+                "name": "Vessete",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -44055,7 +44093,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "157c5fce-e483-11ef-a9d0-0242ac130004",
+                "name": "newbas",
+                "seed": 103
             },
             "match_games": []
         },
