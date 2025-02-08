@@ -62943,18 +62943,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9a68989e-e157-11ef-8077-0242ac130004",
                 "name": "Fcn",
-                "seed": 2039
+                "seed": 2039,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fffe1e4a-e15c-11ef-a0f4-0242ac130004",
                 "name": "GKM",
-                "seed": 2058
+                "seed": 2058,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9a68989e-e157-11ef-8077-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fffe1e4a-e15c-11ef-a0f4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9a68989e-e157-11ef-8077-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fffe1e4a-e15c-11ef-a0f4-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9a68989e-e157-11ef-8077-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fffe1e4a-e15c-11ef-a0f4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1411,
@@ -89859,7 +89909,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "9a68989e-e157-11ef-8077-0242ac130004",
+                "name": "Fcn",
+                "seed": 2039
             },
             "match_games": []
         },
