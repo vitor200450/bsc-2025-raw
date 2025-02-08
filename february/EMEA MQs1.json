@@ -38794,18 +38794,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b97c43f4-e010-11ef-ab2e-0242ac130004",
                 "name": "KIS",
-                "seed": 1224
+                "seed": 1224,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e4617de2-e596-11ef-8f7b-0242ac130004",
                 "name": "Zeroteam",
-                "seed": 2873
+                "seed": 2873,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b97c43f4-e010-11ef-ab2e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4617de2-e596-11ef-8f7b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b97c43f4-e010-11ef-ab2e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e4617de2-e596-11ef-8f7b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b97c43f4-e010-11ef-ab2e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4617de2-e596-11ef-8f7b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 301,
@@ -71942,7 +71992,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f6731890-e0cf-11ef-a2be-0242ac130004",
                 "name": "Je me wally le surge",
@@ -71951,7 +72001,8 @@
             "opponent2": {
                 "id": "a6aaac24-e19c-11ef-910d-0242ac130004",
                 "name": "Apex Aces",
-                "seed": 2299
+                "seed": 2299,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -74237,18 +74288,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bcdeb5ca-e0f3-11ef-aeec-0242ac130004",
                 "name": "Gangot e BS",
-                "seed": 1958
+                "seed": 1958,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "943f68f0-e173-11ef-a923-0242ac130004",
                 "name": "VJM",
-                "seed": 2139
+                "seed": 2139,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bcdeb5ca-e0f3-11ef-aeec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "943f68f0-e173-11ef-a923-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "bcdeb5ca-e0f3-11ef-aeec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "943f68f0-e173-11ef-a923-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "bcdeb5ca-e0f3-11ef-aeec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "943f68f0-e173-11ef-a923-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1907,
@@ -80502,7 +80603,9 @@
                 "seed": 825
             },
             "opponent2": {
-                "id": null
+                "id": "b97c43f4-e010-11ef-ab2e-0242ac130004",
+                "name": "KIS",
+                "seed": 1224
             },
             "match_games": []
         },
@@ -95512,7 +95615,9 @@
                 "seed": 251
             },
             "opponent2": {
-                "id": null
+                "id": "f6731890-e0cf-11ef-a2be-0242ac130004",
+                "name": "Je me wally le surge",
+                "seed": 1798
             },
             "match_games": []
         },
@@ -96548,7 +96653,9 @@
                 "seed": 91
             },
             "opponent2": {
-                "id": null
+                "id": "943f68f0-e173-11ef-a923-0242ac130004",
+                "name": "VJM",
+                "seed": 2139
             },
             "match_games": []
         },
