@@ -8213,18 +8213,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
                 "name": "ファイナルラストフォース",
-                "seed": 53
+                "seed": 53,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "af9969f2-dfd4-11ef-a876-0242ac130004",
                 "name": "恋するプリモママ",
-                "seed": 76
+                "seed": 76,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af9969f2-dfd4-11ef-a876-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "30c96ac0-e0a9-11ef-9df1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af9969f2-dfd4-11ef-a876-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 159,
@@ -8663,18 +8698,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
                 "name": "ブルとバズ",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a6d81cc4-e09b-11ef-8a55-0242ac130004",
                 "name": "OZ🐾BRO",
-                "seed": 131
+                "seed": 131,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a6d81cc4-e09b-11ef-8a55-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a6d81cc4-e09b-11ef-8a55-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 178,
@@ -9439,7 +9509,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e7347eaa-e0c0-11ef-ab20-0242ac130004",
+                "name": "ブルとバズ",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
