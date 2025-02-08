@@ -55322,18 +55322,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9bc53d02-e62d-11ef-b0e8-0242ac130004",
                 "name": "RAKIBACH",
-                "seed": 992
+                "seed": 992,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bf11df5e-e358-11ef-96cd-0242ac130004",
                 "name": "The Fellow Brawlers",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "9bc53d02-e62d-11ef-b0e8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf11df5e-e358-11ef-96cd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "9bc53d02-e62d-11ef-b0e8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf11df5e-e358-11ef-96cd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 901,
@@ -56172,18 +56207,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "906597d2-e019-11ef-a994-0242ac130004",
                 "name": "Ballanhood",
-                "seed": 282
+                "seed": 282,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
                 "name": "FC Randoms",
-                "seed": 922
+                "seed": 922,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "906597d2-e019-11ef-a994-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "906597d2-e019-11ef-a994-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f04e11be-e5bf-11ef-8168-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 940,
@@ -56952,7 +57022,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "906597d2-e019-11ef-a994-0242ac130004",
+                "name": "Ballanhood",
+                "seed": 282
             },
             "opponent2": {
                 "id": null
