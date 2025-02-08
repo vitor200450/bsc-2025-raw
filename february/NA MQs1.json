@@ -23375,18 +23375,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "22c332ba-e047-11ef-894e-0242ac130004",
                 "name": "CSJP",
-                "seed": 370
+                "seed": 370,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "db42af58-e1ac-11ef-b5db-0242ac130004",
                 "name": "LES TROUS",
-                "seed": 655
+                "seed": 655,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "22c332ba-e047-11ef-894e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "db42af58-e1ac-11ef-b5db-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "22c332ba-e047-11ef-894e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db42af58-e1ac-11ef-b5db-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "22c332ba-e047-11ef-894e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "db42af58-e1ac-11ef-b5db-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 297,
@@ -27090,18 +27140,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b1400d4-e04c-11ef-80fc-0242ac130004",
                 "name": "MCF",
-                "seed": 387
+                "seed": 387,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "292d6b22-e194-11ef-816c-0242ac130004",
                 "name": "SIGMEROS",
-                "seed": 638
+                "seed": 638,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2b1400d4-e04c-11ef-80fc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "292d6b22-e194-11ef-816c-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2b1400d4-e04c-11ef-80fc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "292d6b22-e194-11ef-816c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2b1400d4-e04c-11ef-80fc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "292d6b22-e194-11ef-816c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 391,
@@ -34377,7 +34477,9 @@
                 "seed": 143
             },
             "opponent2": {
-                "id": null
+                "id": "db42af58-e1ac-11ef-b5db-0242ac130004",
+                "name": "LES TROUS",
+                "seed": 655
             },
             "match_games": []
         },
