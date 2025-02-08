@@ -55667,18 +55667,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e50a3360-e258-11ef-9744-0242ac130004",
                 "name": "New Meta",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bb1bcc64-e05d-11ef-bca6-0242ac130004",
                 "name": "Bacon Hair",
-                "seed": 425
+                "seed": 425,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e50a3360-e258-11ef-9744-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb1bcc64-e05d-11ef-bca6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e50a3360-e258-11ef-9744-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb1bcc64-e05d-11ef-bca6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 913,
@@ -56267,18 +56302,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "050ba896-e147-11ef-b124-0242ac130004",
                 "name": "Auto Aimers Fan club",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
                 "name": "Bikini Bottom",
-                "seed": 367
+                "seed": 367,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "050ba896-e147-11ef-b124-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "050ba896-e147-11ef-b124-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 936,
@@ -56627,18 +56697,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
                 "name": "OINKERS NA",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8161086-e4d0-11ef-be14-0242ac130004",
                 "name": "LEGENDARY ESPORTS",
-                "seed": 190
+                "seed": 190,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8161086-e4d0-11ef-be14-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8161086-e4d0-11ef-be14-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 947,
@@ -57272,7 +57377,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "86b8db68-e046-11ef-a1ae-0242ac130004",
+                "name": "Bikini Bottom",
+                "seed": 367
             },
             "opponent2": {
                 "id": null
@@ -57361,7 +57468,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "aac543c2-e044-11ef-9fa5-0242ac130004",
+                "name": "OINKERS NA",
+                "seed": 62
             },
             "match_games": []
         },
