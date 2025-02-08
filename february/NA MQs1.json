@@ -36799,18 +36799,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c9d1edfe-e0cd-11ef-9c56-0242ac130004",
                 "name": "Phoenix Men",
-                "seed": 192
+                "seed": 192,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
                 "name": "Troyan Ponies",
-                "seed": 704
+                "seed": 704,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "c9d1edfe-e0cd-11ef-9c56-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "c9d1edfe-e0cd-11ef-9c56-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "c9d1edfe-e0cd-11ef-9c56-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 521,
@@ -48493,7 +48543,9 @@
                 "seed": 577
             },
             "opponent2": {
-                "id": null
+                "id": "935ce02c-e1d5-11ef-9ecb-0242ac130004",
+                "name": "Troyan Ponies",
+                "seed": 704
             },
             "match_games": []
         },
