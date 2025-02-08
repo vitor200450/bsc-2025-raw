@@ -48046,18 +48046,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "067bcda0-e3c7-11ef-8da3-0242ac130004",
                 "name": "Golden Stars",
-                "seed": 128
+                "seed": 128,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
                 "name": "AQP|Dragons",
-                "seed": 576
+                "seed": 576,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "067bcda0-e3c7-11ef-8da3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "067bcda0-e3c7-11ef-8da3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb38190e-e168-11ef-bfa2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 962,
@@ -48146,18 +48181,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "568301e4-e348-11ef-aac1-0242ac130004",
                 "name": "HiddenX",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0944c78-e0b6-11ef-96c1-0242ac130004",
                 "name": "RNG PY",
-                "seed": 424
+                "seed": 424,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0944c78-e0b6-11ef-96c1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0944c78-e0b6-11ef-96c1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 967,
@@ -48863,7 +48933,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "067bcda0-e3c7-11ef-8da3-0242ac130004",
+                "name": "Golden Stars",
+                "seed": 128
             },
             "opponent2": {
                 "id": null
