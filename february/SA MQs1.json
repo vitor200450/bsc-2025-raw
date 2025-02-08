@@ -30594,18 +30594,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2aca0cbe-e005-11ef-a53d-0242ac130004",
                 "name": "BDG.CITY",
-                "seed": 247
+                "seed": 247,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8cf0a97e-e010-11ef-ae21-0242ac130004",
                 "name": "Goats crazy's",
-                "seed": 266
+                "seed": 266,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2aca0cbe-e005-11ef-a53d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8cf0a97e-e010-11ef-ae21-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2aca0cbe-e005-11ef-a53d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8cf0a97e-e010-11ef-ae21-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 691,
@@ -31179,18 +31214,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9eacbedc-dffc-11ef-87ea-0242ac130004",
                 "name": "OF|OS DE FÉ",
-                "seed": 227
+                "seed": 227,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "26951f80-e019-11ef-93b9-0242ac130004",
                 "name": "Sismo :v",
-                "seed": 286
+                "seed": 286,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "9eacbedc-dffc-11ef-87ea-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26951f80-e019-11ef-93b9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9eacbedc-dffc-11ef-87ea-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26951f80-e019-11ef-93b9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 715,
@@ -34192,7 +34262,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "9eacbedc-dffc-11ef-87ea-0242ac130004",
+                "name": "OF|OS DE FÉ",
+                "seed": 227
             },
             "match_games": []
         },
