@@ -4710,18 +4710,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b8b6b9c-e04d-11ef-a011-0242ac130004",
                 "name": "ZDC",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1112a892-e0b1-11ef-a12f-0242ac130004",
                 "name": "Noob team",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1b8b6b9c-e04d-11ef-a011-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1112a892-e0b1-11ef-a12f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1b8b6b9c-e04d-11ef-a011-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1112a892-e0b1-11ef-a12f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 79,
