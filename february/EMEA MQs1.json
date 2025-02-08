@@ -51144,18 +51144,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "76e2f976-e14a-11ef-b279-0242ac130004",
                 "name": "New Prime",
-                "seed": 2005
+                "seed": 2005,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7ad47f98-e166-11ef-88cf-0242ac130004",
                 "name": "Jedi Council",
-                "seed": 2092
+                "seed": 2092,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "76e2f976-e14a-11ef-b279-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7ad47f98-e166-11ef-88cf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "76e2f976-e14a-11ef-b279-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7ad47f98-e166-11ef-88cf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 995,
@@ -52948,18 +52983,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "472bbb04-e024-11ef-b18d-0242ac130004",
                 "name": "AstrX",
-                "seed": 1346
+                "seed": 1346,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3050f11e-e4bc-11ef-bbe9-0242ac130004",
                 "name": "Die Mambo Destroyer",
-                "seed": 2751
+                "seed": 2751,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "472bbb04-e024-11ef-b18d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3050f11e-e4bc-11ef-bbe9-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "472bbb04-e024-11ef-b18d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3050f11e-e4bc-11ef-bbe9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1089,
@@ -61122,18 +61192,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a9fe8036-e14b-11ef-acb7-0242ac130004",
                 "name": "KMS",
-                "seed": 2007
+                "seed": 2007,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ca3c21e0-e165-11ef-bff6-0242ac130004",
                 "name": "Singerie",
-                "seed": 2090
+                "seed": 2090,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a9fe8036-e14b-11ef-acb7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca3c21e0-e165-11ef-bff6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a9fe8036-e14b-11ef-acb7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ca3c21e0-e165-11ef-bff6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1507,
@@ -80529,7 +80634,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "7ad47f98-e166-11ef-88cf-0242ac130004",
+                "name": "Jedi Council",
+                "seed": 2092
             },
             "match_games": []
         },
@@ -81397,7 +81504,9 @@
                 "seed": 703
             },
             "opponent2": {
-                "id": null
+                "id": "472bbb04-e024-11ef-b18d-0242ac130004",
+                "name": "AstrX",
+                "seed": 1346
             },
             "match_games": []
         },
@@ -85263,7 +85372,9 @@
                 "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "a9fe8036-e14b-11ef-acb7-0242ac130004",
+                "name": "KMS",
+                "seed": 2007
             },
             "match_games": []
         },
