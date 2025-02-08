@@ -59474,18 +59474,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
                 "name": "sintikols gaming",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
                 "name": "SVA | 就将",
-                "seed": 63
+                "seed": 63,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc4749f0-e050-11ef-9cf1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 978,
@@ -60031,7 +60066,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
+                "name": "sintikols gaming",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
