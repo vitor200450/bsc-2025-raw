@@ -36782,18 +36782,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9fc1fce6-dfe4-11ef-8d89-0242ac130004",
                 "name": "the sea men",
-                "seed": 224
+                "seed": 224,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "56c7014a-e01f-11ef-a39f-0242ac130004",
                 "name": "The kings",
-                "seed": 289
+                "seed": 289,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "9fc1fce6-dfe4-11ef-8d89-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56c7014a-e01f-11ef-a39f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9fc1fce6-dfe4-11ef-8d89-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "56c7014a-e01f-11ef-a39f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 527,
@@ -38657,18 +38692,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fbd36714-e01f-11ef-b0e5-0242ac130004",
                 "name": "Casual Monkeys",
-                "seed": 124
+                "seed": 124,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d0631264-e18c-11ef-aa4b-0242ac130004",
                 "name": "BrutalKillers⛩️🥷",
-                "seed": 636
+                "seed": 636,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "fbd36714-e01f-11ef-b0e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d0631264-e18c-11ef-aa4b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "fbd36714-e01f-11ef-b0e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d0631264-e18c-11ef-aa4b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 612,
@@ -42860,7 +42930,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fbd36714-e01f-11ef-b0e5-0242ac130004",
+                "name": "Casual Monkeys",
+                "seed": 124
             },
             "opponent2": {
                 "id": null
