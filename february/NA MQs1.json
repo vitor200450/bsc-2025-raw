@@ -52859,18 +52859,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6a1d0f4c-e5fa-11ef-8b57-0242ac130004",
                 "name": "Elites",
-                "seed": 943
+                "seed": 943,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7b995820-e037-11ef-b377-0242ac130004",
                 "name": "GR esports",
-                "seed": 338
+                "seed": 338,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6a1d0f4c-e5fa-11ef-8b57-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b995820-e037-11ef-b377-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6a1d0f4c-e5fa-11ef-8b57-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7b995820-e037-11ef-b377-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "6a1d0f4c-e5fa-11ef-8b57-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7b995820-e037-11ef-b377-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 849,
@@ -55999,7 +56049,9 @@
                 "seed": 303
             },
             "opponent2": {
-                "id": null
+                "id": "7b995820-e037-11ef-b377-0242ac130004",
+                "name": "GR esports",
+                "seed": 338
             },
             "match_games": []
         },
