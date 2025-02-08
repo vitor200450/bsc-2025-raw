@@ -26503,18 +26503,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
                 "name": "Cross",
-                "seed": 865
+                "seed": 865,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e587b49e-e1da-11ef-ab96-0242ac130004",
                 "name": "Los Tilinsitos",
-                "seed": 672
+                "seed": 672,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e587b49e-e1da-11ef-ab96-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e587b49e-e1da-11ef-ab96-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 525,
@@ -27298,18 +27333,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2fcbfd62-e005-11ef-aaa6-0242ac130004",
                 "name": "⚜️ARG⚜️|☢️TOXIC☢️",
-                "seed": 248
+                "seed": 248,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c12e00e8-e00f-11ef-8258-0242ac130004",
                 "name": "LOS CHORIPAN",
-                "seed": 265
+                "seed": 265,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "2fcbfd62-e005-11ef-aaa6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c12e00e8-e00f-11ef-8258-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2fcbfd62-e005-11ef-aaa6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c12e00e8-e00f-11ef-8258-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 563,
