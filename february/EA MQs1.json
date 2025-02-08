@@ -3127,18 +3127,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ebcf51d0-e055-11ef-a04f-0242ac130004",
                 "name": "うきさく",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "67551e72-e0ae-11ef-8bd3-0242ac130004",
                 "name": "Super Moon",
-                "seed": 144
+                "seed": 144,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ebcf51d0-e055-11ef-a04f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "67551e72-e0ae-11ef-8bd3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ebcf51d0-e055-11ef-a04f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "67551e72-e0ae-11ef-8bd3-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -5351,18 +5386,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3088bc9c-dfe5-11ef-ac9f-0242ac130004",
                 "name": "bnn|blazers",
-                "seed": 87
+                "seed": 87,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "865b30f0-e148-11ef-a347-0242ac130004",
                 "name": "到此一遊",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3088bc9c-dfe5-11ef-ac9f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "865b30f0-e148-11ef-a347-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3088bc9c-dfe5-11ef-ac9f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "865b30f0-e148-11ef-a347-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 97,
@@ -6957,7 +7027,9 @@
                 "seed": 215
             },
             "opponent2": {
-                "id": null
+                "id": "865b30f0-e148-11ef-a347-0242ac130004",
+                "name": "到此一遊",
+                "seed": 170
             },
             "match_games": []
         },
