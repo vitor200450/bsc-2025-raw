@@ -18610,18 +18610,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e13d7578-e0ad-11ef-a1a4-0242ac130004",
                 "name": "AREPAS MORTALES",
-                "seed": 461
+                "seed": 461,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "500f4cb0-e0f9-11ef-a683-0242ac130004",
                 "name": "KBS",
-                "seed": 564
+                "seed": 564,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e13d7578-e0ad-11ef-a1a4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "500f4cb0-e0f9-11ef-a683-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e13d7578-e0ad-11ef-a1a4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "500f4cb0-e0f9-11ef-a683-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 171,
