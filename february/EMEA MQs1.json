@@ -44718,18 +44718,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7321bb6-e154-11ef-a07c-0242ac130004",
                 "name": "Fufolovci",
-                "seed": 2029
+                "seed": 2029,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "02db2d66-e161-11ef-ab89-0242ac130004",
                 "name": "IceFox Standoff 2",
-                "seed": 2068
+                "seed": 2068,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a7321bb6-e154-11ef-a07c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "02db2d66-e161-11ef-ab89-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a7321bb6-e154-11ef-a07c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "02db2d66-e161-11ef-ab89-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 707,
@@ -74982,7 +75017,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "02db2d66-e161-11ef-ab89-0242ac130004",
+                "name": "IceFox Standoff 2",
+                "seed": 2068
             },
             "match_games": []
         },
