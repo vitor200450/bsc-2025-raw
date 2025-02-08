@@ -49401,18 +49401,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e0e44a70-e59e-11ef-8e7c-0242ac130004",
                 "name": "Tiguere De Verdura",
-                "seed": 904
+                "seed": 904,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d3567f64-e048-11ef-aa1c-0242ac130004",
                 "name": "Acoustic Guys",
-                "seed": 377
+                "seed": 377,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e0e44a70-e59e-11ef-8e7c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3567f64-e048-11ef-aa1c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e0e44a70-e59e-11ef-8e7c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3567f64-e048-11ef-aa1c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 787,
@@ -49441,18 +49476,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5aae09ae-e10d-11ef-a43a-0242ac130004",
                 "name": "Bozos",
-                "seed": 584
+                "seed": 584,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0d2da378-e032-11ef-a135-0242ac130004",
                 "name": "Legacy",
-                "seed": 328
+                "seed": 328,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5aae09ae-e10d-11ef-a43a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d2da378-e032-11ef-a135-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5aae09ae-e10d-11ef-a43a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d2da378-e032-11ef-a135-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 789,
@@ -49481,18 +49551,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
                 "name": "DOUG ENJOYERS",
-                "seed": 104
+                "seed": 104,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f09418a2-e043-11ef-86d4-0242ac130004",
                 "name": "OBE Gaming",
-                "seed": 360
+                "seed": 360,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f09418a2-e043-11ef-86d4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "1d467708-e5a5-11ef-bc21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f09418a2-e043-11ef-86d4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 791,
@@ -53311,7 +53416,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "e0e44a70-e59e-11ef-8e7c-0242ac130004",
+                "name": "Tiguere De Verdura",
+                "seed": 904
             },
             "match_games": []
         },
