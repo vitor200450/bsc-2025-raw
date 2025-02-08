@@ -727,6 +727,28 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "5bae6a5a-e0cd-11ef-afb9-0242ac130004",
+            "tournament_id": 0,
+            "name": "Lol",
+            "players": [
+                "Bot 6",
+                "yellow",
+                "Grapes"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "1b5949b4-e0de-11ef-b3d8-0242ac130004",
+            "tournament_id": 0,
+            "name": "Lansing legends",
+            "players": [
+                "Max",
+                "guzz",
+                "Chuckwagon"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "540b94b6-dffc-11ef-ac2b-0242ac130004",
             "tournament_id": 0,
             "name": "ITT ESports",
@@ -5607,28 +5629,6 @@
                 "👻 Kgg|Jesko",
                 "angel357",
                 "Pinguinomalo92"
-            ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
-        },
-        {
-            "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
-            "tournament_id": 0,
-            "name": "sintikols gaming",
-            "players": [
-                "cynical",
-                "flow",
-                "babykyric"
-            ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
-        },
-        {
-            "id": "9331ba4e-e63c-11ef-941b-0242ac130004",
-            "tournament_id": 0,
-            "name": ":)",
-            "players": [
-                "Paladin|VolumeZ",
-                "Scrood☹",
-                "GB | 𝕋𝐰𝒊𝑔𝑖"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
@@ -12632,8 +12632,78 @@
             "match_games": []
         },
         {
-            "id": 35,
+            "id": 34,
             "number": 34,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 3,
+            "status": 4,
+            "opponent1": {
+                "id": "5bae6a5a-e0cd-11ef-afb9-0242ac130004",
+                "name": "Lol",
+                "seed": 497,
+                "score": 2,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "1b5949b4-e0de-11ef-b3d8-0242ac130004",
+                "name": "Lansing legends",
+                "seed": 528,
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5bae6a5a-e0cd-11ef-afb9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b5949b4-e0de-11ef-b3d8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5bae6a5a-e0cd-11ef-afb9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1b5949b4-e0de-11ef-b3d8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5bae6a5a-e0cd-11ef-afb9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b5949b4-e0de-11ef-b3d8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "number": 35,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12653,7 +12723,7 @@
         },
         {
             "id": 36,
-            "number": 35,
+            "number": 36,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12708,7 +12778,7 @@
         },
         {
             "id": 37,
-            "number": 36,
+            "number": 37,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12728,7 +12798,7 @@
         },
         {
             "id": 38,
-            "number": 37,
+            "number": 38,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12748,7 +12818,7 @@
         },
         {
             "id": 39,
-            "number": 38,
+            "number": 39,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12803,7 +12873,7 @@
         },
         {
             "id": 40,
-            "number": 39,
+            "number": 40,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12823,7 +12893,7 @@
         },
         {
             "id": 41,
-            "number": 40,
+            "number": 41,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12843,7 +12913,7 @@
         },
         {
             "id": 42,
-            "number": 41,
+            "number": 42,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12863,7 +12933,7 @@
         },
         {
             "id": 43,
-            "number": 42,
+            "number": 43,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12883,7 +12953,7 @@
         },
         {
             "id": 44,
-            "number": 43,
+            "number": 44,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12903,7 +12973,7 @@
         },
         {
             "id": 45,
-            "number": 44,
+            "number": 45,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12923,7 +12993,7 @@
         },
         {
             "id": 46,
-            "number": 45,
+            "number": 46,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12943,7 +13013,7 @@
         },
         {
             "id": 47,
-            "number": 46,
+            "number": 47,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -12963,7 +13033,7 @@
         },
         {
             "id": 48,
-            "number": 47,
+            "number": 48,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13018,7 +13088,7 @@
         },
         {
             "id": 49,
-            "number": 48,
+            "number": 49,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13038,7 +13108,7 @@
         },
         {
             "id": 50,
-            "number": 49,
+            "number": 50,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13093,7 +13163,7 @@
         },
         {
             "id": 51,
-            "number": 50,
+            "number": 51,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13148,7 +13218,7 @@
         },
         {
             "id": 52,
-            "number": 51,
+            "number": 52,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13168,7 +13238,7 @@
         },
         {
             "id": 53,
-            "number": 52,
+            "number": 53,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13238,7 +13308,7 @@
         },
         {
             "id": 54,
-            "number": 53,
+            "number": 54,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13293,7 +13363,7 @@
         },
         {
             "id": 55,
-            "number": 54,
+            "number": 55,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13348,7 +13418,7 @@
         },
         {
             "id": 56,
-            "number": 55,
+            "number": 56,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13403,7 +13473,7 @@
         },
         {
             "id": 57,
-            "number": 56,
+            "number": 57,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13423,7 +13493,7 @@
         },
         {
             "id": 58,
-            "number": 57,
+            "number": 58,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13443,7 +13513,7 @@
         },
         {
             "id": 59,
-            "number": 58,
+            "number": 59,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13498,7 +13568,7 @@
         },
         {
             "id": 60,
-            "number": 59,
+            "number": 60,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13568,7 +13638,7 @@
         },
         {
             "id": 61,
-            "number": 60,
+            "number": 61,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13623,7 +13693,7 @@
         },
         {
             "id": 62,
-            "number": 61,
+            "number": 62,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13678,7 +13748,7 @@
         },
         {
             "id": 63,
-            "number": 62,
+            "number": 63,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13698,7 +13768,7 @@
         },
         {
             "id": 64,
-            "number": 63,
+            "number": 64,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13718,7 +13788,7 @@
         },
         {
             "id": 65,
-            "number": 64,
+            "number": 65,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13738,7 +13808,7 @@
         },
         {
             "id": 66,
-            "number": 65,
+            "number": 66,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13758,7 +13828,7 @@
         },
         {
             "id": 67,
-            "number": 66,
+            "number": 67,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13813,7 +13883,7 @@
         },
         {
             "id": 68,
-            "number": 67,
+            "number": 68,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13833,7 +13903,7 @@
         },
         {
             "id": 69,
-            "number": 68,
+            "number": 69,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13888,7 +13958,7 @@
         },
         {
             "id": 70,
-            "number": 69,
+            "number": 70,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13943,7 +14013,7 @@
         },
         {
             "id": 71,
-            "number": 70,
+            "number": 71,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -13998,7 +14068,7 @@
         },
         {
             "id": 72,
-            "number": 71,
+            "number": 72,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14018,7 +14088,7 @@
         },
         {
             "id": 73,
-            "number": 72,
+            "number": 73,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14038,7 +14108,7 @@
         },
         {
             "id": 74,
-            "number": 73,
+            "number": 74,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14058,7 +14128,7 @@
         },
         {
             "id": 75,
-            "number": 74,
+            "number": 75,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14113,7 +14183,7 @@
         },
         {
             "id": 76,
-            "number": 75,
+            "number": 76,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14133,7 +14203,7 @@
         },
         {
             "id": 77,
-            "number": 76,
+            "number": 77,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14153,7 +14223,7 @@
         },
         {
             "id": 78,
-            "number": 77,
+            "number": 78,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14173,7 +14243,7 @@
         },
         {
             "id": 79,
-            "number": 78,
+            "number": 79,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14193,7 +14263,7 @@
         },
         {
             "id": 80,
-            "number": 79,
+            "number": 80,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14213,7 +14283,7 @@
         },
         {
             "id": 81,
-            "number": 80,
+            "number": 81,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14233,7 +14303,7 @@
         },
         {
             "id": 82,
-            "number": 81,
+            "number": 82,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14288,7 +14358,7 @@
         },
         {
             "id": 83,
-            "number": 82,
+            "number": 83,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14343,7 +14413,7 @@
         },
         {
             "id": 84,
-            "number": 83,
+            "number": 84,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14398,7 +14468,7 @@
         },
         {
             "id": 85,
-            "number": 84,
+            "number": 85,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14418,7 +14488,7 @@
         },
         {
             "id": 86,
-            "number": 85,
+            "number": 86,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14473,7 +14543,7 @@
         },
         {
             "id": 87,
-            "number": 86,
+            "number": 87,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14493,7 +14563,7 @@
         },
         {
             "id": 88,
-            "number": 87,
+            "number": 88,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14513,7 +14583,7 @@
         },
         {
             "id": 89,
-            "number": 88,
+            "number": 89,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14533,7 +14603,7 @@
         },
         {
             "id": 90,
-            "number": 89,
+            "number": 90,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14553,7 +14623,7 @@
         },
         {
             "id": 91,
-            "number": 90,
+            "number": 91,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14608,7 +14678,7 @@
         },
         {
             "id": 92,
-            "number": 91,
+            "number": 92,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14628,7 +14698,7 @@
         },
         {
             "id": 93,
-            "number": 92,
+            "number": 93,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14648,7 +14718,7 @@
         },
         {
             "id": 94,
-            "number": 93,
+            "number": 94,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14703,7 +14773,7 @@
         },
         {
             "id": 95,
-            "number": 94,
+            "number": 95,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14723,7 +14793,7 @@
         },
         {
             "id": 96,
-            "number": 95,
+            "number": 96,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14778,7 +14848,7 @@
         },
         {
             "id": 97,
-            "number": 96,
+            "number": 97,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14798,7 +14868,7 @@
         },
         {
             "id": 98,
-            "number": 97,
+            "number": 98,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14853,7 +14923,7 @@
         },
         {
             "id": 99,
-            "number": 98,
+            "number": 99,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14873,7 +14943,7 @@
         },
         {
             "id": 100,
-            "number": 99,
+            "number": 100,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14893,7 +14963,7 @@
         },
         {
             "id": 101,
-            "number": 100,
+            "number": 101,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14948,7 +15018,7 @@
         },
         {
             "id": 102,
-            "number": 101,
+            "number": 102,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -14968,7 +15038,7 @@
         },
         {
             "id": 103,
-            "number": 102,
+            "number": 103,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15038,7 +15108,7 @@
         },
         {
             "id": 104,
-            "number": 103,
+            "number": 104,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15093,7 +15163,7 @@
         },
         {
             "id": 105,
-            "number": 104,
+            "number": 105,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15148,7 +15218,7 @@
         },
         {
             "id": 106,
-            "number": 105,
+            "number": 106,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15168,7 +15238,7 @@
         },
         {
             "id": 107,
-            "number": 106,
+            "number": 107,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15188,7 +15258,7 @@
         },
         {
             "id": 108,
-            "number": 107,
+            "number": 108,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15208,7 +15278,7 @@
         },
         {
             "id": 109,
-            "number": 108,
+            "number": 109,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15263,7 +15333,7 @@
         },
         {
             "id": 110,
-            "number": 109,
+            "number": 110,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15318,12 +15388,12 @@
         },
         {
             "id": 111,
-            "number": 110,
+            "number": 111,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c921c0ae-e17d-11ef-9867-0242ac130004",
                 "name": "GOBS",
@@ -15332,13 +15402,14 @@
             "opponent2": {
                 "id": "9d895130-e404-11ef-b420-0242ac130004",
                 "name": "MXLegacy Esports",
-                "seed": 841
+                "seed": 841,
+                "forfeit": 1
             },
             "match_games": []
         },
         {
             "id": 112,
-            "number": 111,
+            "number": 112,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15358,7 +15429,7 @@
         },
         {
             "id": 113,
-            "number": 112,
+            "number": 113,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15413,7 +15484,7 @@
         },
         {
             "id": 114,
-            "number": 113,
+            "number": 114,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15468,7 +15539,7 @@
         },
         {
             "id": 115,
-            "number": 114,
+            "number": 115,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15488,7 +15559,7 @@
         },
         {
             "id": 116,
-            "number": 115,
+            "number": 116,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15543,7 +15614,7 @@
         },
         {
             "id": 117,
-            "number": 116,
+            "number": 117,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15563,7 +15634,7 @@
         },
         {
             "id": 118,
-            "number": 117,
+            "number": 118,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15583,7 +15654,7 @@
         },
         {
             "id": 119,
-            "number": 118,
+            "number": 119,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15603,7 +15674,7 @@
         },
         {
             "id": 120,
-            "number": 119,
+            "number": 120,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15658,7 +15729,7 @@
         },
         {
             "id": 121,
-            "number": 120,
+            "number": 121,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15713,7 +15784,7 @@
         },
         {
             "id": 122,
-            "number": 121,
+            "number": 122,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15733,7 +15804,7 @@
         },
         {
             "id": 123,
-            "number": 122,
+            "number": 123,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15753,7 +15824,7 @@
         },
         {
             "id": 124,
-            "number": 123,
+            "number": 124,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15808,7 +15879,7 @@
         },
         {
             "id": 125,
-            "number": 124,
+            "number": 125,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15828,7 +15899,7 @@
         },
         {
             "id": 126,
-            "number": 125,
+            "number": 126,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15848,7 +15919,7 @@
         },
         {
             "id": 127,
-            "number": 126,
+            "number": 127,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15903,7 +15974,7 @@
         },
         {
             "id": 128,
-            "number": 127,
+            "number": 128,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15923,7 +15994,7 @@
         },
         {
             "id": 129,
-            "number": 128,
+            "number": 129,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15943,7 +16014,7 @@
         },
         {
             "id": 130,
-            "number": 129,
+            "number": 130,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -15963,7 +16034,7 @@
         },
         {
             "id": 131,
-            "number": 130,
+            "number": 131,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16018,7 +16089,7 @@
         },
         {
             "id": 132,
-            "number": 131,
+            "number": 132,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16038,7 +16109,7 @@
         },
         {
             "id": 133,
-            "number": 132,
+            "number": 133,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16058,7 +16129,7 @@
         },
         {
             "id": 134,
-            "number": 133,
+            "number": 134,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16078,7 +16149,7 @@
         },
         {
             "id": 135,
-            "number": 134,
+            "number": 135,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16133,7 +16204,7 @@
         },
         {
             "id": 136,
-            "number": 135,
+            "number": 136,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16188,7 +16259,7 @@
         },
         {
             "id": 137,
-            "number": 136,
+            "number": 137,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16209,7 +16280,7 @@
         },
         {
             "id": 138,
-            "number": 137,
+            "number": 138,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16229,7 +16300,7 @@
         },
         {
             "id": 139,
-            "number": 138,
+            "number": 139,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16284,7 +16355,7 @@
         },
         {
             "id": 140,
-            "number": 139,
+            "number": 140,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16339,7 +16410,7 @@
         },
         {
             "id": 141,
-            "number": 140,
+            "number": 141,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16359,7 +16430,7 @@
         },
         {
             "id": 142,
-            "number": 141,
+            "number": 142,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16429,7 +16500,7 @@
         },
         {
             "id": 143,
-            "number": 142,
+            "number": 143,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16484,7 +16555,7 @@
         },
         {
             "id": 144,
-            "number": 143,
+            "number": 144,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16539,7 +16610,7 @@
         },
         {
             "id": 145,
-            "number": 144,
+            "number": 145,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16559,7 +16630,7 @@
         },
         {
             "id": 146,
-            "number": 145,
+            "number": 146,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16579,7 +16650,7 @@
         },
         {
             "id": 147,
-            "number": 146,
+            "number": 147,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16599,7 +16670,7 @@
         },
         {
             "id": 148,
-            "number": 147,
+            "number": 148,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16619,7 +16690,7 @@
         },
         {
             "id": 149,
-            "number": 148,
+            "number": 149,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16639,7 +16710,7 @@
         },
         {
             "id": 150,
-            "number": 149,
+            "number": 150,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16709,7 +16780,7 @@
         },
         {
             "id": 151,
-            "number": 150,
+            "number": 151,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16764,7 +16835,7 @@
         },
         {
             "id": 152,
-            "number": 151,
+            "number": 152,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16819,7 +16890,7 @@
         },
         {
             "id": 153,
-            "number": 152,
+            "number": 153,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16874,7 +16945,7 @@
         },
         {
             "id": 154,
-            "number": 153,
+            "number": 154,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16894,7 +16965,7 @@
         },
         {
             "id": 155,
-            "number": 154,
+            "number": 155,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16949,7 +17020,7 @@
         },
         {
             "id": 156,
-            "number": 155,
+            "number": 156,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16969,7 +17040,7 @@
         },
         {
             "id": 157,
-            "number": 156,
+            "number": 157,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -16989,7 +17060,7 @@
         },
         {
             "id": 158,
-            "number": 157,
+            "number": 158,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17009,7 +17080,7 @@
         },
         {
             "id": 159,
-            "number": 158,
+            "number": 159,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17064,7 +17135,7 @@
         },
         {
             "id": 160,
-            "number": 159,
+            "number": 160,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17084,7 +17155,7 @@
         },
         {
             "id": 161,
-            "number": 160,
+            "number": 161,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17139,7 +17210,7 @@
         },
         {
             "id": 162,
-            "number": 161,
+            "number": 162,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17194,7 +17265,7 @@
         },
         {
             "id": 163,
-            "number": 162,
+            "number": 163,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17249,7 +17320,7 @@
         },
         {
             "id": 164,
-            "number": 163,
+            "number": 164,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17269,7 +17340,7 @@
         },
         {
             "id": 165,
-            "number": 164,
+            "number": 165,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17324,7 +17395,7 @@
         },
         {
             "id": 166,
-            "number": 165,
+            "number": 166,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17344,7 +17415,7 @@
         },
         {
             "id": 167,
-            "number": 166,
+            "number": 167,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17399,7 +17470,7 @@
         },
         {
             "id": 168,
-            "number": 167,
+            "number": 168,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17419,7 +17490,7 @@
         },
         {
             "id": 169,
-            "number": 168,
+            "number": 169,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17439,7 +17510,7 @@
         },
         {
             "id": 170,
-            "number": 169,
+            "number": 170,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17459,7 +17530,7 @@
         },
         {
             "id": 171,
-            "number": 170,
+            "number": 171,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17479,7 +17550,7 @@
         },
         {
             "id": 172,
-            "number": 171,
+            "number": 172,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17534,7 +17605,7 @@
         },
         {
             "id": 173,
-            "number": 172,
+            "number": 173,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17589,7 +17660,7 @@
         },
         {
             "id": 174,
-            "number": 173,
+            "number": 174,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17644,7 +17715,7 @@
         },
         {
             "id": 175,
-            "number": 174,
+            "number": 175,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17664,7 +17735,7 @@
         },
         {
             "id": 176,
-            "number": 175,
+            "number": 176,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17719,7 +17790,7 @@
         },
         {
             "id": 177,
-            "number": 176,
+            "number": 177,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17774,7 +17845,7 @@
         },
         {
             "id": 178,
-            "number": 177,
+            "number": 178,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17794,7 +17865,7 @@
         },
         {
             "id": 179,
-            "number": 178,
+            "number": 179,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17814,7 +17885,7 @@
         },
         {
             "id": 180,
-            "number": 179,
+            "number": 180,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17834,7 +17905,7 @@
         },
         {
             "id": 181,
-            "number": 180,
+            "number": 181,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17854,7 +17925,7 @@
         },
         {
             "id": 182,
-            "number": 181,
+            "number": 182,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17924,7 +17995,7 @@
         },
         {
             "id": 183,
-            "number": 182,
+            "number": 183,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17979,7 +18050,7 @@
         },
         {
             "id": 184,
-            "number": 183,
+            "number": 184,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -17999,7 +18070,7 @@
         },
         {
             "id": 185,
-            "number": 184,
+            "number": 185,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18054,7 +18125,7 @@
         },
         {
             "id": 186,
-            "number": 185,
+            "number": 186,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18109,7 +18180,7 @@
         },
         {
             "id": 187,
-            "number": 186,
+            "number": 187,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18164,7 +18235,7 @@
         },
         {
             "id": 188,
-            "number": 187,
+            "number": 188,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18184,7 +18255,7 @@
         },
         {
             "id": 189,
-            "number": 188,
+            "number": 189,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18204,7 +18275,7 @@
         },
         {
             "id": 190,
-            "number": 189,
+            "number": 190,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18274,7 +18345,7 @@
         },
         {
             "id": 191,
-            "number": 190,
+            "number": 191,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18329,7 +18400,7 @@
         },
         {
             "id": 192,
-            "number": 191,
+            "number": 192,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18399,7 +18470,7 @@
         },
         {
             "id": 193,
-            "number": 192,
+            "number": 193,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18419,7 +18490,7 @@
         },
         {
             "id": 194,
-            "number": 193,
+            "number": 194,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18474,7 +18545,7 @@
         },
         {
             "id": 195,
-            "number": 194,
+            "number": 195,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18494,7 +18565,7 @@
         },
         {
             "id": 196,
-            "number": 195,
+            "number": 196,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18549,7 +18620,7 @@
         },
         {
             "id": 197,
-            "number": 196,
+            "number": 197,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18604,7 +18675,7 @@
         },
         {
             "id": 198,
-            "number": 197,
+            "number": 198,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18659,7 +18730,7 @@
         },
         {
             "id": 199,
-            "number": 198,
+            "number": 199,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18714,7 +18785,7 @@
         },
         {
             "id": 200,
-            "number": 199,
+            "number": 200,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18734,7 +18805,7 @@
         },
         {
             "id": 201,
-            "number": 200,
+            "number": 201,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18754,7 +18825,7 @@
         },
         {
             "id": 202,
-            "number": 201,
+            "number": 202,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18774,7 +18845,7 @@
         },
         {
             "id": 203,
-            "number": 202,
+            "number": 203,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18794,7 +18865,7 @@
         },
         {
             "id": 204,
-            "number": 203,
+            "number": 204,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18814,7 +18885,7 @@
         },
         {
             "id": 205,
-            "number": 204,
+            "number": 205,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18869,7 +18940,7 @@
         },
         {
             "id": 206,
-            "number": 205,
+            "number": 206,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18889,7 +18960,7 @@
         },
         {
             "id": 207,
-            "number": 206,
+            "number": 207,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18944,7 +19015,7 @@
         },
         {
             "id": 208,
-            "number": 207,
+            "number": 208,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18964,7 +19035,7 @@
         },
         {
             "id": 209,
-            "number": 208,
+            "number": 209,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -18984,7 +19055,7 @@
         },
         {
             "id": 210,
-            "number": 209,
+            "number": 210,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19004,7 +19075,7 @@
         },
         {
             "id": 211,
-            "number": 210,
+            "number": 211,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19024,7 +19095,7 @@
         },
         {
             "id": 212,
-            "number": 211,
+            "number": 212,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19079,7 +19150,7 @@
         },
         {
             "id": 213,
-            "number": 212,
+            "number": 213,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19099,7 +19170,7 @@
         },
         {
             "id": 214,
-            "number": 213,
+            "number": 214,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19119,7 +19190,7 @@
         },
         {
             "id": 215,
-            "number": 214,
+            "number": 215,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19174,7 +19245,7 @@
         },
         {
             "id": 216,
-            "number": 215,
+            "number": 216,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19194,7 +19265,7 @@
         },
         {
             "id": 217,
-            "number": 216,
+            "number": 217,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19249,7 +19320,7 @@
         },
         {
             "id": 218,
-            "number": 217,
+            "number": 218,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19269,7 +19340,7 @@
         },
         {
             "id": 219,
-            "number": 218,
+            "number": 219,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19324,7 +19395,7 @@
         },
         {
             "id": 220,
-            "number": 219,
+            "number": 220,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19344,7 +19415,7 @@
         },
         {
             "id": 221,
-            "number": 220,
+            "number": 221,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19364,7 +19435,7 @@
         },
         {
             "id": 222,
-            "number": 221,
+            "number": 222,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19419,7 +19490,7 @@
         },
         {
             "id": 223,
-            "number": 222,
+            "number": 223,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19474,7 +19545,7 @@
         },
         {
             "id": 224,
-            "number": 223,
+            "number": 224,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19529,7 +19600,7 @@
         },
         {
             "id": 225,
-            "number": 224,
+            "number": 225,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19584,7 +19655,7 @@
         },
         {
             "id": 226,
-            "number": 225,
+            "number": 226,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19639,7 +19710,7 @@
         },
         {
             "id": 227,
-            "number": 226,
+            "number": 227,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19694,7 +19765,7 @@
         },
         {
             "id": 228,
-            "number": 227,
+            "number": 228,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19714,7 +19785,7 @@
         },
         {
             "id": 229,
-            "number": 228,
+            "number": 229,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19769,7 +19840,7 @@
         },
         {
             "id": 230,
-            "number": 229,
+            "number": 230,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19824,7 +19895,7 @@
         },
         {
             "id": 231,
-            "number": 230,
+            "number": 231,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19879,7 +19950,7 @@
         },
         {
             "id": 232,
-            "number": 231,
+            "number": 232,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19899,7 +19970,7 @@
         },
         {
             "id": 233,
-            "number": 232,
+            "number": 233,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19919,7 +19990,7 @@
         },
         {
             "id": 234,
-            "number": 233,
+            "number": 234,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19939,7 +20010,7 @@
         },
         {
             "id": 235,
-            "number": 234,
+            "number": 235,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19959,7 +20030,7 @@
         },
         {
             "id": 236,
-            "number": 235,
+            "number": 236,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19979,7 +20050,7 @@
         },
         {
             "id": 237,
-            "number": 236,
+            "number": 237,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -19999,7 +20070,7 @@
         },
         {
             "id": 238,
-            "number": 237,
+            "number": 238,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20019,7 +20090,7 @@
         },
         {
             "id": 239,
-            "number": 238,
+            "number": 239,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20074,7 +20145,7 @@
         },
         {
             "id": 240,
-            "number": 239,
+            "number": 240,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20094,27 +20165,62 @@
         },
         {
             "id": 241,
-            "number": 240,
+            "number": 241,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0faa0fc8-e5ce-11ef-b7e7-0242ac130004",
                 "name": "Saro Squad",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a915746-e633-11ef-9a84-0242ac130004",
                 "name": "THE GIRLY B'S",
-                "seed": 1004
+                "seed": 1004,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0faa0fc8-e5ce-11ef-b7e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a915746-e633-11ef-9a84-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0faa0fc8-e5ce-11ef-b7e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a915746-e633-11ef-9a84-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 242,
-            "number": 241,
+            "number": 242,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20169,7 +20275,7 @@
         },
         {
             "id": 243,
-            "number": 242,
+            "number": 243,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20239,7 +20345,7 @@
         },
         {
             "id": 244,
-            "number": 243,
+            "number": 244,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20294,7 +20400,7 @@
         },
         {
             "id": 245,
-            "number": 244,
+            "number": 245,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20314,7 +20420,7 @@
         },
         {
             "id": 246,
-            "number": 245,
+            "number": 246,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20369,7 +20475,7 @@
         },
         {
             "id": 247,
-            "number": 246,
+            "number": 247,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20424,7 +20530,7 @@
         },
         {
             "id": 248,
-            "number": 247,
+            "number": 248,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20479,7 +20585,7 @@
         },
         {
             "id": 249,
-            "number": 248,
+            "number": 249,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20534,7 +20640,7 @@
         },
         {
             "id": 250,
-            "number": 249,
+            "number": 250,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20554,7 +20660,7 @@
         },
         {
             "id": 251,
-            "number": 250,
+            "number": 251,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20609,7 +20715,7 @@
         },
         {
             "id": 252,
-            "number": 251,
+            "number": 252,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20629,7 +20735,7 @@
         },
         {
             "id": 253,
-            "number": 252,
+            "number": 253,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20684,7 +20790,7 @@
         },
         {
             "id": 254,
-            "number": 253,
+            "number": 254,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20704,7 +20810,7 @@
         },
         {
             "id": 255,
-            "number": 254,
+            "number": 255,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20759,7 +20865,7 @@
         },
         {
             "id": 256,
-            "number": 255,
+            "number": 256,
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
@@ -20807,61 +20913,6 @@
                     },
                     "opponent2": {
                         "id": "f8d43408-e1c3-11ef-b8c8-0242ac130004",
-                        "score": 1
-                    }
-                }
-            ]
-        },
-        {
-            "id": 257,
-            "number": 256,
-            "stage_id": 0,
-            "group_id": 0,
-            "round_id": 1,
-            "child_count": 3,
-            "status": 4,
-            "opponent1": {
-                "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
-                "name": "sintikols gaming",
-                "seed": 2,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": "9331ba4e-e63c-11ef-941b-0242ac130004",
-                "name": ":)",
-                "seed": 1023,
-                "score": 0,
-                "result": "loss"
-            },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Hard Rock Mine",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
-                    "opponent1": {
-                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "9331ba4e-e63c-11ef-941b-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Bounty",
-                    "mapName": "Layer Cake",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
-                    "opponent1": {
-                        "id": "f00fd546-e5a8-11ef-9782-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "9331ba4e-e63c-11ef-941b-0242ac130004",
                         "score": 1
                     }
                 }
@@ -31160,7 +31211,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c921c0ae-e17d-11ef-9867-0242ac130004",
+                "name": "GOBS",
+                "seed": 184
             },
             "opponent2": {
                 "id": null
