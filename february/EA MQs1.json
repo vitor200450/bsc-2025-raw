@@ -5355,18 +5355,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2317de2c-e2fa-11ef-9232-0242ac130004",
                 "name": "Segmenttree",
-                "seed": 55
+                "seed": 55,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "84fefc94-e235-11ef-98bf-0242ac130004",
                 "name": "無職透明",
-                "seed": 202
+                "seed": 202,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2317de2c-e2fa-11ef-9232-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2317de2c-e2fa-11ef-9232-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 92,
@@ -6060,18 +6095,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0469b93a-e07c-11ef-9512-0242ac130004",
                 "name": "Ones Who Live",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c17cb870-e3b9-11ef-a680-0242ac130004",
                 "name": "A5ランクの肉を食べたい",
-                "seed": 219
+                "seed": 219,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c17cb870-e3b9-11ef-a680-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c17cb870-e3b9-11ef-a680-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 120,
@@ -7138,7 +7208,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "84fefc94-e235-11ef-98bf-0242ac130004",
+                "name": "無職透明",
+                "seed": 202
             },
             "opponent2": {
                 "id": null
@@ -7396,10 +7468,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0469b93a-e07c-11ef-9512-0242ac130004",
+                "name": "Ones Who Live",
+                "seed": 38
             },
             "opponent2": {
-                "id": null
+                "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                "name": "Trivial Esports",
+                "seed": 91
             },
             "match_games": []
         },
