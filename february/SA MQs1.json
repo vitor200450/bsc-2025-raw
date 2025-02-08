@@ -44742,18 +44742,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dbb49176-e301-11ef-b90c-0242ac130004",
                 "name": "Peanut Butters",
-                "seed": 737
+                "seed": 737,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
                 "name": "Cross",
-                "seed": 865
+                "seed": 865,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "dbb49176-e301-11ef-b90c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "dbb49176-e301-11ef-b90c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 900,
@@ -46652,18 +46687,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3f25076a-e09e-11ef-b745-0242ac130004",
                 "name": "Precoces Team",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
                 "name": "Fumaça e cachaça",
-                "seed": 627
+                "seed": 627,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3f25076a-e09e-11ef-b745-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3f25076a-e09e-11ef-b745-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95dc6750-e19e-11ef-8e87-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 950,
@@ -47085,7 +47155,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd5e2c74-e5c0-11ef-b4d6-0242ac130004",
+                "name": "Cross",
+                "seed": 865
             },
             "opponent2": {
                 "id": null
@@ -47527,7 +47599,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3f25076a-e09e-11ef-b745-0242ac130004",
+                "name": "Precoces Team",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
