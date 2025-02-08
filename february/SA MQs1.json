@@ -44787,18 +44787,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28235056-e19a-11ef-bee0-0242ac130004",
                 "name": "TIME ESPORTS",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a4216600-e188-11ef-b01a-0242ac130004",
                 "name": "LOS PE",
-                "seed": 145
+                "seed": 145,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4216600-e188-11ef-b01a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4216600-e188-11ef-b01a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 904,
@@ -44867,18 +44902,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "568301e4-e348-11ef-aac1-0242ac130004",
                 "name": "HiddenX",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5737f61c-e56e-11ef-bb32-0242ac130004",
                 "name": "BAP Alianza",
-                "seed": 104
+                "seed": 104,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5737f61c-e56e-11ef-bb32-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5737f61c-e56e-11ef-bb32-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 908,
@@ -45997,7 +46067,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28235056-e19a-11ef-bee0-0242ac130004",
+                "name": "TIME ESPORTS",
+                "seed": 17
             },
             "opponent2": {
                 "id": null
@@ -46029,7 +46101,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "568301e4-e348-11ef-aac1-0242ac130004",
+                "name": "HiddenX",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
