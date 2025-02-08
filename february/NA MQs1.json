@@ -43707,18 +43707,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc86b6fa-e123-11ef-b4c2-0242ac130004",
                 "name": "Triple M",
-                "seed": 74
+                "seed": 74,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "06a86250-e112-11ef-ac19-0242ac130004",
                 "name": "TheLeftovers",
-                "seed": 586
+                "seed": 586,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "cc86b6fa-e123-11ef-b4c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "06a86250-e112-11ef-ac19-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cc86b6fa-e123-11ef-b4c2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "06a86250-e112-11ef-ac19-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "cc86b6fa-e123-11ef-b4c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "06a86250-e112-11ef-ac19-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 696,
@@ -48141,7 +48191,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cc86b6fa-e123-11ef-b4c2-0242ac130004",
+                "name": "Triple M",
+                "seed": 74
             },
             "opponent2": {
                 "id": null
