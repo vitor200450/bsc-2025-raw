@@ -13820,18 +13820,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d007ef44-e04a-11ef-8069-0242ac130004",
                 "name": "MBRT",
-                "seed": 380
+                "seed": 380,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0a92a73c-e1b1-11ef-9b2b-0242ac130004",
                 "name": "Netotosos",
-                "seed": 645
+                "seed": 645,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d007ef44-e04a-11ef-8069-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a92a73c-e1b1-11ef-9b2b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "d007ef44-e04a-11ef-8069-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a92a73c-e1b1-11ef-9b2b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 201,
@@ -14063,18 +14098,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb34a27a-dffd-11ef-a338-0242ac130004",
                 "name": "PECINHAS❄️🥵",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "176cee1e-e4b7-11ef-9bdb-0242ac130004",
                 "name": "Ghost Squad",
-                "seed": 796
+                "seed": 796,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb34a27a-dffd-11ef-a338-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "176cee1e-e4b7-11ef-9bdb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "cb34a27a-dffd-11ef-a338-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "176cee1e-e4b7-11ef-9bdb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 212,
@@ -21706,7 +21776,9 @@
                 "seed": 133
             },
             "opponent2": {
-                "id": null
+                "id": "d007ef44-e04a-11ef-8069-0242ac130004",
+                "name": "MBRT",
+                "seed": 380
             },
             "match_games": []
         },
@@ -21807,7 +21879,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "176cee1e-e4b7-11ef-9bdb-0242ac130004",
+                "name": "Ghost Squad",
+                "seed": 796
             },
             "opponent2": {
                 "id": null
