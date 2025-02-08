@@ -36492,18 +36492,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
                 "name": "Yellow|Brown|White",
-                "seed": 128
+                "seed": 128,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "580ad49c-e04b-11ef-b999-0242ac130004",
                 "name": "Akudama Drive",
-                "seed": 385
+                "seed": 385,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "580ad49c-e04b-11ef-b999-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "580ad49c-e04b-11ef-b999-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 516,
@@ -41017,7 +41052,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "34ded0e2-e427-11ef-8d85-0242ac130004",
                 "name": "Los prietos 🐐",
@@ -41695,7 +41730,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e20b499a-e2be-11ef-8d77-0242ac130004",
+                "name": "Yellow|Brown|White",
+                "seed": 128
             },
             "opponent2": {
                 "id": null
