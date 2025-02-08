@@ -10236,18 +10236,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86f9469e-e168-11ef-8e0f-0242ac130004",
                 "name": "JARL veterans",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7f939d74-e397-11ef-a0ef-0242ac130004",
                 "name": "akumanman",
-                "seed": 216
+                "seed": 216,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "86f9469e-e168-11ef-8e0f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7f939d74-e397-11ef-a0ef-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "86f9469e-e168-11ef-8e0f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7f939d74-e397-11ef-a0ef-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 201,
@@ -10311,18 +10346,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6d4da168-dff1-11ef-9f30-0242ac130004",
                 "name": "SANABI",
-                "seed": 100
+                "seed": 100,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cb947c9e-e3cd-11ef-9b8f-0242ac130004",
                 "name": "大三元",
-                "seed": 221
+                "seed": 221,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6d4da168-dff1-11ef-9f30-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb947c9e-e3cd-11ef-9b8f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6d4da168-dff1-11ef-9f30-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb947c9e-e3cd-11ef-9b8f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 203,
@@ -11233,7 +11303,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "cb947c9e-e3cd-11ef-9b8f-0242ac130004",
+                "name": "大三元",
+                "seed": 221
             },
             "match_games": []
         },
