@@ -7873,18 +7873,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b80d744e-e0aa-11ef-94ed-0242ac130004",
                 "name": "Prove",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6df32328-e0a4-11ef-9084-0242ac130004",
                 "name": "wetpeanuts",
-                "seed": 137
+                "seed": 137,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "b80d744e-e0aa-11ef-94ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6df32328-e0a4-11ef-9084-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b80d744e-e0aa-11ef-94ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6df32328-e0a4-11ef-9084-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 142,
@@ -8628,18 +8663,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
                 "name": "F/A Definer",
-                "seed": 31
+                "seed": 31,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5e570868-e12a-11ef-a5dd-0242ac130004",
                 "name": "えんぴつのペン先",
-                "seed": 159
+                "seed": 159,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e570868-e12a-11ef-a5dd-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e570868-e12a-11ef-a5dd-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 164,
@@ -9605,10 +9675,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b80d744e-e0aa-11ef-94ed-0242ac130004",
+                "name": "Prove",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "7fe1a968-e538-11ef-b088-0242ac130004",
+                "name": "CSTA",
+                "seed": 56
             },
             "match_games": []
         },
@@ -9791,10 +9865,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "12bd296a-dfc1-11ef-bb4e-0242ac130004",
+                "name": "F/A Definer",
+                "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "9d2388d8-e412-11ef-ab05-0242ac130004",
+                "name": "Feasible Gaming",
+                "seed": 223
             },
             "match_games": []
         },
