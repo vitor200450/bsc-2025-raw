@@ -50168,18 +50168,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "298193f4-e0f5-11ef-9d59-0242ac130004",
                 "name": "Eternal",
-                "seed": 1964
+                "seed": 1964,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48782a44-e171-11ef-b779-0242ac130004",
                 "name": "Lom Lepauw",
-                "seed": 2133
+                "seed": 2133,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "298193f4-e0f5-11ef-9d59-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48782a44-e171-11ef-b779-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "298193f4-e0f5-11ef-9d59-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48782a44-e171-11ef-b779-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1011,
@@ -63203,18 +63238,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "db5208c4-e01a-11ef-93cd-0242ac130004",
                 "name": "⛩️SFF/Club⛩️",
-                "seed": 1299
+                "seed": 1299,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c04597a0-e54a-11ef-a6a1-0242ac130004",
                 "name": "Interstellar",
-                "seed": 2798
+                "seed": 2798,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "db5208c4-e01a-11ef-93cd-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c04597a0-e54a-11ef-a6a1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "db5208c4-e01a-11ef-93cd-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c04597a0-e54a-11ef-a6a1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1745,
