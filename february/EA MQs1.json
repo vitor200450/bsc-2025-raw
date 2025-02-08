@@ -10071,18 +10071,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6fbbd534-e0a3-11ef-9344-0242ac130004",
                 "name": "Dusk",
-                "seed": 136
+                "seed": 136,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b816762a-e177-11ef-b3e3-0242ac130004",
                 "name": "Pineapple San",
-                "seed": 185
+                "seed": 185,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6fbbd534-e0a3-11ef-9344-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "6fbbd534-e0a3-11ef-9344-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 198,
@@ -10571,18 +10606,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c550ec8e-e2cc-11ef-b85a-0242ac130004",
                 "name": "Crawl up",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
                 "name": "Trivial Esports",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c550ec8e-e2cc-11ef-b85a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "c550ec8e-e2cc-11ef-b85a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "65c7b34a-dfea-11ef-bf66-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 223,
@@ -10665,7 +10735,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b816762a-e177-11ef-b3e3-0242ac130004",
+                "name": "Pineapple San",
+                "seed": 185
             },
             "opponent2": {
                 "id": null
