@@ -1904,18 +1904,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
                 "name": "Uhyoo!",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
                 "name": "GoNext",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2307,10 +2372,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69a4cbd2-e5f4-11ef-9952-0242ac130004",
+                "name": "Uhyoo!",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "a8ebe8d8-e0a5-11ef-bb9c-0242ac130004",
+                "name": "Frenzy Gaming",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2702,8 +2771,16 @@
             "round_id": 2,
             "child_count": 5,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "69a75820-e5f4-11ef-ab37-0242ac130004",
+                "name": "GoNext",
+                "seed": 20
+            },
+            "opponent2": {
+                "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+                "name": "Crawl up",
+                "seed": 26
+            },
             "match_games": []
         },
         {
