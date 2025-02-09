@@ -2307,18 +2307,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8697c646-e67f-11ef-8e81-0242ac130004",
                 "name": "Kangaroos",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "86931d9e-e67f-11ef-9362-0242ac130004",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8697c646-e67f-11ef-8e81-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86931d9e-e67f-11ef-9362-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "8697c646-e67f-11ef-8e81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86931d9e-e67f-11ef-9362-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8697c646-e67f-11ef-8e81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86931d9e-e67f-11ef-9362-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8697c646-e67f-11ef-8e81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86931d9e-e67f-11ef-9362-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -2506,7 +2571,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "8697c646-e67f-11ef-8e81-0242ac130004",
+                "name": "Kangaroos",
+                "seed": 26
             },
             "match_games": []
         },
