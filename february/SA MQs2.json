@@ -3602,18 +3602,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3159660-e006-11ef-aea5-0242ac130004",
                 "name": "Legión Otaku",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35537888-e199-11ef-84cd-0242ac130004",
                 "name": "Os Bolinhas",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35537888-e199-11ef-84cd-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35537888-e199-11ef-84cd-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35537888-e199-11ef-84cd-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -3737,7 +3787,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                "name": "Legión Otaku",
+                "seed": 10
             },
             "match_games": []
         },
