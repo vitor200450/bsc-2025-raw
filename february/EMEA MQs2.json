@@ -2692,18 +2692,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1827304c-e658-11ef-81e7-0242ac130004",
                 "name": "Sigma Boys",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a39b5de8-e08a-11ef-a192-0242ac130004",
                 "name": "Kit Too Far",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39b5de8-e08a-11ef-a192-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39b5de8-e08a-11ef-a192-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39b5de8-e08a-11ef-a192-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 22,
@@ -3018,7 +3068,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                "name": "Sigma Boys",
+                "seed": 31
             },
             "match_games": []
         },
