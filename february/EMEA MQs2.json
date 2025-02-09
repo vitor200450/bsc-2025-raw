@@ -3229,18 +3229,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
                 "name": "Reply Totem",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182e645c-e658-11ef-9bf4-0242ac130004",
                 "name": "Banana",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182e645c-e658-11ef-9bf4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182e645c-e658-11ef-9bf4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182e645c-e658-11ef-9bf4-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3391,7 +3441,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                "name": "Reply Totem",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
