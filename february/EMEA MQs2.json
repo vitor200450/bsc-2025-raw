@@ -516,6 +516,17 @@
                 "Luke32"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+            "tournament_id": 0,
+            "name": "Smirk Cats",
+            "players": [
+                "Jinx🩵",
+                "Zimon",
+                "Marcoh"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Smirk Cats.png"
         }
     ],
     "stage": [
@@ -1753,18 +1764,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16024a24-e57a-11ef-a71e-0242ac130004",
                 "name": "Smirk Cats",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "182d39b0-e658-11ef-b25e-0242ac130004",
                 "name": "Eclipsar Esport",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1920,7 +2011,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                "name": "Eclipsar Esport",
+                "seed": 22
             },
             "match_games": []
         },
@@ -2142,7 +2235,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "16024a24-e57a-11ef-a71e-0242ac130004",
+                "name": "Smirk Cats",
+                "seed": 11
             },
             "match_games": []
         },
