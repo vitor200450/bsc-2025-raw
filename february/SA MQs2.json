@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
+            "tournament_id": 0,
+            "name": "Leans, Pt. 2",
+            "players": [
+                "Belsnh🐳",
+                "Rafit❄️",
+                "Shot'侍"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "d1fdd36c-e65e-11ef-b15f-0242ac130004",
             "tournament_id": 0,
             "name": "Golden Stars",
@@ -633,18 +644,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
                 "name": "IX F/A",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
                 "name": "Leans, Pt. 2",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1187,7 +1248,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                "name": "IX F/A",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1399,7 +1462,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
+                "name": "Leans, Pt. 2",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
