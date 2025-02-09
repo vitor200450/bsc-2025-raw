@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+            "tournament_id": 0,
+            "name": "Salsicheiros F/a",
+            "players": [
+                "DC | Flush",
+                "SF | Sterixzin",
+                "CFZ|Igor🦇"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "d1ffd996-e65e-11ef-bd50-0242ac130004",
             "tournament_id": 0,
             "name": "Leans, Pt. 2",
@@ -668,18 +679,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
                 "name": "Salsicheiros F/a",
-                "seed": 16
+                "seed": 16,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
                 "name": "3DBR ONE",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1509,7 +1585,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "d1f9cd6c-e65e-11ef-a02b-0242ac130004",
+                "name": "3DBR ONE",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1731,7 +1809,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                "name": "Salsicheiros F/a",
+                "seed": 16
             },
             "match_games": []
         },
