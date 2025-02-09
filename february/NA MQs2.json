@@ -2466,68 +2466,18 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 4,
+            "status": 3,
             "opponent1": {
                 "id": "555891aa-dffe-11ef-89b5-0242ac130004",
                 "name": "Elevate",
-                "seed": 2,
-                "score": 3,
-                "result": "win"
+                "seed": 2
             },
             "opponent2": {
                 "id": "370d052a-e1aa-11ef-88db-0242ac130004",
                 "name": "The Unction",
-                "seed": 7,
-                "score": 0,
-                "result": "loss"
+                "seed": 7
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Bounty",
-                    "mapName": "Shooting Star",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
-                    "opponent1": {
-                        "id": "555891aa-dffe-11ef-89b5-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "370d052a-e1aa-11ef-88db-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Last Stop",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
-                    "opponent1": {
-                        "id": "555891aa-dffe-11ef-89b5-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "370d052a-e1aa-11ef-88db-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "match_3",
-                    "gameMode": "Heist",
-                    "mapName": "Kaboom Canyon",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
-                    "opponent1": {
-                        "id": "555891aa-dffe-11ef-89b5-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "370d052a-e1aa-11ef-88db-0242ac130004",
-                        "score": 0
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 44,
@@ -3626,9 +3576,7 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "370d052a-e1aa-11ef-88db-0242ac130004",
-                "name": "The Unction",
-                "seed": 7
+                "id": null
             },
             "opponent2": {
                 "id": null
