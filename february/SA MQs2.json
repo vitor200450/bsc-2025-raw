@@ -3892,18 +3892,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
                 "name": "Blue Lock 357",
-                "seed": 12
+                "seed": 12,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
                 "name": "Ninguém Segura☝🏻🤫",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 50,
