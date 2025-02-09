@@ -3559,18 +3559,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "182853aa-e658-11ef-b2ed-0242ac130004",
                 "name": "LLC Esport",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1829f87c-e658-11ef-98a6-0242ac130004",
                 "name": "LuxAeterna eSports",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1829f87c-e658-11ef-98a6-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1829f87c-e658-11ef-98a6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1829f87c-e658-11ef-98a6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1829f87c-e658-11ef-98a6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1829f87c-e658-11ef-98a6-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -4081,7 +4161,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                "name": "LLC Esport",
+                "seed": 19
             },
             "match_games": []
         },
