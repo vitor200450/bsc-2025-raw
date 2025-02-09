@@ -4154,18 +4154,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
                 "name": "Reply Totem",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182853aa-e658-11ef-b2ed-0242ac130004",
                 "name": "LLC Esport",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182853aa-e658-11ef-b2ed-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4356,7 +4421,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "3d9edfd8-e01c-11ef-b07b-0242ac130004",
+                "name": "Reply Totem",
+                "seed": 6
             },
             "match_games": []
         },
