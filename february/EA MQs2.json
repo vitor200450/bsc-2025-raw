@@ -3279,18 +3279,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69a65c86-e5f4-11ef-a95d-0242ac130004",
                 "name": "Prove",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
                 "name": "EffortResult",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "69a65c86-e5f4-11ef-a95d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "69a65c86-e5f4-11ef-a95d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "69a65c86-e5f4-11ef-a95d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3441,7 +3491,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                "name": "EffortResult",
+                "seed": 17
             },
             "opponent2": {
                 "id": null
