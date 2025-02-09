@@ -3107,18 +3107,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
                 "name": "SKCalalas NA",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8694b9f6-e67f-11ef-9296-0242ac130004",
                 "name": "Complexity",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8694b9f6-e67f-11ef-9296-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8694b9f6-e67f-11ef-9296-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8694b9f6-e67f-11ef-9296-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
