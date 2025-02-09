@@ -61101,18 +61101,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
                 "name": "Sovereign",
-                "seed": 52
+                "seed": 52,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "402c8c3a-e262-11ef-9202-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "2b76be3c-e109-11ef-8ea9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "402c8c3a-e262-11ef-9202-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 999,
