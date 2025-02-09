@@ -3579,18 +3579,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
                 "name": "XO Free Agents",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
                 "name": "Goats",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b0bcc-e658-11ef-b81f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -4014,10 +4094,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "057bd7cc-dfeb-11ef-9479-0242ac130004",
+                "name": "XO Free Agents",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "f51202a2-e572-11ef-9bc0-0242ac130004",
+                "name": "MBC Esports",
+                "seed": 12
             },
             "match_games": []
         },
