@@ -1924,18 +1924,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a1d5d58-dfb6-11ef-abe3-0242ac130004",
                 "name": "Hey hey ok ok",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a8ebe8d8-e0a5-11ef-bb9c-0242ac130004",
                 "name": "Frenzy Gaming",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "5a1d5d58-dfb6-11ef-abe3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a8ebe8d8-e0a5-11ef-bb9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5a1d5d58-dfb6-11ef-abe3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a8ebe8d8-e0a5-11ef-bb9c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "5a1d5d58-dfb6-11ef-abe3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a8ebe8d8-e0a5-11ef-bb9c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2353,7 +2403,11 @@
             "round_id": 2,
             "child_count": 5,
             "status": 0,
-            "opponent1": null,
+            "opponent1": {
+                "id": "5a1d5d58-dfb6-11ef-abe3-0242ac130004",
+                "name": "Hey hey ok ok",
+                "seed": 5
+            },
             "opponent2": null,
             "match_games": []
         },
