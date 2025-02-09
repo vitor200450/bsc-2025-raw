@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+            "tournament_id": 0,
+            "name": "EffortResult",
+            "players": [
+                "ER|Wahochi",
+                "ER|JeneAzure",
+                "ER|Naipishu"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "69a5da36-e5f4-11ef-8ad6-0242ac130004",
             "tournament_id": 0,
             "name": "크롱유튜브구독",
@@ -558,18 +569,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0de04b04-dff1-11ef-82d1-0242ac130004",
                 "name": "NIWA",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
                 "name": "EffortResult",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0de04b04-dff1-11ef-82d1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0de04b04-dff1-11ef-82d1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0de04b04-dff1-11ef-82d1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1065,7 +1126,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "0de04b04-dff1-11ef-82d1-0242ac130004",
+                "name": "NIWA",
+                "seed": 16
             },
             "match_games": []
         },
@@ -1265,7 +1328,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "69a31788-e5f4-11ef-9a27-0242ac130004",
+                "name": "EffortResult",
+                "seed": 17
             },
             "match_games": []
         },
