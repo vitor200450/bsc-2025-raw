@@ -4194,18 +4194,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1827304c-e658-11ef-81e7-0242ac130004",
                 "name": "Sigma Boys",
-                "seed": 31
+                "seed": 31,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
                 "name": "F/A Snigets",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4342,7 +4392,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "1827304c-e658-11ef-81e7-0242ac130004",
+                "name": "Sigma Boys",
+                "seed": 31
             },
             "match_games": []
         },
