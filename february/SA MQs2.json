@@ -3932,18 +3932,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
                 "name": "last chance",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
                 "name": "Zurita Gang",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 52,
