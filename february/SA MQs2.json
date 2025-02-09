@@ -3912,18 +3912,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
                 "name": "IX F/A",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f3159660-e006-11ef-aea5-0242ac130004",
                 "name": "Legión Otaku",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f3159660-e006-11ef-aea5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 51,
