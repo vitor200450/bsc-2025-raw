@@ -3022,18 +3022,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "22fbab20-e481-11ef-a227-0242ac130004",
                 "name": "iWorlds",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d1f6a970-e65e-11ef-83ad-0242ac130004",
                 "name": "Nobruzes F/A",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "22fbab20-e481-11ef-a227-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1f6a970-e65e-11ef-83ad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "22fbab20-e481-11ef-a227-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1f6a970-e65e-11ef-83ad-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "22fbab20-e481-11ef-a227-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d1f6a970-e65e-11ef-83ad-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -3123,7 +3173,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "22fbab20-e481-11ef-a227-0242ac130004",
+                "name": "iWorlds",
+                "seed": 13
             },
             "match_games": []
         },
