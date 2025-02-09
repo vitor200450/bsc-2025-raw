@@ -386,6 +386,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Feasible Gaming.png"
         },
         {
+            "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+            "tournament_id": 0,
+            "name": "Crawl up",
+            "players": [
+                "Nem🌙·̩͙⋆͛",
+                "Sun#25",
+                "るじゃお"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "69aa5692-e5f4-11ef-af16-0242ac130004",
             "tournament_id": 0,
             "name": "ぽてとウマー‼️",
@@ -827,18 +838,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
                 "name": "Rival Esports",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
                 "name": "Crawl up",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1083,7 +1144,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
+                "name": "Rival Esports",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -1281,7 +1344,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69a95120-e5f4-11ef-8aaa-0242ac130004",
+                "name": "Crawl up",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
