@@ -4314,18 +4314,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
                 "name": "Team S2",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69a7d37c-e5f4-11ef-9202-0242ac130004",
                 "name": "Monaka",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a7d37c-e5f4-11ef-9202-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a7d37c-e5f4-11ef-9202-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a7d37c-e5f4-11ef-9202-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4466,7 +4516,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                "name": "Team S2",
+                "seed": 13
             },
             "match_games": []
         },
