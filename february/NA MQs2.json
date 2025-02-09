@@ -419,6 +419,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
+            "tournament_id": 0,
+            "name": "Pale Fox Esports",
+            "players": [
+                "PFE|Winq🪸",
+                "PFE|Nerf💯",
+                "PFE|Ormy🧡"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Pale Fox Esports.png"
+        },
+        {
             "id": "8694b9f6-e67f-11ef-9296-0242ac130004",
             "tournament_id": 0,
             "name": "Complexity",
@@ -1005,18 +1016,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
                 "name": "Pale Fox Esports",
-                "seed": 12
+                "seed": 12,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
                 "name": "SKCalalas NA",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1452,7 +1513,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "86908ab6-e67f-11ef-9b81-0242ac130004",
+                "name": "SKCalalas NA",
+                "seed": 21
             },
             "match_games": []
         },
@@ -1666,7 +1729,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "1e087fb8-e192-11ef-9d93-0242ac130004",
+                "name": "Pale Fox Esports",
+                "seed": 12
             },
             "match_games": []
         },
