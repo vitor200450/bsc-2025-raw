@@ -1968,18 +1968,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
                 "name": "last chance",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
                 "name": "Ninguém Segura☝🏻🤫",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2051,7 +2101,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                "name": "last chance",
+                "seed": 6
             },
             "match_games": []
         },
@@ -2328,10 +2380,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "679b789a-e41e-11ef-ab6b-0242ac130004",
+                "name": "Ninguém Segura☝🏻🤫",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "5e0c73dc-e42e-11ef-9713-0242ac130004",
+                "name": "Salsicheiros F/a",
+                "seed": 16
             },
             "match_games": []
         },
