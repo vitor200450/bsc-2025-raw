@@ -4485,18 +4485,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "182d39b0-e658-11ef-b25e-0242ac130004",
                 "name": "Eclipsar Esport",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
                 "name": "F/A Snigets",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "182d39b0-e658-11ef-b25e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 52,
