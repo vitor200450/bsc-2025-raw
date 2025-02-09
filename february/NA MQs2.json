@@ -505,6 +505,17 @@
                 "I will beat you"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
+            "tournament_id": 0,
+            "name": "BlockBuster",
+            "players": [
+                "Heltonn🤍",
+                "MdeMıke=)",
+                "Joah✨"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -1504,18 +1515,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4babea-e0fc-11ef-bde8-0242ac130004",
                 "name": "Olimpo Squad NA",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
                 "name": "BlockBuster",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4f4babea-e0fc-11ef-bde8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "4f4babea-e0fc-11ef-bde8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4f4babea-e0fc-11ef-bde8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -1669,7 +1730,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "4f4babea-e0fc-11ef-bde8-0242ac130004",
+                "name": "Olimpo Squad NA",
+                "seed": 11
             },
             "match_games": []
         },
@@ -1889,7 +1952,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "869642a8-e67f-11ef-a3c2-0242ac130004",
+                "name": "BlockBuster",
+                "seed": 22
             },
             "match_games": []
         },
