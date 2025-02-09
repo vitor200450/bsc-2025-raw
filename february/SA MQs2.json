@@ -1788,18 +1788,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
                 "name": "Zurita Gang",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
                 "name": "Blue Lock 357",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2145,7 +2225,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "b24ae508-e098-11ef-b2f1-0242ac130004",
+                "name": "Blue Lock 357",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2540,10 +2622,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6f8006dc-e024-11ef-99e5-0242ac130004",
+                "name": "Zurita Gang",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "d1facdc0-e65e-11ef-8f27-0242ac130004",
+                "name": "Tribe 6ix One",
+                "seed": 18
             },
             "match_games": []
         },
