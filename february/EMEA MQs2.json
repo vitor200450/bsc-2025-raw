@@ -4214,18 +4214,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
                 "name": "Millesime MG",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
                 "name": "Underdoug",
-                "seed": 16
+                "seed": 16,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4295,7 +4360,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                "name": "Millesime MG",
+                "seed": 9
             },
             "match_games": []
         }
