@@ -61171,18 +61171,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
                 "name": "Lunar",
-                "seed": 3
+                "seed": 3,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "87239968-e1c6-11ef-8821-0242ac130004",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Canal Grande",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000054.png",
+                    "opponent1": {
+                        "id": "f93c1016-e43c-11ef-88ef-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87239968-e1c6-11ef-8821-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1006,
