@@ -2764,18 +2764,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "515a7574-e494-11ef-8aef-0242ac130004",
                 "name": "Angelic",
-                "seed": 4
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
                 "name": "Team S2",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "515a7574-e494-11ef-8aef-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "515a7574-e494-11ef-8aef-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "515a7574-e494-11ef-8aef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "515a7574-e494-11ef-8aef-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 20,
@@ -3145,7 +3210,11 @@
                 "name": "2025 Sniper Frenzy",
                 "seed": 10
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "a3f5de24-e0a5-11ef-95e8-0242ac130004",
+                "name": "Team S2",
+                "seed": 13
+            },
             "match_games": []
         },
         {
