@@ -3549,18 +3549,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
                 "name": "Millesime MG",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "182dd8e8-e658-11ef-b74b-0242ac130004",
                 "name": "PUZO",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182dd8e8-e658-11ef-b74b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182dd8e8-e658-11ef-b74b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "182dd8e8-e658-11ef-b74b-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3641,7 +3691,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a55123ac-e215-11ef-b7ff-0242ac130004",
+                "name": "Millesime MG",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
