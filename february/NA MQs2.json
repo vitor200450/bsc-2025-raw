@@ -4172,18 +4172,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d1f6ae2-e0d1-11ef-b134-0242ac130004",
                 "name": "Havoc",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8691991a-e67f-11ef-b9e7-0242ac130004",
                 "name": "Cold Rebels",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1d1f6ae2-e0d1-11ef-b134-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8691991a-e67f-11ef-b9e7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1d1f6ae2-e0d1-11ef-b134-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8691991a-e67f-11ef-b9e7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "1d1f6ae2-e0d1-11ef-b134-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8691991a-e67f-11ef-b9e7-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 51,
