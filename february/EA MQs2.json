@@ -1994,18 +1994,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
                 "name": "REJECT",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
                 "name": "ブルとバズ",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2258,10 +2323,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "64e6ea06-dfa7-11ef-8500-0242ac130004",
+                "name": "REJECT",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "3fc5970c-e09e-11ef-b763-0242ac130004",
+                "name": "Rival Esports",
+                "seed": 7
             },
             "match_games": []
         },
@@ -2501,7 +2570,11 @@
             "round_id": 2,
             "child_count": 5,
             "status": 0,
-            "opponent1": null,
+            "opponent1": {
+                "id": "69a6da80-e5f4-11ef-bb99-0242ac130004",
+                "name": "ブルとバズ",
+                "seed": 18
+            },
             "opponent2": null,
             "match_games": []
         },
