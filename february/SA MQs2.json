@@ -2204,18 +2204,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
                 "name": "Luna Lupus",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1fd47d0-e65e-11ef-bb24-0242ac130004",
                 "name": "2026",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1fd47d0-e65e-11ef-bb24-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1fd47d0-e65e-11ef-bb24-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1fd47d0-e65e-11ef-bb24-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 33,
@@ -2353,7 +2403,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "d1fd47d0-e65e-11ef-bb24-0242ac130004",
+                "name": "2026",
+                "seed": 22
             },
             "match_games": []
         },
