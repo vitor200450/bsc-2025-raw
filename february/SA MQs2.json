@@ -2390,18 +2390,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1fc3e80-e65e-11ef-9e39-0242ac130004",
                 "name": "Wave",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1feda96-e65e-11ef-8b70-0242ac130004",
                 "name": "Patitos🦆",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d1fc3e80-e65e-11ef-9e39-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1feda96-e65e-11ef-8b70-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "d1fc3e80-e65e-11ef-9e39-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1feda96-e65e-11ef-8b70-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d1fc3e80-e65e-11ef-9e39-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1feda96-e65e-11ef-8b70-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -2609,7 +2659,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "d1feda96-e65e-11ef-8b70-0242ac130004",
+                "name": "Patitos🦆",
+                "seed": 21
             },
             "match_games": []
         },
