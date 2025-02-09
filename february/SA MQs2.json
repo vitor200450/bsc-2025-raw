@@ -2288,18 +2288,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "595d38bc-e1b3-11ef-9ac1-0242ac130004",
                 "name": "MINIPEKKAS F/A",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d519ea4-e0d9-11ef-851c-0242ac130004",
                 "name": "Olimpo Squad",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "595d38bc-e1b3-11ef-9ac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d519ea4-e0d9-11ef-851c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "595d38bc-e1b3-11ef-9ac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d519ea4-e0d9-11ef-851c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "595d38bc-e1b3-11ef-9ac1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d519ea4-e0d9-11ef-851c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -3102,7 +3152,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3d519ea4-e0d9-11ef-851c-0242ac130004",
+                "name": "Olimpo Squad",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
