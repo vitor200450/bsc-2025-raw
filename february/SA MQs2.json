@@ -2308,18 +2308,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "851db7d4-e045-11ef-9acc-0242ac130004",
                 "name": "SKCalalas SA",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
                 "name": "last chance",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "851db7d4-e045-11ef-9acc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "851db7d4-e045-11ef-9acc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Kaboom Canyon",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000018.png",
+                    "opponent1": {
+                        "id": "851db7d4-e045-11ef-9acc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 17,
@@ -2982,7 +3032,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
+                "name": "last chance",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
