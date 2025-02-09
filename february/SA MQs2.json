@@ -406,17 +406,6 @@
                 "bellpri🌱"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Enosis eSports.png"
-        },
-        {
-            "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
-            "tournament_id": 0,
-            "name": "Luna Lupus",
-            "players": [
-                "ᴿᵉᵃˡ𝚅𝚒𝚗𝚗𝚢✴",
-                "Sol 💚🦝",
-                "R7K7 🤍🐉"
-            ],
-            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -833,68 +822,18 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 4,
+            "status": 3,
             "opponent1": {
                 "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
                 "name": "last chance",
-                "seed": 6,
-                "score": 3,
-                "result": "win"
+                "seed": 6
             },
             "opponent2": {
                 "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
                 "name": "Luna Lupus",
-                "seed": 27,
-                "score": 0,
-                "result": "loss"
+                "seed": 27
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Hard Rock Mine",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
-                    "opponent1": {
-                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Bounty",
-                    "mapName": "Layer Cake",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
-                    "opponent1": {
-                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "match_3",
-                    "gameMode": "Hot Zone",
-                    "mapName": "Dueling Beetles",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
-                    "opponent1": {
-                        "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
-                        "score": 0
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 16,
@@ -1047,9 +986,7 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "3a9d1162-e0a1-11ef-bcaf-0242ac130004",
-                "name": "last chance",
-                "seed": 6
+                "id": null
             },
             "opponent2": {
                 "id": null
@@ -1251,9 +1188,7 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "d1fa4ef4-e65e-11ef-bae2-0242ac130004",
-                "name": "Luna Lupus",
-                "seed": 27
+                "id": null
             },
             "opponent2": {
                 "id": null
