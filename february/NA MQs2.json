@@ -3147,18 +3147,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "215884f2-e51a-11ef-9075-0242ac130004",
                 "name": "Real Ones",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "662f32a0-e368-11ef-8520-0242ac130004",
                 "name": "No Scrim Team",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "215884f2-e51a-11ef-9075-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "662f32a0-e368-11ef-8520-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "215884f2-e51a-11ef-9075-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "662f32a0-e368-11ef-8520-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Sneaky Fields",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000050.png",
+                    "opponent1": {
+                        "id": "215884f2-e51a-11ef-9075-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "662f32a0-e368-11ef-8520-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3237,7 +3287,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "215884f2-e51a-11ef-9075-0242ac130004",
+                "name": "Real Ones",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
