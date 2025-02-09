@@ -4339,11 +4339,12 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1827304c-e658-11ef-81e7-0242ac130004",
                 "name": "Sigma Boys",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
@@ -4491,7 +4492,9 @@
                 "seed": 22
             },
             "opponent2": {
-                "id": null
+                "id": "182b8f84-e658-11ef-bdfd-0242ac130004",
+                "name": "F/A Snigets",
+                "seed": 26
             },
             "match_games": []
         },
