@@ -1864,68 +1864,18 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 4,
+            "status": 3,
             "opponent1": {
                 "id": "f588211c-dfdc-11ef-ad50-0242ac130004",
                 "name": "HMBLE",
-                "seed": 1,
-                "score": 3,
-                "result": "win"
+                "seed": 1
             },
             "opponent2": {
                 "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
                 "name": "Underdoug",
-                "seed": 16,
-                "score": 0,
-                "result": "loss"
+                "seed": 16
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Heist",
-                    "mapName": "Hot Potato",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
-                    "opponent1": {
-                        "id": "f588211c-dfdc-11ef-ad50-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
-                        "score": 0
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Knockout",
-                    "mapName": "Goldarm Gulch",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
-                    "opponent1": {
-                        "id": "f588211c-dfdc-11ef-ad50-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
-                        "score": 1
-                    }
-                },
-                {
-                    "id": 2,
-                    "name": "match_3",
-                    "gameMode": "Brawl Ball",
-                    "mapName": "Center Stage",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
-                    "opponent1": {
-                        "id": "f588211c-dfdc-11ef-ad50-0242ac130004",
-                        "score": 2
-                    },
-                    "opponent2": {
-                        "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
-                        "score": 0
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 26,
@@ -2176,9 +2126,7 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "f588211c-dfdc-11ef-ad50-0242ac130004",
-                "name": "HMBLE",
-                "seed": 1
+                "id": null
             },
             "opponent2": {
                 "id": null
@@ -2522,9 +2470,7 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": "d311a9c8-e0b8-11ef-b2b0-0242ac130004",
-                "name": "Underdoug",
-                "seed": 16
+                "id": null
             },
             "opponent2": {
                 "id": null
