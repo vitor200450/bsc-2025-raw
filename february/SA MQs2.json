@@ -1648,18 +1648,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
                 "name": "IX F/A",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "508fe3c8-e0d3-11ef-b6b8-0242ac130004",
                 "name": "Carteira de trabalho",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Hot Potato",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000053.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "508fe3c8-e0d3-11ef-b6b8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "508fe3c8-e0d3-11ef-b6b8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Center Stage",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000132.png",
+                    "opponent1": {
+                        "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "508fe3c8-e0d3-11ef-b6b8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -1945,7 +1995,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "47afb12a-e17d-11ef-a52c-0242ac130004",
+                "name": "IX F/A",
+                "seed": 8
             },
             "match_games": []
         },
@@ -2382,7 +2434,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "508fe3c8-e0d3-11ef-b6b8-0242ac130004",
+                "name": "Carteira de trabalho",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
