@@ -1,0 +1,264 @@
+{
+    "participant": [
+        {
+            "id": "e73dce6e-e729-11ef-a661-0242ac130004",
+            "tournament_id": 0,
+            "name": "LOUD",
+            "players": [
+                "LOUD|KaioDog",
+                "LOUD|Edinho",
+                "LOUD|FireCrow"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LOUD.png"
+        },
+        {
+            "id": "e73edd4a-e729-11ef-a226-0242ac130004",
+            "tournament_id": 0,
+            "name": "Ninguém Segura☝🏻🤫",
+            "players": [
+                "NS|BrabaoBS",
+                "NS|Tufa",
+                "NS|REI DO FUT"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Ninguém Segura☝🏻🤫.png"
+        },
+        {
+            "id": "e73e580c-e729-11ef-bf29-0242ac130004",
+            "tournament_id": 0,
+            "name": "KaioPerro🐕‍🦺",
+            "players": [
+                "Doritos🐉",
+                "Gral. Loko 🪖",
+                "KP|Derrp"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/KaioPerro🐕‍🦺.png"
+        },
+        {
+            "id": "e73ba45e-e729-11ef-8bf0-0242ac130004",
+            "tournament_id": 0,
+            "name": "Zurita Gang",
+            "players": [
+                "Jxcr",
+                "Prozy🫏",
+                "Islam Makhachev"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Zurita Gang.png"
+        },
+        {
+            "id": "e73d41d8-e729-11ef-b306-0242ac130004",
+            "tournament_id": 0,
+            "name": "CASA BRAWL",
+            "players": [
+                "Mohtep 🗿",
+                "Pekka❤️Gabs",
+                "FUT|Jubileubr"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/CASA BRAWL.png"
+        },
+        {
+            "id": "e73a82e0-e729-11ef-a2ad-0242ac130004",
+            "tournament_id": 0,
+            "name": "Legión Otaku",
+            "players": [
+                "LO|PortoxOwO",
+                "LO|Bast",
+                "Deykonnn"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Legión Otaku.png"
+        },
+        {
+            "id": "e73c3040-e729-11ef-9e81-0242ac130004",
+            "tournament_id": 0,
+            "name": "SKCalalas SA",
+            "players": [
+                "SKC|Rhz",
+                "SKC | Bryan ;)",
+                "SKC|Nouthz"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas SA.png"
+        },
+        {
+            "id": "e73cba2e-e729-11ef-99ef-0242ac130004",
+            "tournament_id": 0,
+            "name": "Olimpo Squad",
+            "players": [
+                "FUT|Cauebr",
+                "OS|IceCrow",
+                "OS|Wesley"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Olimpo Squad.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "SA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 3,
+            "opponent1": {
+                "id": "e73dce6e-e729-11ef-a661-0242ac130004",
+                "name": "LOUD",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "e73edd4a-e729-11ef-a226-0242ac130004",
+                "name": "Ninguém Segura☝🏻🤫",
+                "seed": 8
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "e73e580c-e729-11ef-bf29-0242ac130004",
+                "name": "KaioPerro🐕‍🦺",
+                "seed": 4
+            },
+            "opponent2": {
+                "id": "e73ba45e-e729-11ef-8bf0-0242ac130004",
+                "name": "Zurita Gang",
+                "seed": 5
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "e73d41d8-e729-11ef-b306-0242ac130004",
+                "name": "CASA BRAWL",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "e73a82e0-e729-11ef-a2ad-0242ac130004",
+                "name": "Legión Otaku",
+                "seed": 7
+            },
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "e73c3040-e729-11ef-9e81-0242ac130004",
+                "name": "SKCalalas SA",
+                "seed": 3
+            },
+            "opponent2": {
+                "id": "e73cba2e-e729-11ef-99ef-0242ac130004",
+                "name": "Olimpo Squad",
+                "seed": 6
+            },
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "participant": [
+        {
+            "id": "b73bcfa6-e745-11ef-a940-0242ac130004",
+            "tournament_id": 0,
+            "name": "Tribe Gaming",
+            "players": [
+                "TRB|R B M",
+                "TRB|Lxffy",
+                "TRB|Zeus"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Tribe Gaming.png"
+        },
+        {
+            "id": "b73e5172-e745-11ef-9e47-0242ac130004",
+            "tournament_id": 0,
+            "name": "SKCalalas NA",
+            "players": [
+                "SKC|duckie",
+                "SKC|rafiki",
+                "SKC|belal"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SKCalalas NA.png"
+        },
+        {
+            "id": "b73d4afc-e745-11ef-a755-0242ac130004",
+            "tournament_id": 0,
+            "name": "Pioneers",
+            "players": [
+                "KCP|Zoulan",
+                "KCP|Fade",
+                "KCP|Tyrant💫"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Pioneers.png"
+        },
+        {
+            "id": "b739c166-e745-11ef-8223-0242ac130004",
+            "tournament_id": 0,
+            "name": "SSG",
+            "players": [
+                "SSG|bobby",
+                "SSG|chino",
+                "SSG|sans"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SSG.png"
+        },
+        {
+            "id": "b73b4874-e745-11ef-b50c-0242ac130004",
+            "tournament_id": 0,
+            "name": "Elevate",
+            "players": [
+                "ELV|Zhar",
+                "ELV|Ezlivi",
+                "ELV|JuanCarlos"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Elevate.png"
+        },
+        {
+            "id": "b73dcb08-e745-11ef-a670-0242ac130004",
+            "tournament_id": 0,
+            "name": "Synchronic Gaming",
+            "players": [
+                "Nathan💚",
+                "SG|razuen",
+                "SG|genie"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Synchronic Gaming.png"
+        },
+        {
+            "id": "b73ccb9a-e745-11ef-92de-0242ac130004",
+            "tournament_id": 0,
+            "name": "CODE OG",
+            "players": [
+                "CODE|charlz",
+                "CODE OG",
+                "second❤️lena"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/CODE OG.webp"
+        },
+        {
+            "id": "b73c4f30-e745-11ef-96c6-0242ac130004",
+            "tournament_id": 0,
+            "name": "Havoc",
+            "players": [
+                "HVC|Vegeta🐈",
+                "HVC|MrDiego🧃",
+                "HVC|Evx🖤"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Havoc.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "NA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "b73bcfa6-e745-11ef-a940-0242ac130004",
+                "name": "Tribe Gaming",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "b73e5172-e745-11ef-9e47-0242ac130004",
+                "name": "SKCalalas NA",
+                "seed": 8
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "b73d4afc-e745-11ef-a755-0242ac130004",
+                "name": "Pioneers",
+                "seed": 4
+            },
+            "opponent2": {
+                "id": "b739c166-e745-11ef-8223-0242ac130004",
+                "name": "SSG",
+                "seed": 5
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "b73b4874-e745-11ef-b50c-0242ac130004",
+                "name": "Elevate",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "b73dcb08-e745-11ef-a670-0242ac130004",
+                "name": "Synchronic Gaming",
+                "seed": 7
+            },
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "b73ccb9a-e745-11ef-92de-0242ac130004",
+                "name": "CODE OG",
+                "seed": 3
+            },
+            "opponent2": {
+                "id": "b73c4f30-e745-11ef-96c6-0242ac130004",
+                "name": "Havoc",
+                "seed": 6
+            },
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
+}

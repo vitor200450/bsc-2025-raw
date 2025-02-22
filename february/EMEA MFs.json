@@ -1,0 +1,746 @@
+{
+    "participant": [
+        {
+            "id": "33e47692-e729-11ef-aa33-0242ac130004",
+            "tournament_id": 0,
+            "name": "HMBLE",
+            "players": [
+                "HMB|Symantec",
+                "HMB|BosS",
+                "HMB|Lukii"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/HMBLE.png"
+        },
+        {
+            "id": "33e8a2bc-e729-11ef-a69b-0242ac130004",
+            "tournament_id": 0,
+            "name": "Eclipsar Esport",
+            "players": [
+                "ECP|Marco",
+                "ECP|Subeme",
+                "ECP|Biso"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Eclipsar Esport.png"
+        },
+        {
+            "id": "33e60516-e729-11ef-81d2-0242ac130004",
+            "tournament_id": 0,
+            "name": "Team Heretics",
+            "players": [
+                "TH|iKaoss",
+                "TH|Drage",
+                "TH|LeNain"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Team Heretics.png"
+        },
+        {
+            "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+            "tournament_id": 0,
+            "name": "F/A Kozaki",
+            "players": [
+                "CoS|Mebius",
+                "CoS|Nob",
+                "CoS | GuGu"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/FA Kozaki.png"
+        },
+        {
+            "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+            "tournament_id": 0,
+            "name": "FUT Esports",
+            "players": [
+                "FUT|GeRo",
+                "FUT|Nowy297",
+                "FUT|MeOw"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/FUT Esports.webp"
+        },
+        {
+            "id": "33e5777c-e729-11ef-b647-0242ac130004",
+            "tournament_id": 0,
+            "name": "Team Elektros",
+            "players": [
+                "TE|RamaZR",
+                "TE|Refresh",
+                "TE|Enraged"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Team Elektros.png"
+        },
+        {
+            "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+            "tournament_id": 0,
+            "name": "SK Gaming",
+            "players": [
+                "SK|Joker",
+                "SK|Ope",
+                "SK|Yoshi825"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/SK Gaming.png"
+        },
+        {
+            "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+            "tournament_id": 0,
+            "name": "Papara SuperMassive",
+            "players": [
+                "SUP|Tomzy",
+                "SUP|Filippo",
+                "SUP|Salty"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Papara SuperMassive.png"
+        }
+    ],
+    "stage": [
+        {
+            "id": 0,
+            "tournament_id": 0,
+            "name": "EMEA MFs",
+            "type": "single_elimination",
+            "number": 1,
+            "settings": {
+                "seedOrdering": [],
+                "grandFinal": "none",
+                "matchesChildCount": 5
+            }
+        }
+    ],
+    "group": [
+        {
+            "id": 0,
+            "stage_id": 0,
+            "number": 1,
+            "type": "single_bracket"
+        }
+    ],
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                "name": "HMBLE",
+                "seed": 1,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "33e8a2bc-e729-11ef-a69b-0242ac130004",
+                "name": "Eclipsar Esport",
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e8a2bc-e729-11ef-a69b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e8a2bc-e729-11ef-a69b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e8a2bc-e729-11ef-a69b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                "name": "Team Heretics",
+                "seed": 4,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                "name": "F/A Kozaki",
+                "seed": 5,
+                "score": 2,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e819c8-e729-11ef-92e1-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                "name": "FUT Esports",
+                "seed": 2,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                "name": "Team Elektros",
+                "seed": 7,
+                "score": 2,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e5777c-e729-11ef-b647-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 3,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+                "name": "Papara SuperMassive",
+                "seed": 6,
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e7912e-e729-11ef-b75f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                "name": "HMBLE",
+                "seed": 1,
+                "score": 3,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                "name": "Team Heretics",
+                "seed": 4,
+                "score": 1,
+                "result": "loss"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e60516-e729-11ef-81d2-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                "name": "FUT Esports",
+                "seed": 2,
+                "score": 2,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 3,
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e70ff6-e729-11ef-a7e5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                "name": "HMBLE",
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 3,
+                "score": 3,
+                "result": "win"
+            },
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "33e47692-e729-11ef-aa33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33e68af4-e729-11ef-a7dc-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
+        }
+    ]
+}
