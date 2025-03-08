@@ -114458,18 +114458,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b9042d86-f773-11ef-ac53-0242ac130004",
                 "name": "ANGEL'S OF CHAOS",
-                "seed": 1781
+                "seed": 1781,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
                 "name": "Brawl Titans",
-                "seed": 757
+                "seed": 757,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "b9042d86-f773-11ef-ac53-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b9042d86-f773-11ef-ac53-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3301,
@@ -115573,18 +115608,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0452fa82-f6a8-11ef-b9e4-0242ac130004",
                 "name": "Crazy Caribou",
-                "seed": 479
+                "seed": 479,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fd3cf022-f9f9-11ef-8c2f-eeb4a9f72fed",
                 "name": "F/A NLG",
-                "seed": 1503
+                "seed": 1503,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0452fa82-f6a8-11ef-b9e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fd3cf022-f9f9-11ef-8c2f-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0452fa82-f6a8-11ef-b9e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fd3cf022-f9f9-11ef-8c2f-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3355,
