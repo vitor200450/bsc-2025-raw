@@ -21778,18 +21778,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b0a8852-f78e-11ef-bfb2-0242ac130004",
                 "name": "DEADLY FURY",
-                "seed": 267
+                "seed": 267,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28be552a-f68e-11ef-997e-0242ac130004",
                 "name": "КошкаДевочки",
-                "seed": 758
+                "seed": 758,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2b0a8852-f78e-11ef-bfb2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28be552a-f68e-11ef-997e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2b0a8852-f78e-11ef-bfb2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28be552a-f68e-11ef-997e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2b0a8852-f78e-11ef-bfb2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28be552a-f68e-11ef-997e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 485,
@@ -27388,7 +27438,9 @@
                 "seed": 246
             },
             "opponent2": {
-                "id": null
+                "id": "28be552a-f68e-11ef-997e-0242ac130004",
+                "name": "КошкаДевочки",
+                "seed": 758
             },
             "match_games": []
         },
