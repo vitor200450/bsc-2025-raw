@@ -44925,18 +44925,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "582b78f2-f5f2-11ef-a9f8-0242ac130004",
                 "name": "MAD | bignose",
-                "seed": 1701
+                "seed": 1701,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "945ee28e-fae1-11ef-8995-e2e3b1699cf4",
                 "name": "MAGIC GOATS",
-                "seed": 2396
+                "seed": 2396,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "582b78f2-f5f2-11ef-a9f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "945ee28e-fae1-11ef-8995-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "582b78f2-f5f2-11ef-a9f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "945ee28e-fae1-11ef-8995-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 895,
@@ -76095,7 +76130,9 @@
                 "seed": 348
             },
             "opponent2": {
-                "id": null
+                "id": "945ee28e-fae1-11ef-8995-e2e3b1699cf4",
+                "name": "MAGIC GOATS",
+                "seed": 2396
             },
             "match_games": []
         },
