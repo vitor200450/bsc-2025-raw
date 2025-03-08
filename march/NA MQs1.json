@@ -30384,18 +30384,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dbd9c80c-fbdd-11ef-aa05-a6600486d7d2",
                 "name": "VGS",
-                "seed": 873
+                "seed": 873,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cd62f3ee-f641-11ef-95a7-0242ac130004",
                 "name": "MCG PANESITOS",
-                "seed": 664
+                "seed": 664,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "dbd9c80c-fbdd-11ef-aa05-a6600486d7d2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd62f3ee-f641-11ef-95a7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "dbd9c80c-fbdd-11ef-aa05-a6600486d7d2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd62f3ee-f641-11ef-95a7-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 573,
@@ -30804,18 +30839,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "39b9d002-f792-11ef-9288-0242ac130004",
                 "name": "MSG",
-                "seed": 228
+                "seed": 228,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7b1f08b0-f791-11ef-9230-0242ac130004",
                 "name": "Imperial dynasty",
-                "seed": 285
+                "seed": 285,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "39b9d002-f792-11ef-9288-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7b1f08b0-f791-11ef-9230-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "39b9d002-f792-11ef-9288-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7b1f08b0-f791-11ef-9230-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 587,
@@ -33929,11 +33999,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9bc13a00-f4a0-11ef-954a-0242ac130004",
                 "name": "Kansas City Chiefs",
-                "seed": 26
+                "seed": 26,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "512fda4a-f6f4-11ef-833f-0242ac130004",
@@ -34979,18 +35050,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36bc360c-fbd3-11ef-b0fb-76f124d3cbde",
                 "name": "Three Mages",
-                "seed": 867
+                "seed": 867,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "63ee1746-f645-11ef-9f4c-0242ac130004",
                 "name": "AV | Superstars",
-                "seed": 670
+                "seed": 670,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "36bc360c-fbd3-11ef-b0fb-76f124d3cbde",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ee1746-f645-11ef-9f4c-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "36bc360c-fbd3-11ef-b0fb-76f124d3cbde",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "63ee1746-f645-11ef-9f4c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 717,
@@ -37096,7 +37202,9 @@
                 "seed": 920
             },
             "opponent2": {
-                "id": null
+                "id": "dbd9c80c-fbdd-11ef-aa05-a6600486d7d2",
+                "name": "VGS",
+                "seed": 873
             },
             "match_games": []
         },
@@ -37214,7 +37322,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "7b1f08b0-f791-11ef-9230-0242ac130004",
+                "name": "Imperial dynasty",
+                "seed": 285
             },
             "match_games": []
         },
@@ -38023,10 +38133,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "512fda4a-f6f4-11ef-833f-0242ac130004",
+                "name": "Meow~",
+                "seed": 487
             },
             "opponent2": {
-                "id": null
+                "id": "38d6e686-f95c-11ef-a603-0242ac130005",
+                "name": "YhWhyoda",
+                "seed": 743
             },
             "match_games": []
         },
