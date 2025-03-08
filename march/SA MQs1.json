@@ -34581,18 +34581,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "475ba526-fa0f-11ef-931d-eeb4a9f72fed",
                 "name": "Foxwill-sex",
-                "seed": 125
+                "seed": 125,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
                 "name": "Storm Breaks",
-                "seed": 381
+                "seed": 381,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "475ba526-fa0f-11ef-931d-eeb4a9f72fed",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "475ba526-fa0f-11ef-931d-eeb4a9f72fed",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 803,
@@ -35996,18 +36031,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1290016-f62d-11ef-8f61-0242ac130004",
                 "name": "CalvinistasDaBahia",
-                "seed": 634
+                "seed": 634,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db47079c-f700-11ef-8cc7-0242ac130004",
                 "name": "Los peje",
-                "seed": 378
+                "seed": 378,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a1290016-f62d-11ef-8f61-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db47079c-f700-11ef-8cc7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a1290016-f62d-11ef-8f61-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db47079c-f700-11ef-8cc7-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 851,
