@@ -8310,18 +8310,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dfaac20-f49f-11ef-b29b-0242ac130004",
                 "name": "らーとむ",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b5266b84-f723-11ef-a050-0242ac130004",
                 "name": "ORDER",
-                "seed": 110
+                "seed": 110,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5dfaac20-f49f-11ef-b29b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5266b84-f723-11ef-a050-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5dfaac20-f49f-11ef-b29b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b5266b84-f723-11ef-a050-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 184,
@@ -8390,18 +8425,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5de97838-f49f-11ef-a480-0242ac130004",
                 "name": "おゆ♪",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "861b1bbe-f6b5-11ef-a88c-0242ac130004",
                 "name": "中町ぐろーばる",
-                "seed": 102
+                "seed": 102,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "861b1bbe-f6b5-11ef-a88c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "861b1bbe-f6b5-11ef-a88c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 188,
@@ -9048,7 +9118,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5dfaac20-f49f-11ef-b29b-0242ac130004",
+                "name": "らーとむ",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
@@ -9080,10 +9152,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                "name": "おゆ♪",
+                "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                "name": "NANRYU",
+                "seed": 91
             },
             "match_games": []
         },
