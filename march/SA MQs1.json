@@ -23338,18 +23338,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93672832-f4a1-11ef-847e-0242ac130004",
                 "name": "XIA",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0d4d2032-f5ee-11ef-82d8-0242ac130004",
                 "name": "Bananitas",
-                "seed": 400
+                "seed": 400,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0d4d2032-f5ee-11ef-82d8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0d4d2032-f5ee-11ef-82d8-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 532,
@@ -25043,18 +25078,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8b409e50-fafe-11ef-8df0-e2e3b1699cf4",
                 "name": "PlazaSesamo",
-                "seed": 221
+                "seed": 221,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "400fea20-faff-11ef-b197-eeb4a9f72fed",
                 "name": "ECLIPSE",
-                "seed": 733
+                "seed": 733,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8b409e50-fafe-11ef-8df0-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "400fea20-faff-11ef-b197-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8b409e50-fafe-11ef-8df0-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "400fea20-faff-11ef-b197-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 591,
@@ -30562,7 +30632,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                "name": "XIA",
+                "seed": 113
             },
             "opponent2": {
                 "id": null
@@ -31043,7 +31115,9 @@
                 "seed": 36
             },
             "opponent2": {
-                "id": null
+                "id": "400fea20-faff-11ef-b197-eeb4a9f72fed",
+                "name": "ECLIPSE",
+                "seed": 733
             },
             "match_games": []
         },
