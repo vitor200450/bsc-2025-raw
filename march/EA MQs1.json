@@ -9952,18 +9952,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
                 "name": "ファイナルラストフォース",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1547928c-fae8-11ef-b637-eeb4a9f72fed",
                 "name": "ガチバトラー",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1547928c-fae8-11ef-b637-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1547928c-fae8-11ef-b637-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 216,
@@ -10408,7 +10443,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1547928c-fae8-11ef-b637-eeb4a9f72fed",
+                "name": "ガチバトラー",
+                "seed": 55
             },
             "opponent2": {
                 "id": null
