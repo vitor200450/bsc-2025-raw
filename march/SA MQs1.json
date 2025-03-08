@@ -34581,18 +34581,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "26ad579c-f60f-11ef-987a-0242ac130004",
                 "name": "SOBERBOS WIN",
-                "seed": 500
+                "seed": 500,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8dcdddda-f4a1-11ef-80c4-0242ac130004",
                 "name": "Infunables",
-                "seed": 244
+                "seed": 244,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "26ad579c-f60f-11ef-987a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8dcdddda-f4a1-11ef-80c4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "26ad579c-f60f-11ef-987a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8dcdddda-f4a1-11ef-80c4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 810,
@@ -34856,18 +34891,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8ffcab5e-f4a1-11ef-876c-0242ac130004",
                 "name": "777",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16f34bd0-fbba-11ef-ae99-eea5cc63de15",
                 "name": "777",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8ffcab5e-f4a1-11ef-876c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16f34bd0-fbba-11ef-ae99-eea5cc63de15",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8ffcab5e-f4a1-11ef-876c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16f34bd0-fbba-11ef-ae99-eea5cc63de15",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -35811,18 +35881,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "44de2e2c-f6db-11ef-ab9d-0242ac130004",
                 "name": "Arellanos",
-                "seed": 439
+                "seed": 439,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6d98c97e-f6d3-11ef-a030-0242ac130004",
                 "name": "Skibidi Prime",
-                "seed": 330
+                "seed": 330,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "44de2e2c-f6db-11ef-ab9d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6d98c97e-f6d3-11ef-a030-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "44de2e2c-f6db-11ef-ab9d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d98c97e-f6d3-11ef-a030-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 861,
@@ -37229,7 +37334,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "26ad579c-f60f-11ef-987a-0242ac130004",
+                "name": "SOBERBOS WIN",
+                "seed": 500
             },
             "opponent2": {
                 "id": null
@@ -37325,7 +37432,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ffcab5e-f4a1-11ef-876c-0242ac130004",
+                "name": "777",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
