@@ -4275,18 +4275,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ff9c8a0-f7e8-11ef-bef4-0242ac130004",
                 "name": "kamikaze",
-                "seed": 79
+                "seed": 79,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
                 "name": "心温まるミカン",
-                "seed": 178
+                "seed": 178,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2ff9c8a0-f7e8-11ef-bef4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2ff9c8a0-f7e8-11ef-bef4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 77,
