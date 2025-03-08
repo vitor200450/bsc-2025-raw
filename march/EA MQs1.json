@@ -7760,18 +7760,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
                 "name": "ファイナルラストフォース",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c2a6a048-f68e-11ef-ba2c-0242ac130004",
                 "name": "브롤 중이라 잠시 후 연락드릴게요.",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2a6a048-f68e-11ef-ba2c-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c2a6a048-f68e-11ef-ba2c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 174,
@@ -8637,7 +8672,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5e5d69be-f49f-11ef-bdeb-0242ac130004",
+                "name": "ファイナルラストフォース",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
