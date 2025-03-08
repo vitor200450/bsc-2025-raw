@@ -12055,18 +12055,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
                 "name": "Monkey Squad",
-                "seed": 240
+                "seed": 240,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48ad3958-fab9-11ef-a898-e2e3b1699cf4",
                 "name": "Bobtise",
-                "seed": 785
+                "seed": 785,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48ad3958-fab9-11ef-a898-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "48ad3958-fab9-11ef-a898-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48ad3958-fab9-11ef-a898-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 52,
@@ -19889,18 +19939,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
                 "name": "The Shađøws",
-                "seed": 143
+                "seed": 143,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "83c08320-f6cb-11ef-8a38-0242ac130004",
                 "name": "LA GRANJA",
-                "seed": 882
+                "seed": 882,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "83c08320-f6cb-11ef-8a38-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83c08320-f6cb-11ef-8a38-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "83c08320-f6cb-11ef-8a38-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 296,
@@ -27341,10 +27441,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                "name": "Monkey Squad",
+                "seed": 240
             },
             "opponent2": {
-                "id": null
+                "id": "d7051a2c-f735-11ef-88e3-0242ac130004",
+                "name": "LMG Matics",
+                "seed": 273
             },
             "match_games": []
         },
@@ -29739,10 +29843,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                "name": "The Shađøws",
+                "seed": 143
             },
             "opponent2": {
-                "id": null
+                "id": "adea1888-f7e7-11ef-91e4-0242ac130004",
+                "name": "Dawgwater",
+                "seed": 655
             },
             "match_games": []
         },
