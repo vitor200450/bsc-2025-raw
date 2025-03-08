@@ -44508,18 +44508,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
                 "name": "𝔸𝔾𝕊",
-                "seed": 74
+                "seed": 74,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "77b51b50-fa8a-11ef-9532-e2e3b1699cf4",
                 "name": "Coffee Gaming",
-                "seed": 183
+                "seed": 183,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77b51b50-fa8a-11ef-9532-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "77b51b50-fa8a-11ef-9532-e2e3b1699cf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 861,
@@ -45459,18 +45494,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
                 "name": "ai",
-                "seed": 395
+                "seed": 395,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9a4717d0-f4a0-11ef-be58-0242ac130004",
                 "name": "Freak Stars💦",
-                "seed": 139
+                "seed": 139,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a4717d0-f4a0-11ef-be58-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a4717d0-f4a0-11ef-be58-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 891,
@@ -46464,7 +46534,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                "name": "𝔸𝔾𝕊",
+                "seed": 74
             },
             "match_games": []
         },
