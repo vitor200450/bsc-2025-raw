@@ -30150,7 +30150,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f3433c4-f670-11ef-ada6-0242ac130004",
                 "name": "Boba Bandits",
@@ -30159,7 +30159,8 @@
             "opponent2": {
                 "id": "8771ff4a-f7d8-11ef-b754-0242ac130004",
                 "name": "Make A Wish",
-                "seed": 296
+                "seed": 296,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31655,51 +31656,17 @@
             "child_count": 3,
             "status": 4,
             "opponent1": {
-                "id": "5422ee20-fbc9-11ef-b053-a6600486d7d2",
-                "name": "G2",
-                "seed": 861,
-                "score": 0,
-                "result": "loss"
+                "id": "9cd604a2-f4a0-11ef-a6b3-0242ac130004",
+                "name": "Lunar",
+                "seed": 13,
+                "forfeit": 1
             },
             "opponent2": {
-                "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
-                "name": "Code Chuchi",
-                "seed": 349,
-                "score": 2,
-                "result": "win"
+                "id": "7f344ccc-f60a-11ef-98b4-0242ac130004",
+                "name": "Los Tryhards",
+                "seed": 500
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Heist",
-                    "mapName": "Safe Zone",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
-                    "opponent1": {
-                        "id": "5422ee20-fbc9-11ef-b053-a6600486d7d2",
-                        "score": 1
-                    },
-                    "opponent2": {
-                        "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
-                        "score": 2
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Knockout",
-                    "mapName": "Belle's Rock",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
-                    "opponent1": {
-                        "id": "5422ee20-fbc9-11ef-b053-a6600486d7d2",
-                        "score": 0
-                    },
-                    "opponent2": {
-                        "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
-                        "score": 2
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 594,
@@ -33272,16 +33239,17 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
-                "id": "93ae6d4c-f4a0-11ef-9eeb-0242ac130004",
-                "name": "T-REX",
-                "seed": 108
+                "id": "7e5b5c12-f6ca-11ef-bc1d-0242ac130004",
+                "name": "Los plebes",
+                "seed": 876,
+                "forfeit": 1
             },
             "opponent2": {
-                "id": "550d99e6-fb67-11ef-8ee8-e2e3b1699cf4",
-                "name": "CTO JV",
-                "seed": 405
+                "id": "069e3a1e-f5f3-11ef-ad86-0242ac130004",
+                "name": "Angelic NA",
+                "seed": 364
             },
             "match_games": []
         },
@@ -33334,18 +33302,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
                 "name": "A.R.A. Esports",
-                "seed": 85
+                "seed": 85,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f02061a6-f79e-11ef-a6bc-0242ac130004",
                 "name": "Brawl w My Bros",
-                "seed": 597
+                "seed": 597,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02061a6-f79e-11ef-a6bc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f02061a6-f79e-11ef-a6bc-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 640,
@@ -35869,11 +35872,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95d40f46-f4a0-11ef-9011-0242ac130004",
                 "name": "Golden Oreos",
-                "seed": 87
+                "seed": 87,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d95512da-f7a0-11ef-bb6f-0242ac130004",
@@ -36116,18 +36120,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a211235e-f6a6-11ef-822c-0242ac130004",
                 "name": "Neptune",
-                "seed": 830
+                "seed": 830,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "40976a16-f5c0-11ef-a23f-0242ac130004",
                 "name": "1AM",
-                "seed": 318
+                "seed": 318,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a211235e-f6a6-11ef-822c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "40976a16-f5c0-11ef-a23f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a211235e-f6a6-11ef-822c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "40976a16-f5c0-11ef-a23f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 711,
@@ -36191,7 +36230,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9e0bd7c0-f4a0-11ef-8ee6-0242ac130004",
                 "name": "WIGAND",
@@ -36200,7 +36239,8 @@
             "opponent2": {
                 "id": "91049ab6-f7ee-11ef-9270-0242ac130004",
                 "name": "BurgerBoiiiiiiiiiizs",
-                "seed": 323
+                "seed": 323,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -36841,11 +36881,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9510dce2-f4a0-11ef-a6b4-0242ac130004",
                 "name": "Exo",
-                "seed": 78
+                "seed": 78,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "6a554738-f62e-11ef-b1db-0242ac130004",
@@ -37103,18 +37144,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e0df1838-f67a-11ef-b046-0242ac130004",
                 "name": "Los Papus",
-                "seed": 814
+                "seed": 814,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e0f25794-f919-11ef-9e9f-0242ac130005",
                 "name": "Hermanitos",
-                "seed": 723
+                "seed": 723,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0f25794-f919-11ef-9e9f-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0f25794-f919-11ef-9e9f-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 735,
@@ -37343,18 +37419,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4834de24-f6d4-11ef-868d-0242ac130004",
                 "name": "The Touchers",
-                "seed": 902
+                "seed": 902,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "161afcf8-f6e7-11ef-b7d1-0242ac130004",
                 "name": "Élite Gaming™",
-                "seed": 390
+                "seed": 390,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "161afcf8-f6e7-11ef-b7d1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161afcf8-f6e7-11ef-b7d1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "161afcf8-f6e7-11ef-b7d1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 740,
@@ -37363,18 +37489,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
                 "name": "BlacksStars",
-                "seed": 134
+                "seed": 134,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8bc47ad2-fa17-11ef-a9f6-eeb4a9f72fed",
                 "name": "Teamlechugas 🥬",
-                "seed": 379
+                "seed": 379,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8bc47ad2-fa17-11ef-a9f6-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8bc47ad2-fa17-11ef-a9f6-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 741,
@@ -37664,7 +37825,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "382bb2c0-f6c3-11ef-b0d0-0242ac130004",
                 "name": "We Love Tick",
@@ -37673,7 +37834,8 @@
             "opponent2": {
                 "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
                 "name": "Gusanos",
-                "seed": 667
+                "seed": 667,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -39776,10 +39938,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
+                "name": "A.R.A. Esports",
+                "seed": 85
             },
             "opponent2": {
-                "id": null
+                "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                "name": "Destr0yers",
+                "seed": 853
             },
             "match_games": []
         },
@@ -39792,10 +39958,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                "name": "Complexity",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "e1a99cf0-fc26-11ef-be3a-92da91b7d15f",
+                "name": "$babyteam$",
+                "seed": 255
             },
             "match_games": []
         },
@@ -39862,14 +40032,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
-                "name": "Saro Squad",
-                "seed": 66
+                "id": "956b0726-f4a0-11ef-924a-0242ac130004",
+                "name": "Aayaan glazers",
+                "seed": 31
             },
             "opponent2": {
-                "id": "76ed3276-f89f-11ef-ad2b-0242ac130004",
-                "name": "Sleeping Forest",
-                "seed": 703
+                "id": "ce99229c-f795-11ef-9957-0242ac130004",
+                "name": "KRONOS",
+                "seed": 287
             },
             "match_games": []
         },
@@ -39962,14 +40132,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": "9d993742-f4a0-11ef-8244-0242ac130004",
-                "name": "Draft 4 Me",
-                "seed": 15
+                "id": "941d12ba-f4a0-11ef-ad19-0242ac130004",
+                "name": "Acorn Army",
+                "seed": 114
             },
             "opponent2": {
-                "id": "36472b90-faa8-11ef-b171-eeb4a9f72fed",
-                "name": "The borbotones",
-                "seed": 783
+                "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                "name": "The Shađøws",
+                "seed": 143
             },
             "match_games": []
         },
@@ -39982,10 +40152,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
+                "name": "Aminos",
+                "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "146626f2-f7fb-11ef-aefc-0242ac130004",
+                "name": "ESZO",
+                "seed": 306
             },
             "match_games": []
         },
@@ -40021,7 +40195,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "41c4dc82-f7ac-11ef-abd7-0242ac130004",
+                "name": "Soprano Crew",
+                "seed": 274
             },
             "match_games": []
         },
@@ -40107,7 +40283,9 @@
                 "seed": 634
             },
             "opponent2": {
-                "id": null
+                "id": "acdc7794-f6cd-11ef-b9d7-0242ac130004",
+                "name": "The Artists",
+                "seed": 890
             },
             "match_games": []
         },
@@ -40198,10 +40376,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6f549380-f726-11ef-a7b3-0242ac130004",
+                "name": "⚔️Sherby_legion⚔️",
+                "seed": 551
             },
             "opponent2": {
-                "id": null
+                "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
+                "name": "CoIV",
+                "seed": 807
             },
             "match_games": []
         },
@@ -40344,10 +40526,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9bb8857c-f4a0-11ef-9828-0242ac130004",
+                "name": "The Brawl Kings",
+                "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "e90223e4-f95d-11ef-ba4b-0242ac130005",
+                "name": "Octane Zero",
+                "seed": 215
             },
             "match_games": []
         },
@@ -40360,10 +40546,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d95512da-f7a0-11ef-bb6f-0242ac130004",
+                "name": "POU",
+                "seed": 599
             },
             "opponent2": {
-                "id": null
+                "id": "e6d04c14-f646-11ef-b3ed-0242ac130004",
+                "name": "NGHS",
+                "seed": 682
             },
             "match_games": []
         },
@@ -40394,10 +40584,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "37da4b9c-f63c-11ef-8a80-0242ac130004",
+                "name": "Dark|Monarchs 🌑",
+                "seed": 638
             },
             "opponent2": {
-                "id": null
+                "id": "9656adac-f4a0-11ef-a460-0242ac130004",
+                "name": "Cobra Jets",
+                "seed": 131
             },
             "match_games": []
         },
@@ -40415,7 +40609,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "40976a16-f5c0-11ef-a23f-0242ac130004",
+                "name": "1AM",
+                "seed": 318
             },
             "match_games": []
         },
@@ -40433,7 +40629,9 @@
                 "seed": 579
             },
             "opponent2": {
-                "id": null
+                "id": "9e0bd7c0-f4a0-11ef-8ee6-0242ac130004",
+                "name": "WIGAND",
+                "seed": 190
             },
             "match_games": []
         },
@@ -40572,7 +40770,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6a554738-f62e-11ef-b1db-0242ac130004",
+                "name": "Ur Good Esports",
+                "seed": 590
             },
             "opponent2": {
                 "id": null
@@ -40613,7 +40813,9 @@
                 "seed": 110
             },
             "opponent2": {
-                "id": null
+                "id": "c0488ec4-f5f3-11ef-adc5-0242ac130004",
+                "name": "Prepuche",
+                "seed": 366
             },
             "match_games": []
         },
@@ -40626,10 +40828,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cf4cbc96-f621-11ef-ac98-0242ac130004",
+                "name": "Biggest Bums",
+                "seed": 558
             },
             "opponent2": {
-                "id": null
+                "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                "name": "Los Papus",
+                "seed": 814
             },
             "match_games": []
         },
@@ -40682,10 +40888,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                "name": "The Touchers",
+                "seed": 902
             },
             "opponent2": {
-                "id": null
+                "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                "name": "BlacksStars",
+                "seed": 134
             },
             "match_games": []
         },
@@ -40698,10 +40908,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
+                "name": "lebrons dih",
+                "seed": 571
             },
             "opponent2": {
-                "id": null
+                "id": "23a23202-f7d6-11ef-a954-0242ac130004",
+                "name": "Dark Stars Black",
+                "seed": 315
             },
             "match_games": []
         },
