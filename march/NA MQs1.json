@@ -31995,18 +31995,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9438e4f4-f4a0-11ef-8f4a-0242ac130004",
                 "name": "Regards",
-                "seed": 196
+                "seed": 196,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28908bcc-f7dd-11ef-b74f-0242ac130004",
                 "name": "Passione",
-                "seed": 317
+                "seed": 317,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9438e4f4-f4a0-11ef-8f4a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28908bcc-f7dd-11ef-b74f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9438e4f4-f4a0-11ef-8f4a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28908bcc-f7dd-11ef-b74f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9438e4f4-f4a0-11ef-8f4a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "28908bcc-f7dd-11ef-b74f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 583,
@@ -38505,7 +38555,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "97922b9c-f4a0-11ef-adbc-0242ac130004",
                 "name": "BMS",
@@ -38514,7 +38564,8 @@
             "opponent2": {
                 "id": "b0f97864-f5ff-11ef-9421-0242ac130004",
                 "name": "SSPD",
-                "seed": 478
+                "seed": 478,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41993,7 +42044,9 @@
                 "seed": 452
             },
             "opponent2": {
-                "id": null
+                "id": "28908bcc-f7dd-11ef-b74f-0242ac130004",
+                "name": "Passione",
+                "seed": 317
             },
             "match_games": []
         },
@@ -43344,10 +43397,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "97922b9c-f4a0-11ef-adbc-0242ac130004",
+                "name": "BMS",
+                "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "e948131e-f650-11ef-bcf6-0242ac130004",
+                "name": "Showcase Esports",
+                "seed": 734
             },
             "match_games": []
         },
