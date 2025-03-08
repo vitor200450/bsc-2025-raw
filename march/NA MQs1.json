@@ -49782,18 +49782,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9be204d8-f4a0-11ef-add0-0242ac130004",
                 "name": "NA Dinos",
-                "seed": 63
+                "seed": 63,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
                 "name": "Saro Squad",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9be204d8-f4a0-11ef-add0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9be204d8-f4a0-11ef-add0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 931,
@@ -51010,7 +51045,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                "name": "Saro Squad",
+                "seed": 66
             },
             "match_games": []
         },
