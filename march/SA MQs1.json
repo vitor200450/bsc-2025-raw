@@ -22953,18 +22953,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
                 "name": "Golden Vortex",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
                 "name": "Imparáveis FC",
-                "seed": 449
+                "seed": 449,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 518,
@@ -30411,10 +30446,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                "name": "Golden Vortex",
+                "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "cc313fb8-f6cc-11ef-b590-0242ac130004",
+                "name": "Eternos Tucujus",
+                "seed": 320
             },
             "match_games": []
         },
