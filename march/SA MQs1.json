@@ -23837,18 +23837,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92eaabc2-f4a1-11ef-a103-0242ac130004",
                 "name": "Bad Randoms",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "88dbcba0-f7cd-11ef-96dc-0242ac130004",
                 "name": "Generación Dorada",
-                "seed": 593
+                "seed": 593,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "92eaabc2-f4a1-11ef-a103-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "88dbcba0-f7cd-11ef-96dc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "92eaabc2-f4a1-11ef-a103-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "88dbcba0-f7cd-11ef-96dc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 544,
@@ -31903,10 +31938,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "92eaabc2-f4a1-11ef-a103-0242ac130004",
+                "name": "Bad Randoms",
+                "seed": 81
             },
             "opponent2": {
-                "id": null
+                "id": "48bc7d2a-f7ec-11ef-9d2b-0242ac130004",
+                "name": "Primo Punch",
+                "seed": 176
             },
             "match_games": []
         },
