@@ -94404,18 +94404,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca3130bc-f49f-11ef-9e8c-0242ac130004",
                 "name": "Titan Gaming",
-                "seed": 295
+                "seed": 295,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b1fab928-f756-11ef-adcd-0242ac130004",
                 "name": "🔥 LATIN STARS 🔥",
-                "seed": 1754
+                "seed": 1754,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ca3130bc-f49f-11ef-9e8c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b1fab928-f756-11ef-adcd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ca3130bc-f49f-11ef-9e8c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b1fab928-f756-11ef-adcd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2744,
@@ -99416,18 +99451,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ca2d4ec0-f49f-11ef-a239-0242ac130004",
                 "name": "Itzz_gaming",
-                "seed": 334
+                "seed": 334,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6a1c9e5a-f7a1-11ef-a877-0242ac130004",
                 "name": "Bodrio Stars",
-                "seed": 1715
+                "seed": 1715,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "ca2d4ec0-f49f-11ef-a239-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a1c9e5a-f7a1-11ef-a877-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "ca2d4ec0-f49f-11ef-a239-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a1c9e5a-f7a1-11ef-a877-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "ca2d4ec0-f49f-11ef-a239-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a1c9e5a-f7a1-11ef-a877-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2912,
@@ -111176,10 +111261,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b1fab928-f756-11ef-adcd-0242ac130004",
+                "name": "🔥 LATIN STARS 🔥",
+                "seed": 1754
             },
             "opponent2": {
-                "id": null
+                "id": "d6febfba-f5eb-11ef-956d-0242ac130004",
+                "name": "YoungSnake",
+                "seed": 1319
             },
             "match_games": []
         },
@@ -112796,10 +112885,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6a1c9e5a-f7a1-11ef-a877-0242ac130004",
+                "name": "Bodrio Stars",
+                "seed": 1715
             },
             "opponent2": {
-                "id": null
+                "id": "99dd64ee-fb8e-11ef-aa82-2ea92f8375bb",
+                "name": "DragosBlackPig",
+                "seed": 691
             },
             "match_games": []
         },
