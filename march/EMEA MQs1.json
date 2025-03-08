@@ -57434,18 +57434,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7eef09fc-fbf8-11ef-8ae8-2a2cb4b53fc7",
                 "name": "The Big Three",
-                "seed": 2023
+                "seed": 2023,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ac6a0e0-f80b-11ef-9086-0242ac130004",
                 "name": "PXE",
-                "seed": 2074
+                "seed": 2074,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7eef09fc-fbf8-11ef-8ae8-2a2cb4b53fc7",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ac6a0e0-f80b-11ef-9086-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7eef09fc-fbf8-11ef-8ae8-2a2cb4b53fc7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ac6a0e0-f80b-11ef-9086-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7eef09fc-fbf8-11ef-8ae8-2a2cb4b53fc7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ac6a0e0-f80b-11ef-9086-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1347,
@@ -60496,18 +60546,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b63064ba-fa6d-11ef-b7c6-e2e3b1699cf4",
                 "name": "FR|rêveur",
-                "seed": 1815
+                "seed": 1815,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cec4ef5c-f93a-11ef-97c1-0242ac130005",
                 "name": "AnG Esports",
-                "seed": 2282
+                "seed": 2282,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b63064ba-fa6d-11ef-b7c6-e2e3b1699cf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cec4ef5c-f93a-11ef-97c1-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b63064ba-fa6d-11ef-b7c6-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cec4ef5c-f93a-11ef-97c1-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b63064ba-fa6d-11ef-b7c6-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cec4ef5c-f93a-11ef-97c1-0242ac130005",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1483,
@@ -86126,7 +86226,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "7eef09fc-fbf8-11ef-8ae8-2a2cb4b53fc7",
+                "name": "The Big Three",
+                "seed": 2023
             },
             "match_games": []
         },
@@ -87478,7 +87580,9 @@
                 "seed": 234
             },
             "opponent2": {
-                "id": null
+                "id": "b63064ba-fa6d-11ef-b7c6-e2e3b1699cf4",
+                "name": "FR|rêveur",
+                "seed": 1815
             },
             "match_games": []
         },
