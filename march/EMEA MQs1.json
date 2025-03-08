@@ -37805,18 +37805,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6c302d4-f49f-11ef-a8ac-0242ac130004",
                 "name": "TRM|BS",
-                "seed": 1604
+                "seed": 1604,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c4c0a32-f7b6-11ef-a1e4-0242ac130004",
                 "name": "🐊|Team",
-                "seed": 2493
+                "seed": 2493,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c6c302d4-f49f-11ef-a8ac-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c4c0a32-f7b6-11ef-a1e4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c6c302d4-f49f-11ef-a8ac-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c4c0a32-f7b6-11ef-a1e4-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 567,
@@ -49257,18 +49292,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "612d3e5a-f5b5-11ef-8af3-0242ac130004",
                 "name": "Penguins",
-                "seed": 1970
+                "seed": 1970,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "05e2ae88-f6b2-11ef-8cf7-0242ac130004",
                 "name": "Team ZM",
-                "seed": 2127
+                "seed": 2127,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "612d3e5a-f5b5-11ef-8af3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05e2ae88-f6b2-11ef-8cf7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "612d3e5a-f5b5-11ef-8af3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05e2ae88-f6b2-11ef-8cf7-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1203,
@@ -50174,18 +50244,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a28a184-f61c-11ef-aaae-0242ac130004",
                 "name": "Piponi",
-                "seed": 2002
+                "seed": 2002,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "66f53530-f615-11ef-b575-0242ac130004",
                 "name": "LS french",
-                "seed": 2095
+                "seed": 2095,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3a28a184-f61c-11ef-aaae-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "66f53530-f615-11ef-b575-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3a28a184-f61c-11ef-aaae-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "66f53530-f615-11ef-b575-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1251,
@@ -67790,7 +67895,9 @@
                 "seed": 104
             },
             "opponent2": {
-                "id": null
+                "id": "97dcef5c-f71f-11ef-af8b-0242ac130004",
+                "name": "Apex Predators",
+                "seed": 2152
             },
             "match_games": []
         },
@@ -69976,7 +70083,9 @@
                 "seed": 445
             },
             "opponent2": {
-                "id": null
+                "id": "3c4c0a32-f7b6-11ef-a1e4-0242ac130004",
+                "name": "🐊|Team",
+                "seed": 2493
             },
             "match_games": []
         },
@@ -71510,7 +71619,9 @@
                 "seed": 404
             },
             "opponent2": {
-                "id": null
+                "id": "d4b1a9ae-f7b5-11ef-9fd3-0242ac130004",
+                "name": "TEAM RIF",
+                "seed": 1645
             },
             "match_games": []
         },
@@ -75202,7 +75313,9 @@
                 "seed": 415
             },
             "opponent2": {
-                "id": null
+                "id": "b2e50f6a-f638-11ef-aca5-0242ac130004",
+                "name": "404Team",
+                "seed": 1634
             },
             "match_games": []
         },
@@ -75894,7 +76007,9 @@
                 "seed": 370
             },
             "opponent2": {
-                "id": null
+                "id": "1756f3d0-f6c2-11ef-89ca-0242ac130004",
+                "name": "SK |Bidon",
+                "seed": 2418
             },
             "match_games": []
         },
@@ -76088,7 +76203,9 @@
                 "seed": 79
             },
             "opponent2": {
-                "id": null
+                "id": "612d3e5a-f5b5-11ef-8af3-0242ac130004",
+                "name": "Penguins",
+                "seed": 1970
             },
             "match_games": []
         },
@@ -76552,7 +76669,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "66f53530-f615-11ef-b575-0242ac130004",
+                "name": "LS french",
+                "seed": 2095
             },
             "match_games": []
         },
@@ -76706,7 +76825,9 @@
                 "seed": 82
             },
             "opponent2": {
-                "id": null
+                "id": "dd023318-f91c-11ef-a112-0242ac130005",
+                "name": "Champions",
+                "seed": 1967
             },
             "match_games": []
         },
