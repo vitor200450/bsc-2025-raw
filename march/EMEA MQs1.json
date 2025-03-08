@@ -39740,18 +39740,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "c682b134-f774-11ef-afe2-0242ac130004",
                 "name": "3D2HM",
-                "seed": 1652
+                "seed": 1652,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "344aa1ea-f5bd-11ef-b33a-0242ac130004",
                 "name": "GWN",
-                "seed": 2445
+                "seed": 2445,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c682b134-f774-11ef-afe2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "344aa1ea-f5bd-11ef-b33a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c682b134-f774-11ef-afe2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "344aa1ea-f5bd-11ef-b33a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 663,
@@ -45403,18 +45438,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "31262944-fb80-11ef-aa34-a2bbe9652278",
                 "name": "Minis",
-                "seed": 1813
+                "seed": 1813,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "286576da-f6b1-11ef-81a1-0242ac130004",
                 "name": "Sashimi",
-                "seed": 2284
+                "seed": 2284,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "31262944-fb80-11ef-aa34-a2bbe9652278",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "286576da-f6b1-11ef-81a1-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "31262944-fb80-11ef-aa34-a2bbe9652278",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "286576da-f6b1-11ef-81a1-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 971,
@@ -71752,7 +71822,9 @@
                 "seed": 397
             },
             "opponent2": {
-                "id": null
+                "id": "344aa1ea-f5bd-11ef-b33a-0242ac130004",
+                "name": "GWN",
+                "seed": 2445
             },
             "match_games": []
         },
@@ -74718,7 +74790,9 @@
                 "seed": 236
             },
             "opponent2": {
-                "id": null
+                "id": "31262944-fb80-11ef-aa34-a2bbe9652278",
+                "name": "Minis",
+                "seed": 1813
             },
             "match_games": []
         },
@@ -83088,7 +83162,9 @@
                 "seed": 315
             },
             "opponent2": {
-                "id": null
+                "id": "3b273592-f67f-11ef-ad34-0242ac130004",
+                "name": "•JMY•Team",
+                "seed": 1734
             },
             "match_games": []
         },
