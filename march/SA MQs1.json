@@ -45094,18 +45094,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "59688404-f6e6-11ef-8d44-0242ac130004",
                 "name": "Revenge 2.0",
-                "seed": 459
+                "seed": 459,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
                 "name": "Nxr Killers",
-                "seed": 683
+                "seed": 683,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "59688404-f6e6-11ef-8d44-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "59688404-f6e6-11ef-8d44-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 1
+                    }
+                }
+            ]
         }
     ]
 }
