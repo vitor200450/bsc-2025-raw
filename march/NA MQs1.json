@@ -44143,18 +44143,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99d60982-f4a0-11ef-88b9-0242ac130004",
                 "name": "Karana Klan",
-                "seed": 95
+                "seed": 95,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
                 "name": "Star Strikers",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "99d60982-f4a0-11ef-88b9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "99d60982-f4a0-11ef-88b9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 841,
@@ -47173,7 +47208,9 @@
                 "seed": 223
             },
             "opponent2": {
-                "id": null
+                "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
+                "name": "Star Strikers",
+                "seed": 162
             },
             "match_games": []
         },
