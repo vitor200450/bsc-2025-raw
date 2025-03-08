@@ -56410,18 +56410,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "da33dc00-f682-11ef-80e8-0242ac130004",
                 "name": "BylbaVsalo",
-                "seed": 1914
+                "seed": 1914,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0dde06e2-f620-11ef-8e28-0242ac130004",
                 "name": "Mamak",
-                "seed": 2183
+                "seed": 2183,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "da33dc00-f682-11ef-80e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0dde06e2-f620-11ef-8e28-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "da33dc00-f682-11ef-80e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0dde06e2-f620-11ef-8e28-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1307,
@@ -85363,7 +85398,9 @@
                 "seed": 135
             },
             "opponent2": {
-                "id": null
+                "id": "da33dc00-f682-11ef-80e8-0242ac130004",
+                "name": "BylbaVsalo",
+                "seed": 1914
             },
             "match_games": []
         },
