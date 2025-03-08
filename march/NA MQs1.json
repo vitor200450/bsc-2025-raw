@@ -51960,18 +51960,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
                 "name": "100 ping>>>",
-                "seed": 761
+                "seed": 761,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3148cd30-f718-11ef-afe5-0242ac130004",
                 "name": "Stronger monsters",
-                "seed": 456
+                "seed": 456,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3148cd30-f718-11ef-afe5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3148cd30-f718-11ef-afe5-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 966,
@@ -52696,10 +52731,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                "name": "100 ping>>>",
+                "seed": 761
             },
             "opponent2": {
-                "id": null
+                "id": "9af5ad90-f4a0-11ef-9d45-0242ac130004",
+                "name": "New Meta",
+                "seed": 25
             },
             "match_games": []
         },
