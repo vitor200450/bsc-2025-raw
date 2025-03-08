@@ -38901,18 +38901,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8c93652-f49f-11ef-82a4-0242ac130004",
                 "name": "LZS",
-                "seed": 1693
+                "seed": 1693,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "49b0bfa0-fb8b-11ef-a807-6e96227f6c65",
                 "name": "Silent Esports",
-                "seed": 2404
+                "seed": 2404,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c8c93652-f49f-11ef-82a4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49b0bfa0-fb8b-11ef-a807-6e96227f6c65",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c8c93652-f49f-11ef-82a4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49b0bfa0-fb8b-11ef-a807-6e96227f6c65",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 607,
@@ -60250,18 +60285,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "168e58b6-f6e1-11ef-ac61-0242ac130004",
                 "name": "POLISH BEASTS",
-                "seed": 2030
+                "seed": 2030,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "40d71658-f902-11ef-a681-0242ac130005",
                 "name": "THETA",
-                "seed": 2067
+                "seed": 2067,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "168e58b6-f6e1-11ef-ac61-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "40d71658-f902-11ef-a681-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "168e58b6-f6e1-11ef-ac61-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "40d71658-f902-11ef-a681-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1731,
@@ -71957,7 +72027,9 @@
                 "seed": 356
             },
             "opponent2": {
-                "id": null
+                "id": "c8c93652-f49f-11ef-82a4-0242ac130004",
+                "name": "LZS",
+                "seed": 1693
             },
             "match_games": []
         },
@@ -82821,7 +82893,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "40d71658-f902-11ef-a681-0242ac130005",
+                "name": "THETA",
+                "seed": 2067
             },
             "match_games": []
         },
