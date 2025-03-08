@@ -23278,18 +23278,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9160d63c-f4a1-11ef-84f9-0242ac130004",
                 "name": "Mojon duro",
-                "seed": 208
+                "seed": 208,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9950dd32-f853-11ef-988b-0242ac130004",
                 "name": "Pipocas extrovertida",
-                "seed": 305
+                "seed": 305,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9160d63c-f4a1-11ef-84f9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9950dd32-f853-11ef-988b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9160d63c-f4a1-11ef-84f9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9950dd32-f853-11ef-988b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 535,
