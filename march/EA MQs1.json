@@ -9942,18 +9942,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f0b7a36-f49f-11ef-a793-0242ac130004",
                 "name": "Divine Tongue",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
                 "name": "心温まるミカン",
-                "seed": 178
+                "seed": 178,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5f0b7a36-f49f-11ef-a793-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5f0b7a36-f49f-11ef-a793-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e01bb4d4-f5e8-11ef-bfbd-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 212,
@@ -10520,10 +10555,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f0b7a36-f49f-11ef-a793-0242ac130004",
+                "name": "Divine Tongue",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "5dec6b10-f49f-11ef-ae15-0242ac130004",
+                "name": "Worst Generation",
+                "seed": 18
             },
             "match_games": []
         },
