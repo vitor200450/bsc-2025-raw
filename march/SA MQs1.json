@@ -33921,18 +33921,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "92811784-f4a1-11ef-a129-0242ac130004",
                 "name": "Chipis team",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
                 "name": "🍃Nexus neutral 🍃☄️",
-                "seed": 721
+                "seed": 721,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "92811784-f4a1-11ef-a129-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "92811784-f4a1-11ef-a129-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 784,
@@ -35891,18 +35926,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
                 "name": "La Fúria",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "045fa91a-f713-11ef-9701-0242ac130004",
                 "name": "Rode",
-                "seed": 222
+                "seed": 222,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "045fa91a-f713-11ef-9701-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "045fa91a-f713-11ef-9701-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 872,
@@ -36665,7 +36735,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "92811784-f4a1-11ef-a129-0242ac130004",
+                "name": "Chipis team",
+                "seed": 48
             },
             "opponent2": {
                 "id": null
@@ -37377,7 +37449,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                "name": "La Fúria",
+                "seed": 35
             },
             "opponent2": {
                 "id": null
