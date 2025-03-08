@@ -30446,18 +30446,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "893c8368-fa35-11ef-898e-e2e3b1699cf4",
                 "name": "SK | Ecuador",
-                "seed": 215
+                "seed": 215,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
                 "name": "TeamAlpaca🥵",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "893c8368-fa35-11ef-898e-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "893c8368-fa35-11ef-898e-e2e3b1699cf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "893c8368-fa35-11ef-898e-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 703,
@@ -34990,7 +35040,9 @@
                 "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                "name": "TeamAlpaca🥵",
+                "seed": 298
             },
             "match_games": []
         },
