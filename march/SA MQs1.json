@@ -16015,18 +16015,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfca2ba2-f6e0-11ef-be36-0242ac130004",
                 "name": "The Brothers",
-                "seed": 451
+                "seed": 451,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
                 "name": "Latin Gaming",
-                "seed": 574
+                "seed": 574,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dfca2ba2-f6e0-11ef-be36-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dfca2ba2-f6e0-11ef-be36-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 395,
@@ -17314,18 +17349,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ccc2492-f6d0-11ef-8b6c-0242ac130004",
                 "name": "MAFIA",
-                "seed": 326
+                "seed": 326,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b5ddc2d2-fa18-11ef-bc2b-eeb4a9f72fed",
                 "name": "Invocados",
-                "seed": 699
+                "seed": 699,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3ccc2492-f6d0-11ef-8b6c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b5ddc2d2-fa18-11ef-bc2b-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3ccc2492-f6d0-11ef-8b6c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b5ddc2d2-fa18-11ef-bc2b-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 465,
@@ -21731,7 +21801,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
+                "name": "Latin Gaming",
+                "seed": 574
             },
             "match_games": []
         },
@@ -22361,7 +22433,9 @@
                 "seed": 187
             },
             "opponent2": {
-                "id": null
+                "id": "b5ddc2d2-fa18-11ef-bc2b-eeb4a9f72fed",
+                "name": "Invocados",
+                "seed": 699
             },
             "match_games": []
         },
