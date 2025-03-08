@@ -87625,18 +87625,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c674b7e6-f49f-11ef-8b60-0242ac130004",
                 "name": "CocoSacaelPaint",
-                "seed": 316
+                "seed": 316,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ed7c1fc-f9f9-11ef-b701-eeb4a9f72fed",
                 "name": "rmd",
-                "seed": 1733
+                "seed": 1733,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c674b7e6-f49f-11ef-8b60-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ed7c1fc-f9f9-11ef-b701-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c674b7e6-f49f-11ef-8b60-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ed7c1fc-f9f9-11ef-b701-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2456,
@@ -113145,10 +113180,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c674b7e6-f49f-11ef-8b60-0242ac130004",
+                "name": "CocoSacaelPaint",
+                "seed": 316
             },
             "opponent2": {
-                "id": null
+                "id": "a27db9f2-fabf-11ef-ab9d-eeb4a9f72fed",
+                "name": "KDK E-SPORTS",
+                "seed": 1340
             },
             "match_games": []
         },
