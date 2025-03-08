@@ -39595,18 +39595,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
                 "name": "Golden Vortex",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74947b1a-f642-11ef-a118-0242ac130004",
                 "name": "Anarcos",
-                "seed": 704
+                "seed": 704,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74947b1a-f642-11ef-a118-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74947b1a-f642-11ef-a118-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74947b1a-f642-11ef-a118-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 899,
@@ -42351,7 +42401,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "8f12392a-f4a1-11ef-ad72-0242ac130004",
+                "name": "Golden Vortex",
+                "seed": 64
             },
             "match_games": []
         },
