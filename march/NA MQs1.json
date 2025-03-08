@@ -19733,18 +19733,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a37092f6-f60c-11ef-8e65-0242ac130004",
                 "name": "Treskalatina",
-                "seed": 506
+                "seed": 506,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1df5b64e-f709-11ef-9f72-0242ac130004",
                 "name": "Dragon Force",
-                "seed": 519
+                "seed": 519,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a37092f6-f60c-11ef-8e65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df5b64e-f709-11ef-9f72-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a37092f6-f60c-11ef-8e65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1df5b64e-f709-11ef-9f72-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 323,
@@ -24580,18 +24615,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70881eb2-f8ab-11ef-8475-0242ac130004",
                 "name": "Silver Claw Gang",
-                "seed": 347
+                "seed": 347,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8ecbd236-f646-11ef-bc97-0242ac130004",
                 "name": "Dizzy Ashton",
-                "seed": 678
+                "seed": 678,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "70881eb2-f8ab-11ef-8475-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8ecbd236-f646-11ef-bc97-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "70881eb2-f8ab-11ef-8475-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8ecbd236-f646-11ef-bc97-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 481,
@@ -28626,7 +28696,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "a37092f6-f60c-11ef-8e65-0242ac130004",
+                "name": "Treskalatina",
+                "seed": 506
             },
             "match_games": []
         },
@@ -30162,7 +30234,9 @@
                 "seed": 166
             },
             "opponent2": {
-                "id": null
+                "id": "8ecbd236-f646-11ef-bc97-0242ac130004",
+                "name": "Dizzy Ashton",
+                "seed": 678
             },
             "match_games": []
         },
