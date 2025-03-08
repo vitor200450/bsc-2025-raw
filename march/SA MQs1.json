@@ -33931,18 +33931,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93672832-f4a1-11ef-847e-0242ac130004",
                 "name": "XIA",
-                "seed": 113
+                "seed": 113,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1ae58658-f634-11ef-89de-0242ac130004",
                 "name": "Back 505",
-                "seed": 656
+                "seed": 656,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ae58658-f634-11ef-89de-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ae58658-f634-11ef-89de-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 779,
@@ -38271,7 +38306,9 @@
                 "seed": 528
             },
             "opponent2": {
-                "id": null
+                "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                "name": "XIA",
+                "seed": 113
             },
             "match_games": []
         },
