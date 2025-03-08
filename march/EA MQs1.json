@@ -6465,18 +6465,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
                 "name": "昱翔team",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f77cb4a8-fbaa-11ef-80cc-2a2cb4b53fc7",
                 "name": "あややんとりんりんのブロスタちゃんねる",
-                "seed": 97
+                "seed": 97,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f77cb4a8-fbaa-11ef-80cc-2a2cb4b53fc7",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f77cb4a8-fbaa-11ef-80cc-2a2cb4b53fc7",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 132,
@@ -8355,10 +8390,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                "name": "昱翔team",
+                "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "5e52dbde-f49f-11ef-b422-0242ac130004",
+                "name": "F.GHK風呂キャンセル界隈",
+                "seed": 33
             },
             "match_games": []
         },
