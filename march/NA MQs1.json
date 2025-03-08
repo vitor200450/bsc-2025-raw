@@ -49078,11 +49078,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f3433c4-f670-11ef-ada6-0242ac130004",
                 "name": "Boba Bandits",
-                "seed": 808
+                "seed": 808,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
@@ -51904,7 +51905,11 @@
                 "name": "New Meta",
                 "seed": 25
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
+                "name": "Sauce Hogs",
+                "seed": 424
+            },
             "match_games": []
         },
         {
