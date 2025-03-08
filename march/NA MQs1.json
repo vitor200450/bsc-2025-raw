@@ -29149,18 +29149,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94b303a6-f4a0-11ef-bea8-0242ac130004",
                 "name": "Papaluapan",
-                "seed": 49
+                "seed": 49,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
                 "name": "『亗𝐂𝐓𝐏| 𝐒𝐩𝐨𝐫𝐓",
-                "seed": 561
+                "seed": 561,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94b303a6-f4a0-11ef-bea8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94b303a6-f4a0-11ef-bea8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 534,
@@ -34930,18 +34965,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
                 "name": "CSJP",
-                "seed": 119
+                "seed": 119,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
                 "name": "LettuceCook",
-                "seed": 631
+                "seed": 631,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 692,
@@ -38090,7 +38160,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                "name": "『亗𝐂𝐓𝐏| 𝐒𝐩𝐨𝐫𝐓",
+                "seed": 561
             },
             "opponent2": {
                 "id": null
@@ -39466,10 +39538,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                "name": "CSJP",
+                "seed": 119
             },
             "opponent2": {
-                "id": null
+                "id": "1d81a536-f9ef-11ef-aabc-e2e3b1699cf4",
+                "name": "RC Gaming",
+                "seed": 375
             },
             "match_games": []
         },
