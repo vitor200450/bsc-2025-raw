@@ -48119,18 +48119,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ceb60504-f5fd-11ef-a693-0242ac130004",
                 "name": "SPV Esports",
-                "seed": 1973
+                "seed": 1973,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d09c491a-f5f7-11ef-ae54-0242ac130004",
                 "name": "RAGE QUIT",
-                "seed": 2124
+                "seed": 2124,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ceb60504-f5fd-11ef-a693-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d09c491a-f5f7-11ef-ae54-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ceb60504-f5fd-11ef-a693-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d09c491a-f5f7-11ef-ae54-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ceb60504-f5fd-11ef-a693-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d09c491a-f5f7-11ef-ae54-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 947,
@@ -68671,18 +68721,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9e181a18-f78d-11ef-a42c-0242ac130004",
                 "name": "FF",
-                "seed": 1691
+                "seed": 1691,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "01ad1724-f674-11ef-94d9-0242ac130004",
                 "name": "Silly Cats",
-                "seed": 2406
+                "seed": 2406,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9e181a18-f78d-11ef-a42c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "01ad1724-f674-11ef-94d9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9e181a18-f78d-11ef-a42c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "01ad1724-f674-11ef-94d9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1887,
@@ -81420,7 +81505,9 @@
                 "seed": 76
             },
             "opponent2": {
-                "id": null
+                "id": "d09c491a-f5f7-11ef-ae54-0242ac130004",
+                "name": "RAGE QUIT",
+                "seed": 2124
             },
             "match_games": []
         },
@@ -82576,7 +82663,9 @@
                 "seed": 450
             },
             "opponent2": {
-                "id": null
+                "id": "7409fff4-f76d-11ef-8114-0242ac130004",
+                "name": "soup",
+                "seed": 2498
             },
             "match_games": []
         },
@@ -90782,7 +90871,9 @@
                 "seed": 358
             },
             "opponent2": {
-                "id": null
+                "id": "01ad1724-f674-11ef-94d9-0242ac130004",
+                "name": "Silly Cats",
+                "seed": 2406
             },
             "match_games": []
         },
