@@ -23510,7 +23510,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "928efb06-f4a1-11ef-9636-0242ac130004",
                 "name": "CausasGaming",
@@ -23519,7 +23519,8 @@
             "opponent2": {
                 "id": "ae10a57e-f603-11ef-be4c-0242ac130004",
                 "name": "Atlantic Team",
-                "seed": 464
+                "seed": 464,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -25830,18 +25831,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8efbca6e-f4a1-11ef-a471-0242ac130004",
                 "name": "The Primos",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "df00d360-f7e4-11ef-9930-0242ac130004",
                 "name": "WW TEAM 🧸",
-                "seed": 605
+                "seed": 605,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8efbca6e-f4a1-11ef-a471-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "df00d360-f7e4-11ef-9930-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8efbca6e-f4a1-11ef-a471-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "df00d360-f7e4-11ef-9930-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8efbca6e-f4a1-11ef-a471-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "df00d360-f7e4-11ef-9930-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 592,
@@ -33222,10 +33273,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "928efb06-f4a1-11ef-9636-0242ac130004",
+                "name": "CausasGaming",
+                "seed": 49
             },
             "opponent2": {
-                "id": null
+                "id": "9950dd32-f853-11ef-988b-0242ac130004",
+                "name": "Pipocas extrovertida",
+                "seed": 305
             },
             "match_games": []
         },
@@ -33788,10 +33843,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8efbca6e-f4a1-11ef-a471-0242ac130004",
+                "name": "The Primos",
+                "seed": 93
             },
             "opponent2": {
-                "id": null
+                "id": "9164f852-f4a1-11ef-bee8-0242ac130004",
+                "name": "AspirantsOfWaR",
+                "seed": 164
             },
             "match_games": []
         },
