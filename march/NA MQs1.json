@@ -28559,18 +28559,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7e663dd6-fa02-11ef-b9d4-eeb4a9f72fed",
                 "name": "No Skill, No Win",
-                "seed": 769
+                "seed": 769,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d6fb92e-f65c-11ef-8d28-0242ac130004",
                 "name": "DianaPorQueMeDejaste",
-                "seed": 768
+                "seed": 768,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7e663dd6-fa02-11ef-b9d4-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d6fb92e-f65c-11ef-8d28-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7e663dd6-fa02-11ef-b9d4-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d6fb92e-f65c-11ef-8d28-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 515,
@@ -40605,7 +40640,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "7e663dd6-fa02-11ef-b9d4-eeb4a9f72fed",
+                "name": "No Skill, No Win",
+                "seed": 769
             },
             "match_games": []
         },
