@@ -34780,18 +34780,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9cf86b50-f4a0-11ef-bdb9-0242ac130004",
                 "name": "NSB Gaming",
-                "seed": 106
+                "seed": 106,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cea6f288-fb6d-11ef-90c0-eeb4a9f72fed",
                 "name": "Northrop Grumman",
-                "seed": 407
+                "seed": 407,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9cf86b50-f4a0-11ef-bdb9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cea6f288-fb6d-11ef-90c0-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9cf86b50-f4a0-11ef-bdb9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cea6f288-fb6d-11ef-90c0-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 700,
@@ -36315,18 +36350,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9713ddbc-f722-11ef-ab3f-0242ac130004",
                 "name": "Portilla",
-                "seed": 230
+                "seed": 230,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
                 "name": "Zenith Nexu's",
-                "seed": 742
+                "seed": 742,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9713ddbc-f722-11ef-ab3f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9713ddbc-f722-11ef-ab3f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 747,
@@ -38579,7 +38649,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9cf86b50-f4a0-11ef-bdb9-0242ac130004",
+                "name": "NSB Gaming",
+                "seed": 106
             },
             "opponent2": {
                 "id": null
@@ -38972,7 +39044,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                "name": "Zenith Nexu's",
+                "seed": 742
             },
             "match_games": []
         },
