@@ -51830,18 +51830,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
                 "name": "Funeraria F/A",
-                "seed": 800
+                "seed": 800,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9a066910-f4a0-11ef-a388-0242ac130004",
                 "name": "Chambeadores NA",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a066910-f4a0-11ef-a388-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a066910-f4a0-11ef-a388-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 963,
@@ -51850,18 +51885,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
                 "name": "Da bois",
-                "seed": 16
+                "seed": 16,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
                 "name": "Tartarus",
-                "seed": 177
+                "seed": 177,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 964,
@@ -52335,18 +52405,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "512fda4a-f6f4-11ef-833f-0242ac130004",
                 "name": "Meow~",
-                "seed": 487
+                "seed": 487,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
                 "name": "CoIV",
-                "seed": 807
+                "seed": 807,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "512fda4a-f6f4-11ef-833f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "512fda4a-f6f4-11ef-833f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 983,
@@ -52573,7 +52678,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
+                "name": "Da bois",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
