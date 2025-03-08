@@ -41738,7 +41738,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "9423ff6c-f4a0-11ef-9346-0242ac130004",
                 "name": "skill issue",
@@ -42298,18 +42298,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "959d73aa-f4a0-11ef-a551-0242ac130004",
                 "name": "order of oink",
-                "seed": 84
+                "seed": 84,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
                 "name": "Yoshinoya gyudon",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "959d73aa-f4a0-11ef-a551-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "959d73aa-f4a0-11ef-a551-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 817,
@@ -42648,18 +42683,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "550d99e6-fb67-11ef-8ee8-e2e3b1699cf4",
                 "name": "CTO JV",
-                "seed": 405
+                "seed": 405,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "069e3a1e-f5f3-11ef-ad86-0242ac130004",
                 "name": "Angelic NA",
-                "seed": 364
+                "seed": 364,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "550d99e6-fb67-11ef-8ee8-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "069e3a1e-f5f3-11ef-ad86-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "550d99e6-fb67-11ef-8ee8-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "069e3a1e-f5f3-11ef-ad86-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 831,
@@ -43453,18 +43523,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
                 "name": "H",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1cc415ca-f65c-11ef-b143-0242ac130004",
                 "name": "SOPESGANG",
-                "seed": 766
+                "seed": 766,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cc415ca-f65c-11ef-b143-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1cc415ca-f65c-11ef-b143-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 866,
@@ -43808,18 +43913,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94ec1cb8-f4a0-11ef-8746-0242ac130004",
                 "name": "hungry hippos",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bd1a3c10-f82e-11ef-9fe4-0242ac130004",
                 "name": "LOS SQUEAKS",
-                "seed": 262
+                "seed": 262,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "94ec1cb8-f4a0-11ef-8746-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bd1a3c10-f82e-11ef-9fe4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "94ec1cb8-f4a0-11ef-8746-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bd1a3c10-f82e-11ef-9fe4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 882,
@@ -44615,7 +44755,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "069e3a1e-f5f3-11ef-ad86-0242ac130004",
+                "name": "Angelic NA",
+                "seed": 364
             },
             "match_games": []
         },
@@ -44906,7 +45048,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                "name": "H",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -45036,7 +45180,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94ec1cb8-f4a0-11ef-8746-0242ac130004",
+                "name": "hungry hippos",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
