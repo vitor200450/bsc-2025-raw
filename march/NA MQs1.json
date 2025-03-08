@@ -18760,18 +18760,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "169531ac-f607-11ef-a7e6-0242ac130004",
                 "name": "XERCS",
-                "seed": 492
+                "seed": 492,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "42caf1e4-f715-11ef-b781-0242ac130004",
                 "name": "ELTS Sports",
-                "seed": 533
+                "seed": 533,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "169531ac-f607-11ef-a7e6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42caf1e4-f715-11ef-b781-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "169531ac-f607-11ef-a7e6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42caf1e4-f715-11ef-b781-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 243,
@@ -19301,18 +19336,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fffe4138-f898-11ef-827f-0242ac130004",
                 "name": "Chopped Uncs",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6f54f378-f647-11ef-b696-0242ac130004",
                 "name": "Kumbia Kings",
-                "seed": 684
+                "seed": 684,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6f54f378-f647-11ef-b696-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f54f378-f647-11ef-b696-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f54f378-f647-11ef-b696-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 257,
@@ -22512,7 +22597,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d81a536-f9ef-11ef-aabc-e2e3b1699cf4",
                 "name": "RC Gaming",
@@ -22521,7 +22606,8 @@
             "opponent2": {
                 "id": "74d067e0-f63f-11ef-85af-0242ac130004",
                 "name": "NEJ|Gaming",
-                "seed": 650
+                "seed": 650,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -30110,7 +30196,9 @@
                 "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "42caf1e4-f715-11ef-b781-0242ac130004",
+                "name": "ELTS Sports",
+                "seed": 533
             },
             "match_games": []
         },
@@ -31284,7 +31372,9 @@
                 "seed": 887
             },
             "opponent2": {
-                "id": null
+                "id": "1d81a536-f9ef-11ef-aabc-e2e3b1699cf4",
+                "name": "RC Gaming",
+                "seed": 375
             },
             "match_games": []
         },
