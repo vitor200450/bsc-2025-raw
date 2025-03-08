@@ -48817,18 +48817,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9af5ad90-f4a0-11ef-9d45-0242ac130004",
                 "name": "New Meta",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9e57d1e-fb7f-11ef-8185-9a0ff4312ea5",
                 "name": "BS|Bad Stars",
-                "seed": 409
+                "seed": 409,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9af5ad90-f4a0-11ef-9d45-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9e57d1e-fb7f-11ef-8185-9a0ff4312ea5",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9af5ad90-f4a0-11ef-9d45-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9e57d1e-fb7f-11ef-8185-9a0ff4312ea5",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 908,
@@ -50372,7 +50407,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9af5ad90-f4a0-11ef-9d45-0242ac130004",
+                "name": "New Meta",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
