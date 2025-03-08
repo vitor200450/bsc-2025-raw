@@ -43265,18 +43265,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
                 "name": "Storm Breaks",
-                "seed": 381
+                "seed": 381,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
                 "name": "Pitchulas",
-                "seed": 61
+                "seed": 61,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "d265a230-f5e5-11ef-9c79-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 970,
@@ -44101,7 +44136,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                "name": "Pitchulas",
+                "seed": 61
             },
             "opponent2": {
                 "id": null
