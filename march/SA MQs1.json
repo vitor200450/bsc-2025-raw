@@ -23428,18 +23428,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9360f282-f4a1-11ef-807f-0242ac130004",
                 "name": "Censored Sports",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
                 "name": "RDC",
-                "seed": 520
+                "seed": 520,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 546,
@@ -25013,18 +25048,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fda1490-f4a1-11ef-91e2-0242ac130004",
                 "name": "GOT|Gods Of Thunders",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d57be480-f81e-11ef-9dde-0242ac130004",
                 "name": "SASUDOCARATOBRADO",
-                "seed": 613
+                "seed": 613,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8fda1490-f4a1-11ef-91e2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d57be480-f81e-11ef-9dde-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8fda1490-f4a1-11ef-91e2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d57be480-f81e-11ef-9dde-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 620,
@@ -28306,7 +28376,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                "name": "Censored Sports",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -28904,7 +28976,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8fda1490-f4a1-11ef-91e2-0242ac130004",
+                "name": "GOT|Gods Of Thunders",
+                "seed": 101
             },
             "opponent2": {
                 "id": null
