@@ -49687,18 +49687,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d993742-f4a0-11ef-8244-0242ac130004",
                 "name": "Draft 4 Me",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
                 "name": "The Shađøws",
-                "seed": 143
+                "seed": 143,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c71a3d6-f4a0-11ef-8b5e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 934,
@@ -49727,18 +49762,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "940bee9a-f4a0-11ef-8afe-0242ac130004",
                 "name": "Crow’s Nest Esport",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c9be8ae2-f640-11ef-89c2-0242ac130004",
                 "name": "Sigma boys",
-                "seed": 658
+                "seed": 658,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "940bee9a-f4a0-11ef-8afe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9be8ae2-f640-11ef-89c2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "940bee9a-f4a0-11ef-8afe-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9be8ae2-f640-11ef-89c2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 936,
@@ -50699,7 +50769,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                "name": "Draft 4 Me",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
@@ -50715,7 +50787,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "940bee9a-f4a0-11ef-8afe-0242ac130004",
+                "name": "Crow’s Nest Esport",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
