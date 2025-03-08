@@ -44133,18 +44133,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c4fb26c-f4a0-11ef-8418-0242ac130004",
                 "name": "Cabritos",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "527ee870-fae9-11ef-8359-eeb4a9f72fed",
                 "name": "Tilinesios",
-                "seed": 229
+                "seed": 229,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "9c4fb26c-f4a0-11ef-8418-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "527ee870-fae9-11ef-8359-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9c4fb26c-f4a0-11ef-8418-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "527ee870-fae9-11ef-8359-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9c4fb26c-f4a0-11ef-8418-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "527ee870-fae9-11ef-8359-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -47544,18 +47594,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c4d8a8c-f4a0-11ef-af29-0242ac130004",
                 "name": "M&L",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
                 "name": "Zenith Nexu's",
-                "seed": 742
+                "seed": 742,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "9c4d8a8c-f4a0-11ef-af29-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9c4d8a8c-f4a0-11ef-af29-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "9c4d8a8c-f4a0-11ef-af29-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 886,
@@ -48628,10 +48728,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9c4fb26c-f4a0-11ef-8418-0242ac130004",
+                "name": "Cabritos",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "9d11eeae-f4a0-11ef-b46d-0242ac130004",
+                "name": "Itagui",
+                "seed": 156
             },
             "match_games": []
         },
@@ -49252,10 +49356,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                "name": "Zenith Nexu's",
+                "seed": 742
             },
             "opponent2": {
-                "id": null
+                "id": "ae856864-fb85-11ef-83dd-cad3049b8d7e",
+                "name": "Griffith Legion",
+                "seed": 411
             },
             "match_games": []
         },
