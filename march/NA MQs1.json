@@ -53025,18 +53025,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
                 "name": "Master of caos",
-                "seed": 926
+                "seed": 926,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
                 "name": "Zunters",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 987,
