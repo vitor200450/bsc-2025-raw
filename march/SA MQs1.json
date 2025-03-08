@@ -23204,7 +23204,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e9cb3bc-f4a1-11ef-9f55-0242ac130004",
                 "name": "Los castores",
@@ -23213,7 +23213,8 @@
             "opponent2": {
                 "id": "7d02b2b6-fadf-11ef-9bf7-e2e3b1699cf4",
                 "name": "Vicuñas Tácticas",
-                "seed": 353
+                "seed": 353,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -23245,18 +23246,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "886cfea0-f714-11ef-a93b-0242ac130004",
                 "name": "Radius Stellar",
-                "seed": 224
+                "seed": 224,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e0123dfa-f7cd-11ef-b28e-0242ac130004",
                 "name": "Sale brawl",
-                "seed": 289
+                "seed": 289,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "886cfea0-f714-11ef-a93b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0123dfa-f7cd-11ef-b28e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "886cfea0-f714-11ef-a93b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e0123dfa-f7cd-11ef-b28e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "886cfea0-f714-11ef-a93b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e0123dfa-f7cd-11ef-b28e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 527,
@@ -32676,7 +32727,9 @@
                 "seed": 97
             },
             "opponent2": {
-                "id": null
+                "id": "8e9cb3bc-f4a1-11ef-9f55-0242ac130004",
+                "name": "Los castores",
+                "seed": 160
             },
             "match_games": []
         },
@@ -32694,7 +32747,9 @@
                 "seed": 480
             },
             "opponent2": {
-                "id": null
+                "id": "e0123dfa-f7cd-11ef-b28e-0242ac130004",
+                "name": "Sale brawl",
+                "seed": 289
             },
             "match_games": []
         },
