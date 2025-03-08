@@ -77703,18 +77703,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c458ba52-f49f-11ef-a27b-0242ac130004",
                 "name": "KYK | KRAKEN",
-                "seed": 249
+                "seed": 249,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d366eb8-fb9b-11ef-952f-eea5cc63de15",
                 "name": "BLOB",
-                "seed": 2297
+                "seed": 2297,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c458ba52-f49f-11ef-a27b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d366eb8-fb9b-11ef-952f-eea5cc63de15",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c458ba52-f49f-11ef-a27b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8d366eb8-fb9b-11ef-952f-eea5cc63de15",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c458ba52-f49f-11ef-a27b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d366eb8-fb9b-11ef-952f-eea5cc63de15",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2182,
@@ -110700,10 +110750,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8d366eb8-fb9b-11ef-952f-eea5cc63de15",
+                "name": "BLOB",
+                "seed": 2297
             },
             "opponent2": {
-                "id": null
+                "id": "fcf9bed0-f6aa-11ef-98dc-0242ac130004",
+                "name": "VGTA",
+                "seed": 1273
             },
             "match_games": []
         },
