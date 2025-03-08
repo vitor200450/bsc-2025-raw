@@ -36659,18 +36659,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c0ce69a4-f6cf-11ef-aec6-0242ac130004",
                 "name": "ZBC |Gaming",
-                "seed": 1720
+                "seed": 1720,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4c0b13ae-f69a-11ef-9ab3-0242ac130004",
                 "name": "Granchiavatori",
-                "seed": 2377
+                "seed": 2377,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c0ce69a4-f6cf-11ef-aec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c0b13ae-f69a-11ef-9ab3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c0ce69a4-f6cf-11ef-aec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c0b13ae-f69a-11ef-9ab3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 447,
@@ -73842,7 +73877,9 @@
                 "seed": 329
             },
             "opponent2": {
-                "id": null
+                "id": "c0ce69a4-f6cf-11ef-aec6-0242ac130004",
+                "name": "ZBC |Gaming",
+                "seed": 1720
             },
             "match_games": []
         },
