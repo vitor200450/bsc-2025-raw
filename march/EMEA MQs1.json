@@ -55851,18 +55851,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae541aee-f6e3-11ef-8a41-0242ac130004",
                 "name": "Chartreux 2024",
-                "seed": 1639
+                "seed": 1639,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "700b41e2-f5ce-11ef-a0aa-0242ac130004",
                 "name": "SMG",
-                "seed": 2458
+                "seed": 2458,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ae541aee-f6e3-11ef-8a41-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "700b41e2-f5ce-11ef-a0aa-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ae541aee-f6e3-11ef-8a41-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "700b41e2-f5ce-11ef-a0aa-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1367,
@@ -56561,18 +56596,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b39a4126-f932-11ef-aced-0242ac130005",
                 "name": "ULTIMATE ESPAÑA",
-                "seed": 1626
+                "seed": 1626,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3953f650-f60d-11ef-9965-0242ac130004",
                 "name": "AZ Gaming",
-                "seed": 2471
+                "seed": 2471,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b39a4126-f932-11ef-aced-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3953f650-f60d-11ef-9965-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b39a4126-f932-11ef-aced-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3953f650-f60d-11ef-9965-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1399,
@@ -61565,18 +61635,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb05dc8e-f618-11ef-b93c-0242ac130004",
                 "name": "FRANQUISPECIUJIS",
-                "seed": 1827
+                "seed": 1827,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fe2239aa-f7a3-11ef-9e38-0242ac130004",
                 "name": "Salzgurken-Truppe",
-                "seed": 2270
+                "seed": 2270,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cb05dc8e-f618-11ef-b93c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fe2239aa-f7a3-11ef-9e38-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "cb05dc8e-f618-11ef-b93c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fe2239aa-f7a3-11ef-9e38-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1643,
@@ -83045,7 +83150,9 @@
                 "seed": 410
             },
             "opponent2": {
-                "id": null
+                "id": "700b41e2-f5ce-11ef-a0aa-0242ac130004",
+                "name": "SMG",
+                "seed": 2458
             },
             "match_games": []
         },
@@ -83359,7 +83466,9 @@
                 "seed": 423
             },
             "opponent2": {
-                "id": null
+                "id": "b39a4126-f932-11ef-aced-0242ac130005",
+                "name": "ULTIMATE ESPAÑA",
+                "seed": 1626
             },
             "match_games": []
         },
@@ -85735,7 +85844,9 @@
                 "seed": 222
             },
             "opponent2": {
-                "id": null
+                "id": "fe2239aa-f7a3-11ef-9e38-0242ac130004",
+                "name": "Salzgurken-Truppe",
+                "seed": 2270
             },
             "match_games": []
         },
