@@ -52170,18 +52170,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf980174-f960-11ef-94a0-0242ac130005",
                 "name": "weenie warriors",
-                "seed": 749
+                "seed": 749,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
                 "name": "Yoshinoya gyudon",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 973,
@@ -52635,18 +52670,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae856864-fb85-11ef-83dd-cad3049b8d7e",
                 "name": "Griffith Legion",
-                "seed": 411
+                "seed": 411,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
                 "name": "GOON GANG",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "ae856864-fb85-11ef-83dd-cad3049b8d7e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "ae856864-fb85-11ef-83dd-cad3049b8d7e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 991,
