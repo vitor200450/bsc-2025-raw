@@ -9995,18 +9995,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8a34b588-f6bb-11ef-9516-0242ac130004",
                 "name": "Los good randoms🥵",
-                "seed": 401
+                "seed": 401,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74ad91c0-f62b-11ef-a2d8-0242ac130004",
                 "name": "Trivium",
-                "seed": 624
+                "seed": 624,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8a34b588-f6bb-11ef-9516-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74ad91c0-f62b-11ef-a2d8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8a34b588-f6bb-11ef-9516-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74ad91c0-f62b-11ef-a2d8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8a34b588-f6bb-11ef-9516-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74ad91c0-f62b-11ef-a2d8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 55,
@@ -22995,7 +23045,9 @@
                 "seed": 112
             },
             "opponent2": {
-                "id": null
+                "id": "8a34b588-f6bb-11ef-9516-0242ac130004",
+                "name": "Los good randoms🥵",
+                "seed": 401
             },
             "match_games": []
         },
