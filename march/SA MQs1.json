@@ -9983,18 +9983,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "577d2bf4-f885-11ef-8db0-0242ac130004",
                 "name": "Pajarones",
-                "seed": 313
+                "seed": 313,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fddbef38-f64d-11ef-8ec2-0242ac130004",
                 "name": "Meia Boca Juniors",
-                "seed": 712
+                "seed": 712,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "577d2bf4-f885-11ef-8db0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fddbef38-f64d-11ef-8ec2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "577d2bf4-f885-11ef-8db0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fddbef38-f64d-11ef-8ec2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 77,
@@ -18622,7 +18657,9 @@
                 "seed": 200
             },
             "opponent2": {
-                "id": null
+                "id": "fddbef38-f64d-11ef-8ec2-0242ac130004",
+                "name": "Meia Boca Juniors",
+                "seed": 712
             },
             "match_games": []
         },
