@@ -66997,18 +66997,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "592f75f0-f61a-11ef-bfa3-0242ac130004",
                 "name": "Nova Force",
-                "seed": 1838
+                "seed": 1838,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "800c82b0-f4f5-11ef-94dd-0242ac130004",
                 "name": "TRINITY GAMING",
-                "seed": 2259
+                "seed": 2259,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "592f75f0-f61a-11ef-bfa3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "800c82b0-f4f5-11ef-94dd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "592f75f0-f61a-11ef-bfa3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "800c82b0-f4f5-11ef-94dd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1771,
@@ -90624,7 +90659,9 @@
                 "seed": 211
             },
             "opponent2": {
-                "id": null
+                "id": "800c82b0-f4f5-11ef-94dd-0242ac130004",
+                "name": "TRINITY GAMING",
+                "seed": 2259
             },
             "match_games": []
         },
