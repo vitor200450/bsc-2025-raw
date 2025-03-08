@@ -11165,18 +11165,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d44b5cd4-f919-11ef-934d-0242ac130005",
                 "name": "4K",
-                "seed": 353
+                "seed": 353,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
                 "name": "MSJ",
-                "seed": 672
+                "seed": 672,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d44b5cd4-f919-11ef-934d-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d44b5cd4-f919-11ef-934d-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -19556,18 +19591,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
                 "name": "Stellaron Hunters",
-                "seed": 319
+                "seed": 319,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5786c922-f649-11ef-a749-0242ac130004",
                 "name": "OT|SuperGang",
-                "seed": 706
+                "seed": 706,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5786c922-f649-11ef-a749-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5786c922-f649-11ef-a749-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 269,
@@ -20046,18 +20116,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "02456a8e-f7c7-11ef-9058-0242ac130004",
                 "name": "Apexyôn Gaming  NA",
-                "seed": 290
+                "seed": 290,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bdc913b2-f94a-11ef-a66c-0242ac130005",
                 "name": "ADH",
-                "seed": 735
+                "seed": 735,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "02456a8e-f7c7-11ef-9058-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bdc913b2-f94a-11ef-a66c-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "02456a8e-f7c7-11ef-9058-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdc913b2-f94a-11ef-a66c-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "02456a8e-f7c7-11ef-9058-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bdc913b2-f94a-11ef-a66c-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 285,
@@ -27822,7 +27942,9 @@
                 "seed": 865
             },
             "opponent2": {
-                "id": null
+                "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
+                "name": "MSJ",
+                "seed": 672
             },
             "match_games": []
         },
@@ -30126,7 +30248,9 @@
                 "seed": 853
             },
             "opponent2": {
-                "id": null
+                "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                "name": "Chopped Uncs",
+                "seed": 341
             },
             "match_games": []
         },
@@ -30244,7 +30368,9 @@
                 "seed": 194
             },
             "opponent2": {
-                "id": null
+                "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                "name": "Stellaron Hunters",
+                "seed": 319
             },
             "match_games": []
         },
@@ -30402,7 +30528,9 @@
                 "seed": 223
             },
             "opponent2": {
-                "id": null
+                "id": "bdc913b2-f94a-11ef-a66c-0242ac130005",
+                "name": "ADH",
+                "seed": 735
             },
             "match_games": []
         },
