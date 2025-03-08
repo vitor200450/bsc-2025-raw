@@ -113158,18 +113158,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df4f64ae-f860-11ef-bd4e-0242ac130004",
                 "name": "Ananastortilla",
-                "seed": 1805
+                "seed": 1805,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e70f2410-f74b-11ef-ac06-0242ac130004",
                 "name": "ejl",
-                "seed": 781
+                "seed": 781,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "df4f64ae-f860-11ef-bd4e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e70f2410-f74b-11ef-ac06-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "df4f64ae-f860-11ef-bd4e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e70f2410-f74b-11ef-ac06-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3236,
@@ -118448,18 +118483,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c0e5a97a-f49f-11ef-9ab4-0242ac130004",
                 "name": "LuxAeterna EE",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4624818e-fbf2-11ef-b536-46647c8a1311",
                 "name": "Balkan",
-                "seed": 1038
+                "seed": 1038,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "c0e5a97a-f49f-11ef-9ab4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4624818e-fbf2-11ef-b536-46647c8a1311",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c0e5a97a-f49f-11ef-9ab4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4624818e-fbf2-11ef-b536-46647c8a1311",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3490,
@@ -118948,18 +119018,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "49bf3ea0-fa72-11ef-a506-e2e3b1699cf4",
                 "name": "couillasses",
-                "seed": 467
+                "seed": 467,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "33b39de2-f868-11ef-894f-0242ac130004",
                 "name": "F/A HankGyatt",
-                "seed": 1491
+                "seed": 1491,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "49bf3ea0-fa72-11ef-a506-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33b39de2-f868-11ef-894f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "49bf3ea0-fa72-11ef-a506-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "33b39de2-f868-11ef-894f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3515,
@@ -121703,7 +121808,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "df4f64ae-f860-11ef-bd4e-0242ac130004",
+                "name": "Ananastortilla",
+                "seed": 1805
             },
             "opponent2": {
                 "id": null
@@ -123741,7 +123848,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c0e5a97a-f49f-11ef-9ab4-0242ac130004",
+                "name": "LuxAeterna EE",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
