@@ -44469,18 +44469,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0bce0acc-f617-11ef-b172-0242ac130004",
                 "name": "MAR",
-                "seed": 534
+                "seed": 534,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
                 "name": "Nxr Killers",
-                "seed": 683
+                "seed": 683,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "0bce0acc-f617-11ef-b172-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0bce0acc-f617-11ef-b172-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0bce0acc-f617-11ef-b172-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 993,
@@ -44786,7 +44836,9 @@
                 "seed": 459
             },
             "opponent2": {
-                "id": null
+                "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                "name": "Nxr Killers",
+                "seed": 683
             },
             "match_games": []
         }
