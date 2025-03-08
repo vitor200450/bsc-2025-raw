@@ -3071,18 +3071,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
                 "name": "TSM",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b90b7994-f703-11ef-8f54-0242ac130004",
                 "name": "SPILLING BLOOD",
-                "seed": 132
+                "seed": 132,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b90b7994-f703-11ef-8f54-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b90b7994-f703-11ef-8f54-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -5585,7 +5620,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                "name": "TSM",
+                "seed": 125
             },
             "match_games": []
         },
