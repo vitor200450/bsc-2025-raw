@@ -33661,18 +33661,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "84586c58-f6a8-11ef-82cf-0242ac130004",
                 "name": "SHAZAMM",
-                "seed": 385
+                "seed": 385,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "39411000-f881-11ef-ad4c-0242ac130004",
                 "name": "MMT",
-                "seed": 641
+                "seed": 641,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "84586c58-f6a8-11ef-82cf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39411000-f881-11ef-ad4c-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "84586c58-f6a8-11ef-82cf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39411000-f881-11ef-ad4c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 771,
@@ -35436,18 +35471,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e5593b0-f4a1-11ef-affe-0242ac130004",
                 "name": "FIG",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
                 "name": "7pk2",
-                "seed": 277
+                "seed": 277,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8e5593b0-f4a1-11ef-affe-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8e5593b0-f4a1-11ef-affe-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 830,
@@ -37888,7 +37958,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "84586c58-f6a8-11ef-82cf-0242ac130004",
+                "name": "SHAZAMM",
+                "seed": 385
             },
             "match_games": []
         },
@@ -38383,10 +38455,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
+                "name": "7pk2",
+                "seed": 277
             },
             "opponent2": {
-                "id": null
+                "id": "8fe11c18-f4a1-11ef-b274-0242ac130004",
+                "name": "MANGOMANGO",
+                "seed": 149
             },
             "match_games": []
         },
