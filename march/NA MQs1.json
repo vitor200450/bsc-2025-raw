@@ -37795,7 +37795,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c2b65c2c-f6c5-11ef-a019-0242ac130004",
                 "name": "Klv team",
@@ -37804,7 +37804,8 @@
             "opponent2": {
                 "id": "3f7b3eb4-f5f2-11ef-b835-0242ac130004",
                 "name": "GT ESPORTS",
-                "seed": 362
+                "seed": 362,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -43224,7 +43225,9 @@
                 "seed": 106
             },
             "opponent2": {
-                "id": null
+                "id": "c2b65c2c-f6c5-11ef-a019-0242ac130004",
+                "name": "Klv team",
+                "seed": 874
             },
             "match_games": []
         },
