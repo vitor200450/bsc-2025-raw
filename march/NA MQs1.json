@@ -25088,7 +25088,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
                 "name": "BRAWL4ALL",
@@ -25097,7 +25097,8 @@
             "opponent2": {
                 "id": "e05e1bfe-f736-11ef-a323-0242ac130004",
                 "name": "Tottenham FC",
-                "seed": 563
+                "seed": 563,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -32648,7 +32649,9 @@
                 "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
+                "name": "BRAWL4ALL",
+                "seed": 462
             },
             "match_games": []
         },
