@@ -29464,18 +29464,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "967cf340-f4a0-11ef-809a-0242ac130004",
                 "name": "Axolotl Warriors",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "121b89f0-f60c-11ef-a787-0242ac130004",
                 "name": "WARRIORS",
-                "seed": 504
+                "seed": 504,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "967cf340-f4a0-11ef-809a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "121b89f0-f60c-11ef-a787-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "967cf340-f4a0-11ef-809a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "121b89f0-f60c-11ef-a787-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 562,
@@ -29769,18 +29804,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b9059fe2-f6db-11ef-8add-0242ac130004",
                 "name": "Conflict",
-                "seed": 920
+                "seed": 920,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a195595e-f7b4-11ef-8953-0242ac130004",
                 "name": "OldGeezers",
-                "seed": 617
+                "seed": 617,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b9059fe2-f6db-11ef-8add-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b9059fe2-f6db-11ef-8add-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 572,
@@ -30049,18 +30119,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
                 "name": "Stanley Steemers",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f75a7fde-f71b-11ef-aa76-0242ac130004",
                 "name": "ST",
-                "seed": 541
+                "seed": 541,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f75a7fde-f71b-11ef-aa76-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f75a7fde-f71b-11ef-aa76-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 586,
@@ -34325,7 +34430,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "967cf340-f4a0-11ef-809a-0242ac130004",
+                "name": "Axolotl Warriors",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
@@ -34409,7 +34516,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b9059fe2-f6db-11ef-8add-0242ac130004",
+                "name": "Conflict",
+                "seed": 920
             },
             "opponent2": {
                 "id": null
@@ -34521,7 +34630,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                "name": "Stanley Steemers",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
