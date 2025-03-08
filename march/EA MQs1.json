@@ -10918,18 +10918,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5de97838-f49f-11ef-a480-0242ac130004",
                 "name": "おゆ♪",
-                "seed": 27
+                "seed": 27,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
                 "name": "NANRYU",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5de97838-f49f-11ef-a480-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 223,
@@ -11335,7 +11385,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                "name": "NANRYU",
+                "seed": 91
             },
             "match_games": []
         },
