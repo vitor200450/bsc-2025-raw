@@ -48537,18 +48537,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d35ce6a2-f5ff-11ef-87b6-0242ac130004",
                 "name": "Vortex Esports",
-                "seed": 480
+                "seed": 480,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9a066910-f4a0-11ef-a388-0242ac130004",
                 "name": "Chambeadores NA",
-                "seed": 96
+                "seed": 96,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d35ce6a2-f5ff-11ef-87b6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9a066910-f4a0-11ef-a388-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d35ce6a2-f5ff-11ef-87b6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9a066910-f4a0-11ef-a388-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 901,
@@ -49737,18 +49772,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d2145c0-f4a0-11ef-b878-0242ac130004",
                 "name": "FEW OAK",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e598364e-fc3c-11ef-a29a-86add74810e0",
                 "name": "Illegals United",
-                "seed": 939
+                "seed": 939,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9d2145c0-f4a0-11ef-b878-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e598364e-fc3c-11ef-a29a-86add74810e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9d2145c0-f4a0-11ef-b878-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e598364e-fc3c-11ef-a29a-86add74810e0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 961,
