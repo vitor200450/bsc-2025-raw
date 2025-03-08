@@ -18470,18 +18470,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
                 "name": "TeamAlpaca🥵",
-                "seed": 298
+                "seed": 298,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3d05b06-faf8-11ef-8253-eeb4a9f72fed",
                 "name": "Los chanchitos 🐷",
-                "seed": 727
+                "seed": 727,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3d05b06-faf8-11ef-8253-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e3d05b06-faf8-11ef-8253-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3d05b06-faf8-11ef-8253-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 381,
@@ -25931,7 +25981,9 @@
                 "seed": 215
             },
             "opponent2": {
-                "id": null
+                "id": "518aa938-f6b9-11ef-aa6d-0242ac130004",
+                "name": "TeamAlpaca🥵",
+                "seed": 298
             },
             "match_games": []
         },
