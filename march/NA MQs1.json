@@ -34990,18 +34990,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94468672-f4a0-11ef-aa0e-0242ac130004",
                 "name": "🎃CSW🛜| 🛜WIFI🎃🔥",
-                "seed": 194
+                "seed": 194,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
                 "name": "Stellaron Hunters",
-                "seed": 319
+                "seed": 319,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94468672-f4a0-11ef-aa0e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94468672-f4a0-11ef-aa0e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "94468672-f4a0-11ef-aa0e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 647,
@@ -42446,7 +42496,9 @@
                 "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
+                "name": "Stellaron Hunters",
+                "seed": 319
             },
             "match_games": []
         },
