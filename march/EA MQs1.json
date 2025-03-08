@@ -9267,18 +9267,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd490046-f4a2-11ef-acaf-0242ac130004",
                 "name": "No Organization Team",
-                "seed": 1
+                "seed": 1,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e186be0c-fa0e-11ef-818b-eeb4a9f72fed",
                 "name": "いしだまんじかい",
-                "seed": 193
+                "seed": 193,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "dd490046-f4a2-11ef-acaf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e186be0c-fa0e-11ef-818b-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "dd490046-f4a2-11ef-acaf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e186be0c-fa0e-11ef-818b-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 194,
@@ -10574,10 +10609,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd490046-f4a2-11ef-acaf-0242ac130004",
+                "name": "No Organization Team",
+                "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                "name": "昱翔team",
+                "seed": 32
             },
             "match_games": []
         },
