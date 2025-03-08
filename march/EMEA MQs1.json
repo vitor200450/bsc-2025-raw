@@ -46088,18 +46088,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de1020d2-f6e5-11ef-ad95-0242ac130004",
                 "name": "Patron_Bandery",
-                "seed": 1948
+                "seed": 1948,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "36c6723a-f6af-11ef-8358-0242ac130004",
                 "name": "GE|ESPORTS",
-                "seed": 2149
+                "seed": 2149,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "de1020d2-f6e5-11ef-ad95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36c6723a-f6af-11ef-8358-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "de1020d2-f6e5-11ef-ad95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36c6723a-f6af-11ef-8358-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 851,
@@ -81028,7 +81063,9 @@
                 "seed": 101
             },
             "opponent2": {
-                "id": null
+                "id": "de1020d2-f6e5-11ef-ad95-0242ac130004",
+                "name": "Patron_Bandery",
+                "seed": 1948
             },
             "match_games": []
         },
