@@ -63471,18 +63471,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c7e707a-f5c4-11ef-8056-0242ac130004",
                 "name": "Osilux",
-                "seed": 1902
+                "seed": 1902,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9c66cc18-f5bd-11ef-9742-0242ac130004",
                 "name": "THR3AT",
-                "seed": 2195
+                "seed": 2195,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7c7e707a-f5c4-11ef-8056-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c66cc18-f5bd-11ef-9742-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7c7e707a-f5c4-11ef-8056-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9c66cc18-f5bd-11ef-9742-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1755,
@@ -67919,18 +67954,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
                 "name": "Frisbee stars",
-                "seed": 1867
+                "seed": 1867,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5b34f5b0-f5e7-11ef-bb00-0242ac130004",
                 "name": "RTF|Esports",
-                "seed": 2230
+                "seed": 2230,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5b34f5b0-f5e7-11ef-bb00-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b34f5b0-f5e7-11ef-bb00-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5b34f5b0-f5e7-11ef-bb00-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1979,
@@ -86347,7 +86432,9 @@
                 "seed": 147
             },
             "opponent2": {
-                "id": null
+                "id": "7c7e707a-f5c4-11ef-8056-0242ac130004",
+                "name": "Osilux",
+                "seed": 1902
             },
             "match_games": []
         },
@@ -88521,7 +88608,9 @@
                 "seed": 182
             },
             "opponent2": {
-                "id": null
+                "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                "name": "Frisbee stars",
+                "seed": 1867
             },
             "match_games": []
         },
