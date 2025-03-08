@@ -16241,18 +16241,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
                 "name": "Dream team",
-                "seed": 311
+                "seed": 311,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "93c45436-f64e-11ef-9043-0242ac130004",
                 "name": "S I G M A",
-                "seed": 714
+                "seed": 714,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93c45436-f64e-11ef-9043-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93c45436-f64e-11ef-9043-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 365,
@@ -18221,18 +18256,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "71d974f8-f600-11ef-81cf-0242ac130004",
                 "name": "GDL",
-                "seed": 454
+                "seed": 454,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ec88c6c6-f7a5-11ef-9886-0242ac130004",
                 "name": "SKY FALL",
-                "seed": 571
+                "seed": 571,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "71d974f8-f600-11ef-81cf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ec88c6c6-f7a5-11ef-9886-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "71d974f8-f600-11ef-81cf-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ec88c6c6-f7a5-11ef-9886-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 459,
@@ -19080,18 +19150,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8bf1a892-f961-11ef-a57d-0242ac130005",
                 "name": "OS INCRÍVEIS",
-                "seed": 331
+                "seed": 331,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5577669a-f640-11ef-b075-0242ac130004",
                 "name": "OMEGA 3  Prime🔥",
-                "seed": 694
+                "seed": 694,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8bf1a892-f961-11ef-a57d-0242ac130005",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5577669a-f640-11ef-b075-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8bf1a892-f961-11ef-a57d-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5577669a-f640-11ef-b075-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 497,
@@ -22767,7 +22872,9 @@
                 "seed": 202
             },
             "opponent2": {
-                "id": null
+                "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                "name": "Dream team",
+                "seed": 311
             },
             "match_games": []
         },
@@ -23625,7 +23732,9 @@
                 "seed": 59
             },
             "opponent2": {
-                "id": null
+                "id": "ec88c6c6-f7a5-11ef-9886-0242ac130004",
+                "name": "SKY FALL",
+                "seed": 571
             },
             "match_games": []
         },
@@ -23977,7 +24086,9 @@
                 "seed": 182
             },
             "opponent2": {
-                "id": null
+                "id": "5577669a-f640-11ef-b075-0242ac130004",
+                "name": "OMEGA 3  Prime🔥",
+                "seed": 694
             },
             "match_games": []
         },
