@@ -29174,18 +29174,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
                 "name": "Tartarus",
-                "seed": 177
+                "seed": 177,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b791e61c-f879-11ef-aa37-0242ac130004",
                 "name": "Washed Randoms",
-                "seed": 689
+                "seed": 689,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b791e61c-f879-11ef-aa37-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f45083fe-f93e-11ef-88f9-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b791e61c-f879-11ef-aa37-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 537,
@@ -35120,18 +35155,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9789a7b0-f4a0-11ef-99d8-0242ac130004",
                 "name": "Toon Squad",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ec23586c-f625-11ef-8fa6-0242ac130004",
                 "name": "Hypnotic Skunks",
-                "seed": 574
+                "seed": 574,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9789a7b0-f4a0-11ef-99d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec23586c-f625-11ef-8fa6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9789a7b0-f4a0-11ef-99d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec23586c-f625-11ef-8fa6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 710,
@@ -38733,7 +38803,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9789a7b0-f4a0-11ef-99d8-0242ac130004",
+                "name": "Toon Squad",
+                "seed": 62
             },
             "opponent2": {
                 "id": null
