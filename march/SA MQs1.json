@@ -25698,18 +25698,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c0225ea4-f777-11ef-ab4b-0242ac130004",
                 "name": "Gotple",
-                "seed": 236
+                "seed": 236,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
                 "name": "7pk2",
-                "seed": 277
+                "seed": 277,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c0225ea4-f777-11ef-ab4b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c0225ea4-f777-11ef-ab4b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "880e50b8-f7a4-11ef-bfbd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 635,
