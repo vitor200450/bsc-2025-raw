@@ -49342,18 +49342,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
                 "name": "NA OINKERS",
-                "seed": 261
+                "seed": 261,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
                 "name": "Eclipse",
-                "seed": 389
+                "seed": 389,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 922,
@@ -49457,18 +49492,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c7cbcee-f4a0-11ef-86e8-0242ac130004",
                 "name": "The Fellow Brawlers",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1bae8af6-f6d6-11ef-a5b0-0242ac130004",
                 "name": "Lag Spikes",
-                "seed": 908
+                "seed": 908,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9c7cbcee-f4a0-11ef-86e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1bae8af6-f6d6-11ef-a5b0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9c7cbcee-f4a0-11ef-86e8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1bae8af6-f6d6-11ef-a5b0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -50527,10 +50597,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                "name": "NA OINKERS",
+                "seed": 261
             },
             "opponent2": {
-                "id": null
+                "id": "96761aac-f4a0-11ef-8d36-0242ac130004",
+                "name": "AlmightyTilin",
+                "seed": 60
             },
             "match_games": []
         },
@@ -50559,7 +50633,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9c7cbcee-f4a0-11ef-86e8-0242ac130004",
+                "name": "The Fellow Brawlers",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
