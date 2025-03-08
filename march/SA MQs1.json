@@ -34360,18 +34360,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
                 "name": "DGM LEGENDS",
-                "seed": 72
+                "seed": 72,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8f348736-f6d2-11ef-87f4-0242ac130004",
                 "name": "GYM",
-                "seed": 328
+                "seed": 328,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f348736-f6d2-11ef-87f4-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8f348736-f6d2-11ef-87f4-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f348736-f6d2-11ef-87f4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 789,
@@ -35362,18 +35412,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec9b63ec-f6d0-11ef-9f3e-0242ac130004",
                 "name": "Black eagles",
-                "seed": 429
+                "seed": 429,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "26c7ee82-f780-11ef-92ab-0242ac130004",
                 "name": "12Wins",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "ec9b63ec-f6d0-11ef-9f3e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "26c7ee82-f780-11ef-92ab-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ec9b63ec-f6d0-11ef-9f3e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "26c7ee82-f780-11ef-92ab-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "ec9b63ec-f6d0-11ef-9f3e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "26c7ee82-f780-11ef-92ab-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 817,
@@ -39091,7 +39191,9 @@
                 "seed": 200
             },
             "opponent2": {
-                "id": null
+                "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                "name": "DGM LEGENDS",
+                "seed": 72
             },
             "match_games": []
         },
@@ -39357,7 +39459,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "26c7ee82-f780-11ef-92ab-0242ac130004",
+                "name": "12Wins",
+                "seed": 173
             },
             "match_games": []
         },
