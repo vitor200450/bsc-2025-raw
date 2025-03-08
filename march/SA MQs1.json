@@ -11427,18 +11427,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "eaa1687a-f7c5-11ef-99eb-0242ac130004",
                 "name": "TS | KEO ✓",
-                "seed": 285
+                "seed": 285,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "af6757ce-f65d-11ef-9275-0242ac130004",
                 "name": "Insanos golosos",
-                "seed": 740
+                "seed": 740,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "eaa1687a-f7c5-11ef-99eb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "af6757ce-f65d-11ef-9275-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "eaa1687a-f7c5-11ef-99eb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "af6757ce-f65d-11ef-9275-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 149,
@@ -12310,18 +12345,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b60807b0-f5b6-11ef-95d3-0242ac130004",
                 "name": "Unbeatables",
-                "seed": 252
+                "seed": 252,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "07b3c7dc-fbfe-11ef-b118-3e143f5f25d9",
                 "name": "The Boat",
-                "seed": 773
+                "seed": 773,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b60807b0-f5b6-11ef-95d3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07b3c7dc-fbfe-11ef-b118-3e143f5f25d9",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b60807b0-f5b6-11ef-95d3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "07b3c7dc-fbfe-11ef-b118-3e143f5f25d9",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 196,
@@ -19834,7 +19904,9 @@
                 "seed": 228
             },
             "opponent2": {
-                "id": null
+                "id": "af6757ce-f65d-11ef-9275-0242ac130004",
+                "name": "Insanos golosos",
+                "seed": 740
             },
             "match_games": []
         },
@@ -20263,7 +20335,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "07b3c7dc-fbfe-11ef-b118-3e143f5f25d9",
+                "name": "The Boat",
+                "seed": 773
             },
             "opponent2": {
                 "id": null
