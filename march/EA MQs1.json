@@ -11483,18 +11483,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd497e72-f4a2-11ef-91ec-0242ac130004",
                 "name": "Ace King",
-                "seed": 2
+                "seed": 2,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ddf01188-fb55-11ef-ad30-e2e3b1699cf4",
                 "name": "ORDER",
-                "seed": 95
+                "seed": 95,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "dd497e72-f4a2-11ef-91ec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ddf01188-fb55-11ef-ad30-e2e3b1699cf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd497e72-f4a2-11ef-91ec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ddf01188-fb55-11ef-ad30-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "dd497e72-f4a2-11ef-91ec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ddf01188-fb55-11ef-ad30-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 234,
