@@ -75321,18 +75321,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6d74f14-f49f-11ef-b290-0242ac130004",
                 "name": "God's of Pivo",
-                "seed": 161
+                "seed": 161,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c4f3b71e-f49f-11ef-a4d9-0242ac130004",
                 "name": "GGT",
-                "seed": 2209
+                "seed": 2209,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c6d74f14-f49f-11ef-b290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4f3b71e-f49f-11ef-a4d9-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c6d74f14-f49f-11ef-b290-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4f3b71e-f49f-11ef-a4d9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2110,
@@ -110123,10 +110158,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c6d74f14-f49f-11ef-b290-0242ac130004",
+                "name": "God's of Pivo",
+                "seed": 161
             },
             "opponent2": {
-                "id": null
+                "id": "cf8bb662-f74d-11ef-881f-0242ac130004",
+                "name": "CADCodeM",
+                "seed": 1185
             },
             "match_games": []
         },
