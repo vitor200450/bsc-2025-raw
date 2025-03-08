@@ -29601,18 +29601,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
                 "name": "Monkey Squad",
-                "seed": 240
+                "seed": 240,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d7051a2c-f735-11ef-88e3-0242ac130004",
                 "name": "LMG Matics",
-                "seed": 273
+                "seed": 273,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7051a2c-f735-11ef-88e3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d7051a2c-f735-11ef-88e3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7051a2c-f735-11ef-88e3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 539,
@@ -32506,18 +32556,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9b454dbe-f4a0-11ef-9f33-0242ac130004",
                 "name": "COOKED",
-                "seed": 141
+                "seed": 141,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
                 "name": "Kastle Krashers",
-                "seed": 653
+                "seed": 653,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9b454dbe-f4a0-11ef-9f33-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9b454dbe-f4a0-11ef-9f33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9b454dbe-f4a0-11ef-9f33-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 597,
@@ -41174,7 +41274,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                "name": "Monkey Squad",
+                "seed": 240
             },
             "match_games": []
         },
@@ -41744,7 +41846,9 @@
                 "seed": 397
             },
             "opponent2": {
-                "id": null
+                "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                "name": "Kastle Krashers",
+                "seed": 653
             },
             "match_games": []
         },
