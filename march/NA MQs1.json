@@ -52830,18 +52830,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
                 "name": "ai",
-                "seed": 395
+                "seed": 395,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e9f4fbb4-fb97-11ef-b73b-12af1e6e5504",
                 "name": "💜",
-                "seed": 843
+                "seed": 843,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9f4fbb4-fb97-11ef-b73b-12af1e6e5504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e9f4fbb4-fb97-11ef-b73b-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 992,
@@ -53126,7 +53161,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0ed9cea6-faf2-11ef-af56-eeb4a9f72fed",
+                "name": "ai",
+                "seed": 395
             },
             "opponent2": {
                 "id": null
