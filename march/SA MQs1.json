@@ -10413,18 +10413,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "468ec694-fa2f-11ef-b948-eeb4a9f72fed",
                 "name": "PortalEsperanza",
-                "seed": 345
+                "seed": 345,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fa5d5aa8-f63a-11ef-86fd-0242ac130004",
                 "name": "Crazytoriz",
-                "seed": 680
+                "seed": 680,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "468ec694-fa2f-11ef-b948-eeb4a9f72fed",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fa5d5aa8-f63a-11ef-86fd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "468ec694-fa2f-11ef-b948-eeb4a9f72fed",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa5d5aa8-f63a-11ef-86fd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 97,
@@ -15251,18 +15286,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3dd33d52-f6e0-11ef-95ee-0242ac130004",
                 "name": "Banidos",
-                "seed": 346
+                "seed": 346,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "775f0604-f966-11ef-b9a4-0242ac130005",
                 "name": "Nova Titans",
-                "seed": 679
+                "seed": 679,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3dd33d52-f6e0-11ef-95ee-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "775f0604-f966-11ef-b9a4-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3dd33d52-f6e0-11ef-95ee-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "775f0604-f966-11ef-b9a4-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 353,
@@ -19121,7 +19191,9 @@
                 "seed": 168
             },
             "opponent2": {
-                "id": null
+                "id": "fa5d5aa8-f63a-11ef-86fd-0242ac130004",
+                "name": "Crazytoriz",
+                "seed": 680
             },
             "match_games": []
         },
@@ -21427,7 +21499,9 @@
                 "seed": 167
             },
             "opponent2": {
-                "id": null
+                "id": "775f0604-f966-11ef-b9a4-0242ac130005",
+                "name": "Nova Titans",
+                "seed": 679
             },
             "match_games": []
         },
