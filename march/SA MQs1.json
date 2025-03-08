@@ -34236,18 +34236,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
                 "name": "Churrisa",
-                "seed": 409
+                "seed": 409,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f3286484-f91f-11ef-ace5-0242ac130005",
                 "name": "Fênix",
-                "seed": 665
+                "seed": 665,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f3286484-f91f-11ef-ace5-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f3286484-f91f-11ef-ace5-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 791,
@@ -34396,18 +34431,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "483a5318-f83c-11ef-985f-0242ac130004",
                 "name": "Vanguard",
-                "seed": 617
+                "seed": 617,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
                 "name": "DJEMDJAIBRE_OFFICIAL",
-                "seed": 152
+                "seed": 152,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "483a5318-f83c-11ef-985f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "483a5318-f83c-11ef-985f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 799,
@@ -35946,18 +36016,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
                 "name": "Black Label",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
                 "name": "Kvalos",
-                "seed": 314
+                "seed": 314,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 852,
@@ -38009,7 +38114,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
+                "name": "Black Label",
+                "seed": 58
             },
             "opponent2": {
                 "id": null
