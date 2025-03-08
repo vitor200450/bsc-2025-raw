@@ -37673,18 +37673,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
                 "name": "Master of caos",
-                "seed": 926
+                "seed": 926,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a299450a-f6fa-11ef-97b5-0242ac130004",
                 "name": "Foam Rollers",
-                "seed": 414
+                "seed": 414,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a299450a-f6fa-11ef-97b5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a299450a-f6fa-11ef-97b5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a299450a-f6fa-11ef-97b5-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 716,
@@ -39453,18 +39503,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
                 "name": "GOON GANG",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b66056b6-f7a2-11ef-9825-0242ac130004",
                 "name": "D4RK FiRE",
-                "seed": 603
+                "seed": 603,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b66056b6-f7a2-11ef-9825-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b66056b6-f7a2-11ef-9825-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b66056b6-f7a2-11ef-9825-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 752,
@@ -42370,10 +42470,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8bc72268-f6df-11ef-be8b-0242ac130004",
+                "name": "Master of caos",
+                "seed": 926
             },
             "opponent2": {
-                "id": null
+                "id": "36bc360c-fbd3-11ef-b0fb-76f124d3cbde",
+                "name": "Three Mages",
+                "seed": 867
             },
             "match_games": []
         },
@@ -42718,10 +42822,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                "name": "GOON GANG",
+                "seed": 91
             },
             "opponent2": {
-                "id": null
+                "id": "959af04e-f4a0-11ef-9e6f-0242ac130004",
+                "name": "Oxsis",
+                "seed": 166
             },
             "match_games": []
         },
