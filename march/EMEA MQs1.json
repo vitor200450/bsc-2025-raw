@@ -50703,18 +50703,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "c6a0b5ca-f793-11ef-aa1e-0242ac130004",
                 "name": "FLEX",
-                "seed": 1767
+                "seed": 1767,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5a7b2336-f93b-11ef-82ce-0242ac130005",
                 "name": "Sentinels Classic",
-                "seed": 2330
+                "seed": 2330,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c6a0b5ca-f793-11ef-aa1e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5a7b2336-f93b-11ef-82ce-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c6a0b5ca-f793-11ef-aa1e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5a7b2336-f93b-11ef-82ce-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1359,
@@ -75410,7 +75445,9 @@
                 "seed": 282
             },
             "opponent2": {
-                "id": null
+                "id": "5a7b2336-f93b-11ef-82ce-0242ac130005",
+                "name": "Sentinels Classic",
+                "seed": 2330
             },
             "match_games": []
         },
