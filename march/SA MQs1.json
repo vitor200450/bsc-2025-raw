@@ -13990,18 +13990,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ab573b4-faac-11ef-a510-eeb4a9f72fed",
                 "name": "Tobi y sus amigos",
-                "seed": 351
+                "seed": 351,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "82ff4a98-f63a-11ef-b006-0242ac130004",
                 "name": "THE SHIELD",
-                "seed": 674
+                "seed": 674,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2ab573b4-faac-11ef-a510-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82ff4a98-f63a-11ef-b006-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2ab573b4-faac-11ef-a510-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "82ff4a98-f63a-11ef-b006-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 289,
@@ -20952,7 +20987,9 @@
                 "seed": 162
             },
             "opponent2": {
-                "id": null
+                "id": "2ab573b4-faac-11ef-a510-eeb4a9f72fed",
+                "name": "Tobi y sus amigos",
+                "seed": 351
             },
             "match_games": []
         },
