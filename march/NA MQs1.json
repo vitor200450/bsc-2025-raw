@@ -52270,18 +52270,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
                 "name": "Stanley Steemers",
-                "seed": 29
+                "seed": 29,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
                 "name": "Code Chuchi",
-                "seed": 349
+                "seed": 349,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "9c9034c2-f4a0-11ef-bf2a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 971,
@@ -53510,7 +53560,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "7201a6b2-f8df-11ef-834b-0242ac130004",
+                "name": "Code Chuchi",
+                "seed": 349
             },
             "match_games": []
         },
