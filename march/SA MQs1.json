@@ -22888,18 +22888,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c96bbb0a-f843-11ef-bb0d-0242ac130004",
                 "name": "Dopamina",
-                "seed": 193
+                "seed": 193,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cc313fb8-f6cc-11ef-b590-0242ac130004",
                 "name": "Eternos Tucujus",
-                "seed": 320
+                "seed": 320,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c96bbb0a-f843-11ef-bb0d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc313fb8-f6cc-11ef-b590-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c96bbb0a-f843-11ef-bb0d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cc313fb8-f6cc-11ef-b590-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 519,
@@ -27643,18 +27678,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "902947b8-f4a1-11ef-bb1e-0242ac130004",
                 "name": "Family CC",
-                "seed": 134
+                "seed": 134,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5a4d50d4-fc0e-11ef-a976-da6ef8faa50f",
                 "name": "Milan latam",
-                "seed": 379
+                "seed": 379,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "902947b8-f4a1-11ef-bb1e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5a4d50d4-fc0e-11ef-a976-da6ef8faa50f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "902947b8-f4a1-11ef-bb1e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5a4d50d4-fc0e-11ef-a976-da6ef8faa50f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 741,
