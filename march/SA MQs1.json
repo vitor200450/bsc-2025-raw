@@ -43175,18 +43175,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
                 "name": "DJEMDJAIBRE_OFFICIAL",
-                "seed": 152
+                "seed": 152,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8dfaa3ec-f4a1-11ef-a739-0242ac130004",
                 "name": "LLK",
-                "seed": 216
+                "seed": 216,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8dfaa3ec-f4a1-11ef-a739-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8ebb1172-f4a1-11ef-b16f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8dfaa3ec-f4a1-11ef-a739-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 969,
@@ -43825,18 +43860,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fc0a762-f4a1-11ef-bf83-0242ac130004",
                 "name": "BK Onyx",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "088d5b0e-f619-11ef-a417-0242ac130004",
                 "name": "Bistec",
-                "seed": 550
+                "seed": 550,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "8fc0a762-f4a1-11ef-bf83-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "8fc0a762-f4a1-11ef-bf83-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 991,
