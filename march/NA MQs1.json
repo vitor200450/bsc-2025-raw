@@ -28869,18 +28869,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "464a4c38-faea-11ef-8eda-e2e3b1699cf4",
                 "name": "SN",
-                "seed": 801
+                "seed": 801,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "01494f46-f651-11ef-b8ad-0242ac130004",
                 "name": "DM ZAGA",
-                "seed": 736
+                "seed": 736,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "464a4c38-faea-11ef-8eda-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01494f46-f651-11ef-b8ad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "464a4c38-faea-11ef-8eda-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01494f46-f651-11ef-b8ad-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 527,
@@ -33029,18 +33064,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d993742-f4a0-11ef-8244-0242ac130004",
                 "name": "Draft 4 Me",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4fd25b28-f609-11ef-8b83-0242ac130004",
                 "name": "BLST",
-                "seed": 498
+                "seed": 498,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4fd25b28-f609-11ef-8b83-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4fd25b28-f609-11ef-8b83-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 658,
@@ -35124,18 +35194,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95075d98-f4a0-11ef-85f5-0242ac130004",
                 "name": "Hapelon",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
                 "name": "BRAWL4ALL",
-                "seed": 462
+                "seed": 462,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "95075d98-f4a0-11ef-85f5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "95075d98-f4a0-11ef-85f5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 726,
@@ -37605,10 +37710,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d993742-f4a0-11ef-8244-0242ac130004",
+                "name": "Draft 4 Me",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "36472b90-faa8-11ef-b171-eeb4a9f72fed",
+                "name": "The borbotones",
+                "seed": 783
             },
             "match_games": []
         },
@@ -38171,7 +38280,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "95075d98-f4a0-11ef-85f5-0242ac130004",
+                "name": "Hapelon",
+                "seed": 51
             },
             "opponent2": {
                 "id": null
