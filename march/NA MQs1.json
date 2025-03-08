@@ -46139,18 +46139,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4834de24-f6d4-11ef-868d-0242ac130004",
                 "name": "The Touchers",
-                "seed": 902
+                "seed": 902,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
                 "name": "BlacksStars",
-                "seed": 134
+                "seed": 134,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4834de24-f6d4-11ef-868d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 883,
@@ -47645,7 +47680,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "9761a814-f4a0-11ef-a0b3-0242ac130004",
+                "name": "BlacksStars",
+                "seed": 134
             },
             "match_games": []
         },
