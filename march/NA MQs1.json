@@ -48812,18 +48812,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
                 "name": "100 ping>>>",
-                "seed": 761
+                "seed": 761,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8a23ff90-fa03-11ef-8452-e2e3b1699cf4",
                 "name": "Shambolic Randoms",
-                "seed": 377
+                "seed": 377,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a23ff90-fa03-11ef-8452-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8a23ff90-fa03-11ef-8452-e2e3b1699cf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 906,
@@ -50267,18 +50302,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95f816de-f4a0-11ef-9457-0242ac130004",
                 "name": "Sofried",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
                 "name": "𝔸𝔾𝕊",
-                "seed": 74
+                "seed": 74,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "947fbf14-f4a0-11ef-927e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 943,
@@ -50983,7 +51068,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69dd0c2c-f9b3-11ef-883f-0242ac130005",
+                "name": "100 ping>>>",
+                "seed": 761
             },
             "opponent2": {
                 "id": null
