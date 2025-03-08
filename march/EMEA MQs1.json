@@ -77804,18 +77804,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5745f96a-f6e4-11ef-9ca4-0242ac130004",
                 "name": "LLG",
-                "seed": 664
+                "seed": 664,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f7d8211c-f5f1-11ef-b9cd-0242ac130004",
                 "name": "Hero Teams 💎",
-                "seed": 1385
+                "seed": 1385,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5745f96a-f6e4-11ef-9ca4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f7d8211c-f5f1-11ef-b9cd-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5745f96a-f6e4-11ef-9ca4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f7d8211c-f5f1-11ef-b9cd-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2289,
