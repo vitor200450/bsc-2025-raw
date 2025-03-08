@@ -7295,18 +7295,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
                 "name": "迷子のろいろい",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9a98bd5c-f9bd-11ef-9515-0242ac130005",
                 "name": "Stardew Valley",
-                "seed": 191
+                "seed": 191,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a98bd5c-f9bd-11ef-9515-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9a98bd5c-f9bd-11ef-9515-0242ac130005",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 163,
@@ -8427,7 +8462,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                "name": "迷子のろいろい",
+                "seed": 63
             },
             "match_games": []
         },
