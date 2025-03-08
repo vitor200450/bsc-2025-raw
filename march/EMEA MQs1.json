@@ -4825,7 +4825,7 @@
             "players": [
                 "SG|MARCOS777",
                 "skidibi/Aitor",
-                "NVN_REXONE™❄️"
+                "PZ | jaime 🧞"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
@@ -56591,18 +56591,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c1ce7a4-f9e7-11ef-9b59-eeb4a9f72fed",
                 "name": "TEAM KPG",
-                "seed": 1975
+                "seed": 1975,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a849f07a-fb65-11ef-853d-eeb4a9f72fed",
                 "name": "Rage Eggs",
-                "seed": 2122
+                "seed": 2122,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5c1ce7a4-f9e7-11ef-9b59-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a849f07a-fb65-11ef-853d-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5c1ce7a4-f9e7-11ef-9b59-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a849f07a-fb65-11ef-853d-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1459,
@@ -72275,7 +72310,9 @@
                 "seed": 73
             },
             "opponent2": {
-                "id": null
+                "id": "f3eb7b0c-f76e-11ef-bf10-0242ac130004",
+                "name": "GALAXYX 🌸",
+                "seed": 2121
             },
             "match_games": []
         },
@@ -82207,7 +82244,9 @@
                 "seed": 74
             },
             "opponent2": {
-                "id": null
+                "id": "5c1ce7a4-f9e7-11ef-9b59-eeb4a9f72fed",
+                "name": "TEAM KPG",
+                "seed": 1975
             },
             "match_games": []
         },
