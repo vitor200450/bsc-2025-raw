@@ -27773,18 +27773,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
                 "name": "The kings",
-                "seed": 219
+                "seed": 219,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7d6a4b8e-f6b5-11ef-ad4b-0242ac130004",
                 "name": "LEGIÓN OSCURA",
-                "seed": 294
+                "seed": 294,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7d6a4b8e-f6b5-11ef-ad4b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7d6a4b8e-f6b5-11ef-ad4b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 751,
@@ -28133,18 +28168,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "51be91ee-f70e-11ef-8ba6-0242ac130004",
                 "name": "SIL4K",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
                 "name": "Nxr Killers",
-                "seed": 683
+                "seed": 683,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "51be91ee-f70e-11ef-8ba6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "51be91ee-f70e-11ef-8ba6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "43bf55a4-f9c2-11ef-8e42-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 769,
