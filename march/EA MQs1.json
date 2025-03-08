@@ -8220,18 +8220,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "075be94a-f839-11ef-bfbf-0242ac130004",
                 "name": "ロブスター同好会",
-                "seed": 51
+                "seed": 51,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8f3fef06-fb71-11ef-a40a-c64318d28bfe",
                 "name": "禁断機関VV8",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "075be94a-f839-11ef-bfbf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8f3fef06-fb71-11ef-a40a-c64318d28bfe",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "075be94a-f839-11ef-bfbf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8f3fef06-fb71-11ef-a40a-c64318d28bfe",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 183,
@@ -8963,7 +8998,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "8f3fef06-fb71-11ef-a40a-c64318d28bfe",
+                "name": "禁断機関VV8",
+                "seed": 78
             },
             "match_games": []
         },
