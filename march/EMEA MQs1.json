@@ -75815,18 +75815,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cb0be3ec-f49f-11ef-9cb4-0242ac130004",
                 "name": "UBS",
-                "seed": 369
+                "seed": 369,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8d73e116-fb97-11ef-b7ae-024d14dc340d",
                 "name": "We will prove",
-                "seed": 1680
+                "seed": 1680,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cb0be3ec-f49f-11ef-9cb4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8d73e116-fb97-11ef-b7ae-024d14dc340d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cb0be3ec-f49f-11ef-9cb4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d73e116-fb97-11ef-b7ae-024d14dc340d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cb0be3ec-f49f-11ef-9cb4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8d73e116-fb97-11ef-b7ae-024d14dc340d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2128,
@@ -109689,10 +109739,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8d73e116-fb97-11ef-b7ae-024d14dc340d",
+                "name": "We will prove",
+                "seed": 1680
             },
             "opponent2": {
-                "id": null
+                "id": "3d6cd780-f9d1-11ef-8c8f-0242ac130005",
+                "name": "Leyuna",
+                "seed": 656
             },
             "match_games": []
         },
