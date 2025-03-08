@@ -44759,18 +44759,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93672832-f4a1-11ef-847e-0242ac130004",
                 "name": "XIA",
-                "seed": 113
+                "seed": 113,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "92811784-f4a1-11ef-a129-0242ac130004",
                 "name": "Chipis team",
-                "seed": 48
+                "seed": 48,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "92811784-f4a1-11ef-a129-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "93672832-f4a1-11ef-847e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "92811784-f4a1-11ef-a129-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 995,
