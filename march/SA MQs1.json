@@ -43977,18 +43977,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0addd4f2-f6a4-11ef-9da6-0242ac130004",
                 "name": "Scarlet Phoenixes",
-                "seed": 778
+                "seed": 778,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
                 "name": "Dream team",
-                "seed": 311
+                "seed": 311,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "0addd4f2-f6a4-11ef-9da6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "0addd4f2-f6a4-11ef-9da6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0addd4f2-f6a4-11ef-9da6-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 984,
@@ -44128,18 +44178,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
                 "name": "Alcatéia Ice antiga",
-                "seed": 627
+                "seed": 627,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "941e72a8-f4a1-11ef-9cfe-0242ac130004",
                 "name": "Ultimate Recharge",
-                "seed": 51
+                "seed": 51,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "941e72a8-f4a1-11ef-9cfe-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "941e72a8-f4a1-11ef-9cfe-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 988,
@@ -44562,10 +44647,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e41d5e88-f86e-11ef-8665-0242ac130004",
+                "name": "Dream team",
+                "seed": 311
             },
             "opponent2": {
-                "id": null
+                "id": "8e7537c4-f4a1-11ef-8baf-0242ac130004",
+                "name": "GALÁTICS",
+                "seed": 23
             },
             "match_games": []
         },
@@ -44598,10 +44687,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
+                "name": "Alcatéia Ice antiga",
+                "seed": 627
             },
             "opponent2": {
-                "id": null
+                "id": "48e8c3ac-f60d-11ef-9cac-0242ac130004",
+                "name": "SPK",
+                "seed": 494
             },
             "match_games": []
         },
