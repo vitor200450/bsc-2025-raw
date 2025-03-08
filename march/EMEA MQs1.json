@@ -79486,18 +79486,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5bc2a750-f837-11ef-a0cc-0242ac130004",
                 "name": "TEAM GIGANTS",
-                "seed": 985
+                "seed": 985,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73397ffc-f694-11ef-b635-0242ac130004",
                 "name": "Me and Others",
-                "seed": 1064
+                "seed": 1064,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5bc2a750-f837-11ef-a0cc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73397ffc-f694-11ef-b635-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5bc2a750-f837-11ef-a0cc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73397ffc-f694-11ef-b635-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2227,
@@ -111317,7 +111352,9 @@
                 "seed": 40
             },
             "opponent2": {
-                "id": null
+                "id": "73397ffc-f694-11ef-b635-0242ac130004",
+                "name": "Me and Others",
+                "seed": 1064
             },
             "match_games": []
         },
