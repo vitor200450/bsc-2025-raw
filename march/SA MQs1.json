@@ -27701,7 +27701,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
                 "name": "Abyssal Kings",
@@ -27710,7 +27710,8 @@
             "opponent2": {
                 "id": "7062b6a4-f6b2-11ef-a49f-0242ac130004",
                 "name": "Kukus clan",
-                "seed": 290
+                "seed": 290,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33382,7 +33383,9 @@
                 "seed": 479
             },
             "opponent2": {
-                "id": null
+                "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                "name": "Abyssal Kings",
+                "seed": 223
             },
             "match_games": []
         },
