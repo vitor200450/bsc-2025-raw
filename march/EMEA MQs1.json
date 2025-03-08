@@ -73828,18 +73828,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd049040-f49f-11ef-99f4-0242ac130004",
                 "name": "Lampa",
-                "seed": 65
+                "seed": 65,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "69963b5a-f880-11ef-a95d-0242ac130004",
                 "name": "GALAADS",
-                "seed": 2113
+                "seed": 2113,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cd049040-f49f-11ef-99f4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "69963b5a-f880-11ef-a95d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cd049040-f49f-11ef-99f4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "69963b5a-f880-11ef-a95d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2074,
@@ -86737,18 +86772,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
                 "name": "Brawl Titans",
-                "seed": 757
+                "seed": 757,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3e866fe-f78a-11ef-8adf-0242ac130004",
                 "name": "Jonathan Moore",
-                "seed": 1292
+                "seed": 1292,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3e866fe-f78a-11ef-8adf-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e3e866fe-f78a-11ef-8adf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3e866fe-f78a-11ef-8adf-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2505,
@@ -103629,10 +103714,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "69963b5a-f880-11ef-a95d-0242ac130004",
+                "name": "GALAADS",
+                "seed": 2113
             },
             "opponent2": {
-                "id": null
+                "id": "bf3511aa-f6b2-11ef-bc75-0242ac130004",
+                "name": "Pâyidar Success",
+                "seed": 960
             },
             "match_games": []
         },
@@ -107736,7 +107825,9 @@
                 "seed": 1781
             },
             "opponent2": {
-                "id": null
+                "id": "22a8a9e8-f787-11ef-b4cf-0242ac130004",
+                "name": "Brawl Titans",
+                "seed": 757
             },
             "match_games": []
         },
