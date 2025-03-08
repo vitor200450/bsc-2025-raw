@@ -33324,18 +33324,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
                 "name": "Star Strikers",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3582fa24-f8fd-11ef-a79b-0242ac130005",
                 "name": "TlacuachesGM",
-                "seed": 351
+                "seed": 351,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3582fa24-f8fd-11ef-a79b-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94723fa6-f4a0-11ef-9718-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3582fa24-f8fd-11ef-a79b-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 657,
@@ -34330,18 +34365,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "967a4a14-f4a0-11ef-9305-0242ac130004",
                 "name": "Eternal King's 🩸",
-                "seed": 90
+                "seed": 90,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
                 "name": "Arena 6",
-                "seed": 423
+                "seed": 423,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "967a4a14-f4a0-11ef-9305-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "967a4a14-f4a0-11ef-9305-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 688,
@@ -38405,7 +38475,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                "name": "Arena 6",
+                "seed": 423
             },
             "opponent2": {
                 "id": null
