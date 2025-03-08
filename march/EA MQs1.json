@@ -9307,18 +9307,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0a9bc07c-f67b-11ef-8989-0242ac130004",
                 "name": "マイブロ32",
-                "seed": 113
+                "seed": 113,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
                 "name": "Limit Break",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0a9bc07c-f67b-11ef-8989-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0a9bc07c-f67b-11ef-8989-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 196,
@@ -9995,7 +10030,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                "name": "Limit Break",
+                "seed": 49
             },
             "opponent2": {
                 "id": null
