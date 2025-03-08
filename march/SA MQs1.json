@@ -11601,18 +11601,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87d2ca68-f6e4-11ef-84f9-0242ac130004",
                 "name": "BETA",
-                "seed": 457
+                "seed": 457,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0739f046-f61e-11ef-877b-0242ac130004",
                 "name": "Team Acronics",
-                "seed": 568
+                "seed": 568,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "87d2ca68-f6e4-11ef-84f9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0739f046-f61e-11ef-877b-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "87d2ca68-f6e4-11ef-84f9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0739f046-f61e-11ef-877b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "87d2ca68-f6e4-11ef-84f9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0739f046-f61e-11ef-877b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 107,
@@ -17401,7 +17451,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "db47079c-f700-11ef-8cc7-0242ac130004",
                 "name": "Los peje",
@@ -17410,7 +17460,8 @@
             "opponent2": {
                 "id": "0bacb580-f891-11ef-aba3-0242ac130004",
                 "name": "ONE Z",
-                "seed": 647
+                "seed": 647,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -23565,7 +23616,9 @@
                 "seed": 56
             },
             "opponent2": {
-                "id": null
+                "id": "0739f046-f61e-11ef-877b-0242ac130004",
+                "name": "Team Acronics",
+                "seed": 568
             },
             "match_games": []
         },
@@ -25779,7 +25832,9 @@
                 "seed": 135
             },
             "opponent2": {
-                "id": null
+                "id": "db47079c-f700-11ef-8cc7-0242ac130004",
+                "name": "Los peje",
+                "seed": 378
             },
             "match_games": []
         },
