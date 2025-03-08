@@ -115083,18 +115083,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf3124a6-f49f-11ef-b2c3-0242ac130004",
                 "name": "sosa4life🤑💸",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f154c16-f798-11ef-ba19-0242ac130004",
                 "name": "Spabel",
-                "seed": 1151
+                "seed": 1151,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "bf3124a6-f49f-11ef-b2c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f154c16-f798-11ef-ba19-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bf3124a6-f49f-11ef-b2c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f154c16-f798-11ef-ba19-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3334,
@@ -116563,18 +116598,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e1f96826-f699-11ef-afc6-0242ac130004",
                 "name": "RTS|Gaming",
-                "seed": 2234
+                "seed": 2234,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8f950f46-fa62-11ef-b3cb-e2e3b1699cf4",
                 "name": "TAS | gaming",
-                "seed": 1210
+                "seed": 1210,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e1f96826-f699-11ef-afc6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f950f46-fa62-11ef-b3cb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e1f96826-f699-11ef-afc6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f950f46-fa62-11ef-b3cb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3408,
@@ -122205,7 +122275,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf3124a6-f49f-11ef-b2c3-0242ac130004",
+                "name": "sosa4life🤑💸",
+                "seed": 127
             },
             "opponent2": {
                 "id": null
@@ -122797,7 +122869,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e1f96826-f699-11ef-afc6-0242ac130004",
+                "name": "RTS|Gaming",
+                "seed": 2234
             },
             "opponent2": {
                 "id": null
