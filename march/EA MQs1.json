@@ -9992,18 +9992,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
                 "name": "Crawl up",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1581cf76-fa6e-11ef-beeb-e2e3b1699cf4",
                 "name": "ShellyGod 100k",
-                "seed": 195
+                "seed": 195,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1581cf76-fa6e-11ef-beeb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1581cf76-fa6e-11ef-beeb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 218,
@@ -10354,7 +10389,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
+                "name": "Crawl up",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
