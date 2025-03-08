@@ -29504,18 +29504,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "045e7ab2-fc28-11ef-be1d-fa2f9e021e8e",
                 "name": "Égoïste",
-                "seed": 905
+                "seed": 905,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "88ba50da-f63b-11ef-8390-0242ac130004",
                 "name": "Skibidi sigmas 🔥🥵",
-                "seed": 632
+                "seed": 632,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "045e7ab2-fc28-11ef-be1d-fa2f9e021e8e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "88ba50da-f63b-11ef-8390-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "045e7ab2-fc28-11ef-be1d-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "88ba50da-f63b-11ef-8390-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 564,
@@ -30759,18 +30794,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "449610f6-fa0f-11ef-b89e-eeb4a9f72fed",
                 "name": "Berry Creamers",
-                "seed": 165
+                "seed": 165,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cf3a2154-f5ee-11ef-9a35-0242ac130004",
                 "name": "FN Esports",
-                "seed": 348
+                "seed": 348,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "449610f6-fa0f-11ef-b89e-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf3a2154-f5ee-11ef-9a35-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "449610f6-fa0f-11ef-b89e-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cf3a2154-f5ee-11ef-9a35-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 625,
@@ -34061,7 +34131,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "88ba50da-f63b-11ef-8390-0242ac130004",
+                "name": "Skibidi sigmas 🔥🥵",
+                "seed": 632
             },
             "opponent2": {
                 "id": null
