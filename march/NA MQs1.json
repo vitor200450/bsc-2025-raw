@@ -29411,18 +29411,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93fac142-f4a0-11ef-a9d2-0242ac130004",
                 "name": "Yvl",
-                "seed": 17
+                "seed": 17,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3daa4694-f713-11ef-a32a-0242ac130004",
                 "name": "HALAL BOYS",
-                "seed": 529
+                "seed": 529,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "93fac142-f4a0-11ef-a9d2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3daa4694-f713-11ef-a32a-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "93fac142-f4a0-11ef-a9d2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3daa4694-f713-11ef-a32a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 538,
@@ -29526,18 +29561,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94826e08-f4a0-11ef-acbb-0242ac130004",
                 "name": "Acoustic Guys",
-                "seed": 48
+                "seed": 48,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "44cc83d4-f622-11ef-9def-0242ac130004",
                 "name": "THE GOAT",
-                "seed": 560
+                "seed": 560,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94826e08-f4a0-11ef-acbb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "44cc83d4-f622-11ef-9def-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94826e08-f4a0-11ef-acbb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "44cc83d4-f622-11ef-9def-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "94826e08-f4a0-11ef-acbb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "44cc83d4-f622-11ef-9def-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 542,
@@ -34600,11 +34685,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6073f7ca-f8e8-11ef-8301-0242ac130004",
                 "name": "Dale",
-                "seed": 175
+                "seed": 175,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e8d19c1e-f5e9-11ef-9a53-0242ac130004",
@@ -38994,7 +39080,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "93fac142-f4a0-11ef-a9d2-0242ac130004",
+                "name": "Yvl",
+                "seed": 17
             },
             "opponent2": {
                 "id": null
@@ -39028,7 +39116,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "44cc83d4-f622-11ef-9def-0242ac130004",
+                "name": "THE GOAT",
+                "seed": 560
             },
             "opponent2": {
                 "id": null
