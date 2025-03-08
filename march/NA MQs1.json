@@ -43403,18 +43403,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34bd84f4-fafd-11ef-8581-eeb4a9f72fed",
                 "name": "IR|LEGION",
-                "seed": 397
+                "seed": 397,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
                 "name": "Kastle Krashers",
-                "seed": 653
+                "seed": 653,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "34bd84f4-fafd-11ef-8581-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "34bd84f4-fafd-11ef-8581-eeb4a9f72fed",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "34bd84f4-fafd-11ef-8581-eeb4a9f72fed",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 811,
@@ -47305,18 +47355,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
                 "name": "GOON GANG",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "959af04e-f4a0-11ef-9e6f-0242ac130004",
                 "name": "Oxsis",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "959af04e-f4a0-11ef-9e6f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "959af04e-f4a0-11ef-9e6f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 889,
@@ -48126,7 +48211,9 @@
                 "seed": 781
             },
             "opponent2": {
-                "id": null
+                "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                "name": "Kastle Krashers",
+                "seed": 653
             },
             "match_games": []
         },
@@ -48870,7 +48957,9 @@
                 "seed": 38
             },
             "opponent2": {
-                "id": null
+                "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                "name": "GOON GANG",
+                "seed": 91
             },
             "match_games": []
         },
