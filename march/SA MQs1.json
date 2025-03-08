@@ -9764,18 +9764,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dee4577e-f6d3-11ef-8155-0242ac130004",
                 "name": "Sv64🇦🇷",
-                "seed": 433
+                "seed": 433,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa0e7530-f623-11ef-9f0a-0242ac130004",
                 "name": "Tilines insanos 🗣️❗",
-                "seed": 592
+                "seed": 592,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dee4577e-f6d3-11ef-8155-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa0e7530-f623-11ef-9f0a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dee4577e-f6d3-11ef-8155-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa0e7530-f623-11ef-9f0a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dee4577e-f6d3-11ef-8155-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa0e7530-f623-11ef-9f0a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -16736,18 +16786,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fb638bc-f604-11ef-9ee2-0242ac130004",
                 "name": "Normais",
-                "seed": 466
+                "seed": 466,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fa23c006-f796-11ef-8128-0242ac130004",
                 "name": "Nacho Team",
-                "seed": 559
+                "seed": 559,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4fb638bc-f604-11ef-9ee2-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fa23c006-f796-11ef-8128-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4fb638bc-f604-11ef-9ee2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa23c006-f796-11ef-8128-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4fb638bc-f604-11ef-9ee2-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa23c006-f796-11ef-8128-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 315,
@@ -22663,7 +22763,9 @@
                 "seed": 80
             },
             "opponent2": {
-                "id": null
+                "id": "aa0e7530-f623-11ef-9f0a-0242ac130004",
+                "name": "Tilines insanos 🗣️❗",
+                "seed": 592
             },
             "match_games": []
         },
@@ -25327,7 +25429,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "fa23c006-f796-11ef-8128-0242ac130004",
+                "name": "Nacho Team",
+                "seed": 559
             },
             "match_games": []
         },
