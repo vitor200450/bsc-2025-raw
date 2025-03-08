@@ -35461,18 +35461,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "85132c54-f6fe-11ef-9a52-0242ac130004",
                 "name": "BERSERKERS",
-                "seed": 479
+                "seed": 479,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
                 "name": "Abyssal Kings",
-                "seed": 223
+                "seed": 223,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "85132c54-f6fe-11ef-9a52-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "85132c54-f6fe-11ef-9a52-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 840,
@@ -35631,18 +35666,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
                 "name": "Waton Gang",
-                "seed": 79
+                "seed": 79,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50e384e0-f63d-11ef-a7a4-0242ac130004",
                 "name": "TX-Team NeoX",
-                "seed": 690
+                "seed": 690,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50e384e0-f63d-11ef-a7a4-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50e384e0-f63d-11ef-a7a4-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 845,
@@ -37726,10 +37796,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                "name": "Abyssal Kings",
+                "seed": 223
             },
             "opponent2": {
-                "id": null
+                "id": "8e5fe5b8-f4a1-11ef-bd90-0242ac130004",
+                "name": "Fw |Fantasy World |",
+                "seed": 162
             },
             "match_games": []
         },
@@ -37763,7 +37837,9 @@
                 "seed": 306
             },
             "opponent2": {
-                "id": null
+                "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                "name": "Waton Gang",
+                "seed": 79
             },
             "match_games": []
         },
