@@ -103027,14 +103027,48 @@
                 "id": "c780a1f4-f49f-11ef-8163-0242ac130004",
                 "name": "Itakaoss",
                 "seed": 243,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cb2db756-f49f-11ef-9c1a-0242ac130004",
                 "name": "Tuscany Reapers 1",
-                "seed": 2291
+                "seed": 2291,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c780a1f4-f49f-11ef-8163-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb2db756-f49f-11ef-9c1a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c780a1f4-f49f-11ef-8163-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cb2db756-f49f-11ef-9c1a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2886,
