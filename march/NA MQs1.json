@@ -14475,18 +14475,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f9764522-f6f4-11ef-ae48-0242ac130004",
                 "name": "RVL",
-                "seed": 408
+                "seed": 408,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a195595e-f7b4-11ef-8953-0242ac130004",
                 "name": "OldGeezers",
-                "seed": 617
+                "seed": 617,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f9764522-f6f4-11ef-ae48-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f9764522-f6f4-11ef-ae48-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f9764522-f6f4-11ef-ae48-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 119,
@@ -23426,18 +23476,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31c803ca-f713-11ef-8212-0242ac130004",
                 "name": "Sons of god",
-                "seed": 446
+                "seed": 446,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c0a0a66a-f786-11ef-822c-0242ac130004",
                 "name": "Sigma Sigma Boy",
-                "seed": 579
+                "seed": 579,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "31c803ca-f713-11ef-8212-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c0a0a66a-f786-11ef-822c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "31c803ca-f713-11ef-8212-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c0a0a66a-f786-11ef-822c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "31c803ca-f713-11ef-8212-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c0a0a66a-f786-11ef-822c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 399,
@@ -24332,7 +24432,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
                 "name": "BRAWL4ALL",
@@ -28604,7 +28704,9 @@
                 "seed": 920
             },
             "opponent2": {
-                "id": null
+                "id": "a195595e-f7b4-11ef-8953-0242ac130004",
+                "name": "OldGeezers",
+                "seed": 617
             },
             "match_games": []
         },
@@ -31372,7 +31474,9 @@
                 "seed": 67
             },
             "opponent2": {
-                "id": null
+                "id": "c0a0a66a-f786-11ef-822c-0242ac130004",
+                "name": "Sigma Sigma Boy",
+                "seed": 579
             },
             "match_games": []
         },
