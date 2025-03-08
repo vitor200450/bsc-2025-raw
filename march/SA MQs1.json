@@ -9904,18 +9904,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70afdf76-f719-11ef-b2fd-0242ac130004",
                 "name": "TEAM Hunters",
-                "seed": 505
+                "seed": 505,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
                 "name": "RDC",
-                "seed": 520
+                "seed": 520,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "70afdf76-f719-11ef-b2fd-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "70afdf76-f719-11ef-b2fd-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -11493,18 +11528,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a7b6ea9c-f89e-11ef-9b93-0242ac130004",
                 "name": "MGC",
-                "seed": 317
+                "seed": 317,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a65d49a-f646-11ef-abd7-0242ac130004",
                 "name": "JEA|COSTA",
-                "seed": 708
+                "seed": 708,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a7b6ea9c-f89e-11ef-9b93-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a65d49a-f646-11ef-abd7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a7b6ea9c-f89e-11ef-9b93-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a65d49a-f646-11ef-abd7-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 141,
@@ -17178,18 +17248,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1bf6164-f607-11ef-a5b8-0242ac130004",
                 "name": "D’Fam",
-                "seed": 478
+                "seed": 478,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
                 "name": "Snk",
-                "seed": 547
+                "seed": 547,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d1bf6164-f607-11ef-a5b8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d1bf6164-f607-11ef-a5b8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 411,
@@ -19940,7 +20045,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "eddd4ba8-f612-11ef-8447-0242ac130004",
+                "name": "RDC",
+                "seed": 520
             },
             "match_games": []
         },
@@ -20614,7 +20721,9 @@
                 "seed": 196
             },
             "opponent2": {
-                "id": null
+                "id": "a7b6ea9c-f89e-11ef-9b93-0242ac130004",
+                "name": "MGC",
+                "seed": 317
             },
             "match_games": []
         },
@@ -23080,7 +23189,9 @@
                 "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
+                "name": "Snk",
+                "seed": 547
             },
             "match_games": []
         },
