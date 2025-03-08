@@ -100930,18 +100930,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8b23de4-f49f-11ef-9f5c-0242ac130004",
                 "name": "TEAM KODAK",
-                "seed": 131
+                "seed": 131,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
                 "name": "The real campiones",
-                "seed": 2179
+                "seed": 2179,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c8b23de4-f49f-11ef-9f5c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c8b23de4-f49f-11ef-9f5c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2830,
@@ -117557,10 +117592,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c8b23de4-f49f-11ef-9f5c-0242ac130004",
+                "name": "TEAM KODAK",
+                "seed": 131
             },
             "opponent2": {
-                "id": null
+                "id": "9c62edae-f8d9-11ef-bdd6-0242ac130004",
+                "name": "AKA",
+                "seed": 1155
             },
             "match_games": []
         },
