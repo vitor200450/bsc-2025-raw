@@ -10361,18 +10361,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9dfbaa42-f5e7-11ef-bd6d-0242ac130004",
                 "name": "DragonSlayerTrio|DST",
-                "seed": 392
+                "seed": 392,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e126a5a2-f861-11ef-a39f-0242ac130004",
                 "name": "BGN Sports",
-                "seed": 633
+                "seed": 633,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9dfbaa42-f5e7-11ef-bd6d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e126a5a2-f861-11ef-a39f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9dfbaa42-f5e7-11ef-bd6d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e126a5a2-f861-11ef-a39f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 71,
@@ -14389,18 +14424,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ebe08da2-f5e9-11ef-b656-0242ac130004",
                 "name": "TheKings",
-                "seed": 396
+                "seed": 396,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73f1b42c-f857-11ef-a070-0242ac130004",
                 "name": "ETERNAL LEGACY",
-                "seed": 629
+                "seed": 629,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ebe08da2-f5e9-11ef-b656-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73f1b42c-f857-11ef-a070-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ebe08da2-f5e9-11ef-b656-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73f1b42c-f857-11ef-a070-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ebe08da2-f5e9-11ef-b656-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73f1b42c-f857-11ef-a070-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 231,
@@ -17544,18 +17629,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7d7e3fda-f5e9-11ef-b43c-0242ac130004",
                 "name": "Manos da hood",
-                "seed": 394
+                "seed": 394,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4d898a22-f85b-11ef-babf-0242ac130004",
                 "name": "MYTHICS",
-                "seed": 631
+                "seed": 631,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7d7e3fda-f5e9-11ef-b43c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d898a22-f85b-11ef-babf-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7d7e3fda-f5e9-11ef-b43c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4d898a22-f85b-11ef-babf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7d7e3fda-f5e9-11ef-b43c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4d898a22-f85b-11ef-babf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 359,
@@ -22262,7 +22397,9 @@
                 "seed": 121
             },
             "opponent2": {
-                "id": null
+                "id": "9dfbaa42-f5e7-11ef-bd6d-0242ac130004",
+                "name": "DragonSlayerTrio|DST",
+                "seed": 392
             },
             "match_games": []
         },
@@ -23846,7 +23983,9 @@
                 "seed": 117
             },
             "opponent2": {
-                "id": null
+                "id": "73f1b42c-f857-11ef-a070-0242ac130004",
+                "name": "ETERNAL LEGACY",
+                "seed": 629
             },
             "match_games": []
         },
@@ -25114,7 +25253,9 @@
                 "seed": 119
             },
             "opponent2": {
-                "id": null
+                "id": "4d898a22-f85b-11ef-babf-0242ac130004",
+                "name": "MYTHICS",
+                "seed": 631
             },
             "match_games": []
         },
