@@ -40300,18 +40300,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
                 "name": "Sporting777",
-                "seed": 530
+                "seed": 530,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a83998be-f5ee-11ef-846c-0242ac130004",
                 "name": "Tribe 6ix One",
-                "seed": 402
+                "seed": 402,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 936,
@@ -41161,7 +41196,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                "name": "Tribe 6ix One",
+                "seed": 402
             },
             "opponent2": {
                 "id": null
