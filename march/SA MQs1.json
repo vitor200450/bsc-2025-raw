@@ -23788,18 +23788,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5826d2b2-f894-11ef-b473-0242ac130004",
                 "name": "CLT/BRAWL",
-                "seed": 153
+                "seed": 153,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f3286484-f91f-11ef-ace5-0242ac130005",
                 "name": "Fênix",
-                "seed": 665
+                "seed": 665,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5826d2b2-f894-11ef-b473-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f3286484-f91f-11ef-ace5-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5826d2b2-f894-11ef-b473-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f3286484-f91f-11ef-ace5-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 557,
@@ -26813,18 +26848,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8daaaf4a-f4a1-11ef-8c36-0242ac130004",
                 "name": "CsD Legends",
-                "seed": 250
+                "seed": 250,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a7ecdf4e-f786-11ef-807a-0242ac130004",
                 "name": "Prodígios",
-                "seed": 263
+                "seed": 263,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8daaaf4a-f4a1-11ef-8c36-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a7ecdf4e-f786-11ef-807a-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8daaaf4a-f4a1-11ef-8c36-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a7ecdf4e-f786-11ef-807a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 675,
@@ -28768,18 +28838,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8dcc29cc-f4a1-11ef-86cd-0242ac130004",
                 "name": "QUANTHUM",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "088d5b0e-f619-11ef-a417-0242ac130004",
                 "name": "Bistec",
-                "seed": 550
+                "seed": 550,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8dcc29cc-f4a1-11ef-86cd-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8dcc29cc-f4a1-11ef-86cd-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 750,
@@ -31250,10 +31355,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                "name": "Bistec",
+                "seed": 550
             },
             "opponent2": {
-                "id": null
+                "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
+                "name": "The kings",
+                "seed": 219
             },
             "match_games": []
         },
