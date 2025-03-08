@@ -7220,18 +7220,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
                 "name": "Gen.G Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ecd6dea-f49f-11ef-9194-0242ac130004",
                 "name": "妖怪ウォッチ無双",
-                "seed": 124
+                "seed": 124,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ecd6dea-f49f-11ef-9194-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ecd6dea-f49f-11ef-9194-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 154,
@@ -8854,7 +8889,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
+                "name": "Gen.G Esports",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
