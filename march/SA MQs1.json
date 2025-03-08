@@ -35931,18 +35931,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
                 "name": "Sporting777",
-                "seed": 530
+                "seed": 530,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "40b656ba-f70f-11ef-bdf1-0242ac130004",
                 "name": "La skibidi gang",
-                "seed": 239
+                "seed": 239,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "40b656ba-f70f-11ef-bdf1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "40b656ba-f70f-11ef-bdf1-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 846,
@@ -36821,18 +36856,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f1b3f84-f4a1-11ef-9a0e-0242ac130004",
                 "name": "LOS PIKILINES FC🤓",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "87b21d58-fb09-11ef-81d3-e2e3b1699cf4",
                 "name": "Scania",
-                "seed": 163
+                "seed": 163,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8f1b3f84-f4a1-11ef-9a0e-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87b21d58-fb09-11ef-81d3-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8f1b3f84-f4a1-11ef-9a0e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87b21d58-fb09-11ef-81d3-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 873,
@@ -37096,7 +37166,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "8f9e0d56-f4a1-11ef-9557-0242ac130004",
                 "name": "zWim",
@@ -38171,7 +38241,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7c7aea54-f614-11ef-b8d1-0242ac130004",
+                "name": "Sporting777",
+                "seed": 530
             },
             "opponent2": {
                 "id": null
@@ -38396,7 +38468,9 @@
                 "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "87b21d58-fb09-11ef-81d3-e2e3b1699cf4",
+                "name": "Scania",
+                "seed": 163
             },
             "match_games": []
         },
