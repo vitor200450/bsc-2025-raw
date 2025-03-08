@@ -10287,18 +10287,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c272a09a-f73d-11ef-8149-0242ac130004",
                 "name": "ZONE",
-                "seed": 151
+                "seed": 151,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "80e28d84-f5df-11ef-8281-0242ac130004",
                 "name": "ダークエンジェルルシファー",
-                "seed": 170
+                "seed": 170,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "c272a09a-f73d-11ef-8149-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "80e28d84-f5df-11ef-8281-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c272a09a-f73d-11ef-8149-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "80e28d84-f5df-11ef-8281-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 217,
@@ -10744,7 +10779,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "80e28d84-f5df-11ef-8281-0242ac130004",
+                "name": "ダークエンジェルルシファー",
+                "seed": 170
             },
             "match_games": []
         },
