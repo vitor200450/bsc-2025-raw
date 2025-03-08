@@ -9572,18 +9572,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
                 "name": "おもしれぇ女",
-                "seed": 116
+                "seed": 116,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e81e6f70-fb4f-11ef-a627-e2e3b1699cf4",
                 "name": "Come Next",
-                "seed": 205
+                "seed": 205,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e81e6f70-fb4f-11ef-a627-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e81e6f70-fb4f-11ef-a627-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 204,
@@ -10203,7 +10238,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e81e6f70-fb4f-11ef-a627-e2e3b1699cf4",
+                "name": "Come Next",
+                "seed": 205
             },
             "opponent2": {
                 "id": null
