@@ -41071,18 +41071,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d59a630c-f6bf-11ef-84d8-0242ac130004",
                 "name": "Circulo Rojo",
-                "seed": 306
+                "seed": 306,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
                 "name": "Waton Gang",
-                "seed": 79
+                "seed": 79,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "d59a630c-f6bf-11ef-84d8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "d59a630c-f6bf-11ef-84d8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 935,
@@ -42476,7 +42511,9 @@
                 "seed": 271
             },
             "opponent2": {
-                "id": null
+                "id": "913e4338-f4a1-11ef-bfba-0242ac130004",
+                "name": "Waton Gang",
+                "seed": 79
             },
             "match_games": []
         },
