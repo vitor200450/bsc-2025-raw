@@ -36505,18 +36505,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "3613d1ae-f6cb-11ef-b9b5-0242ac130004",
                 "name": "Afraid of women",
-                "seed": 2045
+                "seed": 2045,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b20103a8-f60e-11ef-b6a6-0242ac130004",
                 "name": "Armies",
-                "seed": 2052
+                "seed": 2052,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3613d1ae-f6cb-11ef-b9b5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b20103a8-f60e-11ef-b6a6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3613d1ae-f6cb-11ef-b9b5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b20103a8-f60e-11ef-b6a6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 515,
@@ -50002,18 +50037,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "826d97a6-f752-11ef-97ba-0242ac130004",
                 "name": "BM|EU",
-                "seed": 1927
+                "seed": 1927,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c9c9d7e2-fb88-11ef-94e0-fafa65f8aa07",
                 "name": "Reapers",
-                "seed": 2170
+                "seed": 2170,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "826d97a6-f752-11ef-97ba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9c9d7e2-fb88-11ef-94e0-fafa65f8aa07",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "826d97a6-f752-11ef-97ba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c9c9d7e2-fb88-11ef-94e0-fafa65f8aa07",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1299,
@@ -51933,18 +52003,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "dd79eb98-f989-11ef-baba-0242ac130005",
                 "name": "The Janitors",
-                "seed": 2039
+                "seed": 2039,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fb506c14-fa5b-11ef-af82-e2e3b1699cf4",
                 "name": "Arcane Zero",
-                "seed": 2058
+                "seed": 2058,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd79eb98-f989-11ef-baba-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb506c14-fa5b-11ef-af82-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd79eb98-f989-11ef-baba-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fb506c14-fa5b-11ef-af82-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1411,
@@ -67916,7 +68021,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "3613d1ae-f6cb-11ef-b9b5-0242ac130004",
+                "name": "Afraid of women",
+                "seed": 2045
             },
             "match_games": []
         },
@@ -75416,7 +75523,9 @@
                 "seed": 122
             },
             "opponent2": {
-                "id": null
+                "id": "826d97a6-f752-11ef-97ba-0242ac130004",
+                "name": "BM|EU",
+                "seed": 1927
             },
             "match_games": []
         },
