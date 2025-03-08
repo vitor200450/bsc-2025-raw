@@ -37517,18 +37517,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e2e652e-f4a1-11ef-9041-0242ac130004",
                 "name": "Ñam Sports",
-                "seed": 39
+                "seed": 39,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c89e94a-f652-11ef-b8be-0242ac130004",
                 "name": "Meliodas e 2 random",
-                "seed": 730
+                "seed": 730,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8e2e652e-f4a1-11ef-9041-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6c89e94a-f652-11ef-b8be-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8e2e652e-f4a1-11ef-9041-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c89e94a-f652-11ef-b8be-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8e2e652e-f4a1-11ef-9041-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c89e94a-f652-11ef-b8be-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 856,
@@ -40263,10 +40313,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6c89e94a-f652-11ef-b8be-0242ac130004",
+                "name": "Meliodas e 2 random",
+                "seed": 730
             },
             "opponent2": {
-                "id": null
+                "id": "8eb6d800-f4a1-11ef-88b4-0242ac130004",
+                "name": "+58™",
+                "seed": 90
             },
             "match_games": []
         },
