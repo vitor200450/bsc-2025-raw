@@ -37106,18 +37106,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
                 "name": "Alcatéia Ice antiga",
-                "seed": 627
+                "seed": 627,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8ed2f3b4-f4a1-11ef-ac0b-0242ac130004",
                 "name": "📍resenhudos",
-                "seed": 142
+                "seed": 142,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8ed2f3b4-f4a1-11ef-ac0b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "aa6980fa-f854-11ef-93c2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8ed2f3b4-f4a1-11ef-ac0b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 875,
