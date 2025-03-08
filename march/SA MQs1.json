@@ -40240,18 +40240,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9443a546-f4a1-11ef-98dd-0242ac130004",
                 "name": "Coquitos",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "942e4e1c-f4a1-11ef-8e1a-0242ac130004",
                 "name": "Trupe Fantasma",
-                "seed": 117
+                "seed": 117,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9443a546-f4a1-11ef-98dd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "942e4e1c-f4a1-11ef-8e1a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9443a546-f4a1-11ef-98dd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "942e4e1c-f4a1-11ef-8e1a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -40415,18 +40450,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
                 "name": "Abyssal Kings",
-                "seed": 223
+                "seed": 223,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8e5fe5b8-f4a1-11ef-bd90-0242ac130004",
                 "name": "Fw |Fantasy World |",
-                "seed": 162
+                "seed": 162,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8e5fe5b8-f4a1-11ef-bd90-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cbcf8bb2-fb61-11ef-a558-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8e5fe5b8-f4a1-11ef-bd90-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 933,
@@ -41472,7 +41542,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9443a546-f4a1-11ef-98dd-0242ac130004",
+                "name": "Coquitos",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
