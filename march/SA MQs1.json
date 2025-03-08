@@ -23703,18 +23703,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "48bc7d2a-f7ec-11ef-9d2b-0242ac130004",
                 "name": "Primo Punch",
-                "seed": 176
+                "seed": 176,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "25df0ec0-f9f5-11ef-8181-e2e3b1699cf4",
                 "name": "Dream Team",
-                "seed": 337
+                "seed": 337,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "48bc7d2a-f7ec-11ef-9d2b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25df0ec0-f9f5-11ef-8181-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "48bc7d2a-f7ec-11ef-9d2b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25df0ec0-f9f5-11ef-8181-e2e3b1699cf4",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 545,
@@ -23913,18 +23948,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
                 "name": "DGM LEGENDS",
-                "seed": 72
+                "seed": 72,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1571c082-f621-11ef-8e30-0242ac130004",
                 "name": "TEAM MAVE",
-                "seed": 584
+                "seed": 584,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1571c082-f621-11ef-8e30-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1571c082-f621-11ef-8e30-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 552,
@@ -27573,18 +27643,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69d2fd58-f888-11ef-989f-0242ac130004",
                 "name": "TEAM SALE 💙",
-                "seed": 199
+                "seed": 199,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
                 "name": "Kvalos",
-                "seed": 314
+                "seed": 314,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "69d2fd58-f888-11ef-989f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "69d2fd58-f888-11ef-989f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ec454e52-f6c7-11ef-b1a8-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 679,
@@ -30584,7 +30689,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8fc33388-f4a1-11ef-9285-0242ac130004",
+                "name": "DGM LEGENDS",
+                "seed": 72
             },
             "opponent2": {
                 "id": null
