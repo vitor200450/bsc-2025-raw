@@ -72182,18 +72182,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6bed574-f49f-11ef-a8bc-0242ac130004",
                 "name": "Freakys",
-                "seed": 1835
+                "seed": 1835,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "faeb7ae6-f87d-11ef-b976-0242ac130004",
                 "name": "Anjex",
-                "seed": 2262
+                "seed": 2262,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c6bed574-f49f-11ef-a8bc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "faeb7ae6-f87d-11ef-b976-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c6bed574-f49f-11ef-a8bc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "faeb7ae6-f87d-11ef-b976-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2027,
@@ -92840,7 +92875,9 @@
                 "seed": 214
             },
             "opponent2": {
-                "id": null
+                "id": "faeb7ae6-f87d-11ef-b976-0242ac130004",
+                "name": "Anjex",
+                "seed": 2262
             },
             "match_games": []
         },
