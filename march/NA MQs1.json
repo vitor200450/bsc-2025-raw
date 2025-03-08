@@ -44258,18 +44258,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "962b5fbc-f4a0-11ef-b9b9-0242ac130004",
                 "name": "Snipers 2 Esports",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
                 "name": "INTERNATIONALS",
-                "seed": 314
+                "seed": 314,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "962b5fbc-f4a0-11ef-b9b9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "962b5fbc-f4a0-11ef-b9b9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 852,
@@ -46634,7 +46669,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "962b5fbc-f4a0-11ef-b9b9-0242ac130004",
+                "name": "Snipers 2 Esports",
+                "seed": 58
             },
             "opponent2": {
                 "id": null
