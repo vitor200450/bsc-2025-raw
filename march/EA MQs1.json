@@ -9457,18 +9457,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd7cf5d4-f6c5-11ef-abae-0242ac130004",
                 "name": "Spinning balls",
-                "seed": 137
+                "seed": 137,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5e09b300-f49f-11ef-9bb7-0242ac130004",
                 "name": "Supernatural",
-                "seed": 56
+                "seed": 56,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "dd7cf5d4-f6c5-11ef-abae-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5e09b300-f49f-11ef-9bb7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "dd7cf5d4-f6c5-11ef-abae-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5e09b300-f49f-11ef-9bb7-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 200,
@@ -9787,18 +9822,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dec6b10-f49f-11ef-ae15-0242ac130004",
                 "name": "Worst Generation",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
                 "name": "ちょっと旬なバナナ",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5dec6b10-f49f-11ef-ae15-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5dec6b10-f49f-11ef-ae15-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 213,
@@ -10099,7 +10169,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5e09b300-f49f-11ef-9bb7-0242ac130004",
+                "name": "Supernatural",
+                "seed": 56
             },
             "opponent2": {
                 "id": null
