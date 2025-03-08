@@ -8065,18 +8065,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e7c4f842-f76b-11ef-b6d9-0242ac130004",
                 "name": "Jumpo eSports",
-                "seed": 54
+                "seed": 54,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fdfcfaca-f5e9-11ef-adbc-0242ac130004",
                 "name": "HBY",
-                "seed": 182
+                "seed": 182,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e7c4f842-f76b-11ef-b6d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdfcfaca-f5e9-11ef-adbc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e7c4f842-f76b-11ef-b6d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdfcfaca-f5e9-11ef-adbc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 191,
