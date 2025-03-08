@@ -8340,18 +8340,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e0af0f8-f49f-11ef-bd2b-0242ac130004",
                 "name": "我有夢想",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
                 "name": "NANRYU",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5e0af0f8-f49f-11ef-bd2b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "5e0af0f8-f49f-11ef-bd2b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 189,
