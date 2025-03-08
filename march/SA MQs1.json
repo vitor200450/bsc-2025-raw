@@ -22843,18 +22843,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "21aa8500-fbcb-11ef-a09a-8ea78b3e0aec",
                 "name": "TYRANS",
-                "seed": 769
+                "seed": 769,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5464ddfe-f777-11ef-b7f0-0242ac130004",
                 "name": "Moody Aerials",
-                "seed": 257
+                "seed": 257,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "21aa8500-fbcb-11ef-a09a-8ea78b3e0aec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5464ddfe-f777-11ef-b7f0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "21aa8500-fbcb-11ef-a09a-8ea78b3e0aec",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5464ddfe-f777-11ef-b7f0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "21aa8500-fbcb-11ef-a09a-8ea78b3e0aec",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5464ddfe-f777-11ef-b7f0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 515,
@@ -28723,18 +28773,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
                 "name": "La Fúria",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
                 "name": "Snk",
-                "seed": 547
+                "seed": 547,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e10a1ce4-f789-11ef-9733-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 718,
@@ -30190,7 +30275,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "21aa8500-fbcb-11ef-a09a-8ea78b3e0aec",
+                "name": "TYRANS",
+                "seed": 769
             },
             "match_games": []
         },
@@ -31885,7 +31972,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94168cbe-f4a1-11ef-ad65-0242ac130004",
+                "name": "La Fúria",
+                "seed": 35
             },
             "opponent2": {
                 "id": null
