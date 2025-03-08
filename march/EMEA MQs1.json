@@ -42150,18 +42150,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2027bf66-f5d8-11ef-980c-0242ac130004",
                 "name": "Caca prout",
-                "seed": 2029
+                "seed": 2029,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "70ff44be-f7fd-11ef-b7a1-0242ac130004",
                 "name": "Arab Men Team",
-                "seed": 2068
+                "seed": 2068,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2027bf66-f5d8-11ef-980c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "70ff44be-f7fd-11ef-b7a1-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2027bf66-f5d8-11ef-980c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "70ff44be-f7fd-11ef-b7a1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 707,
@@ -77113,7 +77148,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "2027bf66-f5d8-11ef-980c-0242ac130004",
+                "name": "Caca prout",
+                "seed": 2029
             },
             "match_games": []
         },
@@ -85041,7 +85078,9 @@
                 "seed": 298
             },
             "opponent2": {
-                "id": null
+                "id": "c265697a-f49f-11ef-b6d0-0242ac130004",
+                "name": "FK_ONTOP",
+                "seed": 1751
             },
             "match_games": []
         },
