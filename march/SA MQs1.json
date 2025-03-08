@@ -43866,18 +43866,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93d8404e-f5d2-11ef-8fe3-0242ac130004",
                 "name": "Valhalla",
-                "seed": 258
+                "seed": 258,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8f68a328-f4a1-11ef-a7c0-0242ac130004",
                 "name": "Warriors",
-                "seed": 66
+                "seed": 66,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "93d8404e-f5d2-11ef-8fe3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8f68a328-f4a1-11ef-a7c0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "93d8404e-f5d2-11ef-8fe3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f68a328-f4a1-11ef-a7c0-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "93d8404e-f5d2-11ef-8fe3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8f68a328-f4a1-11ef-a7c0-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 978,
@@ -44801,10 +44851,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f68a328-f4a1-11ef-a7c0-0242ac130004",
+                "name": "Warriors",
+                "seed": 66
             },
             "opponent2": {
-                "id": null
+                "id": "8e5fe5b8-f4a1-11ef-bd90-0242ac130004",
+                "name": "Fw |Fantasy World |",
+                "seed": 162
             },
             "match_games": []
         },
