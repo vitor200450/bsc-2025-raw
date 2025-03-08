@@ -108346,18 +108346,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c8ba0c90-f49f-11ef-9211-0242ac130004",
                 "name": "Herman esport",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2e566fa8-f94b-11ef-ab09-0242ac130005",
                 "name": "ChéQiPa Esport",
-                "seed": 2091
+                "seed": 2091,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c8ba0c90-f49f-11ef-9211-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e566fa8-f94b-11ef-ab09-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c8ba0c90-f49f-11ef-9211-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e566fa8-f94b-11ef-ab09-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c8ba0c90-f49f-11ef-9211-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e566fa8-f94b-11ef-ab09-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3058,
@@ -119031,10 +119081,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c8ba0c90-f49f-11ef-9211-0242ac130004",
+                "name": "Herman esport",
+                "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "f390c332-f60c-11ef-b025-0242ac130004",
+                "name": "Baginz TV",
+                "seed": 1067
             },
             "match_games": []
         },
