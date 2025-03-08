@@ -11686,18 +11686,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a7e1990-f6ce-11ef-b148-0242ac130004",
                 "name": "Los Horneros",
-                "seed": 425
+                "seed": 425,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ad6143c4-f624-11ef-a799-0242ac130004",
                 "name": "Nível Lendas",
-                "seed": 600
+                "seed": 600,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3a7e1990-f6ce-11ef-b148-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ad6143c4-f624-11ef-a799-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3a7e1990-f6ce-11ef-b148-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad6143c4-f624-11ef-a799-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3a7e1990-f6ce-11ef-b148-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ad6143c4-f624-11ef-a799-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 127,
@@ -22408,7 +22458,9 @@
                 "seed": 88
             },
             "opponent2": {
-                "id": null
+                "id": "3a7e1990-f6ce-11ef-b148-0242ac130004",
+                "name": "Los Horneros",
+                "seed": 425
             },
             "match_games": []
         },
