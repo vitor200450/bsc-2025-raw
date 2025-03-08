@@ -45005,16 +45005,20 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9be204d8-f4a0-11ef-add0-0242ac130004",
                 "name": "NA Dinos",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "62579798-f7e6-11ef-b4f1-0242ac130004",
                 "name": "Stellaron Hunters",
-                "seed": 319
+                "seed": 319,
+                "score": 1,
+                "result": "loss"
             },
             "match_games": []
         },
@@ -49135,10 +49139,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9be204d8-f4a0-11ef-add0-0242ac130004",
+                "name": "NA Dinos",
+                "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                "name": "Saro Squad",
+                "seed": 66
             },
             "match_games": []
         },
