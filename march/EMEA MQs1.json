@@ -62235,18 +62235,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "099f7678-fa81-11ef-8b8e-e2e3b1699cf4",
                 "name": "OVOSHI",
-                "seed": 1918
+                "seed": 1918,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
                 "name": "The real campiones",
-                "seed": 2179
+                "seed": 2179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "099f7678-fa81-11ef-8b8e-e2e3b1699cf4",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "099f7678-fa81-11ef-8b8e-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1563,
@@ -88241,7 +88276,9 @@
                 "seed": 131
             },
             "opponent2": {
-                "id": null
+                "id": "cbc968a4-f49f-11ef-b493-0242ac130004",
+                "name": "The real campiones",
+                "seed": 2179
             },
             "match_games": []
         },
