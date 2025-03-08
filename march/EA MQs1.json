@@ -11408,18 +11408,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
                 "name": "Crawl up",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f1a0ed4-f49f-11ef-837a-0242ac130004",
                 "name": "We Need Money",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f1a0ed4-f49f-11ef-837a-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd5116aa-f4a2-11ef-b13a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f1a0ed4-f49f-11ef-837a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 238,
