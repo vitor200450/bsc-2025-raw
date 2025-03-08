@@ -10657,18 +10657,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9913ce48-f5cd-11ef-a4a5-0242ac130004",
                 "name": "めろんぱんおいしいクラブ",
-                "seed": 150
+                "seed": 150,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0a3a7730-f7c1-11ef-aa87-0242ac130004",
                 "name": "FZ WIN",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "9913ce48-f5cd-11ef-a4a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a3a7730-f7c1-11ef-aa87-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9913ce48-f5cd-11ef-a4a5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0a3a7730-f7c1-11ef-aa87-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 225,
@@ -10962,7 +10997,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "9913ce48-f5cd-11ef-a4a5-0242ac130004",
+                "name": "めろんぱんおいしいクラブ",
+                "seed": 150
             },
             "match_games": []
         }
