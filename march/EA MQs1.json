@@ -3394,18 +3394,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
                 "name": "おもしれぇ女",
-                "seed": 116
+                "seed": 116,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "85816f42-f70e-11ef-bd60-0242ac130004",
                 "name": "Cuetest",
-                "seed": 141
+                "seed": 141,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "85816f42-f70e-11ef-bd60-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "85816f42-f70e-11ef-bd60-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -4639,18 +4674,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f8c962ac-f66e-11ef-8faf-0242ac130004",
                 "name": "LSK",
-                "seed": 90
+                "seed": 90,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "01cca78e-f795-11ef-ad2f-0242ac130004",
                 "name": "Feasible Gaming",
-                "seed": 167
+                "seed": 167,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f8c962ac-f66e-11ef-8faf-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "01cca78e-f795-11ef-ad2f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f8c962ac-f66e-11ef-8faf-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "01cca78e-f795-11ef-ad2f-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 89,
@@ -6120,7 +6190,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "82a024f8-f740-11ef-8f2b-0242ac130004",
+                "name": "おもしれぇ女",
+                "seed": 116
             },
             "match_games": []
         },
@@ -6534,7 +6606,9 @@
                 "seed": 39
             },
             "opponent2": {
-                "id": null
+                "id": "01cca78e-f795-11ef-ad2f-0242ac130004",
+                "name": "Feasible Gaming",
+                "seed": 167
             },
             "match_games": []
         },
