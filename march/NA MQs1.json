@@ -50297,7 +50297,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ce99229c-f795-11ef-9957-0242ac130004",
                 "name": "KRONOS",
@@ -50306,7 +50306,8 @@
             "opponent2": {
                 "id": "9540dc30-f4a0-11ef-b007-0242ac130004",
                 "name": "Les Chou",
-                "seed": 159
+                "seed": 159,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -52143,8 +52144,16 @@
             "round_id": 5,
             "child_count": 3,
             "status": 3,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "ce99229c-f795-11ef-9957-0242ac130004",
+                "name": "KRONOS",
+                "seed": 287
+            },
+            "opponent2": {
+                "id": "37169f6c-fa38-11ef-a283-eeb4a9f72fed",
+                "name": "Ecuipo",
+                "seed": 223
+            },
             "match_games": []
         },
         {
