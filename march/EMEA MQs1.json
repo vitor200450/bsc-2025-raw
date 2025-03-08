@@ -98632,18 +98632,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cbdc66c0-f49f-11ef-a127-0242ac130004",
                 "name": "Los Pantuflas",
-                "seed": 526
+                "seed": 526,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1e6cc9b8-fad4-11ef-bbd2-eeb4a9f72fed",
                 "name": "F/A RUMBLE",
-                "seed": 1523
+                "seed": 1523,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cbdc66c0-f49f-11ef-a127-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e6cc9b8-fad4-11ef-bbd2-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cbdc66c0-f49f-11ef-a127-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1e6cc9b8-fad4-11ef-bbd2-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cbdc66c0-f49f-11ef-a127-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e6cc9b8-fad4-11ef-bbd2-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2885,
@@ -112479,7 +112529,9 @@
                 "seed": 499
             },
             "opponent2": {
-                "id": null
+                "id": "cbdc66c0-f49f-11ef-a127-0242ac130004",
+                "name": "Los Pantuflas",
+                "seed": 526
             },
             "match_games": []
         },
