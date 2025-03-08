@@ -73124,18 +73124,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f768a6ba-f5e8-11ef-9a7c-0242ac130004",
                 "name": "Brawl stars Sigmas",
-                "seed": 769
+                "seed": 769,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "15ec9bf8-f933-11ef-86ff-0242ac130005",
                 "name": "BEBERLY",
-                "seed": 1280
+                "seed": 1280,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f768a6ba-f5e8-11ef-9a7c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15ec9bf8-f933-11ef-86ff-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f768a6ba-f5e8-11ef-9a7c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "15ec9bf8-f933-11ef-86ff-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2055,
