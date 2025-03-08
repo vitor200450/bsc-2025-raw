@@ -2851,18 +2851,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d20b48b8-f706-11ef-a776-0242ac130004",
                 "name": "RedEnriCave",
-                "seed": 104
+                "seed": 104,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c22e8a7c-f747-11ef-b4ac-0242ac130004",
                 "name": "ビーチクリーン",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d20b48b8-f706-11ef-a776-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c22e8a7c-f747-11ef-b4ac-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "d20b48b8-f706-11ef-a776-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c22e8a7c-f747-11ef-b4ac-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -4346,18 +4381,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a267138-f670-11ef-8da0-0242ac130004",
                 "name": "挑戰賽三連敗照過15勝",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "338356d4-f5c3-11ef-8119-0242ac130004",
                 "name": "オヤジーズ",
-                "seed": 146
+                "seed": 146,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5a267138-f670-11ef-8da0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "338356d4-f5c3-11ef-8119-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5a267138-f670-11ef-8da0-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "338356d4-f5c3-11ef-8119-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 79,
@@ -5866,7 +5936,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "c22e8a7c-f747-11ef-b4ac-0242ac130004",
+                "name": "ビーチクリーン",
+                "seed": 153
             },
             "match_games": []
         },
@@ -6372,7 +6444,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "338356d4-f5c3-11ef-8119-0242ac130004",
+                "name": "オヤジーズ",
+                "seed": 146
             },
             "match_games": []
         },
