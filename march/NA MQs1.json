@@ -41918,18 +41918,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
                 "name": "『亗𝐂𝐓𝐏| 𝐒𝐩𝐨𝐫𝐓",
-                "seed": 561
+                "seed": 561,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
                 "name": "Shiver Me Timbers",
-                "seed": 208
+                "seed": 208,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 780,
@@ -47645,7 +47695,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0e77826e-f732-11ef-aaa3-0242ac130004",
+                "name": "『亗𝐂𝐓𝐏| 𝐒𝐩𝐨𝐫𝐓",
+                "seed": 561
             },
             "opponent2": {
                 "id": null
