@@ -9149,18 +9149,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bd5fbd76-f608-11ef-add9-0242ac130004",
                 "name": "The Real Ones",
-                "seed": 480
+                "seed": 480,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9bdc0a7e-f789-11ef-a3f2-0242ac130004",
                 "name": "HakunaMatata",
-                "seed": 545
+                "seed": 545,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bd5fbd76-f608-11ef-add9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9bdc0a7e-f789-11ef-a3f2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bd5fbd76-f608-11ef-add9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9bdc0a7e-f789-11ef-a3f2-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -9615,18 +9650,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5e522ca-f6da-11ef-8e21-0242ac130004",
                 "name": "SBK Team",
-                "seed": 336
+                "seed": 336,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e915a5a0-f9f2-11ef-9e8f-e2e3b1699cf4",
                 "name": "Peruanizados",
-                "seed": 689
+                "seed": 689,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b5e522ca-f6da-11ef-8e21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e915a5a0-f9f2-11ef-9e8f-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b5e522ca-f6da-11ef-8e21-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e915a5a0-f9f2-11ef-9e8f-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -16450,18 +16520,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7859cdcc-f601-11ef-9e7a-0242ac130004",
                 "name": "Black Vortex",
-                "seed": 458
+                "seed": 458,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "09d5d5fa-f7a3-11ef-9e6d-0242ac130004",
                 "name": "Glory",
-                "seed": 567
+                "seed": 567,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7859cdcc-f601-11ef-9e7a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09d5d5fa-f7a3-11ef-9e6d-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7859cdcc-f601-11ef-9e7a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "09d5d5fa-f7a3-11ef-9e6d-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 363,
@@ -18317,18 +18422,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6d344f6-fa04-11ef-a334-e2e3b1699cf4",
                 "name": "Dióxido de Carbono",
-                "seed": 339
+                "seed": 339,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fad80c42-f63c-11ef-b9d2-0242ac130004",
                 "name": "Mille’s Warriors",
-                "seed": 686
+                "seed": 686,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a6d344f6-fa04-11ef-a334-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fad80c42-f63c-11ef-b9d2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a6d344f6-fa04-11ef-a334-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fad80c42-f63c-11ef-b9d2-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 449,
@@ -20068,7 +20208,9 @@
                 "seed": 33
             },
             "opponent2": {
-                "id": null
+                "id": "bd5fbd76-f608-11ef-add9-0242ac130004",
+                "name": "The Real Ones",
+                "seed": 480
             },
             "match_games": []
         },
@@ -20270,7 +20412,9 @@
                 "seed": 177
             },
             "opponent2": {
-                "id": null
+                "id": "b5e522ca-f6da-11ef-8e21-0242ac130004",
+                "name": "SBK Team",
+                "seed": 336
             },
             "match_games": []
         },
@@ -23148,7 +23292,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "7859cdcc-f601-11ef-9e7a-0242ac130004",
+                "name": "Black Vortex",
+                "seed": 458
             },
             "match_games": []
         },
@@ -23938,7 +24084,9 @@
                 "seed": 174
             },
             "opponent2": {
-                "id": null
+                "id": "a6d344f6-fa04-11ef-a334-e2e3b1699cf4",
+                "name": "Dióxido de Carbono",
+                "seed": 339
             },
             "match_games": []
         },
