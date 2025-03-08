@@ -7010,18 +7010,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
                 "name": "Shoot💦💦=🏳️‍🌈",
-                "seed": 61
+                "seed": 61,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e60e6c76-f7a8-11ef-b4e2-0242ac130004",
                 "name": "Les neuille humide",
-                "seed": 68
+                "seed": 68,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e60e6c76-f7a8-11ef-b4e2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e60e6c76-f7a8-11ef-b4e2-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 147,
