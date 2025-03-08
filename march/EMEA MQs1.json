@@ -93935,18 +93935,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "49a4aae4-f5d7-11ef-8498-0242ac130004",
                 "name": "ck|team",
-                "seed": 399
+                "seed": 399,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3fd77542-f680-11ef-b6e1-0242ac130004",
                 "name": "Zemel team",
-                "seed": 2447
+                "seed": 2447,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "49a4aae4-f5d7-11ef-8498-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3fd77542-f680-11ef-b6e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "49a4aae4-f5d7-11ef-8498-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3fd77542-f680-11ef-b6e1-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "49a4aae4-f5d7-11ef-8498-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3fd77542-f680-11ef-b6e1-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2636,
@@ -104995,18 +105045,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cc4b1070-f49f-11ef-9956-0242ac130004",
                 "name": "Saltys",
-                "seed": 123
+                "seed": 123,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "04b0fbfc-f6ce-11ef-b3de-0242ac130004",
                 "name": "The Monkey",
-                "seed": 2171
+                "seed": 2171,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "cc4b1070-f49f-11ef-9956-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04b0fbfc-f6ce-11ef-b3de-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cc4b1070-f49f-11ef-9956-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "04b0fbfc-f6ce-11ef-b3de-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "cc4b1070-f49f-11ef-9956-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "04b0fbfc-f6ce-11ef-b3de-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2954,
@@ -115122,10 +115222,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "49a4aae4-f5d7-11ef-8498-0242ac130004",
+                "name": "ck|team",
+                "seed": 399
             },
             "opponent2": {
-                "id": null
+                "id": "c9210d0a-f49f-11ef-a9fc-0242ac130004",
+                "name": "Koteto",
+                "seed": 626
             },
             "match_games": []
         },
@@ -118288,10 +118392,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cc4b1070-f49f-11ef-9956-0242ac130004",
+                "name": "Saltys",
+                "seed": 123
             },
             "opponent2": {
-                "id": null
+                "id": "6950d51c-f608-11ef-8e56-0242ac130004",
+                "name": "Awakens",
+                "seed": 1147
             },
             "match_games": []
         },
