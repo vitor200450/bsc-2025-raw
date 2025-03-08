@@ -10038,18 +10038,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7744b862-f6be-11ef-8a38-0242ac130004",
                 "name": "Los Galacticos",
-                "seed": 304
+                "seed": 304,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
                 "name": "🍃Nexus neutral 🍃☄️",
-                "seed": 721
+                "seed": 721,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7744b862-f6be-11ef-8a38-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7744b862-f6be-11ef-8a38-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7744b862-f6be-11ef-8a38-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 61,
@@ -20218,18 +20268,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6ee4a39c-f6e8-11ef-ab00-0242ac130004",
                 "name": "Cocô autista",
-                "seed": 358
+                "seed": 358,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c4399a28-f936-11ef-9c9f-0242ac130005",
                 "name": "Cookies 🍪",
-                "seed": 667
+                "seed": 667,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6ee4a39c-f6e8-11ef-ab00-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4399a28-f936-11ef-9c9f-0242ac130005",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6ee4a39c-f6e8-11ef-ab00-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c4399a28-f936-11ef-9c9f-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6ee4a39c-f6e8-11ef-ab00-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c4399a28-f936-11ef-9c9f-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -21910,7 +22010,9 @@
                 "seed": 209
             },
             "opponent2": {
-                "id": null
+                "id": "b7b27aae-fada-11ef-b81c-eeb4a9f72fed",
+                "name": "🍃Nexus neutral 🍃☄️",
+                "seed": 721
             },
             "match_games": []
         },
@@ -25980,7 +26082,9 @@
                 "seed": 155
             },
             "opponent2": {
-                "id": null
+                "id": "6ee4a39c-f6e8-11ef-ab00-0242ac130004",
+                "name": "Cocô autista",
+                "seed": 358
             },
             "match_games": []
         },
