@@ -43682,18 +43682,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "ee421c6e-f85f-11ef-baf9-0242ac130004",
                 "name": "ARZ Gaming",
-                "seed": 2012
+                "seed": 2012,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9f7fba78-f6c0-11ef-a001-0242ac130004",
                 "name": "Team ECS",
-                "seed": 2085
+                "seed": 2085,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ee421c6e-f85f-11ef-baf9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9f7fba78-f6c0-11ef-a001-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ee421c6e-f85f-11ef-baf9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9f7fba78-f6c0-11ef-a001-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 867,
@@ -57015,18 +57050,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "04bf7c3e-f6b7-11ef-b55e-0242ac130004",
                 "name": "TRINAORES",
-                "seed": 1598
+                "seed": 1598,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bb214c28-f5e5-11ef-951f-0242ac130004",
                 "name": "𝒜บ𝐫ẳ| team",
-                "seed": 2499
+                "seed": 2499,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "04bf7c3e-f6b7-11ef-b55e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb214c28-f5e5-11ef-951f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "04bf7c3e-f6b7-11ef-b55e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bb214c28-f5e5-11ef-951f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1575,
@@ -74181,7 +74251,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "9f7fba78-f6c0-11ef-a001-0242ac130004",
+                "name": "Team ECS",
+                "seed": 2085
             },
             "match_games": []
         },
@@ -81019,7 +81091,9 @@
                 "seed": 451
             },
             "opponent2": {
-                "id": null
+                "id": "04bf7c3e-f6b7-11ef-b55e-0242ac130004",
+                "name": "TRINAORES",
+                "seed": 1598
             },
             "match_games": []
         },
