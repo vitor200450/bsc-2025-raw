@@ -43633,18 +43633,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
                 "name": "A.R.A. Esports",
-                "seed": 85
+                "seed": 85,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
                 "name": "Destr0yers",
-                "seed": 853
+                "seed": 853,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "95b7d4c0-f4a0-11ef-848d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 833,
@@ -46601,7 +46636,9 @@
                 "seed": 812
             },
             "opponent2": {
-                "id": null
+                "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                "name": "Destr0yers",
+                "seed": 853
             },
             "match_games": []
         },
