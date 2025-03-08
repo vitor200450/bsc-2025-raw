@@ -35337,18 +35337,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8dba8ca8-f4a1-11ef-ae19-0242ac130004",
                 "name": "Random",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8de52986-f4a1-11ef-a2c6-0242ac130004",
                 "name": "DGM",
-                "seed": 220
+                "seed": 220,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8dba8ca8-f4a1-11ef-ae19-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8de52986-f4a1-11ef-a2c6-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8dba8ca8-f4a1-11ef-ae19-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8de52986-f4a1-11ef-a2c6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8dba8ca8-f4a1-11ef-ae19-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8de52986-f4a1-11ef-a2c6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 824,
@@ -38638,10 +38688,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8dba8ca8-f4a1-11ef-ae19-0242ac130004",
+                "name": "Random",
+                "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "4c728bac-f95f-11ef-bb1c-0242ac130005",
+                "name": "Harambemaniacos",
+                "seed": 677
             },
             "match_games": []
         },
