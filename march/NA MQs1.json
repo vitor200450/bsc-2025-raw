@@ -43173,18 +43173,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95127796-f4a0-11ef-8bba-0242ac130004",
                 "name": "SHINOBIS",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9392a404-f4a0-11ef-8ddc-0242ac130004",
                 "name": "J-DELUXE",
-                "seed": 308
+                "seed": 308,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "95127796-f4a0-11ef-8bba-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9392a404-f4a0-11ef-8ddc-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "95127796-f4a0-11ef-8bba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9392a404-f4a0-11ef-8ddc-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "95127796-f4a0-11ef-8bba-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9392a404-f4a0-11ef-8ddc-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 812,
@@ -46784,7 +46834,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99f665ce-f4a0-11ef-b9ec-0242ac130004",
                 "name": "🏀🦐🔥",
@@ -46793,7 +46843,8 @@
             "opponent2": {
                 "id": "e92e1a88-f7cf-11ef-8ede-0242ac130004",
                 "name": "The Stars",
-                "seed": 294
+                "seed": 294,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -47632,10 +47683,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "95127796-f4a0-11ef-8bba-0242ac130004",
+                "name": "SHINOBIS",
+                "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "94f13432-f4a0-11ef-97d9-0242ac130004",
+                "name": "Dynamike Enjoyers",
+                "seed": 77
             },
             "match_games": []
         },
@@ -48348,7 +48403,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "99f665ce-f4a0-11ef-b9ec-0242ac130004",
+                "name": "🏀🦐🔥",
+                "seed": 38
             },
             "opponent2": {
                 "id": null
