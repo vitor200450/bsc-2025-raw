@@ -12710,18 +12710,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a132b3e4-f70a-11ef-9cf8-0242ac130004",
                 "name": "Brawl FC",
-                "seed": 440
+                "seed": 440,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e075dd20-f790-11ef-ac1d-0242ac130004",
                 "name": "Eternals",
-                "seed": 585
+                "seed": 585,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a132b3e4-f70a-11ef-9cf8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e075dd20-f790-11ef-ac1d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a132b3e4-f70a-11ef-9cf8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e075dd20-f790-11ef-ac1d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 111,
@@ -16165,18 +16200,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1395674-f5c6-11ef-b3dc-0242ac130004",
                 "name": "tři bratři",
-                "seed": 322
+                "seed": 322,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "76ed3276-f89f-11ef-ad2b-0242ac130004",
                 "name": "Sleeping Forest",
-                "seed": 703
+                "seed": 703,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c1395674-f5c6-11ef-b3dc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "76ed3276-f89f-11ef-ad2b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c1395674-f5c6-11ef-b3dc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "76ed3276-f89f-11ef-ad2b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 273,
@@ -17627,18 +17697,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a61daf06-f946-11ef-a934-0242ac130005",
                 "name": "SUU Esports",
-                "seed": 359
+                "seed": 359,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae28c8fe-f642-11ef-8468-0242ac130004",
                 "name": "RANGOLEROS F/A",
-                "seed": 666
+                "seed": 666,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a61daf06-f946-11ef-a934-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae28c8fe-f642-11ef-8468-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a61daf06-f946-11ef-a934-0242ac130005",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae28c8fe-f642-11ef-8468-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 345,
@@ -22310,7 +22415,9 @@
                 "seed": 73
             },
             "opponent2": {
-                "id": null
+                "id": "e075dd20-f790-11ef-ac1d-0242ac130004",
+                "name": "Eternals",
+                "seed": 585
             },
             "match_games": []
         },
