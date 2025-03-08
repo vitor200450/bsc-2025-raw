@@ -36623,18 +36623,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e1d185ba-f6b0-11ef-8ed3-0242ac130004",
                 "name": "LostTime",
-                "seed": 1609
+                "seed": 1609,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbd834dc-fa04-11ef-ba25-eeb4a9f72fed",
                 "name": "Bis army",
-                "seed": 2488
+                "seed": 2488,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e1d185ba-f6b0-11ef-8ed3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbd834dc-fa04-11ef-ba25-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e1d185ba-f6b0-11ef-8ed3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbd834dc-fa04-11ef-ba25-eeb4a9f72fed",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 439,
@@ -54073,18 +54108,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1dca6452-f5b6-11ef-bdb8-0242ac130004",
                 "name": "Bomzeebka",
-                "seed": 1711
+                "seed": 1711,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c95cd3f2-f608-11ef-9f50-0242ac130004",
                 "name": "White Falcon",
-                "seed": 2386
+                "seed": 2386,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1dca6452-f5b6-11ef-bdb8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c95cd3f2-f608-11ef-9f50-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1dca6452-f5b6-11ef-bdb8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c95cd3f2-f608-11ef-9f50-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1dca6452-f5b6-11ef-bdb8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c95cd3f2-f608-11ef-9f50-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1279,
@@ -62113,18 +62198,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0e3205e4-f9fe-11ef-899a-eeb4a9f72fed",
                 "name": "THE HIDDEN WARRIORS",
-                "seed": 2035
+                "seed": 2035,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e0959cf2-f603-11ef-b447-0242ac130004",
                 "name": "PT ESPORT",
-                "seed": 2062
+                "seed": 2062,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0e3205e4-f9fe-11ef-899a-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0959cf2-f603-11ef-b447-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0e3205e4-f9fe-11ef-899a-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0959cf2-f603-11ef-b447-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1667,
@@ -74110,7 +74230,9 @@
                 "seed": 440
             },
             "opponent2": {
-                "id": null
+                "id": "cbd834dc-fa04-11ef-ba25-eeb4a9f72fed",
+                "name": "Bis army",
+                "seed": 2488
             },
             "match_games": []
         },
@@ -82296,7 +82418,9 @@
                 "seed": 338
             },
             "opponent2": {
-                "id": null
+                "id": "c95cd3f2-f608-11ef-9f50-0242ac130004",
+                "name": "White Falcon",
+                "seed": 2386
             },
             "match_games": []
         },
@@ -86076,7 +86200,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "0e3205e4-f9fe-11ef-899a-eeb4a9f72fed",
+                "name": "THE HIDDEN WARRIORS",
+                "seed": 2035
             },
             "match_games": []
         },
