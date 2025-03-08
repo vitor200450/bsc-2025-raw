@@ -3377,18 +3377,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
                 "name": "世界が俺を呼んでいる",
-                "seed": 101
+                "seed": 101,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d7ae5544-f5d0-11ef-b432-0242ac130004",
                 "name": "SNOWY|1",
-                "seed": 156
+                "seed": 156,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7ae5544-f5d0-11ef-b432-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d7ae5544-f5d0-11ef-b432-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 55,
@@ -4268,18 +4303,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9163baf0-f686-11ef-9803-0242ac130004",
                 "name": "PowerTech",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24a09608-f5ec-11ef-881b-0242ac130004",
                 "name": "Team Absolute Cinema",
-                "seed": 190
+                "seed": 190,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9163baf0-f686-11ef-9803-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24a09608-f5ec-11ef-881b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9163baf0-f686-11ef-9803-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24a09608-f5ec-11ef-881b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 101,
@@ -5335,7 +5405,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
+                "name": "世界が俺を呼んでいる",
+                "seed": 101
             },
             "match_games": []
         },
