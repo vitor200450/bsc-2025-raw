@@ -44960,18 +44960,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
                 "name": "Black Label",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
                 "name": "GgJ eSports",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "8e44c486-f4a1-11ef-a1d9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1004,
