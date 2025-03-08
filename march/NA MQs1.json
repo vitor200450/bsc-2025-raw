@@ -50647,18 +50647,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
                 "name": "H",
-                "seed": 3
+                "seed": 3,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9656adac-f4a0-11ef-a460-0242ac130004",
                 "name": "Cobra Jets",
-                "seed": 131
+                "seed": 131,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9656adac-f4a0-11ef-a460-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9656adac-f4a0-11ef-a460-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9656adac-f4a0-11ef-a460-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 946,
@@ -51022,18 +51072,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "99f665ce-f4a0-11ef-b9ec-0242ac130004",
                 "name": "🏀🦐🔥",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
                 "name": "GOON GANG",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "99f665ce-f4a0-11ef-b9ec-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "99f665ce-f4a0-11ef-b9ec-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "980bf5e4-f4a0-11ef-88ce-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 957,
@@ -51630,7 +51715,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1a4260-f4a3-11ef-a437-0242ac130004",
+                "name": "H",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
