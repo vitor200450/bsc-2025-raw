@@ -18790,15 +18790,49 @@
             "opponent1": {
                 "id": "5a040b14-f6f4-11ef-a70a-0242ac130004",
                 "name": "Rising Legends",
-                "seed": 471
+                "seed": 471,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8624cb46-f61a-11ef-ae81-0242ac130004",
                 "name": "Chotostars",
                 "seed": 554,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5a040b14-f6f4-11ef-a70a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8624cb46-f61a-11ef-ae81-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5a040b14-f6f4-11ef-a70a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8624cb46-f61a-11ef-ae81-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 379,
