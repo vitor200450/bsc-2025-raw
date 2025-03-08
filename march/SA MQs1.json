@@ -10685,18 +10685,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5fee0fb8-f60c-11ef-ac47-0242ac130004",
                 "name": "The final bs",
-                "seed": 488
+                "seed": 488,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e79e9f4-f77b-11ef-9a4f-0242ac130004",
                 "name": "Titans BSC",
-                "seed": 537
+                "seed": 537,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5fee0fb8-f60c-11ef-ac47-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e79e9f4-f77b-11ef-9a4f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5fee0fb8-f60c-11ef-ac47-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3e79e9f4-f77b-11ef-9a4f-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5fee0fb8-f60c-11ef-ac47-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e79e9f4-f77b-11ef-9a4f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 83,
@@ -22617,7 +22667,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "5fee0fb8-f60c-11ef-ac47-0242ac130004",
+                "name": "The final bs",
+                "seed": 488
             },
             "match_games": []
         },
