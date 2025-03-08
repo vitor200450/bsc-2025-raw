@@ -27740,18 +27740,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4dbbef02-f6b8-11ef-a84b-0242ac130004",
                 "name": "Primos Party🎉",
-                "seed": 2048
+                "seed": 2048,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55c1c70c-f6d2-11ef-9bab-0242ac130004",
                 "name": "Talents123",
-                "seed": 2049
+                "seed": 2049,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4dbbef02-f6b8-11ef-a84b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55c1c70c-f6d2-11ef-9bab-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4dbbef02-f6b8-11ef-a84b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55c1c70c-f6d2-11ef-9bab-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -38887,18 +38922,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4bcf7e2-f82f-11ef-a9f1-0242ac130004",
                 "name": "BADAS",
-                "seed": 1821
+                "seed": 1821,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ae7ae048-f67a-11ef-8ba6-0242ac130004",
                 "name": "Sandokan",
-                "seed": 2276
+                "seed": 2276,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f4bcf7e2-f82f-11ef-a9f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ae7ae048-f67a-11ef-8ba6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f4bcf7e2-f82f-11ef-a9f1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae7ae048-f67a-11ef-8ba6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f4bcf7e2-f82f-11ef-a9f1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ae7ae048-f67a-11ef-8ba6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 587,
@@ -67230,7 +67315,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "55c1c70c-f6d2-11ef-9bab-0242ac130004",
+                "name": "Talents123",
+                "seed": 2049
             },
             "match_games": []
         },
@@ -67464,7 +67551,9 @@
                 "seed": 129
             },
             "opponent2": {
-                "id": null
+                "id": "98e00e52-f616-11ef-b873-0242ac130004",
+                "name": "German Titans",
+                "seed": 2177
             },
             "match_games": []
         },
@@ -72876,7 +72965,9 @@
                 "seed": 228
             },
             "opponent2": {
-                "id": null
+                "id": "ae7ae048-f67a-11ef-8ba6-0242ac130004",
+                "name": "Sandokan",
+                "seed": 2276
             },
             "match_games": []
         },
