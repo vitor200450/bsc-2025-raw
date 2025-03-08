@@ -42409,11 +42409,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9423ff6c-f4a0-11ef-9346-0242ac130004",
                 "name": "skill issue",
-                "seed": 72
+                "seed": 72,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "b6f6f3ca-facf-11ef-ae49-e2e3b1699cf4",
@@ -48557,7 +48558,9 @@
                 "seed": 456
             },
             "opponent2": {
-                "id": null
+                "id": "b6f6f3ca-facf-11ef-ae49-e2e3b1699cf4",
+                "name": "Frauds",
+                "seed": 185
             },
             "match_games": []
         },
