@@ -9532,18 +9532,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
                 "name": "TSM",
-                "seed": 125
+                "seed": 125,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
                 "name": "Shoot💦💦=🏳️‍🌈",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24e291d4-f9d4-11ef-9ad6-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 202,
@@ -9777,18 +9812,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e5ee6f4-f49f-11ef-9312-0242ac130004",
                 "name": "Kill chu",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
                 "name": "消臭力",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5e5ee6f4-f49f-11ef-9312-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5e5ee6f4-f49f-11ef-9312-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 209,
@@ -10362,7 +10432,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ddae4302-f6aa-11ef-bec6-0242ac130004",
+                "name": "TSM",
+                "seed": 125
             },
             "opponent2": {
                 "id": null
@@ -10417,7 +10489,9 @@
                 "seed": 140
             },
             "opponent2": {
-                "id": null
+                "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
+                "name": "消臭力",
+                "seed": 44
             },
             "match_games": []
         },
