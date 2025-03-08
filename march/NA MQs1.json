@@ -20871,18 +20871,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16b02e42-f6ea-11ef-8972-0242ac130004",
                 "name": "Ground Zero",
-                "seed": 394
+                "seed": 394,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
                 "name": "LettuceCook",
-                "seed": 631
+                "seed": 631,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "16b02e42-f6ea-11ef-8972-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "16b02e42-f6ea-11ef-8972-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 359,
@@ -24352,18 +24387,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "23ad619a-f5f1-11ef-b596-0242ac130004",
                 "name": "Mx bots babosos",
-                "seed": 358
+                "seed": 358,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
                 "name": "Gusanos",
-                "seed": 667
+                "seed": 667,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "23ad619a-f5f1-11ef-b596-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "23ad619a-f5f1-11ef-b596-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "23ad619a-f5f1-11ef-b596-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -29052,7 +29137,9 @@
                 "seed": 119
             },
             "opponent2": {
-                "id": null
+                "id": "7af0d26c-f7c1-11ef-9ec3-0242ac130004",
+                "name": "LettuceCook",
+                "seed": 631
             },
             "match_games": []
         },
@@ -30158,7 +30245,9 @@
                 "seed": 870
             },
             "opponent2": {
-                "id": null
+                "id": "e53d3ae8-f7f8-11ef-95c3-0242ac130004",
+                "name": "Gusanos",
+                "seed": 667
             },
             "match_games": []
         },
