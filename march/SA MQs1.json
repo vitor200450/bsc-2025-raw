@@ -30965,18 +30965,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f345f14-f4a1-11ef-8474-0242ac130004",
                 "name": "RNG PY",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "27a49ab6-f713-11ef-a769-0242ac130004",
                 "name": "BONEY",
-                "seed": 499
+                "seed": 499,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8f345f14-f4a1-11ef-8474-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27a49ab6-f713-11ef-a769-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8f345f14-f4a1-11ef-8474-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "27a49ab6-f713-11ef-a769-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8f345f14-f4a1-11ef-8474-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "27a49ab6-f713-11ef-a769-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 722,
@@ -34968,10 +35018,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f345f14-f4a1-11ef-8474-0242ac130004",
+                "name": "RNG PY",
+                "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "319e9f12-f5dd-11ef-806b-0242ac130004",
+                "name": "Geração Dos Milagres",
+                "seed": 270
             },
             "match_games": []
         },
