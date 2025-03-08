@@ -29564,18 +29564,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9624e0e2-f4a0-11ef-a4ed-0242ac130004",
                 "name": "Skywalkers",
-                "seed": 89
+                "seed": 89,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
                 "name": "Sauce Hogs",
-                "seed": 424
+                "seed": 424,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9624e0e2-f4a0-11ef-a4ed-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9624e0e2-f4a0-11ef-a4ed-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 560,
@@ -30934,18 +30969,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "98e5e494-fc3d-11ef-bcbb-5e590cfb587b",
                 "name": "Ember",
-                "seed": 252
+                "seed": 252,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
                 "name": "NA OINKERS",
-                "seed": 261
+                "seed": 261,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "98e5e494-fc3d-11ef-bcbb-5e590cfb587b",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "98e5e494-fc3d-11ef-bcbb-5e590cfb587b",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 611,
@@ -31744,18 +31814,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
                 "name": "Destr0yers",
-                "seed": 853
+                "seed": 853,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fffe4138-f898-11ef-827f-0242ac130004",
                 "name": "Chopped Uncs",
-                "seed": 341
+                "seed": 341,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fffe4138-f898-11ef-827f-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 641,
@@ -35225,7 +35330,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "613cbc5c-f701-11ef-a23a-0242ac130004",
+                "name": "Sauce Hogs",
+                "seed": 424
             },
             "opponent2": {
                 "id": null
@@ -35642,7 +35749,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "821f6456-fc38-11ef-8a40-2edafe2dce3a",
+                "name": "NA OINKERS",
+                "seed": 261
             },
             "match_games": []
         },
