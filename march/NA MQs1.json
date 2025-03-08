@@ -47404,18 +47404,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
                 "name": "lebrons dih",
-                "seed": 571
+                "seed": 571,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "23a23202-f7d6-11ef-a954-0242ac130004",
                 "name": "Dark Stars Black",
-                "seed": 315
+                "seed": 315,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23a23202-f7d6-11ef-a954-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "23a23202-f7d6-11ef-a954-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "23a23202-f7d6-11ef-a954-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 884,
@@ -49132,7 +49182,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2c2a70fc-f753-11ef-89fb-0242ac130004",
+                "name": "lebrons dih",
+                "seed": 571
             },
             "opponent2": {
                 "id": null
