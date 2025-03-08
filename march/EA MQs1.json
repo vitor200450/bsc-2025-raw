@@ -11288,18 +11288,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
                 "name": "Gen.G Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
                 "name": "世界が俺を呼んでいる",
-                "seed": 101
+                "seed": 101,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd5303a2-f4a2-11ef-a311-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5c4beca2-f63b-11ef-9947-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 232,
@@ -11553,18 +11588,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4b103e-f4a2-11ef-bc65-0242ac130004",
                 "name": "Sesu",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
                 "name": "NANRYU",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "dd4b103e-f4a2-11ef-bc65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dd4b103e-f4a2-11ef-bc65-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e6e1014-faaf-11ef-9cca-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 240,
