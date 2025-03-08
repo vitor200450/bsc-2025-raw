@@ -24182,7 +24182,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "b6ced3b8-f71e-11ef-85bc-0242ac130004",
                 "name": "BRAWL4ALL",
@@ -24742,18 +24742,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "531739c8-f935-11ef-9358-0242ac130005",
                 "name": "BodrioCell",
-                "seed": 211
+                "seed": 211,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e0df1838-f67a-11ef-b046-0242ac130004",
                 "name": "Los Papus",
-                "seed": 814
+                "seed": 814,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "531739c8-f935-11ef-9358-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "531739c8-f935-11ef-9358-0242ac130005",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "531739c8-f935-11ef-9358-0242ac130005",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 444,
@@ -31563,10 +31613,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e0df1838-f67a-11ef-b046-0242ac130004",
+                "name": "Los Papus",
+                "seed": 814
             },
             "opponent2": {
-                "id": null
+                "id": "e0f25794-f919-11ef-9e9f-0242ac130005",
+                "name": "Hermanitos",
+                "seed": 723
             },
             "match_games": []
         },
