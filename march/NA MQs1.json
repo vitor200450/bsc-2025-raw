@@ -49382,18 +49382,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6371c8c-fa9c-11ef-acb7-e2e3b1699cf4",
                 "name": "Hank Tuah",
-                "seed": 781
+                "seed": 781,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
                 "name": "Kastle Krashers",
-                "seed": 653
+                "seed": 653,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a6371c8c-fa9c-11ef-acb7-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a6371c8c-fa9c-11ef-acb7-e2e3b1699cf4",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a6371c8c-fa9c-11ef-acb7-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d385b6-f7e4-11ef-8a94-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 918,
@@ -49812,18 +49862,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dff6606a-f676-11ef-836c-0242ac130004",
                 "name": "The Reapers",
-                "seed": 812
+                "seed": 812,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
                 "name": "Destr0yers",
-                "seed": 853
+                "seed": 853,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "dff6606a-f676-11ef-836c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "dff6606a-f676-11ef-836c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "dff6606a-f676-11ef-836c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3825a726-fbba-11ef-bfdf-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 929,
@@ -51230,10 +51330,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a6371c8c-fa9c-11ef-acb7-e2e3b1699cf4",
+                "name": "Hank Tuah",
+                "seed": 781
             },
             "opponent2": {
-                "id": null
+                "id": "94f13432-f4a0-11ef-97d9-0242ac130004",
+                "name": "Dynamike Enjoyers",
+                "seed": 77
             },
             "match_games": []
         },
