@@ -13827,18 +13827,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b83906ca-f5f6-11ef-8f8c-0242ac130004",
                 "name": "Los De Los Chiles",
-                "seed": 376
+                "seed": 376,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
                 "name": "One And One",
-                "seed": 649
+                "seed": 649,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b83906ca-f5f6-11ef-8f8c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b83906ca-f5f6-11ef-8f8c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 105,
@@ -27453,7 +27488,9 @@
                 "seed": 137
             },
             "opponent2": {
-                "id": null
+                "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                "name": "One And One",
+                "seed": 649
             },
             "match_games": []
         },
