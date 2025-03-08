@@ -21753,18 +21753,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
                 "name": "Autistic gamers",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ef7353e0-f69e-11ef-83e1-0242ac130004",
                 "name": "Starlight Divinity",
-                "seed": 826
+                "seed": 826,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7353e0-f69e-11ef-83e1-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ef7353e0-f69e-11ef-83e1-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ef7353e0-f69e-11ef-83e1-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 332,
@@ -26288,18 +26338,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "362a7ca8-f78c-11ef-bcbb-0242ac130004",
                 "name": "HDA Level",
-                "seed": 283
+                "seed": 283,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
                 "name": "Zenith Nexu's",
-                "seed": 742
+                "seed": 742,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "362a7ca8-f78c-11ef-bcbb-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "362a7ca8-f78c-11ef-bcbb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "362a7ca8-f78c-11ef-bcbb-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 469,
@@ -31395,10 +31495,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                "name": "Autistic gamers",
+                "seed": 199
             },
             "opponent2": {
-                "id": null
+                "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                "name": "INTERNATIONALS",
+                "seed": 314
             },
             "match_games": []
         },
@@ -32752,7 +32856,9 @@
                 "seed": 230
             },
             "opponent2": {
-                "id": null
+                "id": "4a5fa9b8-f652-11ef-83ba-0242ac130004",
+                "name": "Zenith Nexu's",
+                "seed": 742
             },
             "match_games": []
         },
