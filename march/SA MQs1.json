@@ -6143,7 +6143,7 @@
             "tournament_id": 0,
             "name": "Skibidi Prime",
             "players": [
-                "Villa",
+                "SKPI|Villa",
                 "SKPI|malegao",
                 "SKPI|PALO12"
             ],
@@ -12161,18 +12161,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "06cc64c2-f60a-11ef-b3c5-0242ac130004",
                 "name": "Os ratos",
-                "seed": 484
+                "seed": 484,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "96eb339a-f780-11ef-a7f6-0242ac130004",
                 "name": "King Of King",
-                "seed": 541
+                "seed": 541,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "06cc64c2-f60a-11ef-b3c5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "96eb339a-f780-11ef-a7f6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "06cc64c2-f60a-11ef-b3c5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "96eb339a-f780-11ef-a7f6-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 147,
@@ -19226,18 +19261,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7b40eb22-f6bc-11ef-9c53-0242ac130004",
                 "name": "⚜️Golden Fighters⚜️",
-                "seed": 302
+                "seed": 302,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "690445ac-fae1-11ef-9304-eeb4a9f72fed",
                 "name": "Los parceiros",
-                "seed": 723
+                "seed": 723,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7b40eb22-f6bc-11ef-9c53-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "690445ac-fae1-11ef-9304-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7b40eb22-f6bc-11ef-9c53-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "690445ac-fae1-11ef-9304-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 445,
@@ -19370,18 +19440,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b8326496-f71d-11ef-b01b-0242ac130004",
                 "name": "FIVE LANS",
-                "seed": 507
+                "seed": 507,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ac47382a-f612-11ef-837b-0242ac130004",
                 "name": "REC ON",
-                "seed": 518
+                "seed": 518,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b8326496-f71d-11ef-b01b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac47382a-f612-11ef-837b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b8326496-f71d-11ef-b01b-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ac47382a-f612-11ef-837b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -22449,7 +22554,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "96eb339a-f780-11ef-a7f6-0242ac130004",
+                "name": "King Of King",
+                "seed": 541
             },
             "match_games": []
         },
@@ -25393,7 +25500,9 @@
                 "seed": 211
             },
             "opponent2": {
-                "id": null
+                "id": "7b40eb22-f6bc-11ef-9c53-0242ac130004",
+                "name": "⚜️Golden Fighters⚜️",
+                "seed": 302
             },
             "match_games": []
         },
@@ -25451,7 +25560,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "ac47382a-f612-11ef-837b-0242ac130004",
+                "name": "REC ON",
+                "seed": 518
             },
             "match_games": []
         },
