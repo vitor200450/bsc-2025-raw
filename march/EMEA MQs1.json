@@ -59299,18 +59299,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c265697a-f49f-11ef-b6d0-0242ac130004",
                 "name": "FK_ONTOP",
-                "seed": 1751
+                "seed": 1751,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c7974d32-f49f-11ef-a97f-0242ac130004",
                 "name": "SGG",
-                "seed": 2346
+                "seed": 2346,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c265697a-f49f-11ef-b6d0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c7974d32-f49f-11ef-a97f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c265697a-f49f-11ef-b6d0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c7974d32-f49f-11ef-a97f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1519,
@@ -62337,18 +62372,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd19affa-f69e-11ef-bda8-0242ac130004",
                 "name": "Onlyhungarians",
-                "seed": 1886
+                "seed": 1886,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "42af7422-f5fe-11ef-83bf-0242ac130004",
                 "name": "TIS",
-                "seed": 2211
+                "seed": 2211,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd19affa-f69e-11ef-bda8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "42af7422-f5fe-11ef-83bf-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd19affa-f69e-11ef-bda8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "42af7422-f5fe-11ef-83bf-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1659,
@@ -86450,7 +86520,9 @@
                 "seed": 163
             },
             "opponent2": {
-                "id": null
+                "id": "42af7422-f5fe-11ef-83bf-0242ac130004",
+                "name": "TIS",
+                "seed": 2211
             },
             "match_games": []
         },
