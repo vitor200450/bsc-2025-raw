@@ -8790,18 +8790,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b6de5402-f5e6-11ef-8667-0242ac130004",
                 "name": "RUUUN",
-                "seed": 384
+                "seed": 384,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "39411000-f881-11ef-ad4c-0242ac130004",
                 "name": "MMT",
-                "seed": 641
+                "seed": 641,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b6de5402-f5e6-11ef-8667-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "39411000-f881-11ef-ad4c-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b6de5402-f5e6-11ef-8667-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "39411000-f881-11ef-ad4c-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -20389,7 +20424,9 @@
                 "seed": 129
             },
             "opponent2": {
-                "id": null
+                "id": "39411000-f881-11ef-ad4c-0242ac130004",
+                "name": "MMT",
+                "seed": 641
             },
             "match_games": []
         },
