@@ -31654,18 +31654,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "96cd06fa-f4a0-11ef-b3d6-0242ac130004",
                 "name": "🍚The Rice Farmers🍚",
-                "seed": 61
+                "seed": 61,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d55a7e76-f715-11ef-8863-0242ac130004",
                 "name": "The Cuy Eaters 🇪🇨",
-                "seed": 452
+                "seed": 452,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "96cd06fa-f4a0-11ef-b3d6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d55a7e76-f715-11ef-8863-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "96cd06fa-f4a0-11ef-b3d6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d55a7e76-f715-11ef-8863-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "96cd06fa-f4a0-11ef-b3d6-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d55a7e76-f715-11ef-8863-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 582,
@@ -32597,18 +32647,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "044e8ec0-f6da-11ef-b47b-0242ac130004",
                 "name": "Panas club🫂",
-                "seed": 916
+                "seed": 916,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6758c6b6-f7b6-11ef-a790-0242ac130004",
                 "name": "Top G",
-                "seed": 621
+                "seed": 621,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "044e8ec0-f6da-11ef-b47b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6758c6b6-f7b6-11ef-a790-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "044e8ec0-f6da-11ef-b47b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6758c6b6-f7b6-11ef-a790-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "044e8ec0-f6da-11ef-b47b-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6758c6b6-f7b6-11ef-a790-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 604,
@@ -40960,7 +41060,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "d55a7e76-f715-11ef-8863-0242ac130004",
+                "name": "The Cuy Eaters 🇪🇨",
+                "seed": 452
             },
             "opponent2": {
                 "id": null
@@ -41166,10 +41268,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "044e8ec0-f6da-11ef-b47b-0242ac130004",
+                "name": "Panas club🫂",
+                "seed": 916
             },
             "opponent2": {
-                "id": null
+                "id": "9d7b47dc-f4a0-11ef-83c8-0242ac130004",
+                "name": "2017 Warriors",
+                "seed": 148
             },
             "match_games": []
         },
