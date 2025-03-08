@@ -42338,18 +42338,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
                 "name": "Eclipse",
-                "seed": 389
+                "seed": 389,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1fe9324a-f7d2-11ef-a72b-0242ac130004",
                 "name": "Hi Memer Spin 69",
-                "seed": 645
+                "seed": 645,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fe9324a-f7d2-11ef-a72b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "cd60d434-fac8-11ef-9f3c-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1fe9324a-f7d2-11ef-a72b-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 819,
@@ -42558,18 +42593,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94b8c890-f4a0-11ef-b748-0242ac130004",
                 "name": "SGJ",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50c408d2-f655-11ef-b15a-0242ac130004",
                 "name": "NutriLeche🥛",
-                "seed": 748
+                "seed": 748,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "94b8c890-f4a0-11ef-b748-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50c408d2-f655-11ef-b15a-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "94b8c890-f4a0-11ef-b748-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50c408d2-f655-11ef-b15a-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 830,
@@ -44435,7 +44505,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "94b8c890-f4a0-11ef-b748-0242ac130004",
+                "name": "SGJ",
+                "seed": 21
             },
             "opponent2": {
                 "id": null
