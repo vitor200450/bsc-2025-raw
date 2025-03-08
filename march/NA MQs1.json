@@ -14687,18 +14687,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9829b7be-f4a0-11ef-8c33-0242ac130004",
                 "name": "W boys",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb814c00-fc39-11ef-b60f-5e590cfb587b",
                 "name": "T¥T|GAMING",
-                "seed": 933
+                "seed": 933,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9829b7be-f4a0-11ef-8c33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb814c00-fc39-11ef-b60f-5e590cfb587b",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9829b7be-f4a0-11ef-8c33-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb814c00-fc39-11ef-b60f-5e590cfb587b",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 222,
@@ -22212,7 +22247,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9829b7be-f4a0-11ef-8c33-0242ac130004",
+                "name": "W boys",
+                "seed": 92
             },
             "opponent2": {
                 "id": null
