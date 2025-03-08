@@ -74402,18 +74402,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a04a9d4-f77d-11ef-8b8c-0242ac130004",
                 "name": "KOS|Esports",
-                "seed": 865
+                "seed": 865,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3b4e890-f74a-11ef-8af7-0242ac130004",
                 "name": "IAC",
-                "seed": 1184
+                "seed": 1184,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3a04a9d4-f77d-11ef-8b8c-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a3b4e890-f74a-11ef-8af7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3a04a9d4-f77d-11ef-8b8c-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3b4e890-f74a-11ef-8af7-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2095,
@@ -83712,18 +83747,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bcd2440-f5b5-11ef-9dfd-0242ac130004",
                 "name": "TugasPT",
-                "seed": 404
+                "seed": 404,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d4b1a9ae-f7b5-11ef-9fd3-0242ac130004",
                 "name": "TEAM RIF",
-                "seed": 1645
+                "seed": 1645,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3bcd2440-f5b5-11ef-9dfd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4b1a9ae-f7b5-11ef-9fd3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3bcd2440-f5b5-11ef-9dfd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4b1a9ae-f7b5-11ef-9fd3-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2412,
@@ -89407,18 +89477,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "12c4aafc-f62b-11ef-80e4-0242ac130004",
                 "name": "BrawlGirlYT",
-                "seed": 735
+                "seed": 735,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3d7aec20-f833-11ef-8af7-0242ac130004",
                 "name": "K29|E-SPOR",
-                "seed": 1314
+                "seed": 1314,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "12c4aafc-f62b-11ef-80e4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3d7aec20-f833-11ef-8af7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "12c4aafc-f62b-11ef-80e4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d7aec20-f833-11ef-8af7-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2617,
@@ -106031,10 +106136,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3bcd2440-f5b5-11ef-9dfd-0242ac130004",
+                "name": "TugasPT",
+                "seed": 404
             },
             "opponent2": {
-                "id": null
+                "id": "eab45914-f750-11ef-af2b-0242ac130004",
+                "name": "DFO TEAM",
+                "seed": 621
             },
             "match_games": []
         },
