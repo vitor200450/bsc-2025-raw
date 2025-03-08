@@ -48552,18 +48552,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
                 "name": "Funeraria F/A",
-                "seed": 800
+                "seed": 800,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
                 "name": "MSJ",
-                "seed": 672
+                "seed": 672,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a5474c0-f646-11ef-8cf6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 900,
@@ -48917,18 +48952,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9b4f3888-f4a0-11ef-833d-0242ac130004",
                 "name": "🤡",
-                "seed": 41
+                "seed": 41,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ec638a42-fbd2-11ef-ac0a-2e6bf90781a7",
                 "name": "We Love Kit 😍",
-                "seed": 425
+                "seed": 425,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9b4f3888-f4a0-11ef-833d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec638a42-fbd2-11ef-ac0a-2e6bf90781a7",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9b4f3888-f4a0-11ef-833d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ec638a42-fbd2-11ef-ac0a-2e6bf90781a7",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 913,
@@ -49812,18 +49882,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "97922b9c-f4a0-11ef-adbc-0242ac130004",
                 "name": "BMS",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
                 "name": "Zunters",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "97922b9c-f4a0-11ef-adbc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "97922b9c-f4a0-11ef-adbc-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "997f36d4-f4a0-11ef-bf6b-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 949,
@@ -50162,10 +50267,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "10ceaec0-f66a-11ef-882c-0242ac130004",
+                "name": "Funeraria F/A",
+                "seed": 800
             },
             "opponent2": {
-                "id": null
+                "id": "9a066910-f4a0-11ef-a388-0242ac130004",
+                "name": "Chambeadores NA",
+                "seed": 96
             },
             "match_games": []
         },
