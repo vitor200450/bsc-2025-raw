@@ -31218,18 +31218,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c069a0d2-f6bb-11ef-bb23-0242ac130004",
                 "name": "OTF",
-                "seed": 856
+                "seed": 856,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "467a9060-f5ee-11ef-ae3e-0242ac130004",
                 "name": "AK47",
-                "seed": 344
+                "seed": 344,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c069a0d2-f6bb-11ef-bb23-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "467a9060-f5ee-11ef-ae3e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c069a0d2-f6bb-11ef-bb23-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "467a9060-f5ee-11ef-ae3e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c069a0d2-f6bb-11ef-bb23-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "467a9060-f5ee-11ef-ae3e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 577,
@@ -35603,18 +35653,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
                 "name": "Autistic gamers",
-                "seed": 199
+                "seed": 199,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
                 "name": "INTERNATIONALS",
-                "seed": 314
+                "seed": 314,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "f4d4e412-fc29-11ef-98b2-2eb6e3b924ac",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 679,
@@ -41511,7 +41611,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "6a61d8f6-f5b4-11ef-8f59-0242ac130004",
+                "name": "INTERNATIONALS",
+                "seed": 314
             },
             "match_games": []
         },
