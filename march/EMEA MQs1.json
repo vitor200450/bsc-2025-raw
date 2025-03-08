@@ -27872,18 +27872,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "72b07bee-fb99-11ef-8a14-2e6bf90781a7",
                 "name": "SASITAS",
-                "seed": 1793
+                "seed": 1793,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c817b172-f669-11ef-9760-0242ac130004",
                 "name": "Scorpions Gaming",
-                "seed": 2304
+                "seed": 2304,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "72b07bee-fb99-11ef-8a14-2e6bf90781a7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c817b172-f669-11ef-9760-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "72b07bee-fb99-11ef-8a14-2e6bf90781a7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c817b172-f669-11ef-9760-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -31915,18 +31950,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "c4bbda18-f5dc-11ef-97c6-0242ac130004",
                 "name": "LuxAeterna CM",
-                "seed": 1681
+                "seed": 1681,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "af17e8d0-f76e-11ef-8b32-0242ac130004",
                 "name": "Single4Life",
-                "seed": 2416
+                "seed": 2416,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c4bbda18-f5dc-11ef-97c6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af17e8d0-f76e-11ef-8b32-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c4bbda18-f5dc-11ef-97c6-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "af17e8d0-f76e-11ef-8b32-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 223,
@@ -54641,18 +54711,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "3c3a1e76-f67b-11ef-957a-0242ac130004",
                 "name": "Fancy",
-                "seed": 1591
+                "seed": 1591,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4be7cb0e-f9bc-11ef-93c5-0242ac130005",
                 "name": "EscuadronPeriquete",
-                "seed": 2506
+                "seed": 2506,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3c3a1e76-f67b-11ef-957a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4be7cb0e-f9bc-11ef-93c5-0242ac130005",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3c3a1e76-f67b-11ef-957a-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4be7cb0e-f9bc-11ef-93c5-0242ac130005",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1447,
@@ -66007,7 +66112,9 @@
                 "seed": 256
             },
             "opponent2": {
-                "id": null
+                "id": "72b07bee-fb99-11ef-8a14-2e6bf90781a7",
+                "name": "SASITAS",
+                "seed": 1793
             },
             "match_games": []
         },
@@ -68055,7 +68162,9 @@
                 "seed": 368
             },
             "opponent2": {
-                "id": null
+                "id": "c4bbda18-f5dc-11ef-97c6-0242ac130004",
+                "name": "LuxAeterna CM",
+                "seed": 1681
             },
             "match_games": []
         },
@@ -79855,7 +79964,9 @@
                 "seed": 458
             },
             "opponent2": {
-                "id": null
+                "id": "4be7cb0e-f9bc-11ef-93c5-0242ac130005",
+                "name": "EscuadronPeriquete",
+                "seed": 2506
             },
             "match_games": []
         },
