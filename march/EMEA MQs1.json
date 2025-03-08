@@ -29628,18 +29628,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b3ddd6e8-fa09-11ef-85b3-eeb4a9f72fed",
                 "name": "sinaX",
-                "seed": 1889
+                "seed": 1889,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c651ad6e-f49f-11ef-90af-0242ac130004",
                 "name": "RN|Esport",
-                "seed": 2208
+                "seed": 2208,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b3ddd6e8-fa09-11ef-85b3-eeb4a9f72fed",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c651ad6e-f49f-11ef-90af-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b3ddd6e8-fa09-11ef-85b3-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c651ad6e-f49f-11ef-90af-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b3ddd6e8-fa09-11ef-85b3-eeb4a9f72fed",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c651ad6e-f49f-11ef-90af-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 91,
@@ -64488,18 +64538,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "68138f0c-f6e2-11ef-b0ab-0242ac130004",
                 "name": "Fwaeh",
-                "seed": 1947
+                "seed": 1947,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "20ac2ac6-f623-11ef-85b6-0242ac130004",
                 "name": "RBL|",
-                "seed": 2150
+                "seed": 2150,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "68138f0c-f6e2-11ef-b0ab-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20ac2ac6-f623-11ef-85b6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "68138f0c-f6e2-11ef-b0ab-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "20ac2ac6-f623-11ef-85b6-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "68138f0c-f6e2-11ef-b0ab-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "20ac2ac6-f623-11ef-85b6-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1875,
@@ -68597,7 +68697,9 @@
                 "seed": 160
             },
             "opponent2": {
-                "id": null
+                "id": "c651ad6e-f49f-11ef-90af-0242ac130004",
+                "name": "RN|Esport",
+                "seed": 2208
             },
             "match_games": []
         },
@@ -72929,7 +73031,9 @@
                 "seed": 132
             },
             "opponent2": {
-                "id": null
+                "id": "56b16014-f5e7-11ef-8950-0242ac130004",
+                "name": "Myths writer",
+                "seed": 1917
             },
             "match_games": []
         },
@@ -85881,7 +85985,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "68138f0c-f6e2-11ef-b0ab-0242ac130004",
+                "name": "Fwaeh",
+                "seed": 1947
             },
             "match_games": []
         },
