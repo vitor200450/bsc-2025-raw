@@ -8826,18 +8826,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
                 "name": "Imparáveis FC",
-                "seed": 449
+                "seed": 449,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "387269a8-f61f-11ef-9264-0242ac130004",
                 "name": "BDM",
-                "seed": 576
+                "seed": 576,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387269a8-f61f-11ef-9264-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387269a8-f61f-11ef-9264-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -19110,18 +19145,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "001de1ae-f6b5-11ef-95ff-0242ac130004",
                 "name": "716 Team F/A",
-                "seed": 395
+                "seed": 395,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "687fc516-f62c-11ef-a057-0242ac130004",
                 "name": "Crazy Mentality",
-                "seed": 630
+                "seed": 630,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "001de1ae-f6b5-11ef-95ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "687fc516-f62c-11ef-a057-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "001de1ae-f6b5-11ef-95ff-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "687fc516-f62c-11ef-a057-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 487,
@@ -19852,7 +19922,9 @@
                 "seed": 64
             },
             "opponent2": {
-                "id": null
+                "id": "8b670af8-f6e0-11ef-9d42-0242ac130004",
+                "name": "Imparáveis FC",
+                "seed": 449
             },
             "match_games": []
         },
@@ -24214,7 +24286,9 @@
                 "seed": 118
             },
             "opponent2": {
-                "id": null
+                "id": "001de1ae-f6b5-11ef-95ff-0242ac130004",
+                "name": "716 Team F/A",
+                "seed": 395
             },
             "match_games": []
         },
