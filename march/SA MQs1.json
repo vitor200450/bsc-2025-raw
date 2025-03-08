@@ -35966,18 +35966,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "088d5b0e-f619-11ef-a417-0242ac130004",
                 "name": "Bistec",
-                "seed": 550
+                "seed": 550,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
                 "name": "The kings",
-                "seed": 219
+                "seed": 219,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c782d860-fae5-11ef-9ddb-e2e3b1699cf4",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 888,
@@ -37112,7 +37147,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "088d5b0e-f619-11ef-a417-0242ac130004",
+                "name": "Bistec",
+                "seed": 550
             },
             "opponent2": {
                 "id": null
