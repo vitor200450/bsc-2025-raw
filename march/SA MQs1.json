@@ -43045,18 +43045,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9360f282-f4a1-11ef-807f-0242ac130004",
                 "name": "Censored Sports",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e2f42c8-f4a1-11ef-bcb8-0242ac130004",
                 "name": "Egoístas",
-                "seed": 200
+                "seed": 200,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e2f42c8-f4a1-11ef-bcb8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e2f42c8-f4a1-11ef-bcb8-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 966,
@@ -43485,18 +43520,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a83998be-f5ee-11ef-846c-0242ac130004",
                 "name": "Tribe 6ix One",
-                "seed": 402
+                "seed": 402,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e1d0540-f4a1-11ef-886b-0242ac130004",
                 "name": "PICARONES!",
-                "seed": 210
+                "seed": 210,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e1d0540-f4a1-11ef-886b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e1d0540-f4a1-11ef-886b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -43781,7 +43851,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9360f282-f4a1-11ef-807f-0242ac130004",
+                "name": "Censored Sports",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -43902,7 +43974,9 @@
                 "seed": 271
             },
             "opponent2": {
-                "id": null
+                "id": "a83998be-f5ee-11ef-846c-0242ac130004",
+                "name": "Tribe 6ix One",
+                "seed": 402
             },
             "match_games": []
         },
