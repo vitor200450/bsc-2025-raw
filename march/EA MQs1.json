@@ -2573,18 +2573,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
                 "name": "Limit Break",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "889c660e-f5fc-11ef-9536-0242ac130004",
                 "name": "CS",
-                "seed": 208
+                "seed": 208,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "889c660e-f5fc-11ef-9536-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "889c660e-f5fc-11ef-9536-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -5108,7 +5143,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "19fbb3da-f912-11ef-b6a0-0242ac130005",
+                "name": "Limit Break",
+                "seed": 49
             },
             "opponent2": {
                 "id": null
