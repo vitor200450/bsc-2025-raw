@@ -11273,18 +11273,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e81b8c2-f5b5-11ef-b29c-0242ac130004",
                 "name": "We don't know",
-                "seed": 140
+                "seed": 140,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
                 "name": "消臭力",
-                "seed": 44
+                "seed": 44,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8e81b8c2-f5b5-11ef-b29c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8e81b8c2-f5b5-11ef-b29c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ed1ad6a-f49f-11ef-9b0b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 233,
