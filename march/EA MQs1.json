@@ -3617,18 +3617,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
                 "name": "迷子のろいろい",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eab67590-f5ee-11ef-979b-0242ac130004",
                 "name": "PND",
-                "seed": 194
+                "seed": 194,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eab67590-f5ee-11ef-979b-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eab67590-f5ee-11ef-979b-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 68,
@@ -5384,7 +5419,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6a6cea2-fa97-11ef-a49a-e2e3b1699cf4",
+                "name": "迷子のろいろい",
+                "seed": 63
             },
             "opponent2": {
                 "id": null
