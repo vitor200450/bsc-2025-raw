@@ -18534,7 +18534,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a040b14-f6f4-11ef-a70a-0242ac130004",
                 "name": "Rising Legends",
@@ -18543,7 +18543,8 @@
             "opponent2": {
                 "id": "8624cb46-f61a-11ef-ae81-0242ac130004",
                 "name": "Chotostars",
-                "seed": 554
+                "seed": 554,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -26067,7 +26068,9 @@
                 "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "5a040b14-f6f4-11ef-a70a-0242ac130004",
+                "name": "Rising Legends",
+                "seed": 471
             },
             "match_games": []
         },
