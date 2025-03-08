@@ -29500,7 +29500,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
                 "name": "Shiver Me Timbers",
@@ -29509,7 +29509,8 @@
             "opponent2": {
                 "id": "f16cc1c4-f7b9-11ef-aa2b-0242ac130004",
                 "name": "Green Fortnite",
-                "seed": 305
+                "seed": 305,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41511,7 +41512,9 @@
                 "seed": 561
             },
             "opponent2": {
-                "id": null
+                "id": "940e8cc2-f4a0-11ef-bf2d-0242ac130004",
+                "name": "Shiver Me Timbers",
+                "seed": 208
             },
             "match_games": []
         },
