@@ -32240,14 +32240,63 @@
                 "id": "c85ea33c-f49f-11ef-bc80-0242ac130004",
                 "name": "pomidor4icki",
                 "seed": 2032,
-                "forfeit": 1
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a9300290-f6ce-11ef-bc75-0242ac130004",
                 "name": "TDM",
-                "seed": 2065
+                "seed": 2065,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c85ea33c-f49f-11ef-bc80-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a9300290-f6ce-11ef-bc75-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c85ea33c-f49f-11ef-bc80-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9300290-f6ce-11ef-bc75-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c85ea33c-f49f-11ef-bc80-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a9300290-f6ce-11ef-bc75-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 195,
