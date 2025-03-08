@@ -48667,18 +48667,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
                 "name": "Monkey Squad",
-                "seed": 240
+                "seed": 240,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
                 "name": "PING GAMBIT",
-                "seed": 401
+                "seed": 401,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6b78c5ac-f743-11ef-942b-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 904,
@@ -50089,7 +50124,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
+                "name": "PING GAMBIT",
+                "seed": 401
             },
             "opponent2": {
                 "id": null
