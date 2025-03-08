@@ -56790,49 +56790,15 @@
             "opponent1": {
                 "id": "be160d98-f49f-11ef-a952-0242ac130004",
                 "name": "Team Secret",
-                "seed": 1991,
-                "score": 0,
-                "result": "loss"
+                "seed": 1991
             },
             "opponent2": {
                 "id": "e1d818f6-f6df-11ef-bc61-0242ac130004",
                 "name": "Quantum",
                 "seed": 2106,
-                "score": 2,
-                "result": "win"
+                "forfeit": 1
             },
-            "match_games": [
-                {
-                    "id": 0,
-                    "name": "match_1",
-                    "gameMode": "Gem Grab",
-                    "mapName": "Hard Rock Mine",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
-                    "opponent1": {
-                        "id": "be160d98-f49f-11ef-a952-0242ac130004",
-                        "score": 0
-                    },
-                    "opponent2": {
-                        "id": "e1d818f6-f6df-11ef-bc61-0242ac130004",
-                        "score": 2
-                    }
-                },
-                {
-                    "id": 1,
-                    "name": "match_2",
-                    "gameMode": "Brawl Ball",
-                    "mapName": "Triple Dribble",
-                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
-                    "opponent1": {
-                        "id": "be160d98-f49f-11ef-a952-0242ac130004",
-                        "score": 0
-                    },
-                    "opponent2": {
-                        "id": "e1d818f6-f6df-11ef-bc61-0242ac130004",
-                        "score": 2
-                    }
-                }
-            ]
+            "match_games": []
         },
         {
             "id": 1315,
@@ -85980,9 +85946,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": "e1d818f6-f6df-11ef-bc61-0242ac130004",
-                "name": "Quantum",
-                "seed": 2106
+                "id": "be160d98-f49f-11ef-a952-0242ac130004",
+                "name": "Team Secret",
+                "seed": 1991
             },
             "match_games": []
         },
@@ -87256,7 +87222,9 @@
                 "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "71d42eca-f601-11ef-a36f-0242ac130004",
+                "name": "Team MAX",
+                "seed": 2103
             },
             "match_games": []
         },
