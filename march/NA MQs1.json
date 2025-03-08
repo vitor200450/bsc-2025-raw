@@ -53080,18 +53080,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
                 "name": "CSJP",
-                "seed": 119
+                "seed": 119,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "95f816de-f4a0-11ef-9457-0242ac130004",
                 "name": "Sofried",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "94755e84-f4a0-11ef-bf99-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 984,
@@ -53747,10 +53797,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "95f816de-f4a0-11ef-9457-0242ac130004",
+                "name": "Sofried",
+                "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "e90223e4-f95d-11ef-ba4b-0242ac130005",
+                "name": "Octane Zero",
+                "seed": 215
             },
             "match_games": []
         },
