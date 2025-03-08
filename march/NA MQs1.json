@@ -45823,18 +45823,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "941241be-f4a0-11ef-a1e9-0242ac130004",
                 "name": "Tilines sigma FC",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d03c432-f4a0-11ef-acfa-0242ac130004",
                 "name": "Zobs trisomique 🦧🦧",
-                "seed": 186
+                "seed": 186,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "941241be-f4a0-11ef-a1e9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9d03c432-f4a0-11ef-acfa-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "941241be-f4a0-11ef-a1e9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d03c432-f4a0-11ef-acfa-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "941241be-f4a0-11ef-a1e9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d03c432-f4a0-11ef-acfa-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 853,
@@ -49025,7 +49075,9 @@
                 "seed": 58
             },
             "opponent2": {
-                "id": null
+                "id": "941241be-f4a0-11ef-a1e9-0242ac130004",
+                "name": "Tilines sigma FC",
+                "seed": 71
             },
             "match_games": []
         },
