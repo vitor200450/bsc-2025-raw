@@ -23063,18 +23063,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f2f3f48-f4a1-11ef-a970-0242ac130004",
                 "name": "MercyGaming",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f7b5cdc4-f7ae-11ef-b181-0242ac130004",
                 "name": "Yeshua Team",
-                "seed": 577
+                "seed": 577,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8f2f3f48-f4a1-11ef-a970-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f7b5cdc4-f7ae-11ef-b181-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8f2f3f48-f4a1-11ef-a970-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f7b5cdc4-f7ae-11ef-b181-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 520,
@@ -30776,7 +30811,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f2f3f48-f4a1-11ef-a970-0242ac130004",
+                "name": "MercyGaming",
+                "seed": 65
             },
             "opponent2": {
                 "id": null
