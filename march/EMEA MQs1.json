@@ -66824,18 +66824,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6afd2be6-f5e9-11ef-8941-0242ac130004",
                 "name": "Campoy cariño UWU",
-                "seed": 1798
+                "seed": 1798,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b76ae834-faca-11ef-9b6c-eeb4a9f72fed",
                 "name": "UDF",
-                "seed": 2299
+                "seed": 2299,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6afd2be6-f5e9-11ef-8941-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b76ae834-faca-11ef-9b6c-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6afd2be6-f5e9-11ef-8941-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b76ae834-faca-11ef-9b6c-eeb4a9f72fed",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6afd2be6-f5e9-11ef-8941-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b76ae834-faca-11ef-9b6c-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1803,
@@ -89894,7 +89944,9 @@
                 "seed": 251
             },
             "opponent2": {
-                "id": null
+                "id": "6afd2be6-f5e9-11ef-8941-0242ac130004",
+                "name": "Campoy cariño UWU",
+                "seed": 1798
             },
             "match_games": []
         },
