@@ -52140,18 +52140,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
                 "name": "One And One",
-                "seed": 649
+                "seed": 649,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
                 "name": "The Brins",
-                "seed": 184
+                "seed": 184,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 968,
@@ -52180,18 +52215,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1b4070-f4a3-11ef-99c3-0242ac130004",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fef9a9f6-f629-11ef-8fad-0242ac130004",
                 "name": "SSBS ROYAL FOUNTAIN",
-                "seed": 580
+                "seed": 580,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3c1b4070-f4a3-11ef-99c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fef9a9f6-f629-11ef-8fad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3c1b4070-f4a3-11ef-99c3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fef9a9f6-f629-11ef-8fad-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 970,
@@ -53262,7 +53332,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8f5d38e-f7da-11ef-8b9a-0242ac130004",
+                "name": "One And One",
+                "seed": 649
             },
             "opponent2": {
                 "id": null
@@ -53278,7 +53350,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1b4070-f4a3-11ef-99c3-0242ac130004",
+                "name": "RJG Team 🔥🔥🔥",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
