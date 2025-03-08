@@ -31544,18 +31544,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9e033836-f4a0-11ef-9661-0242ac130004",
                 "name": "TERMINATORS",
-                "seed": 188
+                "seed": 188,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31abfb50-f649-11ef-b180-0242ac130004",
                 "name": "GALAXY",
-                "seed": 700
+                "seed": 700,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9e033836-f4a0-11ef-9661-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31abfb50-f649-11ef-b180-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9e033836-f4a0-11ef-9661-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31abfb50-f649-11ef-b180-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 617,
