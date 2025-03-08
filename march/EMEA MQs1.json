@@ -30852,18 +30852,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "ea9c25fe-fbe4-11ef-a02c-46647c8a1311",
                 "name": "OLD AZERBAİJAN",
-                "seed": 1872
+                "seed": 1872,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f7a3800-f771-11ef-8118-0242ac130004",
                 "name": "Giroc_power",
-                "seed": 2225
+                "seed": 2225,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ea9c25fe-fbe4-11ef-a02c-46647c8a1311",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f7a3800-f771-11ef-8118-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "ea9c25fe-fbe4-11ef-a02c-46647c8a1311",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f7a3800-f771-11ef-8118-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -64185,7 +64220,9 @@
                 "seed": 177
             },
             "opponent2": {
-                "id": null
+                "id": "ea9c25fe-fbe4-11ef-a02c-46647c8a1311",
+                "name": "OLD AZERBAİJAN",
+                "seed": 1872
             },
             "match_games": []
         },
