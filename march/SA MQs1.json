@@ -41160,18 +41160,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e7537c4-f4a1-11ef-8baf-0242ac130004",
                 "name": "GALÁTICS",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "904bdff8-f4a1-11ef-9090-0242ac130004",
                 "name": "KHALMA KHA-LABREZZOS",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8e7537c4-f4a1-11ef-8baf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "904bdff8-f4a1-11ef-9090-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8e7537c4-f4a1-11ef-8baf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "904bdff8-f4a1-11ef-9090-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 944,
@@ -41220,18 +41255,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
                 "name": "Latin Gaming",
-                "seed": 574
+                "seed": 574,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6c644880-f5fc-11ef-9f89-0242ac130004",
                 "name": "Templarios",
-                "seed": 446
+                "seed": 446,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c644880-f5fc-11ef-9f89-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1acf4736-f61f-11ef-aedb-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6c644880-f5fc-11ef-9f89-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 947,
@@ -42093,7 +42163,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8e7537c4-f4a1-11ef-8baf-0242ac130004",
+                "name": "GALÁTICS",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
