@@ -91084,18 +91084,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "186cf61e-f4a3-11ef-a92c-0242ac130004",
                 "name": "Universum Gaming",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "38f3e1c2-f68d-11ef-95e6-0242ac130004",
                 "name": "ARM",
-                "seed": 2054
+                "seed": 2054,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "186cf61e-f4a3-11ef-a92c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38f3e1c2-f68d-11ef-95e6-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "186cf61e-f4a3-11ef-a92c-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "38f3e1c2-f68d-11ef-95e6-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2946,
@@ -100855,7 +100890,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "186cf61e-f4a3-11ef-a92c-0242ac130004",
+                "name": "Universum Gaming",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
