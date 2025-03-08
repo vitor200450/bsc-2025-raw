@@ -25234,18 +25234,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
                 "name": "Pitchulas",
-                "seed": 61
+                "seed": 61,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "526dbfe0-f7a7-11ef-83fa-0242ac130004",
                 "name": "Trío Pollito",
-                "seed": 573
+                "seed": 573,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "526dbfe0-f7a7-11ef-83fa-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "526dbfe0-f7a7-11ef-83fa-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "526dbfe0-f7a7-11ef-83fa-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 582,
@@ -27790,18 +27840,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f6d85f0-f4a1-11ef-85f1-0242ac130004",
                 "name": "Los Pékas",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0aa141e0-f6c7-11ef-9154-0242ac130004",
                 "name": "K1NGS",
-                "seed": 415
+                "seed": 415,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8f6d85f0-f4a1-11ef-85f1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0aa141e0-f6c7-11ef-9154-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "8f6d85f0-f4a1-11ef-85f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0aa141e0-f6c7-11ef-9154-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "8f6d85f0-f4a1-11ef-85f1-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0aa141e0-f6c7-11ef-9154-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 652,
@@ -32888,10 +32988,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8ec7ea5a-f4a1-11ef-8d46-0242ac130004",
+                "name": "Pitchulas",
+                "seed": 61
             },
             "opponent2": {
-                "id": null
+                "id": "a7b6ea9c-f89e-11ef-9b93-0242ac130004",
+                "name": "MGC",
+                "seed": 317
             },
             "match_games": []
         },
@@ -33570,7 +33674,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f6d85f0-f4a1-11ef-85f1-0242ac130004",
+                "name": "Los Pékas",
+                "seed": 98
             },
             "opponent2": {
                 "id": null
