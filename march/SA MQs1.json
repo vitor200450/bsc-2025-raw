@@ -20939,18 +20939,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6fb3e6f4-f60f-11ef-9d67-0242ac130004",
                 "name": "MITHYCAL|ARG🇦🇷",
-                "seed": 502
+                "seed": 502,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a975a7ea-f76a-11ef-8e93-0242ac130004",
                 "name": "AMOSTRADINHOS",
-                "seed": 523
+                "seed": 523,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6fb3e6f4-f60f-11ef-9d67-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a975a7ea-f76a-11ef-8e93-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6fb3e6f4-f60f-11ef-9d67-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a975a7ea-f76a-11ef-8e93-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6fb3e6f4-f60f-11ef-9d67-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a975a7ea-f76a-11ef-8e93-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 483,
@@ -26531,7 +26581,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "a975a7ea-f76a-11ef-8e93-0242ac130004",
+                "name": "AMOSTRADINHOS",
+                "seed": 523
             },
             "match_games": []
         },
