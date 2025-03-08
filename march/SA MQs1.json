@@ -12506,18 +12506,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "523f337c-f6ae-11ef-973e-0242ac130004",
                 "name": "3 ANGRY MEN",
-                "seed": 389
+                "seed": 389,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eae38c58-f62d-11ef-bab0-0242ac130004",
                 "name": "Ratos Com Tétano",
-                "seed": 636
+                "seed": 636,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eae38c58-f62d-11ef-bab0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eae38c58-f62d-11ef-bab0-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 199,
@@ -20782,7 +20817,9 @@
                 "seed": 124
             },
             "opponent2": {
-                "id": null
+                "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                "name": "3 ANGRY MEN",
+                "seed": 389
             },
             "match_games": []
         },
