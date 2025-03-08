@@ -2447,18 +2447,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36176528-f77d-11ef-addd-0242ac130004",
                 "name": "Challenge9win colmou",
-                "seed": 65
+                "seed": 65,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "545e38d0-f5ee-11ef-a632-0242ac130004",
                 "name": "PUZZLE",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "36176528-f77d-11ef-addd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "545e38d0-f5ee-11ef-a632-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "36176528-f77d-11ef-addd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "545e38d0-f5ee-11ef-a632-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -4555,18 +4590,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
                 "name": "ちょっと旬なバナナ",
-                "seed": 82
+                "seed": 82,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e18198fc-f804-11ef-8c84-0242ac130004",
                 "name": "附中數資有個電競夢",
-                "seed": 175
+                "seed": 175,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e18198fc-f804-11ef-8c84-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e18198fc-f804-11ef-8c84-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 81,
@@ -5962,7 +6032,9 @@
                 "seed": 193
             },
             "opponent2": {
-                "id": null
+                "id": "36176528-f77d-11ef-addd-0242ac130004",
+                "name": "Challenge9win colmou",
+                "seed": 65
             },
             "match_games": []
         },
@@ -6714,7 +6786,9 @@
                 "seed": 210
             },
             "opponent2": {
-                "id": null
+                "id": "0f6ab654-f643-11ef-9cb7-0242ac130004",
+                "name": "ちょっと旬なバナナ",
+                "seed": 82
             },
             "match_games": []
         },
