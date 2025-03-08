@@ -47965,18 +47965,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "648293e6-f6de-11ef-88ce-0242ac130004",
                 "name": "RAS ALBARES",
-                "seed": 1685
+                "seed": 1685,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "afe2a940-f7bd-11ef-9865-0242ac130004",
                 "name": "XMM",
-                "seed": 2412
+                "seed": 2412,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "648293e6-f6de-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afe2a940-f7bd-11ef-9865-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "648293e6-f6de-11ef-88ce-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "afe2a940-f7bd-11ef-9865-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 991,
@@ -54972,18 +55007,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "701a8092-f607-11ef-b583-0242ac130004",
                 "name": "NXS esports",
-                "seed": 1850
+                "seed": 1850,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4932f590-fb8e-11ef-a0fb-86d57bc0b8cd",
                 "name": "Toxic Bros",
-                "seed": 2247
+                "seed": 2247,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "701a8092-f607-11ef-b583-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4932f590-fb8e-11ef-a0fb-86d57bc0b8cd",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "701a8092-f607-11ef-b583-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4932f590-fb8e-11ef-a0fb-86d57bc0b8cd",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1323,
@@ -61891,18 +61961,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6204f314-f5ff-11ef-9dec-0242ac130004",
                 "name": "FXT",
-                "seed": 1955
+                "seed": 1955,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24c69844-f876-11ef-ad87-0242ac130004",
                 "name": "Rascalz",
-                "seed": 2142
+                "seed": 2142,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "6204f314-f5ff-11ef-9dec-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "24c69844-f876-11ef-ad87-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6204f314-f5ff-11ef-9dec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24c69844-f876-11ef-ad87-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "6204f314-f5ff-11ef-9dec-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24c69844-f876-11ef-ad87-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1651,
@@ -71050,7 +71170,9 @@
                 "seed": 289
             },
             "opponent2": {
-                "id": null
+                "id": "dcab24bc-f758-11ef-9d98-0242ac130004",
+                "name": "C95 team",
+                "seed": 1760
             },
             "match_games": []
         },
@@ -79602,7 +79724,9 @@
                 "seed": 364
             },
             "opponent2": {
-                "id": null
+                "id": "648293e6-f6de-11ef-88ce-0242ac130004",
+                "name": "RAS ALBARES",
+                "seed": 1685
             },
             "match_games": []
         },
@@ -82844,7 +82968,9 @@
                 "seed": 199
             },
             "opponent2": {
-                "id": null
+                "id": "4932f590-fb8e-11ef-a0fb-86d57bc0b8cd",
+                "name": "Toxic Bros",
+                "seed": 2247
             },
             "match_games": []
         },
@@ -86046,7 +86172,9 @@
                 "seed": 94
             },
             "opponent2": {
-                "id": null
+                "id": "6204f314-f5ff-11ef-9dec-0242ac130004",
+                "name": "FXT",
+                "seed": 1955
             },
             "match_games": []
         },
