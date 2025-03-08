@@ -40235,18 +40235,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9422da00-f4a1-11ef-a9ea-0242ac130004",
                 "name": "Decow Stars",
-                "seed": 36
+                "seed": 36,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9164f852-f4a1-11ef-bee8-0242ac130004",
                 "name": "AspirantsOfWaR",
-                "seed": 164
+                "seed": 164,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "9422da00-f4a1-11ef-a9ea-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9164f852-f4a1-11ef-bee8-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "9422da00-f4a1-11ef-a9ea-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9164f852-f4a1-11ef-bee8-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 917,
@@ -40495,18 +40530,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8eae7ad4-f4a1-11ef-8bd7-0242ac130004",
                 "name": "Unfathers",
-                "seed": 60
+                "seed": 60,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e96c6774-f640-11ef-af4d-0242ac130004",
                 "name": "KDB",
-                "seed": 700
+                "seed": 700,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "8eae7ad4-f4a1-11ef-8bd7-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e96c6774-f640-11ef-af4d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8eae7ad4-f4a1-11ef-8bd7-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e96c6774-f640-11ef-af4d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 923,
@@ -42066,7 +42136,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "9422da00-f4a1-11ef-a9ea-0242ac130004",
+                "name": "Decow Stars",
+                "seed": 36
             },
             "match_games": []
         },
@@ -42120,7 +42192,9 @@
                 "seed": 389
             },
             "opponent2": {
-                "id": null
+                "id": "e96c6774-f640-11ef-af4d-0242ac130004",
+                "name": "KDB",
+                "seed": 700
             },
             "match_games": []
         },
