@@ -9287,18 +9287,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
                 "name": "昱翔team",
-                "seed": 32
+                "seed": 32,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5e52dbde-f49f-11ef-b422-0242ac130004",
                 "name": "F.GHK風呂キャンセル界隈",
-                "seed": 33
+                "seed": 33,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e52dbde-f49f-11ef-b422-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5e2786c8-f49f-11ef-8fcd-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5e52dbde-f49f-11ef-b422-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -9587,18 +9622,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dfbfb84-f49f-11ef-b8a3-0242ac130004",
                 "name": "ぽこぽこ侍",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ef40798-f49f-11ef-b46d-0242ac130004",
                 "name": "ボリビア軍団",
-                "seed": 36
+                "seed": 36,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5dfbfb84-f49f-11ef-b8a3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef40798-f49f-11ef-b46d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5dfbfb84-f49f-11ef-b8a3-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5ef40798-f49f-11ef-b46d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 203,
@@ -10472,7 +10542,9 @@
                 "seed": 125
             },
             "opponent2": {
-                "id": null
+                "id": "5ef40798-f49f-11ef-b46d-0242ac130004",
+                "name": "ボリビア軍団",
+                "seed": 36
             },
             "match_games": []
         },
