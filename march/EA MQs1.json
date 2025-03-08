@@ -4688,18 +4688,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ef39998-f49f-11ef-b51d-0242ac130004",
                 "name": "Approximately",
-                "seed": 59
+                "seed": 59,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aca278a6-f5f0-11ef-9d36-0242ac130004",
                 "name": "TROLLY ESPORTS",
-                "seed": 198
+                "seed": 198,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5ef39998-f49f-11ef-b51d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca278a6-f5f0-11ef-9d36-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5ef39998-f49f-11ef-b51d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aca278a6-f5f0-11ef-9d36-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 116,
@@ -5948,7 +5983,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5ef39998-f49f-11ef-b51d-0242ac130004",
+                "name": "Approximately",
+                "seed": 59
             },
             "opponent2": {
                 "id": null
