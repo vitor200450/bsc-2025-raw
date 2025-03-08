@@ -24463,18 +24463,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90396df0-f4a1-11ef-b2ac-0242ac130004",
                 "name": "tilines",
-                "seed": 104
+                "seed": 104,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
                 "name": "Churrisa",
-                "seed": 409
+                "seed": 409,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "90396df0-f4a1-11ef-b2ac-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "90396df0-f4a1-11ef-b2ac-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "90396df0-f4a1-11ef-b2ac-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 556,
@@ -32701,18 +32751,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9c967cfc-fa44-11ef-9a0a-eeb4a9f72fed",
                 "name": "Squad Paloma",
-                "seed": 139
+                "seed": 139,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "be83a53e-f6f6-11ef-9181-0242ac130004",
                 "name": "Ascension e-sports",
-                "seed": 374
+                "seed": 374,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9c967cfc-fa44-11ef-9a0a-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be83a53e-f6f6-11ef-9181-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9c967cfc-fa44-11ef-9a0a-eeb4a9f72fed",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "be83a53e-f6f6-11ef-9181-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9c967cfc-fa44-11ef-9a0a-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be83a53e-f6f6-11ef-9181-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 757,
@@ -33693,10 +33793,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "ebdc0aac-f6c0-11ef-98e8-0242ac130004",
+                "name": "Churrisa",
+                "seed": 409
             },
             "opponent2": {
-                "id": null
+                "id": "f3286484-f91f-11ef-ace5-0242ac130005",
+                "name": "Fênix",
+                "seed": 665
             },
             "match_games": []
         },
@@ -35682,7 +35786,9 @@
                 "seed": 395
             },
             "opponent2": {
-                "id": null
+                "id": "9c967cfc-fa44-11ef-9a0a-eeb4a9f72fed",
+                "name": "Squad Paloma",
+                "seed": 139
             },
             "match_games": []
         },
