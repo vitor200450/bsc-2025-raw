@@ -59592,18 +59592,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "39586e40-f70e-11ef-850f-0242ac130004",
                 "name": "FulCrum",
-                "seed": 1911
+                "seed": 1911,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "23db55e6-f678-11ef-b84e-0242ac130004",
                 "name": "Reva Team",
-                "seed": 2186
+                "seed": 2186,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "39586e40-f70e-11ef-850f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "23db55e6-f678-11ef-b84e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "39586e40-f70e-11ef-850f-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "23db55e6-f678-11ef-b84e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1435,
@@ -87231,7 +87266,9 @@
                 "seed": 138
             },
             "opponent2": {
-                "id": null
+                "id": "23db55e6-f678-11ef-b84e-0242ac130004",
+                "name": "Reva Team",
+                "seed": 2186
             },
             "match_games": []
         },
