@@ -29639,18 +29639,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
                 "name": "The Brins",
-                "seed": 184
+                "seed": 184,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "12cdcbf0-f649-11ef-b6ad-0242ac130004",
                 "name": "Heroic",
-                "seed": 696
+                "seed": 696,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "12cdcbf0-f649-11ef-b6ad-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "86183c00-fbd3-11ef-ac42-a2194c6a6eab",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "12cdcbf0-f649-11ef-b6ad-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 569,
@@ -32804,18 +32839,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9cdd2d0e-f4a0-11ef-afcf-0242ac130004",
                 "name": "IX Squares",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ed3d5928-f616-11ef-ba66-0242ac130004",
                 "name": "MAHP Messiahs",
-                "seed": 526
+                "seed": 526,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9cdd2d0e-f4a0-11ef-afcf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ed3d5928-f616-11ef-ba66-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9cdd2d0e-f4a0-11ef-afcf-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ed3d5928-f616-11ef-ba66-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 722,
@@ -35436,7 +35506,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9cdd2d0e-f4a0-11ef-afcf-0242ac130004",
+                "name": "IX Squares",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
