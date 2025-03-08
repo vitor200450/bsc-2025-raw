@@ -52410,18 +52410,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
                 "name": "Complexity",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
                 "name": "Saro Squad",
-                "seed": 66
+                "seed": 66,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d69e87a-f4a0-11ef-b70c-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 978,
@@ -52977,7 +53012,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                "name": "Complexity",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
