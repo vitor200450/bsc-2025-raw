@@ -115198,18 +115198,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c6ed21fa-f683-11ef-b819-0242ac130004",
                 "name": "NeverWin",
-                "seed": 1772
+                "seed": 1772,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0061274c-f6e3-11ef-a208-0242ac130004",
                 "name": "MSN Esport",
-                "seed": 748
+                "seed": 748,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "c6ed21fa-f683-11ef-b819-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0061274c-f6e3-11ef-a208-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c6ed21fa-f683-11ef-b819-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0061274c-f6e3-11ef-a208-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3317,
@@ -116878,18 +116913,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf65c09e-f49f-11ef-8aa8-0242ac130004",
                 "name": "Black and White",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d33d17c-f9aa-11ef-8ada-0242ac130005",
                 "name": "Balibu Gaming",
-                "seed": 1031
+                "seed": 1031,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "bf65c09e-f49f-11ef-8aa8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d33d17c-f9aa-11ef-8ada-0242ac130005",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bf65c09e-f49f-11ef-8aa8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d33d17c-f9aa-11ef-8ada-0242ac130005",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 3394,
@@ -120848,18 +120918,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
                 "name": "Frisbee stars",
-                "seed": 1867
+                "seed": 1867,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bf71432a-fb8d-11ef-b0e0-fafa65f8aa07",
                 "name": "EPIC ESPORT",
-                "seed": 843
+                "seed": 843,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf71432a-fb8d-11ef-b0e0-fafa65f8aa07",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c668e8e4-f49f-11ef-856e-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf71432a-fb8d-11ef-b0e0-fafa65f8aa07",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3568,
@@ -123786,7 +123891,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf65c09e-f49f-11ef-8aa8-0242ac130004",
+                "name": "Black and White",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -125196,7 +125303,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf71432a-fb8d-11ef-b0e0-fafa65f8aa07",
+                "name": "EPIC ESPORT",
+                "seed": 843
             },
             "opponent2": {
                 "id": null
