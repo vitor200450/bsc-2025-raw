@@ -73204,18 +73204,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b9443f00-f5f4-11ef-a6a8-0242ac130004",
                 "name": "Croûton Gang",
-                "seed": 513
+                "seed": 513,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0f68d6e4-fbad-11ef-92b1-46647c8a1311",
                 "name": "The Last Trucks",
-                "seed": 1536
+                "seed": 1536,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b9443f00-f5f4-11ef-a6a8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0f68d6e4-fbad-11ef-92b1-46647c8a1311",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b9443f00-f5f4-11ef-a6a8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f68d6e4-fbad-11ef-92b1-46647c8a1311",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b9443f00-f5f4-11ef-a6a8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f68d6e4-fbad-11ef-92b1-46647c8a1311",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2053,
@@ -79236,18 +79286,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4666d496-f605-11ef-8ce1-0242ac130004",
                 "name": "Les Lardons",
-                "seed": 921
+                "seed": 921,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c6063c6c-f49f-11ef-aba2-0242ac130004",
                 "name": "MUGENDO GANG",
-                "seed": 1128
+                "seed": 1128,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4666d496-f605-11ef-8ce1-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c6063c6c-f49f-11ef-aba2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4666d496-f605-11ef-8ce1-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c6063c6c-f49f-11ef-aba2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2219,
@@ -109670,7 +109755,9 @@
                 "seed": 1537
             },
             "opponent2": {
-                "id": null
+                "id": "b9443f00-f5f4-11ef-a6a8-0242ac130004",
+                "name": "Croûton Gang",
+                "seed": 513
             },
             "match_games": []
         },
@@ -111324,7 +111411,9 @@
                 "seed": 2152
             },
             "opponent2": {
-                "id": null
+                "id": "c6063c6c-f49f-11ef-aba2-0242ac130004",
+                "name": "MUGENDO GANG",
+                "seed": 1128
             },
             "match_games": []
         },
