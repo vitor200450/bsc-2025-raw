@@ -36161,18 +36161,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
                 "name": "GgJ eSports",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9b75f98e-fb6a-11ef-8e2c-eeb4a9f72fed",
                 "name": "Pombos de Argila",
-                "seed": 743
+                "seed": 743,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b75f98e-fb6a-11ef-8e2c-eeb4a9f72fed",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9b75f98e-fb6a-11ef-8e2c-eeb4a9f72fed",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 854,
@@ -38202,7 +38237,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8f6822e0-f4a1-11ef-b1dc-0242ac130004",
+                "name": "GgJ eSports",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
