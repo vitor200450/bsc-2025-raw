@@ -49582,18 +49582,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
                 "name": "CoIV",
-                "seed": 807
+                "seed": 807,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "390db658-f85c-11ef-a261-0242ac130004",
                 "name": "Mamitas Puebla",
-                "seed": 679
+                "seed": 679,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "390db658-f85c-11ef-a261-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0fb19570-faf7-11ef-9099-eeb4a9f72fed",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "390db658-f85c-11ef-a261-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 941,
