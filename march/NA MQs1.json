@@ -50372,18 +50372,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
                 "name": "Aminos",
-                "seed": 50
+                "seed": 50,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "045ddc40-fba8-11ef-8974-de28d2aa3f3d",
                 "name": "Skull Emoji",
-                "seed": 847
+                "seed": 847,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "045ddc40-fba8-11ef-8974-de28d2aa3f3d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "045ddc40-fba8-11ef-8974-de28d2aa3f3d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "045ddc40-fba8-11ef-8974-de28d2aa3f3d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 935,
@@ -52044,7 +52094,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "94e6b0e8-f4a0-11ef-952a-0242ac130004",
+                "name": "Aminos",
+                "seed": 50
             },
             "match_games": []
         },
