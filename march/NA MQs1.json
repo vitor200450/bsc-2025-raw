@@ -49642,18 +49642,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf980174-f960-11ef-94a0-0242ac130005",
                 "name": "weenie warriors",
-                "seed": 749
+                "seed": 749,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9d7b47dc-f4a0-11ef-83c8-0242ac130004",
                 "name": "2017 Warriors",
-                "seed": 148
+                "seed": 148,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9d7b47dc-f4a0-11ef-83c8-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d7b47dc-f4a0-11ef-83c8-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9d7b47dc-f4a0-11ef-83c8-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 920,
@@ -51963,10 +52013,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf980174-f960-11ef-94a0-0242ac130005",
+                "name": "weenie warriors",
+                "seed": 749
             },
             "opponent2": {
-                "id": null
+                "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                "name": "Yoshinoya gyudon",
+                "seed": 173
             },
             "match_games": []
         },
