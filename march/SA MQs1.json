@@ -24428,18 +24428,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "942a2ef4-f4a1-11ef-a0f5-0242ac130004",
                 "name": "CuecasSujas😏",
-                "seed": 116
+                "seed": 116,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1360df34-f62c-11ef-ba44-0242ac130004",
                 "name": "CDM SPORTS",
-                "seed": 628
+                "seed": 628,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "942a2ef4-f4a1-11ef-a0f5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1360df34-f62c-11ef-ba44-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "942a2ef4-f4a1-11ef-a0f5-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1360df34-f62c-11ef-ba44-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 596,
@@ -24748,18 +24783,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f4a75da4-f8bd-11ef-8266-0242ac130004",
                 "name": "ARD || Team",
-                "seed": 124
+                "seed": 124,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "523f337c-f6ae-11ef-973e-0242ac130004",
                 "name": "3 ANGRY MEN",
-                "seed": 389
+                "seed": 389,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "f4a75da4-f8bd-11ef-8266-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f4a75da4-f8bd-11ef-8266-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 612,
@@ -28566,7 +28636,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "942a2ef4-f4a1-11ef-a0f5-0242ac130004",
+                "name": "CuecasSujas😏",
+                "seed": 116
             },
             "opponent2": {
                 "id": null
@@ -28694,7 +28766,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "523f337c-f6ae-11ef-973e-0242ac130004",
+                "name": "3 ANGRY MEN",
+                "seed": 389
             },
             "opponent2": {
                 "id": null
