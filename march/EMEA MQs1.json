@@ -88520,18 +88520,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7c680642-f771-11ef-a0f3-0242ac130004",
                 "name": "Las marmotas 👻",
-                "seed": 895
+                "seed": 895,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cd248368-f6ad-11ef-a7e7-0242ac130004",
                 "name": "Hollow Knights",
-                "seed": 1154
+                "seed": 1154,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7c680642-f771-11ef-a0f3-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "cd248368-f6ad-11ef-a7e7-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7c680642-f771-11ef-a0f3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd248368-f6ad-11ef-a7e7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7c680642-f771-11ef-a0f3-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd248368-f6ad-11ef-a7e7-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2575,
@@ -94974,18 +95024,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3fa8aa1a-f5d0-11ef-890f-0242ac130004",
                 "name": "KONGO",
-                "seed": 874
+                "seed": 874,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e62de02e-f78f-11ef-81e0-0242ac130004",
                 "name": "STR|TEAM",
-                "seed": 1175
+                "seed": 1175,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3fa8aa1a-f5d0-11ef-890f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e62de02e-f78f-11ef-81e0-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3fa8aa1a-f5d0-11ef-890f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e62de02e-f78f-11ef-81e0-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3fa8aa1a-f5d0-11ef-890f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e62de02e-f78f-11ef-81e0-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2799,
@@ -108093,7 +108193,9 @@
                 "seed": 2178
             },
             "opponent2": {
-                "id": null
+                "id": "cd248368-f6ad-11ef-a7e7-0242ac130004",
+                "name": "Hollow Knights",
+                "seed": 1154
             },
             "match_games": []
         },
@@ -110241,7 +110343,9 @@
                 "seed": 1898
             },
             "opponent2": {
-                "id": null
+                "id": "3fa8aa1a-f5d0-11ef-890f-0242ac130004",
+                "name": "KONGO",
+                "seed": 874
             },
             "match_games": []
         },
