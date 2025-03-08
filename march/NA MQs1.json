@@ -46200,18 +46200,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
                 "name": "Arena 6",
-                "seed": 423
+                "seed": 423,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "390db658-f85c-11ef-a261-0242ac130004",
                 "name": "Mamitas Puebla",
-                "seed": 679
+                "seed": 679,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "390db658-f85c-11ef-a261-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "390db658-f85c-11ef-a261-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "de4f497a-fbcb-11ef-8a5b-6e4ca4470f6a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "390db658-f85c-11ef-a261-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 857,
@@ -49286,7 +49336,9 @@
                 "seed": 807
             },
             "opponent2": {
-                "id": null
+                "id": "390db658-f85c-11ef-a261-0242ac130004",
+                "name": "Mamitas Puebla",
+                "seed": 679
             },
             "match_games": []
         },
