@@ -3093,18 +3093,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
                 "name": "Gen.G Esports",
-                "seed": 19
+                "seed": 19,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
                 "name": "Supernatural",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
