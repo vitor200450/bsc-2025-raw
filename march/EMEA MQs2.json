@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Smirk Cats Reborn.png"
         },
         {
+            "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+            "tournament_id": 0,
+            "name": "Reverso Gaming",
+            "players": [
+                "REV|Rup",
+                "REV|Nes",
+                "REV|Ondy"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Reverso Gaming.png"
+        },
+        {
             "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
             "tournament_id": 0,
             "name": "LuxAeterna CM",
@@ -633,18 +644,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
                 "name": "Eclipsar Esport",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
                 "name": "Reverso Gaming",
-                "seed": 25
+                "seed": 25,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1428,7 +1504,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d3509ae-f4a3-11ef-99a0-0242ac130004",
+                "name": "Eclipsar Esport",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1638,7 +1716,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                "name": "Reverso Gaming",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
