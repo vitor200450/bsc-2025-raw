@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+            "tournament_id": 0,
+            "name": "Vou ate anotar",
+            "players": [
+                "VenoX ツ",
+                "Todd🦆",
+                "yume 2kki"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
             "tournament_id": 0,
             "name": "Pitchulas",
@@ -624,18 +635,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
                 "name": "Vou ate anotar",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
                 "name": "XO F/A",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1333,7 +1394,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                "name": "XO F/A",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1547,7 +1610,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                "name": "Vou ate anotar",
+                "seed": 16
             },
             "match_games": []
         },
