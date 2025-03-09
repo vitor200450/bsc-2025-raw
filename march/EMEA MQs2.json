@@ -2622,18 +2622,98 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
                 "name": "Am o fantezie",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
                 "name": "LLC Esport",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "7a1cf546-fc58-11ef-b3da-863265e5fa1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -2921,7 +3001,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "186e9f50-f4a3-11ef-acf2-0242ac130004",
+                "name": "LLC Esport",
+                "seed": 12
             },
             "match_games": []
         },
