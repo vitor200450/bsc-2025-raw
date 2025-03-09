@@ -1930,18 +1930,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c390dc90-f4a3-11ef-9cb5-0242ac130004",
                 "name": "CODE OG",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
                 "name": "Eternal",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c390dc90-f4a3-11ef-9cb5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c390dc90-f4a3-11ef-9cb5-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c390dc90-f4a3-11ef-9cb5-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2205,7 +2255,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                "name": "Eternal",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2772,10 +2824,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c390dc90-f4a3-11ef-9cb5-0242ac130004",
+                "name": "CODE OG",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "bf1bdd0c-fc7f-11ef-b263-fa2f9e021e8e",
+                "name": "PING GAMBIT",
+                "seed": 31
             },
             "match_games": []
         },
