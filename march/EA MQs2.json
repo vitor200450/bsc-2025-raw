@@ -353,6 +353,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+            "tournament_id": 0,
+            "name": "Supernatural",
+            "players": [
+                "SPN | Shadow",
+                "SPN | North",
+                "SPN | Mortis"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
             "tournament_id": 0,
             "name": "Worst Generation",
@@ -572,18 +583,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4f2980-f4a2-11ef-924e-0242ac130004",
                 "name": "GoNext",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
                 "name": "Supernatural",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd4f2980-f4a2-11ef-924e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd4f2980-f4a2-11ef-924e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dd4f2980-f4a2-11ef-924e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -1222,10 +1283,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd4f2980-f4a2-11ef-924e-0242ac130004",
+                "name": "GoNext",
+                "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "dd487d42-f4a2-11ef-812c-0242ac130004",
+                "name": "Rival Esports",
+                "seed": 9
             },
             "match_games": []
         },
@@ -1428,10 +1493,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                "name": "Supernatural",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
+                "name": "Worst Generation",
+                "seed": 24
             },
             "match_games": []
         },
