@@ -53681,18 +53681,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
                 "name": "Da bois",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
                 "name": "PING GAMBIT",
-                "seed": 401
+                "seed": 401,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "93a115ca-f4a0-11ef-bc02-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e82f211c-fb22-11ef-8316-e2e3b1699cf4",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 995,
