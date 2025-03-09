@@ -4208,18 +4208,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d34214c-f4a3-11ef-b1f8-0242ac130004",
                 "name": "Papara SuperMassive",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
                 "name": "Reverso Gaming",
-                "seed": 25
+                "seed": 25,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d34214c-f4a3-11ef-b1f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d34214c-f4a3-11ef-b1f8-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d34214c-f4a3-11ef-b1f8-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 50,
