@@ -1770,18 +1770,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c38fda70-f4a3-11ef-ba84-0242ac130004",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c1734e4-f4a3-11ef-b584-0242ac130004",
                 "name": "Pale Fox Esports",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c38fda70-f4a3-11ef-ba84-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1734e4-f4a3-11ef-b584-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c38fda70-f4a3-11ef-ba84-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1734e4-f4a3-11ef-b584-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c38fda70-f4a3-11ef-ba84-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1734e4-f4a3-11ef-b584-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -1810,18 +1860,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c3915a08-f4a3-11ef-9de9-0242ac130004",
                 "name": "Pioneers",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c194e64-f4a3-11ef-8065-0242ac130004",
                 "name": "meow",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c3915a08-f4a3-11ef-9de9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c194e64-f4a3-11ef-8065-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c3915a08-f4a3-11ef-9de9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c194e64-f4a3-11ef-8065-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c3915a08-f4a3-11ef-9de9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c194e64-f4a3-11ef-8065-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2082,7 +2182,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c38fda70-f4a3-11ef-ba84-0242ac130004",
+                "name": "Tribe Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2098,7 +2200,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c3915a08-f4a3-11ef-9de9-0242ac130004",
+                "name": "Pioneers",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -2500,7 +2604,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c194e64-f4a3-11ef-8065-0242ac130004",
+                "name": "meow",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -2532,10 +2638,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1734e4-f4a3-11ef-b584-0242ac130004",
+                "name": "Pale Fox Esports",
+                "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "bf162164-fc7f-11ef-8248-fa2f9e021e8e",
+                "name": "New Meta",
+                "seed": 22
             },
             "match_games": []
         },
