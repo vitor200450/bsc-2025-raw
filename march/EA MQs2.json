@@ -395,6 +395,39 @@
                 "☘️Va𝐋eÑć!A🫧"
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "dd4a974e-f4a2-11ef-b0d6-0242ac130004",
+            "tournament_id": 0,
+            "name": "No Dignity",
+            "players": [
+                "Honyoungう",
+                "サニーカマタマ",
+                "KoronaC"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "5f03eb50-fbe2-11ef-86c6-12af1e6e5504",
+            "tournament_id": 0,
+            "name": "Come Next",
+            "players": [
+                "N︎",
+                "まるちゃん",
+                "kogepan"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
+            "tournament_id": 0,
+            "name": "めろんぱんおいしいクラブ",
+            "players": [
+                "MOC｜めろんぱん.",
+                "くらいまー",
+                "에나☃️🩵"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -817,11 +850,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4a974e-f4a2-11ef-b0d6-0242ac130004",
                 "name": "No Dignity",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
@@ -837,7 +871,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
                 "name": "REJECT",
@@ -846,7 +880,8 @@
             "opponent2": {
                 "id": "5f03eb50-fbe2-11ef-86c6-12af1e6e5504",
                 "name": "Come Next",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -957,18 +992,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
                 "name": "NIWA",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
                 "name": "めろんぱんおいしいクラブ",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 16,
@@ -1056,7 +1141,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                "name": "Angelic",
+                "seed": 21
             },
             "match_games": []
         },
@@ -1069,7 +1156,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
+                "name": "REJECT",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1117,7 +1206,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                "name": "NIWA",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
@@ -1254,7 +1345,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "dd4a974e-f4a2-11ef-b0d6-0242ac130004",
+                "name": "No Dignity",
+                "seed": 12
             },
             "match_games": []
         },
@@ -1267,7 +1360,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f03eb50-fbe2-11ef-86c6-12af1e6e5504",
+                "name": "Come Next",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
@@ -1315,7 +1410,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f01d202-fbe2-11ef-a6e8-12af1e6e5504",
+                "name": "めろんぱんおいしいクラブ",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
