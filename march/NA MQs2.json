@@ -2340,18 +2340,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf19597e-fc7f-11ef-af1a-fa2f9e021e8e",
                 "name": "Funeraria F/A",
-                "seed": 27
+                "seed": 27,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "bf162164-fc7f-11ef-8248-fa2f9e021e8e",
                 "name": "New Meta",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bf19597e-fc7f-11ef-af1a-fa2f9e021e8e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf162164-fc7f-11ef-8248-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bf19597e-fc7f-11ef-af1a-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bf162164-fc7f-11ef-8248-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bf19597e-fc7f-11ef-af1a-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bf162164-fc7f-11ef-8248-fa2f9e021e8e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 33,
