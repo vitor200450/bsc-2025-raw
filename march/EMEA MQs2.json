@@ -3138,18 +3138,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "186c1082-f4a3-11ef-8270-0242ac130004",
                 "name": "F/A Poland",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
                 "name": "Reverso Gaming",
-                "seed": 25
+                "seed": 25,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "186c1082-f4a3-11ef-8270-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "186c1082-f4a3-11ef-8270-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "186c1082-f4a3-11ef-8270-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3198,18 +3248,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a200326-fc58-11ef-951d-863265e5fa1e",
                 "name": "XPERION NXT",
-                "seed": 21
+                "seed": 21,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a2217ce-fc58-11ef-abf2-863265e5fa1e",
                 "name": "Universum Gaming",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7a200326-fc58-11ef-951d-863265e5fa1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2217ce-fc58-11ef-abf2-863265e5fa1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "7a200326-fc58-11ef-951d-863265e5fa1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2217ce-fc58-11ef-abf2-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7a200326-fc58-11ef-951d-863265e5fa1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2217ce-fc58-11ef-abf2-863265e5fa1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -3435,7 +3535,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "7a1e7f74-fc58-11ef-bebd-863265e5fa1e",
+                "name": "Reverso Gaming",
+                "seed": 25
             },
             "match_games": []
         },
@@ -3464,10 +3566,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a200326-fc58-11ef-951d-863265e5fa1e",
+                "name": "XPERION NXT",
+                "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                "name": "Nemesis",
+                "seed": 13
             },
             "match_games": []
         },
