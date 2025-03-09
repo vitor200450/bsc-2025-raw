@@ -441,6 +441,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+            "tournament_id": 0,
+            "name": "Censored Sports",
+            "players": [
+                "ARS| ʀ๑ʟʟø⚡",
+                "SantiXleftツ",
+                "▪ᴸ|ʙ▪"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
             "tournament_id": 0,
             "name": "zWim",
@@ -1096,18 +1107,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
                 "name": "F4TALITY",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
                 "name": "Censored Sports",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1472,7 +1548,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                "name": "F4TALITY",
+                "seed": 15
             },
             "match_games": []
         },
@@ -1688,7 +1766,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "dd510a5a-fc5b-11ef-b243-fa2f9e021e8e",
+                "name": "Censored Sports",
+                "seed": 18
             },
             "match_games": []
         },
