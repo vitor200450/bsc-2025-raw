@@ -3474,18 +3474,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
                 "name": "IX F/A",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
                 "name": "F4TALITY",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -3559,7 +3609,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                "name": "IX F/A",
+                "seed": 10
             },
             "match_games": []
         },
