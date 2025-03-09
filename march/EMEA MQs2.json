@@ -3218,18 +3218,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
                 "name": "Nemesis",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
                 "name": "I San Marinesi",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 39,
