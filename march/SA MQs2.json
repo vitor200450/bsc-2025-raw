@@ -3854,18 +3854,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
                 "name": "LOUD",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
                 "name": "XO F/A",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
