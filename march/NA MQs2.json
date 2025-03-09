@@ -2135,18 +2135,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
                 "name": "Synchronic Gaming",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
                 "name": "Olimpo Squad NA",
-                "seed": 10
+                "seed": 10,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2342,7 +2407,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "c391daaa-f4a3-11ef-a248-0242ac130004",
+                "name": "Synchronic Gaming",
+                "seed": 7
             },
             "match_games": []
         },
@@ -2922,10 +2989,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                "name": "Olimpo Squad NA",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                "name": "Yoshinoya gyudon",
+                "seed": 29
             },
             "match_games": []
         },
