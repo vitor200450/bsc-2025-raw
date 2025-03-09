@@ -430,6 +430,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+            "tournament_id": 0,
+            "name": "ブルとバズ",
+            "players": [
+                "おにまる〜♬︎おぅおぅ⤴︎︎︎",
+                "けち ☪︎¨",
+                "Ryukasu"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "5f014094-fbe2-11ef-8207-12af1e6e5504",
             "tournament_id": 0,
             "name": "We don't know",
@@ -997,18 +1008,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
                 "name": "ブルとバズ",
-                "seed": 15
+                "seed": 15,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
                 "name": "Crawl up",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1485,7 +1561,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                "name": "Crawl up",
+                "seed": 18
             },
             "match_games": []
         },
@@ -1701,7 +1779,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                "name": "ブルとバズ",
+                "seed": 15
             },
             "match_games": []
         },
