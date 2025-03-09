@@ -2278,7 +2278,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f0255c4-fbe2-11ef-ad67-12af1e6e5504",
                 "name": "TSM",
@@ -2287,7 +2287,8 @@
             "opponent2": {
                 "id": "dd4a974e-f4a2-11ef-b0d6-0242ac130004",
                 "name": "No Dignity",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2298,11 +2299,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f03eb50-fbe2-11ef-86c6-12af1e6e5504",
                 "name": "Come Next",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
@@ -2587,7 +2589,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "5f0255c4-fbe2-11ef-ad67-12af1e6e5504",
+                "name": "TSM",
+                "seed": 28
             },
             "match_games": []
         },
