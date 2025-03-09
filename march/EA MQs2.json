@@ -3913,18 +3913,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
                 "name": "ORDER",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
                 "name": "Gen.G Esports",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4050,7 +4100,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                "name": "ORDER",
+                "seed": 32
             },
             "match_games": []
         },
