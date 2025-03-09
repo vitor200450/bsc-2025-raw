@@ -1796,18 +1796,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
                 "name": "ZETA DIVISION",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
                 "name": "Angry Bear",
-                "seed": 13
+                "seed": 13,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2036,7 +2101,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "70d8cf76-f4a3-11ef-9a96-0242ac130004",
+                "name": "ZETA DIVISION",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -2482,10 +2549,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd509c20-f4a2-11ef-a8c5-0242ac130004",
+                "name": "Angry Bear",
+                "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "5ef9ea56-fbe2-11ef-b042-12af1e6e5504",
+                "name": "おかし菓子",
+                "seed": 23
             },
             "match_games": []
         },
