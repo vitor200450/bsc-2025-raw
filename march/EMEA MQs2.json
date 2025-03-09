@@ -3338,18 +3338,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d323760-f4a3-11ef-afc0-0242ac130004",
                 "name": "F/A UK",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
                 "name": "LuxAeterna CM",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9d323760-f4a3-11ef-afc0-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "9d323760-f4a3-11ef-afc0-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "9d323760-f4a3-11ef-afc0-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3680,7 +3730,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                "name": "LuxAeterna CM",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
