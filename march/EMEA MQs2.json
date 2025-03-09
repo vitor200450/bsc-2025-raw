@@ -364,6 +364,28 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Smirk Cats Reborn.png"
         },
         {
+            "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+            "tournament_id": 0,
+            "name": "LuxAeterna CM",
+            "players": [
+                "LUX|Zoro✯",
+                "LUX | Ommek",
+                "LUX|Massi?"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/LuxAeterna CM.png"
+        },
+        {
+            "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
+            "tournament_id": 0,
+            "name": "F/a ris",
+            "players": [
+                "AF|Faris",
+                "Lynao",
+                "Yuu ✿︎"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "7a24b952-fc58-11ef-843b-863265e5fa1e",
             "tournament_id": 0,
             "name": "NaN Academy",
@@ -596,18 +618,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
                 "name": "FUT Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
                 "name": "LuxAeterna CM",
-                "seed": 29
+                "seed": 29,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -616,18 +688,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
                 "name": "Nemesis",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
                 "name": "F/a ris",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -972,10 +1094,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                "name": "FUT Esports",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                "name": "Nemesis",
+                "seed": 13
             },
             "match_games": []
         },
@@ -1168,10 +1294,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a2337b2-fc58-11ef-a3a3-863265e5fa1e",
+                "name": "LuxAeterna CM",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "7a1f0e8a-fc58-11ef-906b-863265e5fa1e",
+                "name": "F/a ris",
+                "seed": 20
             },
             "match_games": []
         },
