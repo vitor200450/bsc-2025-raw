@@ -353,6 +353,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+            "tournament_id": 0,
+            "name": "Pitchulas",
+            "players": [
+                "NotKuanas",
+                "PIR4TA",
+                "LufeSchatten"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
             "tournament_id": 0,
             "name": "Revenge 2.0",
@@ -495,18 +506,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0f38556-f4a3-11ef-ac95-0242ac130004",
                 "name": "Alguém Segura☝🏻🤫",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
                 "name": "Pitchulas",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b0f38556-f4a3-11ef-ac95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b0f38556-f4a3-11ef-ac95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b0f38556-f4a3-11ef-ac95-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -893,7 +954,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b0f38556-f4a3-11ef-ac95-0242ac130004",
+                "name": "Alguém Segura☝🏻🤫",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1087,7 +1150,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+                "name": "Pitchulas",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
