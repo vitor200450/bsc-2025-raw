@@ -53726,18 +53726,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "94f13432-f4a0-11ef-97d9-0242ac130004",
                 "name": "Dynamike Enjoyers",
-                "seed": 77
+                "seed": 77,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
                 "name": "Yoshinoya gyudon",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "94f13432-f4a0-11ef-97d9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "94f13432-f4a0-11ef-97d9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "de942c30-f89b-11ef-b5f5-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 999,
