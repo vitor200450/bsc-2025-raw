@@ -53961,18 +53961,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
                 "name": "Complexity",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "37169f6c-fa38-11ef-a283-eeb4a9f72fed",
                 "name": "Ecuipo",
-                "seed": 223
+                "seed": 223,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37169f6c-fa38-11ef-a283-eeb4a9f72fed",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3c1dc3d6-f4a3-11ef-bfef-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37169f6c-fa38-11ef-a283-eeb4a9f72fed",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1002,
