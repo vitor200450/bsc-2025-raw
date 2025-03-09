@@ -1830,18 +1830,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d333944-f4a3-11ef-b6f0-0242ac130004",
                 "name": "SK Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "186e258e-f4a3-11ef-a302-0242ac130004",
                 "name": "Black And White",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9d333944-f4a3-11ef-b6f0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9d333944-f4a3-11ef-b6f0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9d333944-f4a3-11ef-b6f0-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 26,
@@ -1992,7 +2042,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d333944-f4a3-11ef-b6f0-0242ac130004",
+                "name": "SK Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -2328,7 +2380,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                "name": "Black And White",
+                "seed": 16
             },
             "opponent2": {
                 "id": null
