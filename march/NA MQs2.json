@@ -3302,18 +3302,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
                 "name": "Olimpo Squad NA",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
                 "name": "Yoshinoya gyudon",
-                "seed": 29
+                "seed": 29,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 36,
@@ -3674,7 +3739,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c16ba3c-f4a3-11ef-b640-0242ac130004",
+                "name": "Olimpo Squad NA",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
