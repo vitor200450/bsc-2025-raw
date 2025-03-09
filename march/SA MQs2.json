@@ -3433,7 +3433,7 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
                 "name": "XO F/A",
@@ -3442,7 +3442,8 @@
             "opponent2": {
                 "id": "dd52d45c-fc5b-11ef-bdcd-fa2f9e021e8e",
                 "name": "La Fúria",
-                "seed": 22
+                "seed": 22,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -3519,7 +3520,11 @@
                 "name": "Inimigos do CLT F/A",
                 "seed": 9
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "dd53641c-fc5b-11ef-9ba5-fa2f9e021e8e",
+                "name": "XO F/A",
+                "seed": 17
+            },
             "match_games": []
         },
         {
