@@ -2146,18 +2146,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
                 "name": "Revenge 2.0",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd4ce9fc-fc5b-11ef-8f07-fa2f9e021e8e",
                 "name": "GALÁTICS",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4ce9fc-fc5b-11ef-8f07-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4ce9fc-fc5b-11ef-8f07-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4ce9fc-fc5b-11ef-8f07-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 20,
@@ -2312,7 +2362,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "dd548c0c-fc5b-11ef-aafc-fa2f9e021e8e",
+                "name": "Revenge 2.0",
+                "seed": 29
             },
             "match_games": []
         },
