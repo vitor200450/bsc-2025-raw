@@ -2191,18 +2191,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
                 "name": "NIWA",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
                 "name": "Just Wanna Prove",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2276,7 +2356,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "70d77c3e-f4a3-11ef-a242-0242ac130004",
+                "name": "NIWA",
+                "seed": 6
             },
             "match_games": []
         },
@@ -2796,10 +2878,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd4bfaee-f4a2-11ef-89f3-0242ac130004",
+                "name": "Just Wanna Prove",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                "name": "ORDER",
+                "seed": 32
             },
             "match_games": []
         },
