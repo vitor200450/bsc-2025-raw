@@ -3167,18 +3167,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
                 "name": "NA’s Last Hope",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf13c432-fc7f-11ef-8c3f-fa2f9e021e8e",
                 "name": "Crow’s Nest Esport",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf13c432-fc7f-11ef-8c3f-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf13c432-fc7f-11ef-8c3f-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf13c432-fc7f-11ef-8c3f-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 35,
@@ -3464,7 +3514,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                "name": "NA’s Last Hope",
+                "seed": 14
             },
             "match_games": []
         },
