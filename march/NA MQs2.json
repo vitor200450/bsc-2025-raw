@@ -2150,18 +2150,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
                 "name": "Un Verano Sin Ti",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf18aa7e-fc7f-11ef-a69d-fa2f9e021e8e",
                 "name": "Complexity",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf18aa7e-fc7f-11ef-a69d-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf18aa7e-fc7f-11ef-a69d-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf18aa7e-fc7f-11ef-a69d-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 18,
@@ -2317,7 +2367,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                "name": "Un Verano Sin Ti",
+                "seed": 32
             },
             "match_games": []
         },
