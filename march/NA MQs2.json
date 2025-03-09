@@ -4092,18 +4092,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
                 "name": "Eternal",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "3c15c29e-f4a3-11ef-9fe7-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 50,
