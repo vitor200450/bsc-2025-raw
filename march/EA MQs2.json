@@ -2173,18 +2173,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
                 "name": "Supernatural",
-                "seed": 25
+                "seed": 25,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
                 "name": "Worst Generation",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5ef74620-fbe2-11ef-9f59-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -2486,7 +2551,9 @@
                 "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "5ef8ec3c-fbe2-11ef-8376-12af1e6e5504",
+                "name": "Supernatural",
+                "seed": 25
             },
             "match_games": []
         },
