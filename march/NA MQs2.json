@@ -1890,18 +1890,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c38f1a0e-f4a3-11ef-a38f-0242ac130004",
                 "name": "Elevate",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
                 "name": "NA’s Last Hope",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c38f1a0e-f4a3-11ef-a38f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c38f1a0e-f4a3-11ef-a38f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "c38f1a0e-f4a3-11ef-a38f-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -2030,10 +2080,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c38f1a0e-f4a3-11ef-a38f-0242ac130004",
+                "name": "Elevate",
+                "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "c3926920-f4a3-11ef-b789-0242ac130004",
+                "name": "🖤🖤🖤",
+                "seed": 6
             },
             "match_games": []
         },
@@ -2224,7 +2278,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                "name": "NA’s Last Hope",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
