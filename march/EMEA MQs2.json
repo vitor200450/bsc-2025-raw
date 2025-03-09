@@ -2208,7 +2208,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
                 "name": "Smirk Cats Reborn",
@@ -2217,7 +2217,8 @@
             "opponent2": {
                 "id": "7a22a2b6-fc58-11ef-aa93-863265e5fa1e",
                 "name": "Proseding",
-                "seed": 17
+                "seed": 17,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2308,11 +2309,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "36425470-fcd4-11ef-9aaa-326da8c535f5",
                 "name": "Czech Rivals",
-                "seed": 26
+                "seed": 26,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
@@ -2348,11 +2350,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3f3e316-fc58-11ef-b8b6-86abffe9af48",
                 "name": "Imaginary Madness",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "18719188-f4a3-11ef-a253-0242ac130004",
@@ -2491,7 +2494,9 @@
                 "seed": 16
             },
             "opponent2": {
-                "id": null
+                "id": "18719188-f4a3-11ef-a253-0242ac130004",
+                "name": "F/A Snigets",
+                "seed": 11
             },
             "match_games": []
         },
