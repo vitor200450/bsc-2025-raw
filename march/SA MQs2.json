@@ -1902,18 +1902,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
                 "name": "LOUD",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
                 "name": "F4TALITY",
-                "seed": 15
+                "seed": 15,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2123,10 +2173,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b0f2812e-f4a3-11ef-add2-0242ac130004",
+                "name": "LOUD",
+                "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "b0eeb62a-f4a3-11ef-9826-0242ac130004",
+                "name": "Legión Otaku",
+                "seed": 7
             },
             "match_games": []
         },
@@ -2431,10 +2485,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "594c027e-f4a3-11ef-b09f-0242ac130004",
+                "name": "F4TALITY",
+                "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "dd53f742-fc5b-11ef-b0e9-fa2f9e021e8e",
+                "name": "Tribe 6ix One",
+                "seed": 28
             },
             "match_games": []
         },
