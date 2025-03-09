@@ -2287,18 +2287,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
                 "name": "ORDER",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5efafd88-fbe2-11ef-826c-12af1e6e5504",
                 "name": "No Organization Team",
-                "seed": 17
+                "seed": 17,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5efafd88-fbe2-11ef-826c-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efafd88-fbe2-11ef-826c-12af1e6e5504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efafd88-fbe2-11ef-826c-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5f046d28-fbe2-11ef-825c-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efafd88-fbe2-11ef-826c-12af1e6e5504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 18,
