@@ -2478,18 +2478,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
                 "name": "zWim",
-                "seed": 26
+                "seed": 26,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dd507b94-fc5b-11ef-9508-fa2f9e021e8e",
                 "name": "Chipis team",
-                "seed": 23
+                "seed": 23,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd507b94-fc5b-11ef-9508-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd507b94-fc5b-11ef-9508-fa2f9e021e8e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd507b94-fc5b-11ef-9508-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd507b94-fc5b-11ef-9508-fa2f9e021e8e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -2647,7 +2712,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "dd4e3b4a-fc5b-11ef-b6e3-fa2f9e021e8e",
+                "name": "zWim",
+                "seed": 26
             },
             "match_games": []
         },
