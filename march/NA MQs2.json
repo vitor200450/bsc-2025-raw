@@ -3797,18 +3797,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
                 "name": "NA’s Last Hope",
-                "seed": 14
+                "seed": 14,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c154648-f4a3-11ef-ad6e-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -3984,7 +4049,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                "name": "OCTANE ESPORTS",
+                "seed": 11
             },
             "match_games": []
         },
