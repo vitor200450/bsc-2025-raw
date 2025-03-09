@@ -3318,18 +3318,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
                 "name": "Angelic",
-                "seed": 21
+                "seed": 21,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
                 "name": "ブルとバズ",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 38,
@@ -3436,7 +3501,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                "name": "ブルとバズ",
+                "seed": 15
             },
             "opponent2": {
                 "id": null
