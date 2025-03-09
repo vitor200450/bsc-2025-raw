@@ -2000,18 +2000,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
                 "name": "FUT Esports",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
                 "name": "Nemesis",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2407,10 +2487,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "9d33add4-f4a3-11ef-aae4-0242ac130004",
+                "name": "FUT Esports",
+                "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "9d34214c-f4a3-11ef-b1f8-0242ac130004",
+                "name": "Papara SuperMassive",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3036,10 +3120,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "186a4478-f4a3-11ef-b50e-0242ac130004",
+                "name": "Nemesis",
+                "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                "name": "I San Marinesi",
+                "seed": 23
             },
             "match_games": []
         },
