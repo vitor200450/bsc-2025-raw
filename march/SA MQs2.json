@@ -1922,18 +1922,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0eeb62a-f4a3-11ef-9826-0242ac130004",
                 "name": "Legión Otaku",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
                 "name": "IX F/A",
-                "seed": 10
+                "seed": 10,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "b0eeb62a-f4a3-11ef-9826-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b0eeb62a-f4a3-11ef-9826-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "b0eeb62a-f4a3-11ef-9826-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 31,
@@ -2257,7 +2307,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "594b08d8-f4a3-11ef-bc29-0242ac130004",
+                "name": "IX F/A",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
