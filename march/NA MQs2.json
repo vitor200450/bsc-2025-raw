@@ -2394,18 +2394,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
                 "name": "Yoshinoya gyudon",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf1729d8-fc7f-11ef-a350-fa2f9e021e8e",
                 "name": "IX Squares",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1729d8-fc7f-11ef-a350-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf1729d8-fc7f-11ef-a350-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1729d8-fc7f-11ef-a350-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "bf1ae1e0-fc7f-11ef-b371-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1729d8-fc7f-11ef-a350-fa2f9e021e8e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 20,
@@ -2476,18 +2541,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf1b5878-fc7f-11ef-a139-fa2f9e021e8e",
                 "name": "Octane Zero",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf182522-fc7f-11ef-8190-fa2f9e021e8e",
                 "name": "RJG Team 🔥🔥🔥",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bf1b5878-fc7f-11ef-a139-fa2f9e021e8e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "bf182522-fc7f-11ef-8190-fa2f9e021e8e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "bf1b5878-fc7f-11ef-a139-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf182522-fc7f-11ef-8190-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bf1b5878-fc7f-11ef-a139-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf182522-fc7f-11ef-8190-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "bf1b5878-fc7f-11ef-a139-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf182522-fc7f-11ef-8190-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 24,
