@@ -2384,7 +2384,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf1bdd0c-fc7f-11ef-b263-fa2f9e021e8e",
                 "name": "PING GAMBIT",
@@ -2393,7 +2393,8 @@
             "opponent2": {
                 "id": "bf17a516-fc7f-11ef-a795-fa2f9e021e8e",
                 "name": "H",
-                "seed": 18
+                "seed": 18,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2404,11 +2405,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf159c76-fc7f-11ef-903d-fa2f9e021e8e",
                 "name": "GOON GANG",
-                "seed": 26
+                "seed": 26,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "bf16a42c-fc7f-11ef-a1b8-fa2f9e021e8e",
@@ -2609,7 +2611,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "bf16a42c-fc7f-11ef-a1b8-fa2f9e021e8e",
+                "name": "Cabritos",
+                "seed": 23
             },
             "match_games": []
         },
