@@ -364,6 +364,17 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
+            "tournament_id": 0,
+            "name": "3/5",
+            "players": [
+                "YT: ZTBrawl",
+                "NotYoMilk",
+                "Neutron."
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "bf159c76-fc7f-11ef-903d-fa2f9e021e8e",
             "tournament_id": 0,
             "name": "GOON GANG",
@@ -545,18 +556,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c38c6dea-f4a3-11ef-a0d8-0242ac130004",
                 "name": "SSG",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
                 "name": "3/5",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c38c6dea-f4a3-11ef-a0d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c38c6dea-f4a3-11ef-a0d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c38c6dea-f4a3-11ef-a0d8-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 4,
@@ -844,7 +905,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c38c6dea-f4a3-11ef-a0d8-0242ac130004",
+                "name": "SSG",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -1038,7 +1101,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "bf148ce6-fc7f-11ef-8908-fa2f9e021e8e",
+                "name": "3/5",
+                "seed": 25
             },
             "opponent2": {
                 "id": null
