@@ -3358,18 +3358,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "186e258e-f4a3-11ef-a302-0242ac130004",
                 "name": "Black And White",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "18719188-f4a3-11ef-a253-0242ac130004",
                 "name": "F/A Snigets",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18719188-f4a3-11ef-a253-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18719188-f4a3-11ef-a253-0242ac130004",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "18719188-f4a3-11ef-a253-0242ac130004",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 45,
@@ -3435,7 +3485,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "186e258e-f4a3-11ef-a302-0242ac130004",
+                "name": "Black And White",
+                "seed": 16
             },
             "match_games": []
         },
