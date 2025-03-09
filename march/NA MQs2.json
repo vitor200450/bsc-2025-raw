@@ -3097,18 +3097,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
                 "name": "OCTANE ESPORTS",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
                 "name": "Un Verano Sin Ti",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bf1a61e8-fc7f-11ef-8557-fa2f9e021e8e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3409,7 +3459,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c1bc81a-f4a3-11ef-8cd9-0242ac130004",
+                "name": "OCTANE ESPORTS",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
