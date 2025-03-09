@@ -1946,18 +1946,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70da879e-f4a3-11ef-8467-0242ac130004",
                 "name": "Frenzy Gaming",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
                 "name": "Angelic",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2318,7 +2398,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "70da879e-f4a3-11ef-8467-0242ac130004",
+                "name": "Frenzy Gaming",
+                "seed": 5
             },
             "match_games": []
         },
@@ -2958,10 +3040,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5efce184-fbe2-11ef-954f-12af1e6e5504",
+                "name": "Angelic",
+                "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "dd4ea050-f4a2-11ef-b58d-0242ac130004",
+                "name": "ブルとバズ",
+                "seed": 15
             },
             "match_games": []
         },
