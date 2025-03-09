@@ -775,18 +775,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1865f67a-f4a3-11ef-a658-0242ac130004",
                 "name": "XO Free Agents",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
                 "name": "I San Marinesi",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1865f67a-f4a3-11ef-a658-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1865f67a-f4a3-11ef-a658-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1865f67a-f4a3-11ef-a658-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7a2197c2-fc58-11ef-b01a-863265e5fa1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
