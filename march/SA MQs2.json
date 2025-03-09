@@ -2211,18 +2211,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4c4f4c-fc5b-11ef-89bc-fa2f9e021e8e",
                 "name": "Fw |Fantasy World |",
-                "seed": 32
+                "seed": 32,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
                 "name": "Vou ate anotar",
-                "seed": 16
+                "seed": 16,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dd4c4f4c-fc5b-11ef-89bc-fa2f9e021e8e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "dd4c4f4c-fc5b-11ef-89bc-fa2f9e021e8e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dd4c4f4c-fc5b-11ef-89bc-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "dd4c4f4c-fc5b-11ef-89bc-fa2f9e021e8e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 18,
@@ -2482,7 +2547,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "594cf62a-f4a3-11ef-a4f9-0242ac130004",
+                "name": "Vou ate anotar",
+                "seed": 16
             },
             "match_games": []
         },
