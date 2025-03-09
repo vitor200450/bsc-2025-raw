@@ -1881,7 +1881,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0f10af6-f4a3-11ef-bad0-0242ac130004",
                 "name": "SKCalalas SA",
@@ -1890,7 +1890,8 @@
             "opponent2": {
                 "id": "59485b4c-f4a3-11ef-88c1-0242ac130004",
                 "name": "Blue Lock 357",
-                "seed": 12
+                "seed": 12,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1941,7 +1942,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0f3028e-f4a3-11ef-9072-0242ac130004",
                 "name": "BC* Gaming SA",
@@ -1950,7 +1951,8 @@
             "opponent2": {
                 "id": "dd51b676-fc5b-11ef-947a-fa2f9e021e8e",
                 "name": "DRN",
-                "seed": 19
+                "seed": 19,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2006,7 +2008,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "b0f10af6-f4a3-11ef-bad0-0242ac130004",
+                "name": "SKCalalas SA",
+                "seed": 5
             },
             "match_games": []
         },
@@ -2035,7 +2039,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b0f3028e-f4a3-11ef-9072-0242ac130004",
+                "name": "BC* Gaming SA",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2069,7 +2075,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
                 "name": "Pitchulas",
@@ -2078,7 +2084,8 @@
             "opponent2": {
                 "id": "dd4bb6ae-fc5b-11ef-9f17-fa2f9e021e8e",
                 "name": "Black Label",
-                "seed": 24
+                "seed": 24,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2109,7 +2116,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd53f742-fc5b-11ef-b0e9-fa2f9e021e8e",
                 "name": "Tribe 6ix One",
@@ -2118,7 +2125,8 @@
             "opponent2": {
                 "id": "dd4f5926-fc5b-11ef-aa7f-fa2f9e021e8e",
                 "name": "777",
-                "seed": 21
+                "seed": 21,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2169,7 +2177,7 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd550f24-fc5b-11ef-9a0b-fa2f9e021e8e",
                 "name": "7pk2",
@@ -2178,7 +2186,8 @@
             "opponent2": {
                 "id": "59539a02-f4a3-11ef-b571-0242ac130004",
                 "name": "2026",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -2189,11 +2198,12 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dd4adefa-fc5b-11ef-89ac-fa2f9e021e8e",
                 "name": "Qualquer coisa mano",
-                "seed": 27
+                "seed": 27,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "dd52d45c-fc5b-11ef-bdcd-fa2f9e021e8e",
@@ -2227,10 +2237,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dd51b676-fc5b-11ef-947a-fa2f9e021e8e",
+                "name": "DRN",
+                "seed": 19
             },
             "opponent2": {
-                "id": null
+                "id": "dd4d9118-fc5b-11ef-bf90-fa2f9e021e8e",
+                "name": "Pitchulas",
+                "seed": 25
             },
             "match_games": []
         },
@@ -2275,7 +2289,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "59485b4c-f4a3-11ef-88c1-0242ac130004",
+                "name": "Blue Lock 357",
+                "seed": 12
             },
             "opponent2": {
                 "id": null
@@ -2330,7 +2346,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "dd52d45c-fc5b-11ef-bdcd-fa2f9e021e8e",
+                "name": "La Fúria",
+                "seed": 22
             },
             "match_games": []
         },
