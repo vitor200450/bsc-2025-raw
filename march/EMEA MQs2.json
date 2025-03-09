@@ -3068,18 +3068,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a211464-fc58-11ef-906c-863265e5fa1e",
                 "name": "F/A Tequila",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
                 "name": "Smirk Cats Reborn",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "7a211464-fc58-11ef-906c-863265e5fa1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "7a211464-fc58-11ef-906c-863265e5fa1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7a211464-fc58-11ef-906c-863265e5fa1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3230,7 +3280,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a23c740-fc58-11ef-a5c9-863265e5fa1e",
+                "name": "Smirk Cats Reborn",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
