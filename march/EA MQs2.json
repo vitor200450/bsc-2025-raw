@@ -1876,18 +1876,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d96120-f4a3-11ef-991a-0242ac130004",
                 "name": "NAVI",
-                "seed": 3
+                "seed": 3,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
                 "name": "Gen.G Esports",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70d96120-f4a3-11ef-991a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70d96120-f4a3-11ef-991a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "70d96120-f4a3-11ef-991a-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 32,
@@ -1968,7 +2018,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "70d96120-f4a3-11ef-991a-0242ac130004",
+                "name": "NAVI",
+                "seed": 3
             },
             "opponent2": {
                 "id": null
@@ -2260,7 +2312,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5effe88e-fbe2-11ef-8776-12af1e6e5504",
+                "name": "Gen.G Esports",
+                "seed": 19
             },
             "opponent2": {
                 "id": null
