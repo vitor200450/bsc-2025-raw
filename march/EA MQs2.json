@@ -1786,18 +1786,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
                 "name": "REJECT",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
                 "name": "Crawl up",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -1900,7 +1950,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "70d5990a-f4a3-11ef-bad2-0242ac130004",
+                "name": "REJECT",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2140,7 +2192,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5efee8e4-fbe2-11ef-ba74-12af1e6e5504",
+                "name": "Crawl up",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
