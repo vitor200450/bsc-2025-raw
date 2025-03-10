@@ -1,5 +1,94 @@
 {
-    "participant": [],
+    "participant": [
+        {
+            "id": "0bc09134-fd34-11ef-b474-c2480e12276c",
+            "tournament_id": 0,
+            "name": "REJECT",
+            "players": [
+                "RC|Shu",
+                "RC|Melty",
+                "RC|Battoman"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/REJECT.png"
+        },
+        {
+            "id": "0bc10e48-fd34-11ef-92ef-c2480e12276c",
+            "tournament_id": 0,
+            "name": "NIWA",
+            "players": [
+                "Creo Realm X",
+                "向坂しずく",
+                "かわいいねんね"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NIWA.png"
+        },
+        {
+            "id": "0bbe9a46-fd34-11ef-b5c7-c2480e12276c",
+            "tournament_id": 0,
+            "name": "Rival Esports",
+            "players": [
+                "RVL|Mameshi",
+                "RVL|Terry",
+                "サニートトロ"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Rival Esports.webp"
+        },
+        {
+            "id": "0bc29ea2-fd34-11ef-9fcf-c2480e12276c",
+            "tournament_id": 0,
+            "name": "Frenzy Gaming",
+            "players": [
+                "FZ|Last Defeat",
+                "FZ|Last Hope",
+                "FZ|Torikizoku"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Frenzy Gaming.png"
+        },
+        {
+            "id": "0bc23b60-fd34-11ef-aa52-c2480e12276c",
+            "tournament_id": 0,
+            "name": "NAVI",
+            "players": [
+                "NAVI|Kuru",
+                "NAVI|Ryohei",
+                "NAVI|Achapi"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/NAVI.png"
+        },
+        {
+            "id": "0bc3160c-fd34-11ef-827b-c2480e12276c",
+            "tournament_id": 0,
+            "name": "EffortResult",
+            "players": [
+                "ER|Wahochi",
+                "ER|JeneAzure",
+                "ER|Naipishu"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/EffortResult.png"
+        },
+        {
+            "id": "0bc1e26e-fd34-11ef-91fe-c2480e12276c",
+            "tournament_id": 0,
+            "name": "ZETA DIVISION",
+            "players": [
+                "ZETA|Sizuku",
+                "ZETA|Sitetampo",
+                "ZETA|Levi"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/ZETA DIVISION.png"
+        },
+        {
+            "id": "0bc181a2-fd34-11ef-a999-c2480e12276c",
+            "tournament_id": 0,
+            "name": "Crazy Raccoon",
+            "players": [
+                "CR|Tensai",
+                "CR|Milkreo",
+                "CR|Moya"
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Crazy Raccoon.png"
+        }
+    ],
     "stage": [
         {
             "id": 0,
@@ -22,6 +111,154 @@
             "type": "single_bracket"
         }
     ],
-    "round": [],
-    "match": []
+    "round": [
+        {
+            "id": 0,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 1,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 2,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0
+        }
+    ],
+    "match": [
+        {
+            "id": 1,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "0bc09134-fd34-11ef-b474-c2480e12276c",
+                "name": "REJECT",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": "0bc10e48-fd34-11ef-92ef-c2480e12276c",
+                "name": "NIWA",
+                "seed": 8
+            },
+            "match_games": []
+        },
+        {
+            "id": 2,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "0bbe9a46-fd34-11ef-b5c7-c2480e12276c",
+                "name": "Rival Esports",
+                "seed": 4
+            },
+            "opponent2": {
+                "id": "0bc29ea2-fd34-11ef-9fcf-c2480e12276c",
+                "name": "Frenzy Gaming",
+                "seed": 5
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "0bc23b60-fd34-11ef-aa52-c2480e12276c",
+                "name": "NAVI",
+                "seed": 2
+            },
+            "opponent2": {
+                "id": "0bc3160c-fd34-11ef-827b-c2480e12276c",
+                "name": "EffortResult",
+                "seed": 7
+            },
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "0bc1e26e-fd34-11ef-91fe-c2480e12276c",
+                "name": "ZETA DIVISION",
+                "seed": 3
+            },
+            "opponent2": {
+                "id": "0bc181a2-fd34-11ef-a999-c2480e12276c",
+                "name": "Crazy Raccoon",
+                "seed": 6
+            },
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        }
+    ]
 }
