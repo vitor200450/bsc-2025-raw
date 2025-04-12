@@ -40064,11 +40064,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
                 "name": "RLS REVELA",
-                "seed": 524
+                "seed": 524,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e66ffa0e-0a86-11f0-866d-729b158e3678",
@@ -41131,8 +41132,16 @@
             "round_id": 6,
             "child_count": 3,
             "status": 3,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "e66ffa0e-0a86-11f0-866d-729b158e3678",
+                "name": "Grupio",
+                "seed": 181
+            },
+            "opponent2": {
+                "id": "05b2aa30-1584-11f0-adaa-4ed1b62a3029",
+                "name": "SC TEAM",
+                "seed": 213
+            },
             "match_games": []
         },
         {
