@@ -15103,18 +15103,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
                 "name": "SMC",
-                "seed": 505
+                "seed": 505,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0669d7e8-13de-11f0-92e3-cabe1c6ba045",
                 "name": "Rajput Rifles",
-                "seed": 520
+                "seed": 520,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0669d7e8-13de-11f0-92e3-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0669d7e8-13de-11f0-92e3-cabe1c6ba045",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0669d7e8-13de-11f0-92e3-cabe1c6ba045",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 67,
@@ -25567,7 +25617,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                "name": "SMC",
+                "seed": 505
             },
             "match_games": []
         },
