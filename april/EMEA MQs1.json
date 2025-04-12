@@ -111871,18 +111871,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38e0a0be-0a86-11f0-bfde-729b158e3678",
                 "name": "SEGOVIA FC",
-                "seed": 32
+                "seed": 32,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
                 "name": "TOP|Academy",
-                "seed": 161
+                "seed": 161,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "38e0a0be-0a86-11f0-bfde-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "38e0a0be-0a86-11f0-bfde-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1987,
@@ -112491,18 +112526,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
                 "name": "Crazy Bear",
-                "seed": 1251
+                "seed": 1251,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ec443530-1193-11f0-813d-ba73ea539b98",
                 "name": "DPB|Esport",
-                "seed": 1758
+                "seed": 1758,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ec443530-1193-11f0-813d-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ec443530-1193-11f0-813d-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2011,
