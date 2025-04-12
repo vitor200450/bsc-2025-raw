@@ -32196,18 +32196,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d0cb0d8-0a87-11f0-bc5a-729b158e3678",
                 "name": "Ba Ba Bon",
-                "seed": 143
+                "seed": 143,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
                 "name": "COACTEMALENSIS",
-                "seed": 655
+                "seed": 655,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2d0cb0d8-0a87-11f0-bc5a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2d0cb0d8-0a87-11f0-bc5a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2d0cb0d8-0a87-11f0-bc5a-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 661,
@@ -37484,7 +37534,9 @@
                 "seed": 114
             },
             "opponent2": {
-                "id": null
+                "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                "name": "COACTEMALENSIS",
+                "seed": 655
             },
             "match_games": []
         },

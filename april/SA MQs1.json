@@ -41453,18 +41453,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
                 "name": "Nobruzes F/A",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
                 "name": "Scania",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1002,
