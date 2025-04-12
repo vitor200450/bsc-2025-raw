@@ -48285,18 +48285,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b82047c8-119b-11f0-aab8-8a585fcd80c0",
                 "name": "JLX",
-                "seed": 901
+                "seed": 901,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
                 "name": "Czech Heroes",
-                "seed": 1148
+                "seed": 1148,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b82047c8-119b-11f0-aab8-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b82047c8-119b-11f0-aab8-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b82047c8-119b-11f0-aab8-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 395,
@@ -72781,7 +72831,9 @@
                 "seed": 124
             },
             "opponent2": {
-                "id": null
+                "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                "name": "Czech Heroes",
+                "seed": 1148
             },
             "match_games": []
         },
