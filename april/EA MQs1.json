@@ -5305,7 +5305,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c5fdc94-11e0-11f0-b28e-8a585fcd80c0",
                 "name": "戦わなければ勝てない！",
@@ -5314,7 +5314,8 @@
             "opponent2": {
                 "id": "627cf77e-1157-11f0-a300-6e914f196a76",
                 "name": "Skull Corps",
-                "seed": 157
+                "seed": 157,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -8478,7 +8479,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "3c5fdc94-11e0-11f0-b28e-8a585fcd80c0",
+                "name": "戦わなければ勝てない！",
+                "seed": 100
             },
             "match_games": []
         },
