@@ -43953,7 +43953,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
                 "name": "Team Cream",
@@ -43962,7 +43962,8 @@
             "opponent2": {
                 "id": "80dcd696-17a9-11f0-ba6c-4e80b20c8782",
                 "name": "THE DRAKO’S",
-                "seed": 674
+                "seed": 674,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -44153,18 +44154,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "be1515f8-16f7-11f0-9701-9e6fb0bcba43",
                 "name": "MONKS",
-                "seed": 202
+                "seed": 202,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
                 "name": "Snoopy Oops",
-                "seed": 586
+                "seed": 586,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "be1515f8-16f7-11f0-9701-9e6fb0bcba43",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "be1515f8-16f7-11f0-9701-9e6fb0bcba43",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 943,
