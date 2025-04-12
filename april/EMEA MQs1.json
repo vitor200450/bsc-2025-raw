@@ -91872,18 +91872,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
                 "name": "Cherenobill",
-                "seed": 233
+                "seed": 233,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "99b74dea-1727-11f0-b519-de42ecb16687",
                 "name": "Aim#1",
-                "seed": 1769
+                "seed": 1769,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "99b74dea-1727-11f0-b519-de42ecb16687",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "99b74dea-1727-11f0-b519-de42ecb16687",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1595,
@@ -93367,18 +93402,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
                 "name": "SH | E SPOR",
-                "seed": 220
+                "seed": 220,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35df1bac-0a86-11f0-898f-729b158e3678",
                 "name": "New Prime",
-                "seed": 293
+                "seed": 293,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35df1bac-0a86-11f0-898f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35df1bac-0a86-11f0-898f-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1647,
@@ -95772,18 +95842,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "72525c02-125b-11f0-b1ed-c203eea1d99a",
                 "name": "Troll Pick",
-                "seed": 1239
+                "seed": 1239,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
                 "name": "Rufus",
-                "seed": 727
+                "seed": 727,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "72525c02-125b-11f0-b1ed-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "72525c02-125b-11f0-b1ed-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1727,
@@ -96897,18 +97002,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "312f9d20-0a86-11f0-b033-729b158e3678",
                 "name": "Guardian Gaming",
-                "seed": 123
+                "seed": 123,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81d8a8ae-132b-11f0-9d80-2e8d1ec3d504",
                 "name": "𝚂𝚊𝚖𝚋𝚊 𝚃𝚎𝚊𝚖",
-                "seed": 390
+                "seed": 390,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "312f9d20-0a86-11f0-b033-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d8a8ae-132b-11f0-9d80-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "312f9d20-0a86-11f0-b033-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81d8a8ae-132b-11f0-9d80-2e8d1ec3d504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1764,
@@ -97472,18 +97612,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ddf9fac-0a86-11f0-a069-729b158e3678",
                 "name": "YTM Esports",
-                "seed": 75
+                "seed": 75,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "32c97250-14b3-11f0-890a-cabe1c6ba045",
                 "name": "Herz",
-                "seed": 1611
+                "seed": 1611,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3ddf9fac-0a86-11f0-a069-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32c97250-14b3-11f0-890a-cabe1c6ba045",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3ddf9fac-0a86-11f0-a069-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32c97250-14b3-11f0-890a-cabe1c6ba045",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1784,
@@ -98217,7 +98392,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "99b74dea-1727-11f0-b519-de42ecb16687",
+                "name": "Aim#1",
+                "seed": 1769
             },
             "match_games": []
         },
@@ -98651,7 +98828,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
+                "name": "SH | E SPOR",
+                "seed": 220
             },
             "match_games": []
         },
@@ -99636,7 +99815,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "312f9d20-0a86-11f0-b033-729b158e3678",
+                "name": "Guardian Gaming",
+                "seed": 123
             },
             "opponent2": {
                 "id": null
@@ -99800,7 +99981,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3ddf9fac-0a86-11f0-a069-729b158e3678",
+                "name": "YTM Esports",
+                "seed": 75
             },
             "opponent2": {
                 "id": null
