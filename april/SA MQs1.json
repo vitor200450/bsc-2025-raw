@@ -37215,18 +37215,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
                 "name": "FLUXO 👻",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
                 "name": "Kwidado",
-                "seed": 67
+                "seed": 67,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 947,
