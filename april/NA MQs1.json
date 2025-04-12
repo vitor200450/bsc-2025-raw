@@ -44132,18 +44132,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
                 "name": "CAL",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
                 "name": "RODO",
-                "seed": 589
+                "seed": 589,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 919,
@@ -44469,18 +44519,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2835264e-0a87-11f0-82b2-729b158e3678",
                 "name": "GMA",
-                "seed": 53
+                "seed": 53,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
                 "name": "NA’s Final Hope",
-                "seed": 76
+                "seed": 76,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2835264e-0a87-11f0-82b2-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2835264e-0a87-11f0-82b2-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 927,
@@ -44990,18 +45075,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29ebf6a2-0a87-11f0-bcf5-729b158e3678",
                 "name": "A1 Trio",
-                "seed": 58
+                "seed": 58,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "304476ae-126c-11f0-bdd6-c203eea1d99a",
                 "name": "ISK",
-                "seed": 327
+                "seed": 327,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "29ebf6a2-0a87-11f0-bcf5-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "304476ae-126c-11f0-bdd6-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "29ebf6a2-0a87-11f0-bcf5-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "304476ae-126c-11f0-bdd6-c203eea1d99a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 939,
@@ -46259,7 +46379,9 @@
                 "seed": 629
             },
             "opponent2": {
-                "id": null
+                "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                "name": "NA’s Final Hope",
+                "seed": 76
             },
             "match_games": []
         },
@@ -46371,7 +46493,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "29ebf6a2-0a87-11f0-bcf5-729b158e3678",
+                "name": "A1 Trio",
+                "seed": 58
             },
             "match_games": []
         },
