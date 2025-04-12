@@ -46435,18 +46435,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
                 "name": "New Heights Gaming",
-                "seed": 640
+                "seed": 640,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
                 "name": "Dallas Too Far",
-                "seed": 576
+                "seed": 576,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 962,
@@ -46920,18 +46955,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
                 "name": "BERSERKERS",
-                "seed": 5
+                "seed": 5,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
                 "name": "Squishy",
-                "seed": 316
+                "seed": 316,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 974,
@@ -47392,18 +47462,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
                 "name": "YHLQMDLG",
-                "seed": 227
+                "seed": 227,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2bfe0944-0a87-11f0-be70-729b158e3678",
                 "name": "Foam Rollers",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2bfe0944-0a87-11f0-be70-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2bfe0944-0a87-11f0-be70-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 987,
@@ -47641,10 +47746,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                "name": "New Heights Gaming",
+                "seed": 640
             },
             "opponent2": {
-                "id": null
+                "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                "name": "Kappa",
+                "seed": 353
             },
             "match_games": []
         },
@@ -47745,7 +47854,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                "name": "Squishy",
+                "seed": 316
             },
             "opponent2": {
                 "id": null
@@ -47858,7 +47969,9 @@
                 "seed": 638
             },
             "opponent2": {
-                "id": null
+                "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                "name": "YHLQMDLG",
+                "seed": 227
             },
             "match_games": []
         },
