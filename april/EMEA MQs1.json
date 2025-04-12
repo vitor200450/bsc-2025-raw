@@ -111371,18 +111371,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "291a8e7e-120b-11f0-a01a-2e8d1ec3d504",
                 "name": "Red Rockets",
-                "seed": 491
+                "seed": 491,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2fb4ade6-0a86-11f0-900d-729b158e3678",
                 "name": "Farias Dance Club",
-                "seed": 662
+                "seed": 662,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "291a8e7e-120b-11f0-a01a-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2fb4ade6-0a86-11f0-900d-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "291a8e7e-120b-11f0-a01a-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2fb4ade6-0a86-11f0-900d-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1984,
@@ -112011,7 +112046,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "291a8e7e-120b-11f0-a01a-2e8d1ec3d504",
+                "name": "Red Rockets",
+                "seed": 491
             },
             "opponent2": {
                 "id": null
