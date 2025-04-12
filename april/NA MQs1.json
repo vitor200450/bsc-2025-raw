@@ -37643,18 +37643,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
                 "name": "Midnight Brawlers",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "429c449c-121e-11f0-8943-2e8d1ec3d504",
                 "name": "UniónAracnida",
-                "seed": 285
+                "seed": 285,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "429c449c-121e-11f0-8943-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "429c449c-121e-11f0-8943-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 806,
@@ -39383,18 +39418,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
                 "name": "Red 5",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "50c3ed9a-148a-11f0-8a65-4ed1b62a3029",
                 "name": "Warriors",
-                "seed": 266
+                "seed": 266,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50c3ed9a-148a-11f0-8a65-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "50c3ed9a-148a-11f0-8a65-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 858,
@@ -40672,7 +40742,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                "name": "Midnight Brawlers",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
@@ -41120,10 +41192,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
+                "name": "Red 5",
+                "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "29e0793a-0a87-11f0-bbd7-729b158e3678",
+                "name": "Chaos Crew",
+                "seed": 119
             },
             "match_games": []
         },
