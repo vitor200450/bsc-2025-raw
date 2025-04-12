@@ -94305,18 +94305,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33211ed8-0a86-11f0-bf13-729b158e3678",
                 "name": "LA RUNE DU LOUP",
-                "seed": 133
+                "seed": 133,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
                 "name": "Team Peach",
-                "seed": 1669
+                "seed": 1669,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "33211ed8-0a86-11f0-bf13-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "33211ed8-0a86-11f0-bf13-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1637,
@@ -99128,18 +99163,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
                 "name": "CK|MTM",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa6b96bc-1300-11f0-8b6f-7634ef9f88fa",
                 "name": "HUSARZY",
-                "seed": 691
+                "seed": 691,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6b96bc-1300-11f0-8b6f-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6b96bc-1300-11f0-8b6f-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1753,
