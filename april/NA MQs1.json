@@ -38794,18 +38794,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
                 "name": "Cloude eSports",
-                "seed": 629
+                "seed": 629,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2cb3905c-0a87-11f0-aeeb-729b158e3678",
                 "name": "Tupapi",
-                "seed": 140
+                "seed": 140,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2cb3905c-0a87-11f0-aeeb-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2cb3905c-0a87-11f0-aeeb-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2cb3905c-0a87-11f0-aeeb-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 827,
@@ -41314,18 +41364,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28a05ea0-0a87-11f0-9833-729b158e3678",
                 "name": "Head Hunters",
-                "seed": 75
+                "seed": 75,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e36521b4-13cc-11f0-a74c-7634ef9f88fa",
                 "name": "LOS CIUDADANOS",
-                "seed": 182
+                "seed": 182,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "28a05ea0-0a87-11f0-9833-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e36521b4-13cc-11f0-a74c-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "28a05ea0-0a87-11f0-9833-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e36521b4-13cc-11f0-a74c-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 893,
