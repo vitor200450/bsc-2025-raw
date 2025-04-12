@@ -48200,18 +48200,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b5792ad4-1359-11f0-b07b-2e8d1ec3d504",
                 "name": "Casual Crusaders",
-                "seed": 500
+                "seed": 500,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2981ad4c-0a87-11f0-9f25-729b158e3678",
                 "name": "Conquerors",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b5792ad4-1359-11f0-b07b-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2981ad4c-0a87-11f0-9f25-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b5792ad4-1359-11f0-b07b-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2981ad4c-0a87-11f0-9f25-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 999,
