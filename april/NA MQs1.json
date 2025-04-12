@@ -9606,7 +9606,7 @@
             "name": "4AM",
             "players": [
                 {
-                    "name": "乄| 𝒩𝑜𝒾𝓇゛",
+                    "name": "神 | Prophet",
                     "gamerTag": "#JR9LG2PP"
                 },
                 {
@@ -9614,7 +9614,7 @@
                     "gamerTag": "#Y8G0YG8R0"
                 },
                 {
-                    "name": "Bot 4",
+                    "name": "鬼 | Revenant",
                     "gamerTag": "#G8JVLYG8Q"
                 }
             ],
@@ -27731,7 +27731,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d5c0b14e-1427-11f0-85c0-4ed1b62a3029",
                 "name": "Giallo! e-sports",
@@ -27740,7 +27740,8 @@
             "opponent2": {
                 "id": "6208ce68-1485-11f0-a5b1-7634ef9f88fa",
                 "name": "Los acarriadoss",
-                "seed": 264
+                "seed": 264,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -27751,7 +27752,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29fc890e-0a87-11f0-86ae-729b158e3678",
                 "name": "Peasant",
@@ -27760,7 +27761,8 @@
             "opponent2": {
                 "id": "98c3445a-126a-11f0-9da5-c203eea1d99a",
                 "name": "Brawler",
-                "seed": 392
+                "seed": 392,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -27771,11 +27773,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c4f14ce-0a87-11f0-b537-729b158e3678",
                 "name": "FOOD LOVERS",
-                "seed": 136
+                "seed": 136,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "0c8169aa-12f0-11f0-bcda-4ed1b62a3029",
@@ -27791,7 +27794,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
                 "name": "Triple M",
@@ -27800,7 +27803,8 @@
             "opponent2": {
                 "id": "c6cd254a-1310-11f0-8b76-7634ef9f88fa",
                 "name": "Fishi",
-                "seed": 456
+                "seed": 456,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -27811,11 +27815,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5951f7b0-1672-11f0-9129-4ed1b62a3029",
                 "name": "Fareway Elites",
-                "seed": 200
+                "seed": 200,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2b6b8024-0a87-11f0-a6f0-729b158e3678",
@@ -36659,8 +36664,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "29fc890e-0a87-11f0-86ae-729b158e3678",
+                "name": "Peasant",
+                "seed": 121
+            },
+            "opponent2": {
+                "id": "0c8169aa-12f0-11f0-bcda-4ed1b62a3029",
+                "name": "Wab",
+                "seed": 377
+            },
             "match_games": []
         },
         {
@@ -36671,8 +36684,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
+                "name": "Triple M",
+                "seed": 57
+            },
+            "opponent2": {
+                "id": "2b6b8024-0a87-11f0-a6f0-729b158e3678",
+                "name": "Ace Clan",
+                "seed": 313
+            },
             "match_games": []
         },
         {
