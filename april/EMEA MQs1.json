@@ -112141,18 +112141,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
                 "name": "F/A Sucuk",
-                "seed": 877
+                "seed": 877,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f94b68a-0a86-11f0-ade6-729b158e3678",
                 "name": "F/A Randoms",
-                "seed": 45
+                "seed": 45,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f94b68a-0a86-11f0-ade6-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f94b68a-0a86-11f0-ade6-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1997,
