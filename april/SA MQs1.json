@@ -22821,18 +22821,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1542e7f4-1420-11f0-8f3b-cabe1c6ba045",
                 "name": "pão de batata",
-                "seed": 201
+                "seed": 201,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
                 "name": "FIVE LANS",
-                "seed": 312
+                "seed": 312,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "1542e7f4-1420-11f0-8f3b-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "1542e7f4-1420-11f0-8f3b-cabe1c6ba045",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 567,
@@ -25686,18 +25721,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
                 "name": "LosPericotes",
-                "seed": 47
+                "seed": 47,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
                 "name": "SilVer|ForCes",
-                "seed": 559
+                "seed": 559,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 670,
@@ -30040,7 +30110,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                "name": "LosPericotes",
+                "seed": 47
             },
             "opponent2": {
                 "id": null
