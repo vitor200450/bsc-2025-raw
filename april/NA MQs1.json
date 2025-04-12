@@ -26679,18 +26679,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7777ba5e-159b-11f0-ba51-4ed1b62a3029",
                 "name": "META",
-                "seed": 192
+                "seed": 192,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
                 "name": "The of olympus",
-                "seed": 321
+                "seed": 321,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7777ba5e-159b-11f0-ba51-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7777ba5e-159b-11f0-ba51-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 521,
@@ -29084,18 +29119,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
                 "name": "Apex Predators",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "442a04b0-1256-11f0-86c2-4ed1b62a3029",
                 "name": "Quebec gaming",
-                "seed": 372
+                "seed": 372,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "442a04b0-1256-11f0-86c2-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "442a04b0-1256-11f0-86c2-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "442a04b0-1256-11f0-86c2-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 597,
@@ -31840,18 +31925,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
                 "name": "The Forgotten",
-                "seed": 103
+                "seed": 103,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "25bffc4e-11c2-11f0-ac9d-a60123dd55a2",
                 "name": "Flameo",
-                "seed": 615
+                "seed": 615,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25bffc4e-11c2-11f0-ac9d-a60123dd55a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "25bffc4e-11c2-11f0-ac9d-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 684,
@@ -35225,7 +35345,9 @@
                 "seed": 397
             },
             "opponent2": {
-                "id": null
+                "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                "name": "Apex Predators",
+                "seed": 141
             },
             "match_games": []
         },
@@ -35974,7 +36096,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
+                "name": "The Forgotten",
+                "seed": 103
             },
             "opponent2": {
                 "id": null
