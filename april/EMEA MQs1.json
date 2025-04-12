@@ -105838,18 +105838,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "378aac50-0a86-11f0-bebe-729b158e3678",
                 "name": "Promachus",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "68d8e540-1195-11f0-b7da-8a585fcd80c0",
                 "name": "The Untolds Esports",
-                "seed": 1770
+                "seed": 1770,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "68d8e540-1195-11f0-b7da-8a585fcd80c0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "68d8e540-1195-11f0-b7da-8a585fcd80c0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1886,
@@ -108192,10 +108227,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                "name": "Promachus",
+                "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "2f9a2c0a-0a86-11f0-9345-729b158e3678",
+                "name": "Rakuzan",
+                "seed": 618
             },
             "match_games": []
         },
