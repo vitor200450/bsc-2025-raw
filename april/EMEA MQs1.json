@@ -93412,18 +93412,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a4cbf98-11f1-11f0-831d-ba73ea539b98",
                 "name": "ABX Lauz",
-                "seed": 959
+                "seed": 959,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6958358e-12ee-11f0-bec5-2e8d1ec3d504",
                 "name": "AV|Anti Virus",
-                "seed": 447
+                "seed": 447,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2a4cbf98-11f1-11f0-831d-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6958358e-12ee-11f0-bec5-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2a4cbf98-11f1-11f0-831d-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6958358e-12ee-11f0-bec5-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1672,
@@ -95047,18 +95082,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
                 "name": "TS|Too Serious",
-                "seed": 163
+                "seed": 163,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3e31e7c0-1167-11f0-ba67-ba73ea539b98",
                 "name": "IL|MIL",
-                "seed": 1374
+                "seed": 1374,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e31e7c0-1167-11f0-ba67-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3e31e7c0-1167-11f0-ba67-ba73ea539b98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1745,
@@ -97370,7 +97440,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6958358e-12ee-11f0-bec5-2e8d1ec3d504",
+                "name": "AV|Anti Virus",
+                "seed": 447
             },
             "opponent2": {
                 "id": null
