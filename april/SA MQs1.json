@@ -36271,18 +36271,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4c3f478a-123f-11f0-9761-c203eea1d99a",
                 "name": "RAP",
-                "seed": 304
+                "seed": 304,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "19d0bd26-114d-11f0-9502-6e914f196a76",
                 "name": "Brawl Legends League",
-                "seed": 337
+                "seed": 337,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "4c3f478a-123f-11f0-9761-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19d0bd26-114d-11f0-9502-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4c3f478a-123f-11f0-9761-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "19d0bd26-114d-11f0-9502-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 905,
@@ -36346,18 +36381,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
                 "name": "Furious Team",
-                "seed": 200
+                "seed": 200,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e50c6832-0a86-11f0-81a6-729b158e3678",
                 "name": "TMMTA",
-                "seed": 72
+                "seed": 72,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e50c6832-0a86-11f0-81a6-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e50c6832-0a86-11f0-81a6-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e50c6832-0a86-11f0-81a6-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 907,
@@ -38896,7 +38981,9 @@
                 "seed": 145
             },
             "opponent2": {
-                "id": null
+                "id": "19d0bd26-114d-11f0-9502-6e914f196a76",
+                "name": "Brawl Legends League",
+                "seed": 337
             },
             "match_games": []
         },
@@ -38914,7 +39001,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
+                "name": "Furious Team",
+                "seed": 200
             },
             "match_games": []
         },
