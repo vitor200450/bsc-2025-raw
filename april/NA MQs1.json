@@ -44044,18 +44044,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
                 "name": "Crumbs",
-                "seed": 242
+                "seed": 242,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
                 "name": "COACTEMALENSIS",
-                "seed": 655
+                "seed": 655,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa49986c-11d6-11f0-92f4-da47bd160d1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 934,
@@ -44494,18 +44529,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
                 "name": "RANGOLEROS F/A",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b22b4d4-0a87-11f0-b987-729b158e3678",
                 "name": "Los Pozoleros",
-                "seed": 83
+                "seed": 83,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b22b4d4-0a87-11f0-b987-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b22b4d4-0a87-11f0-b987-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 953,
@@ -44968,7 +45038,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
+                "name": "Crumbs",
+                "seed": 242
             },
             "opponent2": {
                 "id": null
