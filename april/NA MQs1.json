@@ -33931,7 +33931,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b371816-0a87-11f0-84fb-729b158e3678",
                 "name": "Wild stars",
@@ -33940,7 +33940,8 @@
             "opponent2": {
                 "id": "ed3032fc-1295-11f0-bbbb-4ed1b62a3029",
                 "name": "Nexus Prime",
-                "seed": 426
+                "seed": 426,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33951,11 +33952,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ffccf5dc-1252-11f0-8757-2e8d1ec3d504",
                 "name": "Bruzz",
-                "seed": 170
+                "seed": 170,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "6702cb52-17b5-11f0-8ca9-5e3e4f9cad4d",
@@ -34026,7 +34028,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "734cb86c-13fc-11f0-a855-7634ef9f88fa",
                 "name": "The Hope",
@@ -34035,7 +34037,8 @@
             "opponent2": {
                 "id": "b2f2c694-1750-11f0-8718-82ef88cda3e3",
                 "name": "Dynasty",
-                "seed": 259
+                "seed": 259,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -34101,11 +34104,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bf99300-0a87-11f0-b0b1-729b158e3678",
                 "name": "American Rage",
-                "seed": 131
+                "seed": 131,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
@@ -35121,11 +35125,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "729af128-1333-11f0-ae8a-c203eea1d99a",
                 "name": "JB CLAN",
-                "seed": 211
+                "seed": 211,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "ebb8ab92-1700-11f0-b30f-6af3f459b924",
@@ -35196,7 +35201,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6eadb7b6-1307-11f0-abcb-7634ef9f88fa",
                 "name": "AQM| IS BACK",
@@ -35205,7 +35210,8 @@
             "opponent2": {
                 "id": "a1b1806a-1281-11f0-85b4-2e8d1ec3d504",
                 "name": "S.T.N.M PLAYERS",
-                "seed": 339
+                "seed": 339,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -38314,8 +38320,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2b371816-0a87-11f0-84fb-729b158e3678",
+                "name": "Wild stars",
+                "seed": 87
+            },
+            "opponent2": {
+                "id": "6702cb52-17b5-11f0-8ca9-5e3e4f9cad4d",
+                "name": "SMILE N DIE",
+                "seed": 682
+            },
             "match_games": []
         },
         {
@@ -38331,7 +38345,11 @@
                 "name": "Cabritos",
                 "seed": 3
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "734cb86c-13fc-11f0-a855-7634ef9f88fa",
+                "name": "The Hope",
+                "seed": 254
+            },
             "match_games": []
         },
         {
@@ -38347,7 +38365,11 @@
                 "name": "Filthy Casuals",
                 "seed": 638
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
+                "name": "ECC",
+                "seed": 643
+            },
             "match_games": []
         },
         {
@@ -38543,7 +38565,11 @@
                 "name": "RANGOLEROS F/A",
                 "seed": 46
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "ebb8ab92-1700-11f0-b30f-6af3f459b924",
+                "name": "GOLDEN EMBER",
+                "seed": 302
+            },
             "match_games": []
         },
         {
@@ -38559,7 +38585,11 @@
                 "name": "Los Pozoleros",
                 "seed": 83
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "6eadb7b6-1307-11f0-abcb-7634ef9f88fa",
+                "name": "AQM| IS BACK",
+                "seed": 174
+            },
             "match_games": []
         },
         {
