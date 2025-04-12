@@ -103360,18 +103360,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
                 "name": "Ei",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7036d6c8-1157-11f0-846f-c2c76dd5c469",
                 "name": "Zero Gravity eSport",
-                "seed": 1268
+                "seed": 1268,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7036d6c8-1157-11f0-846f-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7036d6c8-1157-11f0-846f-c2c76dd5c469",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1834,
@@ -106904,10 +106939,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                "name": "Ei",
+                "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                "name": "Never surrender",
+                "seed": 141
             },
             "match_games": []
         },
