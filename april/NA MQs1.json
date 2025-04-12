@@ -30904,18 +30904,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
                 "name": "RANGOLEROS F/A",
-                "seed": 46
+                "seed": 46,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6f43a11a-118e-11f0-ba33-a60123dd55a2",
                 "name": "3 tWins",
-                "seed": 467
+                "seed": 467,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f43a11a-118e-11f0-ba33-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6f43a11a-118e-11f0-ba33-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 734,
