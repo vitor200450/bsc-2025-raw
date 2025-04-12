@@ -101999,18 +101999,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
                 "name": "ICE MECHA CROW",
-                "seed": 448
+                "seed": 448,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0d34c5aa-15d8-11f0-9bcf-4ed1b62a3029",
                 "name": "Lumi en sah",
-                "seed": 704
+                "seed": 704,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0d34c5aa-15d8-11f0-9bcf-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0d34c5aa-15d8-11f0-9bcf-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0d34c5aa-15d8-11f0-9bcf-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1797,
@@ -107023,18 +107073,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e663fda-0a86-11f0-8526-729b158e3678",
                 "name": "🍉",
-                "seed": 102
+                "seed": 102,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d2f66d80-176c-11f0-844c-e282ffa70add",
                 "name": "Crazy Monti",
-                "seed": 1179
+                "seed": 1179,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "3e663fda-0a86-11f0-8526-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d2f66d80-176c-11f0-844c-e282ffa70add",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "3e663fda-0a86-11f0-8526-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d2f66d80-176c-11f0-844c-e282ffa70add",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1911,
@@ -107483,7 +107568,9 @@
                 "seed": 576
             },
             "opponent2": {
-                "id": null
+                "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                "name": "ICE MECHA CROW",
+                "seed": 448
             },
             "match_games": []
         },
@@ -108577,7 +108664,9 @@
                 "seed": 539
             },
             "opponent2": {
-                "id": null
+                "id": "d2f66d80-176c-11f0-844c-e282ffa70add",
+                "name": "Crazy Monti",
+                "seed": 1179
             },
             "match_games": []
         },
