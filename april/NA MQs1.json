@@ -18093,18 +18093,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
                 "name": "Thunderbolts",
-                "seed": 476
+                "seed": 476,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7ecfc4bc-11af-11f0-8651-ba73ea539b98",
                 "name": "RADINT",
-                "seed": 549
+                "seed": 549,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ecfc4bc-11af-11f0-8651-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7ecfc4bc-11af-11f0-8651-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 219,
@@ -21638,18 +21673,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d1802584-125f-11f0-92f0-c203eea1d99a",
                 "name": "Elhadji's Brawlers",
-                "seed": 382
+                "seed": 382,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
                 "name": "ECC",
-                "seed": 643
+                "seed": 643,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d1802584-125f-11f0-92f0-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d1802584-125f-11f0-92f0-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 393,
@@ -26071,7 +26141,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                "name": "Thunderbolts",
+                "seed": 476
             },
             "match_games": []
         },
@@ -27723,7 +27795,9 @@
                 "seed": 131
             },
             "opponent2": {
-                "id": null
+                "id": "61b1372a-11d3-11f0-9e9c-ba73ea539b98",
+                "name": "ECC",
+                "seed": 643
             },
             "match_games": []
         },
