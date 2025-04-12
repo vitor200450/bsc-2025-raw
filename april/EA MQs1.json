@@ -11073,18 +11073,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
                 "name": "OLD PRESON",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4dee44ee-131d-11f0-ab24-c203eea1d99a",
                 "name": "Faze",
-                "seed": 72
+                "seed": 72,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4dee44ee-131d-11f0-ab24-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4dee44ee-131d-11f0-ab24-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 198,
@@ -11581,18 +11616,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2f767a0-0a84-11f0-90b1-729b158e3678",
                 "name": "昱翔team",
-                "seed": 3
+                "seed": 3,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
                 "name": "ぽぽっちゃお",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a2f767a0-0a84-11f0-90b1-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a2f767a0-0a84-11f0-90b1-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 218,
@@ -11847,10 +11917,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
+                "name": "OLD PRESON",
+                "seed": 136
             },
             "opponent2": {
-                "id": null
+                "id": "a434c9c8-0a84-11f0-a31c-729b158e3678",
+                "name": "Riberte",
+                "seed": 25
             },
             "match_games": []
         },
@@ -12011,7 +12085,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
+                "name": "ぽぽっちゃお",
+                "seed": 62
             },
             "opponent2": {
                 "id": null
