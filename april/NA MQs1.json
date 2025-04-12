@@ -33313,11 +33313,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "786c1bbc-14d3-11f0-9d61-4ed1b62a3029",
                 "name": "Robotics-12",
-                "seed": 154
+                "seed": 154,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7d78fe52-17a0-11f0-a993-4213c753f0c7",
@@ -33333,7 +33334,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28f29ee0-0a87-11f0-ad50-729b158e3678",
                 "name": "Overdrive",
@@ -33342,7 +33343,8 @@
             "opponent2": {
                 "id": "99ed65fe-1332-11f0-a3a1-7634ef9f88fa",
                 "name": "FEBA",
-                "seed": 474
+                "seed": 474,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33518,7 +33520,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
                 "name": "Red 5",
@@ -33527,7 +33529,8 @@
             "opponent2": {
                 "id": "63b96eda-119b-11f0-8e2c-8a585fcd80c0",
                 "name": "MANICS",
-                "seed": 503
+                "seed": 503,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33538,11 +33541,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73194868-1421-11f0-9f23-7634ef9f88fa",
                 "name": "ZERO CLUB",
-                "seed": 247
+                "seed": 247,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "50c3ed9a-148a-11f0-8a65-4ed1b62a3029",
@@ -33683,7 +33687,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "289d639e-0a87-11f0-82ac-729b158e3678",
                 "name": "Dragon Empire",
@@ -33692,7 +33696,8 @@
             "opponent2": {
                 "id": "10266a7e-11b5-11f0-a528-ba73ea539b98",
                 "name": "Monarchs",
-                "seed": 567
+                "seed": 567,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -35553,11 +35558,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e02f7aaa-172b-11f0-a03d-92c68b694f6e",
                 "name": "SupercellAssassins",
-                "seed": 187
+                "seed": 187,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "8e5ccc50-17a3-11f0-99bf-2e3c894699d2",
@@ -38104,7 +38110,11 @@
                 "name": "The Forgotten",
                 "seed": 103
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "7d78fe52-17a0-11f0-a993-4213c753f0c7",
+                "name": "Spx",
+                "seed": 666
+            },
             "match_games": []
         },
         {
@@ -38115,8 +38125,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "28f29ee0-0a87-11f0-ad50-729b158e3678",
+                "name": "Overdrive",
+                "seed": 39
+            },
+            "opponent2": {
+                "id": "d4937a44-123e-11f0-a6ef-c203eea1d99a",
+                "name": "eXalted",
+                "seed": 295
+            },
             "match_games": []
         },
         {
@@ -38147,8 +38165,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "29de342c-0a87-11f0-8a3b-729b158e3678",
+                "name": "Red 5",
+                "seed": 10
+            },
+            "opponent2": {
+                "id": "50c3ed9a-148a-11f0-8a65-4ed1b62a3029",
+                "name": "Warriors",
+                "seed": 266
+            },
             "match_games": []
         },
         {
@@ -38179,7 +38205,11 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
+            "opponent1": {
+                "id": "289d639e-0a87-11f0-82ac-729b158e3678",
+                "name": "Dragon Empire",
+                "seed": 55
+            },
             "opponent2": null,
             "match_games": []
         },
@@ -38556,7 +38586,11 @@
                 "name": "FamilyFTW",
                 "seed": 70
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "8e5ccc50-17a3-11f0-99bf-2e3c894699d2",
+                "name": "Brawl Estrellados",
+                "seed": 326
+            },
             "match_games": []
         },
         {
