@@ -74682,18 +74682,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38b2cf54-0a86-11f0-bf07-729b158e3678",
                 "name": "SASITAS",
-                "seed": 149
+                "seed": 149,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7620be06-1228-11f0-ae4f-7634ef9f88fa",
                 "name": "Ogur4iki",
-                "seed": 876
+                "seed": 876,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "38b2cf54-0a86-11f0-bf07-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7620be06-1228-11f0-ae4f-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "38b2cf54-0a86-11f0-bf07-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7620be06-1228-11f0-ae4f-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1272,
@@ -79983,18 +80018,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c00f646-0a86-11f0-95e9-729b158e3678",
                 "name": "ÆPN Zerø",
-                "seed": 43
+                "seed": 43,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
                 "name": "HBR MONKEYS",
-                "seed": 982
+                "seed": 982,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2c00f646-0a86-11f0-95e9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2c00f646-0a86-11f0-95e9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1530,
@@ -82123,7 +82193,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "38b2cf54-0a86-11f0-bf07-729b158e3678",
+                "name": "SASITAS",
+                "seed": 149
             },
             "opponent2": {
                 "id": null
@@ -84191,7 +84263,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2c00f646-0a86-11f0-95e9-729b158e3678",
+                "name": "ÆPN Zerø",
+                "seed": 43
             },
             "opponent2": {
                 "id": null
