@@ -94112,18 +94112,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bf355280-122a-11f0-8e5b-c203eea1d99a",
                 "name": "MMV",
-                "seed": 1111
+                "seed": 1111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
                 "name": "F/A Model",
-                "seed": 1623
+                "seed": 1623,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "bf355280-122a-11f0-8e5b-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "bf355280-122a-11f0-8e5b-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1728,
@@ -94472,18 +94507,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd7bf842-1164-11f0-90c8-6e914f196a76",
                 "name": "Denis_lukas_andres",
-                "seed": 1011
+                "seed": 1011,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6bcf9058-1273-11f0-8133-2e8d1ec3d504",
                 "name": "Feel The Revenge",
-                "seed": 526
+                "seed": 526,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "cd7bf842-1164-11f0-90c8-6e914f196a76",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6bcf9058-1273-11f0-8133-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "cd7bf842-1164-11f0-90c8-6e914f196a76",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6bcf9058-1273-11f0-8133-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1746,
@@ -96995,7 +97065,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                "name": "F/A Model",
+                "seed": 1623
             },
             "opponent2": {
                 "id": null
@@ -97139,7 +97211,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6bcf9058-1273-11f0-8133-2e8d1ec3d504",
+                "name": "Feel The Revenge",
+                "seed": 526
             },
             "opponent2": {
                 "id": null
