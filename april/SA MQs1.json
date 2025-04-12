@@ -39749,18 +39749,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
                 "name": "Pitchulas",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "197b7a42-13f9-11f0-889e-4ed1b62a3029",
                 "name": "Aztec Gaming",
-                "seed": 197
+                "seed": 197,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "197b7a42-13f9-11f0-889e-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "197b7a42-13f9-11f0-889e-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 974,
@@ -39994,18 +40029,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e508e658-0a86-11f0-8b83-729b158e3678",
                 "name": "JKR | TheJokers",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
                 "name": "LosPericotes",
-                "seed": 47
+                "seed": 47,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e508e658-0a86-11f0-8b83-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e508e658-0a86-11f0-8b83-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 981,
@@ -40504,7 +40574,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
+                "name": "Pitchulas",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
