@@ -43403,11 +43403,12 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b422df14-13f3-11f0-ba00-cabe1c6ba045",
                 "name": "Rat Gng",
-                "seed": 241
+                "seed": 241,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2d1c0eac-0a87-11f0-9f45-729b158e3678",
@@ -44172,18 +44173,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
                 "name": "Itagui",
-                "seed": 45
+                "seed": 45,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1f071802-161c-11f0-9b68-4ed1b62a3029",
                 "name": "LORD",
-                "seed": 596
+                "seed": 596,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f071802-161c-11f0-9b68-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1f071802-161c-11f0-9b68-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 921,
@@ -45984,10 +46020,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2d1c0eac-0a87-11f0-9f45-729b158e3678",
+                "name": "2 Misters, 1 Cup",
+                "seed": 144
             },
             "opponent2": {
-                "id": null
+                "id": "2ce66a22-0a87-11f0-a038-729b158e3678",
+                "name": "Shambolic Randoms",
+                "seed": 49
             },
             "match_games": []
         },
@@ -46159,7 +46199,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                "name": "Itagui",
+                "seed": 45
             },
             "match_games": []
         },
