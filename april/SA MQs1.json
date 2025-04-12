@@ -15918,11 +15918,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ab3dba2-1353-11f0-8c8b-c203eea1d99a",
                 "name": "Máfia Noturna",
-                "seed": 460
+                "seed": 460,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "36c53574-11ca-11f0-8347-8a585fcd80c0",
@@ -23227,7 +23228,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "36c53574-11ca-11f0-8347-8a585fcd80c0",
+                "name": "Team Shadow Hunters",
+                "seed": 565
             },
             "match_games": []
         },
