@@ -49010,18 +49010,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "55f4108c-1215-11f0-a31a-7634ef9f88fa",
                 "name": "Crwatchits",
-                "seed": 828
+                "seed": 828,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2d3c4c6c-1257-11f0-8fa5-4ed1b62a3029",
                 "name": "Team Zenith",
-                "seed": 1221
+                "seed": 1221,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "55f4108c-1215-11f0-a31a-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d3c4c6c-1257-11f0-8fa5-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "55f4108c-1215-11f0-a31a-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d3c4c6c-1257-11f0-8fa5-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "55f4108c-1215-11f0-a31a-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2d3c4c6c-1257-11f0-8fa5-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 407,
@@ -56566,18 +56616,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f0ed0d8-0a86-11f0-bbcb-729b158e3678",
                 "name": "EMPOWER",
-                "seed": 506
+                "seed": 506,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3bdf7626-13c5-11f0-abf0-cabe1c6ba045",
                 "name": "Team Pomidorchiki",
-                "seed": 1543
+                "seed": 1543,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2f0ed0d8-0a86-11f0-bbcb-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3bdf7626-13c5-11f0-abf0-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2f0ed0d8-0a86-11f0-bbcb-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3bdf7626-13c5-11f0-abf0-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 644,
@@ -73410,7 +73495,9 @@
                 "seed": 197
             },
             "opponent2": {
-                "id": null
+                "id": "2d3c4c6c-1257-11f0-8fa5-4ed1b62a3029",
+                "name": "Team Zenith",
+                "seed": 1221
             },
             "match_games": []
         },
@@ -75783,10 +75870,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3bdf7626-13c5-11f0-abf0-cabe1c6ba045",
+                "name": "Team Pomidorchiki",
+                "seed": 1543
             },
             "opponent2": {
-                "id": null
+                "id": "112291a0-1179-11f0-9f50-ba73ea539b98",
+                "name": "EXOTIC",
+                "seed": 1530
             },
             "match_games": []
         },
