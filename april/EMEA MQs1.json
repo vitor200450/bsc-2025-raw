@@ -49515,18 +49515,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
                 "name": "KZR 🔮",
-                "seed": 567
+                "seed": 567,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "087053bc-1174-11f0-a44f-ba73ea539b98",
                 "name": "POP | Next",
-                "seed": 1482
+                "seed": 1482,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "087053bc-1174-11f0-a44f-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "087053bc-1174-11f0-a44f-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 725,
@@ -53951,18 +53986,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
                 "name": "Code : Gas",
-                "seed": 859
+                "seed": 859,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "366ce004-0a86-11f0-b216-729b158e3678",
                 "name": "OBY|E-SPOR",
-                "seed": 1190
+                "seed": 1190,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "366ce004-0a86-11f0-b216-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "366ce004-0a86-11f0-b216-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 959,
@@ -63372,7 +63442,9 @@
                 "seed": 166
             },
             "opponent2": {
-                "id": null
+                "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                "name": "Code : Gas",
+                "seed": 859
             },
             "match_games": []
         },
