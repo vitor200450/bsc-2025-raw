@@ -37670,18 +37670,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
                 "name": "The Becas",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fbc78c0a-130a-11f0-83f1-4ed1b62a3029",
                 "name": "Xukas Brawl",
-                "seed": 410
+                "seed": 410,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbc78c0a-130a-11f0-83f1-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fbc78c0a-130a-11f0-83f1-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 940,
@@ -38997,10 +39032,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
+                "name": "The Becas",
+                "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "e7c6bf6e-0a86-11f0-854e-729b158e3678",
+                "name": "Space Division",
+                "seed": 90
             },
             "match_games": []
         },
