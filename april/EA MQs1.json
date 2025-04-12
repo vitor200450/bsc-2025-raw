@@ -11950,18 +11950,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
                 "name": "マンケルビーム",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a4abfbba-0a84-11f0-ae9b-729b158e3678",
                 "name": "Rabbit Foot",
-                "seed": 39
+                "seed": 39,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a4abfbba-0a84-11f0-ae9b-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4abfbba-0a84-11f0-ae9b-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a4abfbba-0a84-11f0-ae9b-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 215,
