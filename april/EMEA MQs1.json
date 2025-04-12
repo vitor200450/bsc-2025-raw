@@ -109342,18 +109342,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "859f1f8e-1215-11f0-9697-7634ef9f88fa",
                 "name": "Minastirit",
-                "seed": 830
+                "seed": 830,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
                 "name": "Nemesis",
-                "seed": 835
+                "seed": 835,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "859f1f8e-1215-11f0-9697-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "859f1f8e-1215-11f0-9697-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1971,
