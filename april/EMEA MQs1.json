@@ -45664,18 +45664,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "047bdc72-12eb-11f0-99e0-2e8d1ec3d504",
                 "name": "Quantum Fusion",
-                "seed": 669
+                "seed": 669,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a716fa50-1167-11f0-bd83-ba73ea539b98",
                 "name": "LLW",
-                "seed": 1380
+                "seed": 1380,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "047bdc72-12eb-11f0-99e0-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a716fa50-1167-11f0-bd83-ba73ea539b98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "047bdc72-12eb-11f0-99e0-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a716fa50-1167-11f0-bd83-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 305,
@@ -72140,7 +72175,9 @@
                 "seed": 356
             },
             "opponent2": {
-                "id": null
+                "id": "047bdc72-12eb-11f0-99e0-2e8d1ec3d504",
+                "name": "Quantum Fusion",
+                "seed": 669
             },
             "match_games": []
         },
