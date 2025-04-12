@@ -75522,18 +75522,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
                 "name": "Never surrender",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a5396ca-1241-11f0-9728-7634ef9f88fa",
                 "name": "Team Chaturros",
-                "seed": 1165
+                "seed": 1165,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a5396ca-1241-11f0-9728-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1a5396ca-1241-11f0-9728-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a5396ca-1241-11f0-9728-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1192,
@@ -90068,10 +90118,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                "name": "Never surrender",
+                "seed": 141
             },
             "opponent2": {
-                "id": null
+                "id": "bab1fe14-1169-11f0-8a33-8a585fcd80c0",
+                "name": "Team Eloy🐷",
+                "seed": 1396
             },
             "match_games": []
         },
