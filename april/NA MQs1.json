@@ -48680,18 +48680,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
                 "name": "Ping Warriors",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a5c2a4e-0a87-11f0-b10c-729b158e3678",
                 "name": "Saro Squad",
-                "seed": 22
+                "seed": 22,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a5c2a4e-0a87-11f0-b10c-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a5c2a4e-0a87-11f0-b10c-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
