@@ -111851,18 +111851,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ce32736-1189-11f0-9419-ba73ea539b98",
                 "name": "F/A CAL",
-                "seed": 1024
+                "seed": 1024,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
                 "name": "ICE MECHA CROW",
-                "seed": 448
+                "seed": 448,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "3ce32736-1189-11f0-9419-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3ce32736-1189-11f0-9419-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31dc6ce4-0a86-11f0-8a58-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1986,
@@ -112606,18 +112641,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ab0c1d66-13bf-11f0-8c43-cabe1c6ba045",
                 "name": "BC* Academy",
-                "seed": 759
+                "seed": 759,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
                 "name": "KZR 🔮",
-                "seed": 567
+                "seed": 567,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "ab0c1d66-13bf-11f0-8c43-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "ab0c1d66-13bf-11f0-8c43-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2008,
@@ -113088,10 +113158,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3ce32736-1189-11f0-9419-ba73ea539b98",
+                "name": "F/A CAL",
+                "seed": 1024
             },
             "opponent2": {
-                "id": null
+                "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                "name": "TOP|Academy",
+                "seed": 161
             },
             "match_games": []
         },
@@ -113274,10 +113348,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                "name": "KZR 🔮",
+                "seed": 567
             },
             "opponent2": {
-                "id": null
+                "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                "name": "F/A Model",
+                "seed": 1623
             },
             "match_games": []
         },
