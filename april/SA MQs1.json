@@ -23206,18 +23206,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
                 "name": "OÁSIS GANG",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "66900bb4-11af-11f0-9fea-8a585fcd80c0",
                 "name": "Elite Fam SA",
-                "seed": 493
+                "seed": 493,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "66900bb4-11af-11f0-9fea-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "66900bb4-11af-11f0-9fea-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 602,
@@ -25481,18 +25516,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e744f13c-0a86-11f0-af81-729b158e3678",
                 "name": "Nova Brasil",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6072d2b0-11ab-11f0-b303-8a585fcd80c0",
                 "name": "The Goats 🐐",
-                "seed": 483
+                "seed": 483,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e744f13c-0a86-11f0-af81-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6072d2b0-11ab-11f0-b303-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e744f13c-0a86-11f0-af81-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6072d2b0-11ab-11f0-b303-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 714,
@@ -27307,7 +27377,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                "name": "OÁSIS GANG",
+                "seed": 20
             },
             "opponent2": {
                 "id": null
@@ -28205,7 +28277,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e744f13c-0a86-11f0-af81-729b158e3678",
+                "name": "Nova Brasil",
+                "seed": 30
             },
             "opponent2": {
                 "id": null
