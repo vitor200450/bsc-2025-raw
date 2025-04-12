@@ -102703,18 +102703,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "935c5b02-1240-11f0-b4d9-7634ef9f88fa",
                 "name": "NSK Gaming",
-                "seed": 936
+                "seed": 936,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
                 "name": "WTW",
-                "seed": 168
+                "seed": 168,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "935c5b02-1240-11f0-b4d9-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "935c5b02-1240-11f0-b4d9-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1817,
@@ -104339,18 +104374,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "316a092e-0a86-11f0-af83-729b158e3678",
                 "name": "Heretics fan's",
-                "seed": 63
+                "seed": 63,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3be3e17c-0a86-11f0-a8eb-729b158e3678",
                 "name": "Thunder surfer",
-                "seed": 1730
+                "seed": 1730,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3be3e17c-0a86-11f0-a8eb-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3be3e17c-0a86-11f0-a8eb-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1860,
@@ -106677,7 +106747,9 @@
                 "seed": 1576
             },
             "opponent2": {
-                "id": null
+                "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
+                "name": "WTW",
+                "seed": 168
             },
             "match_games": []
         },
@@ -107066,10 +107138,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                "name": "Heretics fan's",
+                "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "5163d066-12c4-11f0-ba06-c203eea1d99a",
+                "name": "TSA|Esport",
+                "seed": 1727
             },
             "match_games": []
         },
