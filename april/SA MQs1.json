@@ -39704,18 +39704,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
                 "name": "SYN  GAMING",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
                 "name": "Teste drive",
-                "seed": 189
+                "seed": 189,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 970,
@@ -40872,7 +40922,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                "name": "SYN  GAMING",
+                "seed": 260
             },
             "opponent2": {
                 "id": null
