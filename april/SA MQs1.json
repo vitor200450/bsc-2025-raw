@@ -41218,18 +41218,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
                 "name": "SYN  GAMING",
-                "seed": 260
+                "seed": 260,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
                 "name": "AMOSTRADINHOS",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "700f8c60-166d-11f0-8133-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 998,
