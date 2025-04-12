@@ -33366,7 +33366,7 @@
             "name": "Code : Gas",
             "players": [
                 {
-                    "name": "Enragedd 🫐",
+                    "name": "Code: Gas",
                     "gamerTag": "#80PVPCC29"
                 },
                 {
@@ -59706,18 +59706,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
                 "name": "Mr. P. Diddy",
-                "seed": 554
+                "seed": 554,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4d8182b0-122c-11f0-bbb6-7634ef9f88fa",
                 "name": "LaSenia",
-                "seed": 1495
+                "seed": 1495,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d8182b0-122c-11f0-bbb6-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4d8182b0-122c-11f0-bbb6-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4d8182b0-122c-11f0-bbb6-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 757,
@@ -75680,7 +75730,9 @@
                 "seed": 1578
             },
             "opponent2": {
-                "id": null
+                "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                "name": "Mr. P. Diddy",
+                "seed": 554
             },
             "match_games": []
         },
