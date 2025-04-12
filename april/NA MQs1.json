@@ -36931,18 +36931,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
                 "name": "PIUPIU",
-                "seed": 632
+                "seed": 632,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c5840ee-0a87-11f0-8ca5-729b158e3678",
                 "name": "VT HQ",
-                "seed": 137
+                "seed": 137,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c5840ee-0a87-11f0-8ca5-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c5840ee-0a87-11f0-8ca5-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 795,
