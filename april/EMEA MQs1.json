@@ -103024,18 +103024,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bba3b100-1236-11f0-b7b9-c203eea1d99a",
                 "name": "JAA",
-                "seed": 1140
+                "seed": 1140,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
                 "name": "Never surrender",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "bba3b100-1236-11f0-b7b9-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "bba3b100-1236-11f0-b7b9-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1835,
@@ -103354,18 +103389,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
                 "name": "DARK EAGLES",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
                 "name": "SH | E SPOR",
-                "seed": 220
+                "seed": 220,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39005c06-0a86-11f0-a0ff-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1848,
@@ -104789,18 +104859,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35375aac-0a86-11f0-9238-729b158e3678",
                 "name": "Moon Spirit",
-                "seed": 1070
+                "seed": 1070,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
                 "name": "Ciabatta",
-                "seed": 723
+                "seed": 723,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "35375aac-0a86-11f0-9238-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "35375aac-0a86-11f0-9238-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1904,
@@ -105673,10 +105778,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                "name": "DARK EAGLES",
+                "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "387aa156-0a86-11f0-b22a-729b158e3678",
+                "name": "Russian Grandmothers",
+                "seed": 92
             },
             "match_games": []
         },
@@ -106125,7 +106234,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                "name": "Ciabatta",
+                "seed": 723
             },
             "opponent2": {
                 "id": null
