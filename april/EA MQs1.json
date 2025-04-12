@@ -7188,18 +7188,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
                 "name": "RedBull",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "02b871e6-1171-11f0-a3bc-da47bd160d1e",
                 "name": "Headshot to Heart",
-                "seed": 187
+                "seed": 187,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "02b871e6-1171-11f0-a3bc-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "02b871e6-1171-11f0-a3bc-da47bd160d1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 117,
@@ -7297,18 +7332,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "aea8aa54-1219-11f0-9f29-4ed1b62a3029",
                 "name": "BEAST",
-                "seed": 118
+                "seed": 118,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f4c7bf78-1149-11f0-b678-6e914f196a76",
                 "name": "ドラゴンまさとズ",
-                "seed": 139
+                "seed": 139,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "aea8aa54-1219-11f0-9f29-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f4c7bf78-1149-11f0-b678-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "aea8aa54-1219-11f0-9f29-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f4c7bf78-1149-11f0-b678-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 123,
@@ -8615,7 +8685,9 @@
                 "seed": 198
             },
             "opponent2": {
-                "id": null
+                "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
+                "name": "RedBull",
+                "seed": 70
             },
             "match_games": []
         },
@@ -8671,7 +8743,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "f4c7bf78-1149-11f0-b678-6e914f196a76",
+                "name": "ドラゴンまさとズ",
+                "seed": 139
             },
             "match_games": []
         },
