@@ -110195,18 +110195,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "167253b2-124f-11f0-9b35-4ed1b62a3029",
                 "name": "OFF|Team",
-                "seed": 978
+                "seed": 978,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3a92a29a-0a86-11f0-aedd-729b158e3678",
                 "name": "Suspect",
-                "seed": 1618
+                "seed": 1618,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "167253b2-124f-11f0-9b35-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3a92a29a-0a86-11f0-aedd-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "167253b2-124f-11f0-9b35-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3a92a29a-0a86-11f0-aedd-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1961,
@@ -111625,7 +111660,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "3a92a29a-0a86-11f0-aedd-729b158e3678",
+                "name": "Suspect",
+                "seed": 1618
             },
             "match_games": []
         },
