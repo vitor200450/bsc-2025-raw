@@ -5474,18 +5474,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
                 "name": "いーはんてい",
-                "seed": 109
+                "seed": 109,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "681a21da-12cd-11f0-a56c-c203eea1d99a",
                 "name": "あんぽんたん",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "681a21da-12cd-11f0-a56c-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "681a21da-12cd-11f0-a56c-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -7902,7 +7937,9 @@
                 "seed": 20
             },
             "opponent2": {
-                "id": null
+                "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
+                "name": "いーはんてい",
+                "seed": 109
             },
             "match_games": []
         },
