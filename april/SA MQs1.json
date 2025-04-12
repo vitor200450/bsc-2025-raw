@@ -27079,18 +27079,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
                 "name": "Bolacheiros",
-                "seed": 131
+                "seed": 131,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ba4b09ac-12b8-11f0-be83-c203eea1d99a",
                 "name": "Brawlpros",
-                "seed": 382
+                "seed": 382,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ba4b09ac-12b8-11f0-be83-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ba4b09ac-12b8-11f0-be83-c203eea1d99a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 709,
@@ -27669,18 +27704,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
                 "name": "Las Betias",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "00680346-135d-11f0-99d2-2e8d1ec3d504",
                 "name": "NE|BROS",
-                "seed": 462
+                "seed": 462,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00680346-135d-11f0-99d2-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "00680346-135d-11f0-99d2-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 726,
@@ -31009,7 +31079,9 @@
                 "seed": 387
             },
             "opponent2": {
-                "id": null
+                "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
+                "name": "Bolacheiros",
+                "seed": 131
             },
             "match_games": []
         },
@@ -31170,10 +31242,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
+                "name": "Las Betias",
+                "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "57b776de-1328-11f0-9e59-7634ef9f88fa",
+                "name": "Sanguinários",
+                "seed": 206
             },
             "match_games": []
         },
