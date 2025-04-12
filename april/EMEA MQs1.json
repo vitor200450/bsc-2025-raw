@@ -109547,18 +109547,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
                 "name": "Rufus",
-                "seed": 727
+                "seed": 727,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
                 "name": "F/A Model",
-                "seed": 1623
+                "seed": 1623,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "19c872e6-132e-11f0-b72b-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1969,
@@ -109817,18 +109852,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
                 "name": "LZN",
-                "seed": 710
+                "seed": 710,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "380bad96-0a86-11f0-a798-729b158e3678",
                 "name": "RECEA",
-                "seed": 1350
+                "seed": 1350,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "380bad96-0a86-11f0-a798-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "380bad96-0a86-11f0-a798-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1979,
@@ -110371,7 +110441,9 @@
                 "seed": 23
             },
             "opponent2": {
-                "id": null
+                "id": "2e83189a-14c7-11f0-bc0f-cabe1c6ba045",
+                "name": "F/A Model",
+                "seed": 1623
             },
             "match_games": []
         },
