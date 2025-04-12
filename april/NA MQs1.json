@@ -29897,11 +29897,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28f86a5a-0a87-11f0-80ed-729b158e3678",
                 "name": "AV",
-                "seed": 77
+                "seed": 77,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
@@ -29917,11 +29918,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a42e1e2-0a87-11f0-b508-729b158e3678",
                 "name": "GT",
-                "seed": 180
+                "seed": 180,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c7a64628-1279-11f0-8b00-4ed1b62a3029",
@@ -29992,11 +29994,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "293e3346-0a87-11f0-b378-729b158e3678",
                 "name": "Amantes de LATAM",
-                "seed": 237
+                "seed": 237,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "233ed28e-154a-11f0-8018-7634ef9f88fa",
@@ -30393,7 +30396,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bcb3422c-13e4-11f0-b3d8-7634ef9f88fa",
                 "name": "ENTROPHIC",
@@ -30402,7 +30405,8 @@
             "opponent2": {
                 "id": "02ea29a2-1775-11f0-840e-ee4b2fb881c5",
                 "name": "TFLSH Esppports",
-                "seed": 261
+                "seed": 261,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -30413,11 +30417,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b385e60-0a87-11f0-afe3-729b158e3678",
                 "name": "Nightmare",
-                "seed": 124
+                "seed": 124,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
@@ -30433,11 +30438,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c0a54ce-0a87-11f0-98e5-729b158e3678",
                 "name": "Divine Ascension",
-                "seed": 133
+                "seed": 133,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
@@ -30453,11 +30459,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b789dcc-0a87-11f0-bc47-729b158e3678",
                 "name": "Tacos Team",
-                "seed": 60
+                "seed": 60,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "278e6b0a-118b-11f0-8a2b-a60123dd55a2",
@@ -30473,11 +30480,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c813b84-0a87-11f0-bea5-729b158e3678",
                 "name": "Řam",
-                "seed": 197
+                "seed": 197,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
@@ -37229,7 +37237,11 @@
                 "name": "Conquerors",
                 "seed": 20
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "233ed28e-154a-11f0-8018-7634ef9f88fa",
+                "name": "Busy Bugs",
+                "seed": 276
+            },
             "match_games": []
         },
         {
@@ -37305,7 +37317,11 @@
                 "name": "BERSERKERS",
                 "seed": 5
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "bcb3422c-13e4-11f0-b3d8-7634ef9f88fa",
+                "name": "ENTROPHIC",
+                "seed": 252
+            },
             "match_games": []
         },
         {
@@ -37316,8 +37332,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                "name": "LZK|Esports",
+                "seed": 389
+            },
+            "opponent2": {
+                "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
+                "name": "LKK",
+                "seed": 645
+            },
             "match_games": []
         },
         {
@@ -37328,8 +37352,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "278e6b0a-118b-11f0-8a2b-a60123dd55a2",
+                "name": "TheZiendiens",
+                "seed": 453
+            },
+            "opponent2": {
+                "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                "name": "Squishy",
+                "seed": 316
+            },
             "match_games": []
         },
         {
