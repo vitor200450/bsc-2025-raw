@@ -36994,18 +36994,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
                 "name": "YORU VGS",
-                "seed": 55
+                "seed": 55,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "49ab6f0c-1259-11f0-b187-2e8d1ec3d504",
                 "name": "Renewals",
-                "seed": 330
+                "seed": 330,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49ab6f0c-1259-11f0-b187-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "49ab6f0c-1259-11f0-b187-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 943,
