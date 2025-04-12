@@ -40409,18 +40409,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8988d858-11be-11f0-af10-da47bd160d1e",
                 "name": "Los internacionales",
-                "seed": 591
+                "seed": 591,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
                 "name": "Cheese Esports",
-                "seed": 178
+                "seed": 178,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "8988d858-11be-11f0-af10-da47bd160d1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "8988d858-11be-11f0-af10-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "8988d858-11be-11f0-af10-da47bd160d1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 845,
@@ -43675,7 +43725,9 @@
                 "seed": 306
             },
             "opponent2": {
-                "id": null
+                "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                "name": "Cheese Esports",
+                "seed": 178
             },
             "match_games": []
         },
