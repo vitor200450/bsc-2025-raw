@@ -114096,18 +114096,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2fa00026-0a86-11f0-8fb5-729b158e3678",
                 "name": "F/A tier random",
-                "seed": 654
+                "seed": 654,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
                 "name": "Mini Kozaki",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2fa00026-0a86-11f0-8fb5-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2fa00026-0a86-11f0-8fb5-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2031,
