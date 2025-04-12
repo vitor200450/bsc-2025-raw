@@ -9052,18 +9052,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8e866b88-12f7-11f0-b48f-4ed1b62a3029",
                 "name": "Stargaze",
-                "seed": 37
+                "seed": 37,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
                 "name": "fat on the sky",
-                "seed": 165
+                "seed": 165,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8e866b88-12f7-11f0-b48f-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8e866b88-12f7-11f0-b48f-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 157,
@@ -9173,18 +9208,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
                 "name": "astronaut",
-                "seed": 194
+                "seed": 194,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e56e0f2e-12d8-11f0-8247-c203eea1d99a",
                 "name": "バレたら退学",
-                "seed": 66
+                "seed": 66,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e56e0f2e-12d8-11f0-8247-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e56e0f2e-12d8-11f0-8247-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 163,
@@ -9949,18 +10019,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
                 "name": "世界トーリマス",
-                "seed": 38
+                "seed": 38,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
                 "name": "hlt/Highlight",
-                "seed": 91
+                "seed": 91,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 189,
@@ -10331,7 +10436,9 @@
                 "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                "name": "fat on the sky",
+                "seed": 165
             },
             "match_games": []
         },
@@ -10619,7 +10726,9 @@
                 "seed": 102
             },
             "opponent2": {
-                "id": null
+                "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
+                "name": "世界トーリマス",
+                "seed": 38
             },
             "match_games": []
         },
