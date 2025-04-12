@@ -39903,18 +39903,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a3b4194-0a87-11f0-9ac6-729b158e3678",
                 "name": "Cross",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
                 "name": "YHLQMDLG",
-                "seed": 227
+                "seed": 227,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2a3b4194-0a87-11f0-9ac6-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2a3b4194-0a87-11f0-9ac6-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 870,
@@ -40023,18 +40058,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
                 "name": "On3",
-                "seed": 51
+                "seed": 51,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "5dcb8766-124e-11f0-9963-2e8d1ec3d504",
                 "name": "TripleThreat",
-                "seed": 307
+                "seed": 307,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5dcb8766-124e-11f0-9963-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5dcb8766-124e-11f0-9963-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 876,
@@ -41436,7 +41506,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1ec02b7c-1365-11f0-a71c-7634ef9f88fa",
+                "name": "YHLQMDLG",
+                "seed": 227
             },
             "opponent2": {
                 "id": null
@@ -41484,7 +41556,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
+                "name": "On3",
+                "seed": 51
             },
             "opponent2": {
                 "id": null
