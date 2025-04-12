@@ -39419,18 +39419,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
                 "name": "Os Cheetos",
-                "seed": 521
+                "seed": 521,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
                 "name": "FIVE LANS",
-                "seed": 312
+                "seed": 312,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 968,
@@ -39989,7 +40024,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                "name": "Os Cheetos",
+                "seed": 521
             },
             "opponent2": {
                 "id": null
