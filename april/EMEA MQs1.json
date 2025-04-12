@@ -72240,18 +72240,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ae00828-0a86-11f0-b885-729b158e3678",
                 "name": "TDM",
-                "seed": 313
+                "seed": 313,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3a18a62-1620-11f0-b0e9-7634ef9f88fa",
                 "name": "SMDB",
-                "seed": 712
+                "seed": 712,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3ae00828-0a86-11f0-b885-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3a18a62-1620-11f0-b0e9-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3ae00828-0a86-11f0-b885-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a3a18a62-1620-11f0-b0e9-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1101,
@@ -76895,18 +76930,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31a15a1e-0a86-11f0-887b-729b158e3678",
                 "name": "LQS|E-SportS",
-                "seed": 444
+                "seed": 444,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "f7a2bdb0-11ee-11f0-9c31-ba73ea539b98",
                 "name": "Nova Core",
-                "seed": 581
+                "seed": 581,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "31a15a1e-0a86-11f0-887b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f7a2bdb0-11ee-11f0-9c31-ba73ea539b98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "31a15a1e-0a86-11f0-887b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "f7a2bdb0-11ee-11f0-9c31-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "31a15a1e-0a86-11f0-887b-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f7a2bdb0-11ee-11f0-9c31-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1231,
@@ -82055,18 +82140,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "316574a4-0a86-11f0-9a69-729b158e3678",
                 "name": "Hellsing",
-                "seed": 39
+                "seed": 39,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0b7ae4c4-1218-11f0-9deb-4ed1b62a3029",
                 "name": "SMK",
-                "seed": 1063
+                "seed": 1063,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "316574a4-0a86-11f0-9a69-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0b7ae4c4-1218-11f0-9deb-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "316574a4-0a86-11f0-9a69-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b7ae4c4-1218-11f0-9deb-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "316574a4-0a86-11f0-9a69-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b7ae4c4-1218-11f0-9deb-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1370,
@@ -84131,18 +84266,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3ce42b2c-0a86-11f0-bb58-729b158e3678",
                 "name": "Valbom Fan Club",
-                "seed": 323
+                "seed": 323,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "45696332-1587-11f0-9789-7634ef9f88fa",
                 "name": "F/A MATAMOROS",
-                "seed": 702
+                "seed": 702,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3ce42b2c-0a86-11f0-bb58-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "45696332-1587-11f0-9789-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3ce42b2c-0a86-11f0-bb58-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "45696332-1587-11f0-9789-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3ce42b2c-0a86-11f0-bb58-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "45696332-1587-11f0-9789-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1425,
@@ -88882,7 +89067,9 @@
                 "seed": 825
             },
             "opponent2": {
-                "id": null
+                "id": "a3a18a62-1620-11f0-b0e9-7634ef9f88fa",
+                "name": "SMDB",
+                "seed": 712
             },
             "match_games": []
         },
@@ -90152,7 +90339,9 @@
                 "seed": 69
             },
             "opponent2": {
-                "id": null
+                "id": "f7a2bdb0-11ee-11f0-9c31-ba73ea539b98",
+                "name": "Nova Core",
+                "seed": 581
             },
             "match_games": []
         },
@@ -91515,7 +91704,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "316574a4-0a86-11f0-9a69-729b158e3678",
+                "name": "Hellsing",
+                "seed": 39
             },
             "opponent2": {
                 "id": null
@@ -92050,7 +92241,9 @@
                 "seed": 835
             },
             "opponent2": {
-                "id": null
+                "id": "45696332-1587-11f0-9789-7634ef9f88fa",
+                "name": "F/A MATAMOROS",
+                "seed": 702
             },
             "match_games": []
         },
