@@ -38359,18 +38359,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f6e00000-1161-11f0-83e7-c2c76dd5c469",
                 "name": "ERP Esports",
-                "seed": 397
+                "seed": 397,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
                 "name": "Apex Predators",
-                "seed": 141
+                "seed": 141,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f6e00000-1161-11f0-83e7-c2c76dd5c469",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "f6e00000-1161-11f0-83e7-c2c76dd5c469",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f6e00000-1161-11f0-83e7-c2c76dd5c469",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2cca6bec-0a87-11f0-800b-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 811,
@@ -39794,18 +39844,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
                 "name": "Phantom Express",
-                "seed": 543
+                "seed": 543,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "90686392-132a-11f0-8de3-c203eea1d99a",
                 "name": "Team Rapiñadores",
-                "seed": 226
+                "seed": 226,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 838,
@@ -42732,7 +42832,9 @@
                 "seed": 500
             },
             "opponent2": {
-                "id": null
+                "id": "f6e00000-1161-11f0-83e7-c2c76dd5c469",
+                "name": "ERP Esports",
+                "seed": 397
             },
             "match_games": []
         },
@@ -42999,10 +43101,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                "name": "Team Rapiñadores",
+                "seed": 226
             },
             "opponent2": {
-                "id": null
+                "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                "name": "Dawgwater",
+                "seed": 98
             },
             "match_games": []
         },
