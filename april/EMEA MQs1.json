@@ -112091,18 +112091,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
                 "name": "丸",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
                 "name": "Goats",
-                "seed": 1576
+                "seed": 1576,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1991,
@@ -113476,7 +113526,9 @@
                 "seed": 1608
             },
             "opponent2": {
-                "id": null
+                "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                "name": "丸",
+                "seed": 25
             },
             "match_games": []
         },
