@@ -39804,18 +39804,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
                 "name": "iPhone 7",
-                "seed": 284
+                "seed": 284,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f27ba41e-1351-11f0-a081-4ed1b62a3029",
                 "name": "Capivarus",
-                "seed": 220
+                "seed": 220,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f27ba41e-1351-11f0-a081-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f27ba41e-1351-11f0-a081-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 975,
@@ -40444,18 +40479,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
                 "name": "Darlan bs",
-                "seed": 406
+                "seed": 406,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e76e92a8-0a86-11f0-a8b9-729b158e3678",
                 "name": "Complex Team",
-                "seed": 86
+                "seed": 86,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e76e92a8-0a86-11f0-a8b9-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e76e92a8-0a86-11f0-a8b9-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 993,
@@ -40579,7 +40649,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                "name": "iPhone 7",
+                "seed": 284
             },
             "match_games": []
         },
