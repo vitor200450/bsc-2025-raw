@@ -8558,18 +8558,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6a18e596-11da-11f0-bc4e-8a585fcd80c0",
                 "name": "nice snipers",
-                "seed": 56
+                "seed": 56,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
                 "name": "俺らが世界を取りにきました",
-                "seed": 73
+                "seed": 73,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "6a18e596-11da-11f0-bc4e-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "6a18e596-11da-11f0-bc4e-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 143,
@@ -8770,18 +8805,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2ae714e-0a84-11f0-bb85-729b158e3678",
                 "name": "やまとんぼ",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c1d786d8-114a-11f0-9bec-6e914f196a76",
                 "name": "FORTISSIMO",
-                "seed": 141
+                "seed": 141,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a2ae714e-0a84-11f0-bb85-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d786d8-114a-11f0-9bec-6e914f196a76",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a2ae714e-0a84-11f0-bb85-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c1d786d8-114a-11f0-9bec-6e914f196a76",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 150,
@@ -8927,18 +8997,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
                 "name": "Phantom Dream",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1e3de8e0-1245-11f0-b046-7634ef9f88fa",
                 "name": "サーティーンズ",
-                "seed": 101
+                "seed": 101,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e3de8e0-1245-11f0-b046-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1e3de8e0-1245-11f0-b046-7634ef9f88fa",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 156,
@@ -10065,7 +10170,9 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
+                "name": "俺らが世界を取りにきました",
+                "seed": 73
             },
             "match_games": []
         },
@@ -10130,7 +10237,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a2ae714e-0a84-11f0-bb85-729b158e3678",
+                "name": "やまとんぼ",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
@@ -10182,7 +10291,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                "name": "Phantom Dream",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
