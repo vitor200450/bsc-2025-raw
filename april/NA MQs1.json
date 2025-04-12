@@ -35997,7 +35997,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c16edf6-0a87-11f0-9bca-729b158e3678",
                 "name": "Eternal Esports",
@@ -36006,7 +36006,8 @@
             "opponent2": {
                 "id": "95b0564e-1734-11f0-bcf4-6e11e6122f52",
                 "name": "bs ogs",
-                "seed": 310
+                "seed": 310,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -36017,7 +36018,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28a05ea0-0a87-11f0-9833-729b158e3678",
                 "name": "Head Hunters",
@@ -36026,7 +36027,8 @@
             "opponent2": {
                 "id": "f01f3f60-12ab-11f0-b039-2e8d1ec3d504",
                 "name": "Los Papex",
-                "seed": 438
+                "seed": 438,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -38579,7 +38581,11 @@
                 "name": "Ping Warriors",
                 "seed": 566
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "2c16edf6-0a87-11f0-9bca-729b158e3678",
+                "name": "Eternal Esports",
+                "seed": 203
+            },
             "match_games": []
         },
         {
@@ -38590,8 +38596,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "28a05ea0-0a87-11f0-9833-729b158e3678",
+                "name": "Head Hunters",
+                "seed": 75
+            },
+            "opponent2": {
+                "id": "e36521b4-13cc-11f0-a74c-7634ef9f88fa",
+                "name": "LOS CIUDADANOS",
+                "seed": 182
+            },
             "match_games": []
         },
         {
