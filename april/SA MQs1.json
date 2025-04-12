@@ -33663,18 +33663,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "91e7c4fe-1183-11f0-907d-da47bd160d1e",
                 "name": "GamingLegends",
-                "seed": 399
+                "seed": 399,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eb5a6046-1291-11f0-974a-2e8d1ec3d504",
                 "name": "TEAM TEN",
-                "seed": 370
+                "seed": 370,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "91e7c4fe-1183-11f0-907d-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb5a6046-1291-11f0-974a-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "91e7c4fe-1183-11f0-907d-da47bd160d1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "eb5a6046-1291-11f0-974a-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "91e7c4fe-1183-11f0-907d-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eb5a6046-1291-11f0-974a-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 843,
@@ -36631,7 +36681,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "91e7c4fe-1183-11f0-907d-da47bd160d1e",
+                "name": "GamingLegends",
+                "seed": 399
             },
             "match_games": []
         },
