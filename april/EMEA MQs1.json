@@ -109394,18 +109394,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
                 "name": "SF Esports EMEA",
-                "seed": 52
+                "seed": 52,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
                 "name": "Barcelona",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1943,
@@ -110370,18 +110420,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3d1063c2-0a86-11f0-a017-729b158e3678",
                 "name": "vMoove",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5af4e3ea-1260-11f0-afaf-7634ef9f88fa",
                 "name": "Ping Abusers",
-                "seed": 1671
+                "seed": 1671,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3d1063c2-0a86-11f0-a017-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5af4e3ea-1260-11f0-afaf-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3d1063c2-0a86-11f0-a017-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5af4e3ea-1260-11f0-afaf-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1962,
@@ -111682,7 +111767,9 @@
                 "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                "name": "Barcelona",
+                "seed": 77
             },
             "match_games": []
         },
@@ -111875,7 +111962,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5af4e3ea-1260-11f0-afaf-7634ef9f88fa",
+                "name": "Ping Abusers",
+                "seed": 1671
             },
             "opponent2": {
                 "id": null
