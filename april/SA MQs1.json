@@ -37555,18 +37555,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
                 "name": "GG Wellplayed",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
                 "name": "Os Passa Fome",
-                "seed": 371
+                "seed": 371,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 950,
@@ -38377,7 +38412,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                "name": "GG Wellplayed",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
