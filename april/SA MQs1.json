@@ -32509,18 +32509,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e66e0320-0a86-11f0-8817-729b158e3678",
                 "name": "Trupe Fantasma",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
                 "name": "iPhone 7",
-                "seed": 284
+                "seed": 284,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e66e0320-0a86-11f0-8817-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e66e0320-0a86-11f0-8817-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e66e0320-0a86-11f0-8817-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -35931,10 +35981,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                "name": "iPhone 7",
+                "seed": 284
             },
             "opponent2": {
-                "id": null
+                "id": "e4733ee6-0a86-11f0-ad56-729b158e3678",
+                "name": "Macacos🦧",
+                "seed": 101
             },
             "match_games": []
         },
