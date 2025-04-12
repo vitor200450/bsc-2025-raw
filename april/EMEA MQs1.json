@@ -93634,18 +93634,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
                 "name": "Never surrender",
-                "seed": 141
+                "seed": 141,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "bab1fe14-1169-11f0-8a33-8a585fcd80c0",
                 "name": "Team Eloy🐷",
-                "seed": 1396
+                "seed": 1396,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bab1fe14-1169-11f0-8a33-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "bab1fe14-1169-11f0-8a33-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "bab1fe14-1169-11f0-8a33-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1621,
@@ -94865,18 +94915,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c2e067c-0a86-11f0-b582-729b158e3678",
                 "name": "BAT|SHADOW",
-                "seed": 245
+                "seed": 245,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dcfc1ff8-176e-11f0-8dbd-7e68064584ae",
                 "name": "LDH|Wins",
-                "seed": 1781
+                "seed": 1781,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2c2e067c-0a86-11f0-b582-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dcfc1ff8-176e-11f0-8dbd-7e68064584ae",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2c2e067c-0a86-11f0-b582-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dcfc1ff8-176e-11f0-8dbd-7e68064584ae",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "2c2e067c-0a86-11f0-b582-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dcfc1ff8-176e-11f0-8dbd-7e68064584ae",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1651,
@@ -101224,7 +101324,9 @@
                 "seed": 1140
             },
             "opponent2": {
-                "id": null
+                "id": "35d9bca2-0a86-11f0-83d8-729b158e3678",
+                "name": "Never surrender",
+                "seed": 141
             },
             "match_games": []
         },
@@ -101518,7 +101620,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "2c2e067c-0a86-11f0-b582-729b158e3678",
+                "name": "BAT|SHADOW",
+                "seed": 245
             },
             "match_games": []
         },
