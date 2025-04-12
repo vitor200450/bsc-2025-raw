@@ -44198,18 +44198,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "81c2dc44-13f4-11f0-94d3-7634ef9f88fa",
                 "name": "SAVAGE",
-                "seed": 524
+                "seed": 524,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
                 "name": "Cloude eSports",
-                "seed": 629
+                "seed": 629,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "81c2dc44-13f4-11f0-94d3-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "81c2dc44-13f4-11f0-94d3-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -45064,18 +45099,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28efbeb4-0a87-11f0-aae8-729b158e3678",
                 "name": "A.R.A. Esports",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "84931e74-1292-11f0-b042-c203eea1d99a",
                 "name": "Sigma Boys",
-                "seed": 422
+                "seed": 422,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "28efbeb4-0a87-11f0-aae8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84931e74-1292-11f0-b042-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "28efbeb4-0a87-11f0-aae8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "84931e74-1292-11f0-b042-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 957,
@@ -45410,7 +45480,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b36df4ba-11c7-11f0-860e-da47bd160d1e",
+                "name": "Cloude eSports",
+                "seed": 629
             },
             "opponent2": {
                 "id": null
