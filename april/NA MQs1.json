@@ -46625,18 +46625,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "294ab94a-0a87-11f0-9e92-729b158e3678",
                 "name": "Axolotl Warriors",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2910cc6c-0a87-11f0-a38f-729b158e3678",
                 "name": "Koas Fighter",
-                "seed": 201
+                "seed": 201,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "294ab94a-0a87-11f0-9e92-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2910cc6c-0a87-11f0-a38f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "294ab94a-0a87-11f0-9e92-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2910cc6c-0a87-11f0-a38f-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 968,
@@ -47091,18 +47126,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
                 "name": "Filthy Casuals",
-                "seed": 638
+                "seed": 638,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "76de0bac-1267-11f0-a27c-2e8d1ec3d504",
                 "name": "Aespa",
-                "seed": 323
+                "seed": 323,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "76de0bac-1267-11f0-a27c-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "76de0bac-1267-11f0-a27c-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 986,
@@ -47338,7 +47408,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "294ab94a-0a87-11f0-9e92-729b158e3678",
+                "name": "Axolotl Warriors",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
@@ -47488,7 +47560,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                "name": "Filthy Casuals",
+                "seed": 638
             },
             "opponent2": {
                 "id": null
