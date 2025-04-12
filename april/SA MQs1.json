@@ -30934,18 +30934,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6cc9a0c-0a86-11f0-b21f-729b158e3678",
                 "name": "TROPA DO BOT",
-                "seed": 113
+                "seed": 113,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3a343532-1348-11f0-8396-c203eea1d99a",
                 "name": "FrostFoxes",
-                "seed": 144
+                "seed": 144,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e6cc9a0c-0a86-11f0-b21f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3a343532-1348-11f0-8396-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e6cc9a0c-0a86-11f0-b21f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3a343532-1348-11f0-8396-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 779,
@@ -33289,7 +33324,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e401bb36-0a86-11f0-af45-729b158e3678",
                 "name": "Los papis churros🥵",
@@ -33298,7 +33333,8 @@
             "opponent2": {
                 "id": "e50a4d7c-0a86-11f0-92da-729b158e3678",
                 "name": "|T|N|A|",
-                "seed": 159
+                "seed": 159,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -35608,7 +35644,9 @@
                 "seed": 272
             },
             "opponent2": {
-                "id": null
+                "id": "3a343532-1348-11f0-8396-c203eea1d99a",
+                "name": "FrostFoxes",
+                "seed": 144
             },
             "match_games": []
         },
@@ -36196,7 +36234,9 @@
                 "seed": 226
             },
             "opponent2": {
-                "id": null
+                "id": "e401bb36-0a86-11f0-af45-729b158e3678",
+                "name": "Los papis churros🥵",
+                "seed": 98
             },
             "match_games": []
         },
