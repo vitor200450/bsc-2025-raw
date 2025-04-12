@@ -4110,7 +4110,7 @@
                     "gamerTag": "#LLUJYJUJV"
                 },
                 {
-                    "name": "Mei23",
+                    "name": "Melixy",
                     "gamerTag": "#Q0C0LLGRY"
                 },
                 {
@@ -8207,18 +8207,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "310ee55c-120c-11f0-b2f8-4ed1b62a3029",
                 "name": "まっちゃぱふぇ",
-                "seed": 64
+                "seed": 64,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "39a9e4a2-1444-11f0-8ea0-4ed1b62a3029",
                 "name": "My Fav",
-                "seed": 65
+                "seed": 65,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "310ee55c-120c-11f0-b2f8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39a9e4a2-1444-11f0-8ea0-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "310ee55c-120c-11f0-b2f8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39a9e4a2-1444-11f0-8ea0-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 131,
@@ -9785,18 +9820,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a452f04c-0a84-11f0-a679-729b158e3678",
                 "name": "HanBao",
-                "seed": 35
+                "seed": 35,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c5407b16-115b-11f0-991a-c2c76dd5c469",
                 "name": "顔面パンチ",
-                "seed": 163
+                "seed": 163,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c5407b16-115b-11f0-991a-c2c76dd5c469",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c5407b16-115b-11f0-991a-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c5407b16-115b-11f0-991a-c2c76dd5c469",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 181,
@@ -10198,7 +10283,9 @@
                 "seed": 129
             },
             "opponent2": {
-                "id": null
+                "id": "310ee55c-120c-11f0-b2f8-4ed1b62a3029",
+                "name": "まっちゃぱふぇ",
+                "seed": 64
             },
             "match_games": []
         },
@@ -10650,7 +10737,9 @@
                 "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                "name": "HanBao",
+                "seed": 35
             },
             "match_games": []
         },
