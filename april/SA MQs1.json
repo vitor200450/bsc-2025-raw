@@ -34728,18 +34728,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
                 "name": "DAIJOBU!",
-                "seed": 518
+                "seed": 518,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6d1f2246-125c-11f0-99cb-c203eea1d99a",
                 "name": "BCK",
-                "seed": 251
+                "seed": 251,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d1f2246-125c-11f0-99cb-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6d1f2246-125c-11f0-99cb-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6d1f2246-125c-11f0-99cb-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 882,
@@ -36363,10 +36413,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                "name": "DAIJOBU!",
+                "seed": 518
             },
             "opponent2": {
-                "id": null
+                "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                "name": "HiddenX",
+                "seed": 123
             },
             "match_games": []
         },
