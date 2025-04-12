@@ -30924,18 +30924,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
                 "name": "THE FIRE",
-                "seed": 80
+                "seed": 80,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1ecb659a-1262-11f0-a7cb-4ed1b62a3029",
                 "name": "LP",
-                "seed": 336
+                "seed": 336,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ecb659a-1262-11f0-a7cb-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ecb659a-1262-11f0-a7cb-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 781,
@@ -34445,11 +34480,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4805928-0a86-11f0-87a4-729b158e3678",
                 "name": "St| team",
-                "seed": 102
+                "seed": 102,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d224f268-1281-11f0-9395-7634ef9f88fa",
@@ -35744,7 +35780,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "d224f268-1281-11f0-9395-7634ef9f88fa",
+                "name": "Black_Elements",
+                "seed": 358
             },
             "match_games": []
         },
