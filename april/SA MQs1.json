@@ -19606,18 +19606,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ef4d3a32-119e-11f0-8bd1-da47bd160d1e",
                 "name": "AMB Sports",
-                "seed": 443
+                "seed": 443,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "53e07944-1796-11f0-ae72-4ece6c43c3c1",
                 "name": "Egg pam",
-                "seed": 582
+                "seed": 582,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ef4d3a32-119e-11f0-8bd1-da47bd160d1e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "53e07944-1796-11f0-ae72-4ece6c43c3c1",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ef4d3a32-119e-11f0-8bd1-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "53e07944-1796-11f0-ae72-4ece6c43c3c1",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 463,
@@ -24943,7 +24978,9 @@
                 "seed": 70
             },
             "opponent2": {
-                "id": null
+                "id": "53e07944-1796-11f0-ae72-4ece6c43c3c1",
+                "name": "Egg pam",
+                "seed": 582
             },
             "match_games": []
         },
