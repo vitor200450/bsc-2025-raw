@@ -77092,18 +77092,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9be603f8-117e-11f0-a2b6-8a585fcd80c0",
                 "name": "Pro playeri",
-                "seed": 1578
+                "seed": 1578,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
                 "name": "Mr. P. Diddy",
-                "seed": 554
+                "seed": 554,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "9be603f8-117e-11f0-a2b6-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "9be603f8-117e-11f0-a2b6-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "01b650e8-1387-11f0-85ed-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1403,
