@@ -4293,18 +4293,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a26bd1f8-1232-11f0-aca8-7634ef9f88fa",
                 "name": "EVOLVE™",
-                "seed": 128
+                "seed": 128,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b198cae8-113b-11f0-852f-6e914f196a76",
                 "name": "JoyBoy",
-                "seed": 129
+                "seed": 129,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a26bd1f8-1232-11f0-aca8-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b198cae8-113b-11f0-852f-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a26bd1f8-1232-11f0-aca8-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b198cae8-113b-11f0-852f-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -5868,18 +5903,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a405ac4c-0a84-11f0-b1fa-729b158e3678",
                 "name": "MR.TAKESATOs",
-                "seed": 117
+                "seed": 117,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6fa2db9e-12a6-11f0-bfd5-2e8d1ec3d504",
                 "name": "ANB",
-                "seed": 140
+                "seed": 140,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a405ac4c-0a84-11f0-b1fa-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fa2db9e-12a6-11f0-bfd5-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a405ac4c-0a84-11f0-b1fa-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6fa2db9e-12a6-11f0-bfd5-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a405ac4c-0a84-11f0-b1fa-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6fa2db9e-12a6-11f0-bfd5-2e8d1ec3d504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 59,
@@ -7987,7 +8072,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "b198cae8-113b-11f0-852f-6e914f196a76",
+                "name": "JoyBoy",
+                "seed": 129
             },
             "match_games": []
         },
@@ -8539,7 +8626,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "a405ac4c-0a84-11f0-b1fa-729b158e3678",
+                "name": "MR.TAKESATOs",
+                "seed": 117
             },
             "match_games": []
         },
