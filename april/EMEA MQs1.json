@@ -112116,18 +112116,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ea2fec6-0a86-11f0-841f-729b158e3678",
                 "name": "Drunk Beavers",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4adace76-132c-11f0-a315-2e8d1ec3d504",
                 "name": "LuxAeterna D",
-                "seed": 1469
+                "seed": 1469,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "2ea2fec6-0a86-11f0-841f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4adace76-132c-11f0-a315-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2ea2fec6-0a86-11f0-841f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4adace76-132c-11f0-a315-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1994,
@@ -113121,7 +113156,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2ea2fec6-0a86-11f0-841f-729b158e3678",
+                "name": "Drunk Beavers",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
