@@ -40998,18 +40998,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c57f8ea2-0a88-11f0-8889-729b158e3678",
                 "name": "777",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
                 "name": "M2H😜",
-                "seed": 288
+                "seed": 288,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c57f8ea2-0a88-11f0-8889-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c57f8ea2-0a88-11f0-8889-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 994,
@@ -41223,18 +41258,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
                 "name": "Pitchulas",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
                 "name": "iPhone 7",
-                "seed": 284
+                "seed": 284,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "c57e8728-0a88-11f0-bd63-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "81f1200c-11e4-11f0-bbf5-da47bd160d1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1000,
