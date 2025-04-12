@@ -37817,18 +37817,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
                 "name": "LosPericotes",
-                "seed": 47
+                "seed": 47,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3f366d2a-1195-11f0-a4a0-8a585fcd80c0",
                 "name": "INVENCIVEIS.BR",
-                "seed": 431
+                "seed": 431,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3f366d2a-1195-11f0-a4a0-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f366d2a-1195-11f0-a4a0-8a585fcd80c0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3f366d2a-1195-11f0-a4a0-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 937,
@@ -38713,18 +38763,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
                 "name": "DAIJOBU!",
-                "seed": 518
+                "seed": 518,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
                 "name": "HiddenX",
-                "seed": 123
+                "seed": 123,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 954,
@@ -39443,7 +39528,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "e5a19434-0a86-11f0-ad7b-729b158e3678",
+                "name": "LosPericotes",
+                "seed": 47
             },
             "match_games": []
         },
@@ -39616,10 +39703,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                "name": "HiddenX",
+                "seed": 123
             },
             "opponent2": {
-                "id": null
+                "id": "e4a9fa4e-0a86-11f0-b561-729b158e3678",
+                "name": "fairy lights",
+                "seed": 70
             },
             "match_games": []
         },
