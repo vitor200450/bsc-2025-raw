@@ -108757,18 +108757,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
                 "name": "Goats",
-                "seed": 1576
+                "seed": 1576,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
                 "name": "WTW",
-                "seed": 168
+                "seed": 168,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d879dd4-0a86-11f0-ac11-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1933,
@@ -109087,18 +109122,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "387fdd42-0a86-11f0-b5bf-729b158e3678",
                 "name": "RVP Gaming",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
                 "name": "Czech Heroes",
-                "seed": 1148
+                "seed": 1148,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "387fdd42-0a86-11f0-b5bf-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "387fdd42-0a86-11f0-b5bf-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1946,
@@ -110513,7 +110583,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "387fdd42-0a86-11f0-b5bf-729b158e3678",
+                "name": "RVP Gaming",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
