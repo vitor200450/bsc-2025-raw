@@ -25151,18 +25151,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
                 "name": "YORU VGS",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "32a67f62-11ce-11f0-a483-a60123dd55a2",
                 "name": "NerfPoco",
-                "seed": 567
+                "seed": 567,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32a67f62-11ce-11f0-a483-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32a67f62-11ce-11f0-a483-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 694,
@@ -28187,7 +28222,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e730ecbe-0a86-11f0-af42-729b158e3678",
+                "name": "YORU VGS",
+                "seed": 55
             },
             "opponent2": {
                 "id": null
