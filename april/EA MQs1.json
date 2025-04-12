@@ -9258,18 +9258,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2cfd776-0a84-11f0-9f77-729b158e3678",
                 "name": "らーとむ",
-                "seed": 2
+                "seed": 2,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
                 "name": "家ご飯のまさる",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "a2cfd776-0a84-11f0-9f77-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "a2cfd776-0a84-11f0-9f77-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "a2cfd776-0a84-11f0-9f77-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 162,
@@ -10642,10 +10692,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
+                "name": "家ご飯のまさる",
+                "seed": 127
             },
             "opponent2": {
-                "id": null
+                "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                "name": "astronaut",
+                "seed": 194
             },
             "match_games": []
         },
