@@ -22264,18 +22264,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b956b7a6-1175-11f0-a328-a60123dd55a2",
                 "name": "Basketboys",
-                "seed": 419
+                "seed": 419,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "546391f0-1663-11f0-8683-7634ef9f88fa",
                 "name": "Lunatic",
-                "seed": 606
+                "seed": 606,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b956b7a6-1175-11f0-a328-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "546391f0-1663-11f0-8683-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b956b7a6-1175-11f0-a328-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "546391f0-1663-11f0-8683-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 415,
@@ -28156,7 +28191,9 @@
                 "seed": 94
             },
             "opponent2": {
-                "id": null
+                "id": "b956b7a6-1175-11f0-a328-a60123dd55a2",
+                "name": "Basketboys",
+                "seed": 419
             },
             "match_games": []
         },
