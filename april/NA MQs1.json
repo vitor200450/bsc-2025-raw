@@ -17962,18 +17962,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f05439dc-1327-11f0-8574-2e8d1ec3d504",
                 "name": "The Saviors",
-                "seed": 468
+                "seed": 468,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
                 "name": "ALL ON RED",
-                "seed": 557
+                "seed": 557,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f05439dc-1327-11f0-8574-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f05439dc-1327-11f0-8574-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "f05439dc-1327-11f0-8574-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 187,
@@ -21347,18 +21397,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e46d8182-12b9-11f0-8324-7634ef9f88fa",
                 "name": "HMC||SPORTS",
-                "seed": 442
+                "seed": 442,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "aa401ff0-11bb-11f0-a41b-a60123dd55a2",
                 "name": "HaZeL Club",
-                "seed": 583
+                "seed": 583,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e46d8182-12b9-11f0-8324-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "aa401ff0-11bb-11f0-a41b-a60123dd55a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e46d8182-12b9-11f0-8324-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa401ff0-11bb-11f0-a41b-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e46d8182-12b9-11f0-8324-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "aa401ff0-11bb-11f0-a41b-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 335,
@@ -27010,7 +27110,9 @@
                 "seed": 45
             },
             "opponent2": {
-                "id": null
+                "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                "name": "ALL ON RED",
+                "seed": 557
             },
             "match_games": []
         },
@@ -28438,7 +28540,9 @@
                 "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "aa401ff0-11bb-11f0-a41b-a60123dd55a2",
+                "name": "HaZeL Club",
+                "seed": 583
             },
             "match_games": []
         },
