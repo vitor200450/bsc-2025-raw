@@ -33430,18 +33430,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c61702e-0a87-11f0-a937-729b158e3678",
                 "name": "Nova team",
-                "seed": 138
+                "seed": 138,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "6cd34cfc-12bd-11f0-a020-c203eea1d99a",
                 "name": "4AM",
-                "seed": 375
+                "seed": 375,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2c61702e-0a87-11f0-a937-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6cd34cfc-12bd-11f0-a020-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2c61702e-0a87-11f0-a937-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6cd34cfc-12bd-11f0-a020-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2c61702e-0a87-11f0-a937-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6cd34cfc-12bd-11f0-a020-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 693,
@@ -37678,7 +37728,9 @@
                 "seed": 119
             },
             "opponent2": {
-                "id": null
+                "id": "6cd34cfc-12bd-11f0-a020-c203eea1d99a",
+                "name": "4AM",
+                "seed": 375
             },
             "match_games": []
         },
