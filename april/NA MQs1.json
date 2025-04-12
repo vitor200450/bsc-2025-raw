@@ -48765,18 +48765,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
                 "name": "Snoopy Oops",
-                "seed": 586
+                "seed": 586,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
                 "name": "Auto Aimers Fan club",
-                "seed": 42
+                "seed": 42,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1005,
