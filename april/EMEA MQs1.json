@@ -93318,18 +93318,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
                 "name": "Ei",
-                "seed": 13
+                "seed": 13,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
                 "name": "The Fanciest",
-                "seed": 1549
+                "seed": 1549,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1618,
@@ -100451,10 +100486,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2ee1a4b4-0a86-11f0-bcae-729b158e3678",
+                "name": "Ei",
+                "seed": 13
             },
             "opponent2": {
-                "id": null
+                "id": "7036d6c8-1157-11f0-846f-c2c76dd5c469",
+                "name": "Zero Gravity eSport",
+                "seed": 1268
             },
             "match_games": []
         },
