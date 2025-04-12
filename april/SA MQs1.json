@@ -17416,18 +17416,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b691b284-1335-11f0-be57-4ed1b62a3029",
                 "name": "Baleadas HN",
-                "seed": 442
+                "seed": 442,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c32b6886-11d8-11f0-995f-a60123dd55a2",
                 "name": "Hunters",
-                "seed": 583
+                "seed": 583,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b691b284-1335-11f0-be57-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c32b6886-11d8-11f0-995f-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b691b284-1335-11f0-be57-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c32b6886-11d8-11f0-995f-a60123dd55a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 335,
@@ -23730,7 +23765,9 @@
                 "seed": 71
             },
             "opponent2": {
-                "id": null
+                "id": "b691b284-1335-11f0-be57-4ed1b62a3029",
+                "name": "Baleadas HN",
+                "seed": 442
             },
             "match_games": []
         },
