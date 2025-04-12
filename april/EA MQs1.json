@@ -7146,18 +7146,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2f2436a-0a84-11f0-9a32-729b158e3678",
                 "name": "せみまる",
-                "seed": 83
+                "seed": 83,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "82f02ece-138f-11f0-8aec-4ed1b62a3029",
                 "name": "Team Cup People",
-                "seed": 174
+                "seed": 174,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a2f2436a-0a84-11f0-9a32-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "82f02ece-138f-11f0-8aec-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a2f2436a-0a84-11f0-9a32-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "82f02ece-138f-11f0-8aec-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 113,
@@ -8686,7 +8721,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "82f02ece-138f-11f0-8aec-4ed1b62a3029",
+                "name": "Team Cup People",
+                "seed": 174
             },
             "match_games": []
         },
