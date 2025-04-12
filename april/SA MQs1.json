@@ -36561,18 +36561,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
                 "name": "Os Cheetos",
-                "seed": 521
+                "seed": 521,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8659af8-0a86-11f0-86eb-729b158e3678",
                 "name": "⚔️Castle Clashers⚔️",
-                "seed": 120
+                "seed": 120,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8659af8-0a86-11f0-86eb-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e8659af8-0a86-11f0-86eb-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8659af8-0a86-11f0-86eb-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 910,
@@ -39371,10 +39421,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                "name": "Os Cheetos",
+                "seed": 521
             },
             "opponent2": {
-                "id": null
+                "id": "37dcc78a-1245-11f0-a74a-7634ef9f88fa",
+                "name": "FIVE LANS",
+                "seed": 312
             },
             "match_games": []
         },
