@@ -12687,18 +12687,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
                 "name": "ガチバハズレ枠",
-                "seed": 208
+                "seed": 208,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a4a4da7e-0a84-11f0-93f3-729b158e3678",
                 "name": "”‬FCサジアキ‪”",
-                "seed": 81
+                "seed": 81,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a4a4da7e-0a84-11f0-93f3-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a4a4da7e-0a84-11f0-93f3-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 227,
@@ -13032,18 +13067,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
                 "name": "ISEKAI Yuusha",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a304db4c-0a84-11f0-af72-729b158e3678",
                 "name": "サ終",
-                "seed": 19
+                "seed": 19,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a304db4c-0a84-11f0-af72-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a304db4c-0a84-11f0-af72-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 239,
