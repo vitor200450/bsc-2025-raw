@@ -34497,18 +34497,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4271c00-0a86-11f0-9ef4-729b158e3678",
                 "name": "Wazeros🥵🔥",
-                "seed": 99
+                "seed": 99,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e687fb4a-0a86-11f0-bcd4-729b158e3678",
                 "name": "PolitoSeven",
-                "seed": 158
+                "seed": 158,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e4271c00-0a86-11f0-9ef4-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e687fb4a-0a86-11f0-bcd4-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e4271c00-0a86-11f0-9ef4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e687fb4a-0a86-11f0-bcd4-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e4271c00-0a86-11f0-9ef4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e687fb4a-0a86-11f0-bcd4-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 871,
@@ -36458,7 +36508,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "e4271c00-0a86-11f0-9ef4-729b158e3678",
+                "name": "Wazeros🥵🔥",
+                "seed": 99
             },
             "match_games": []
         },
