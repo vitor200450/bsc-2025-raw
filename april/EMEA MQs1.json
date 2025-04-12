@@ -70152,18 +70152,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
                 "name": "TOP|Academy",
-                "seed": 161
+                "seed": 161,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "663a9f0e-1221-11f0-890e-7634ef9f88fa",
                 "name": "Pastaga esport",
-                "seed": 864
+                "seed": 864,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "663a9f0e-1221-11f0-890e-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "663a9f0e-1221-11f0-890e-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1056,
@@ -78437,18 +78472,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7b07030c-1477-11f0-b215-cabe1c6ba045",
                 "name": "ParriCs",
-                "seed": 1587
+                "seed": 1587,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d4d3ff16-14a9-11f0-89b9-4ed1b62a3029",
                 "name": "Storm Titans",
-                "seed": 563
+                "seed": 563,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "7b07030c-1477-11f0-b215-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d4d3ff16-14a9-11f0-89b9-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "7b07030c-1477-11f0-b215-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d4d3ff16-14a9-11f0-89b9-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1451,
@@ -80133,18 +80203,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35590b16-0a86-11f0-9474-729b158e3678",
                 "name": "MSN Esport",
-                "seed": 86
+                "seed": 86,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fb1c5030-1155-11f0-aa97-c2c76dd5c469",
                 "name": "French baguette",
-                "seed": 939
+                "seed": 939,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "35590b16-0a86-11f0-9474-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb1c5030-1155-11f0-aa97-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "35590b16-0a86-11f0-9474-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fb1c5030-1155-11f0-aa97-c2c76dd5c469",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1534,
@@ -80455,7 +80560,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                "name": "TOP|Academy",
+                "seed": 161
             },
             "opponent2": {
                 "id": null
@@ -84297,7 +84404,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "35590b16-0a86-11f0-9474-729b158e3678",
+                "name": "MSN Esport",
+                "seed": 86
             },
             "opponent2": {
                 "id": null
