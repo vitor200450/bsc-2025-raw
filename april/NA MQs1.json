@@ -19426,18 +19426,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "52516b28-11a2-11f0-bcaf-ba73ea539b98",
                 "name": "YSG OFFLINE",
-                "seed": 511
+                "seed": 511,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
                 "name": "Baomusashi",
-                "seed": 514
+                "seed": 514,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "52516b28-11a2-11f0-bcaf-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "52516b28-11a2-11f0-bcaf-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "52516b28-11a2-11f0-bcaf-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 259,
@@ -23744,18 +23794,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c77ab57c-119c-11f0-ab5b-a60123dd55a2",
                 "name": "The rooks",
-                "seed": 507
+                "seed": 507,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1ac6a242-13da-11f0-a2b5-7634ef9f88fa",
                 "name": "JZC",
-                "seed": 518
+                "seed": 518,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c77ab57c-119c-11f0-ab5b-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1ac6a242-13da-11f0-a2b5-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c77ab57c-119c-11f0-ab5b-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1ac6a242-13da-11f0-a2b5-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c77ab57c-119c-11f0-ab5b-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ac6a242-13da-11f0-a2b5-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -27596,7 +27696,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                "name": "Baomusashi",
+                "seed": 514
             },
             "match_games": []
         },
@@ -29442,7 +29544,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "1ac6a242-13da-11f0-a2b5-7634ef9f88fa",
+                "name": "JZC",
+                "seed": 518
             },
             "match_games": []
         },
