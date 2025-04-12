@@ -6301,18 +6301,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a451e990-0a84-11f0-b9df-729b158e3678",
                 "name": "DG",
-                "seed": 79
+                "seed": 79,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0070a2f0-13b5-11f0-adea-7634ef9f88fa",
                 "name": "NORI",
-                "seed": 178
+                "seed": 178,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a451e990-0a84-11f0-b9df-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0070a2f0-13b5-11f0-adea-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a451e990-0a84-11f0-b9df-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0070a2f0-13b5-11f0-adea-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a451e990-0a84-11f0-b9df-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0070a2f0-13b5-11f0-adea-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 77,
@@ -8565,7 +8615,9 @@
                 "seed": 207
             },
             "opponent2": {
-                "id": null
+                "id": "0070a2f0-13b5-11f0-adea-7634ef9f88fa",
+                "name": "NORI",
+                "seed": 178
             },
             "match_games": []
         },
