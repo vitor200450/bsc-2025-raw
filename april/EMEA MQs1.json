@@ -102024,18 +102024,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ac0fc9c2-1164-11f0-a371-6e914f196a76",
                 "name": "The Sigmas",
-                "seed": 609
+                "seed": 609,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "baefef8c-1301-11f0-99fc-4ed1b62a3029",
                 "name": "Team of Despare",
-                "seed": 672
+                "seed": 672,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "ac0fc9c2-1164-11f0-a371-6e914f196a76",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "baefef8c-1301-11f0-99fc-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ac0fc9c2-1164-11f0-a371-6e914f196a76",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "baefef8c-1301-11f0-99fc-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "ac0fc9c2-1164-11f0-a371-6e914f196a76",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "baefef8c-1301-11f0-99fc-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1799,
@@ -107021,18 +107071,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35590b16-0a86-11f0-9474-729b158e3678",
                 "name": "MSN Esport",
-                "seed": 86
+                "seed": 86,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
                 "name": "NTSX",
-                "seed": 683
+                "seed": 683,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "35590b16-0a86-11f0-9474-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "35590b16-0a86-11f0-9474-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1921,
@@ -107084,7 +107169,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "baefef8c-1301-11f0-99fc-4ed1b62a3029",
+                "name": "Team of Despare",
+                "seed": 672
             },
             "match_games": []
         },
@@ -108226,7 +108313,9 @@
                 "seed": 811
             },
             "opponent2": {
-                "id": null
+                "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
+                "name": "NTSX",
+                "seed": 683
             },
             "match_games": []
         },
