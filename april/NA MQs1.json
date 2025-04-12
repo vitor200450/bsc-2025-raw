@@ -15762,18 +15762,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e453d97c-115f-11f0-b342-c2c76dd5c469",
                 "name": "Hexastrike",
-                "seed": 393
+                "seed": 393,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
                 "name": "PIUPIU",
-                "seed": 632
+                "seed": 632,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e453d97c-115f-11f0-b342-c2c76dd5c469",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e453d97c-115f-11f0-b342-c2c76dd5c469",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 103,
@@ -21011,18 +21046,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "310bc6fa-1181-11f0-9e89-ba73ea539b98",
                 "name": "A.L.E|Mornarchs 😈",
-                "seed": 439
+                "seed": 439,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
                 "name": "Snoopy Oops",
-                "seed": 586
+                "seed": 586,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "310bc6fa-1181-11f0-9e89-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "310bc6fa-1181-11f0-9e89-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 367,
@@ -22434,18 +22504,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
                 "name": "Spaz",
-                "seed": 403
+                "seed": 403,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "334ad986-1705-11f0-813a-963a7edaaa14",
                 "name": "The Lucky Randoms",
-                "seed": 622
+                "seed": 622,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "334ad986-1705-11f0-813a-963a7edaaa14",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "334ad986-1705-11f0-813a-963a7edaaa14",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 439,
@@ -24868,7 +24973,9 @@
                 "seed": 120
             },
             "opponent2": {
-                "id": null
+                "id": "5a8d90a2-172c-11f0-9065-92c68b694f6e",
+                "name": "PIUPIU",
+                "seed": 632
             },
             "match_games": []
         },
@@ -27366,7 +27473,9 @@
                 "seed": 74
             },
             "opponent2": {
-                "id": null
+                "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                "name": "Snoopy Oops",
+                "seed": 586
             },
             "match_games": []
         },
@@ -28048,7 +28157,9 @@
                 "seed": 110
             },
             "opponent2": {
-                "id": null
+                "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
+                "name": "Spaz",
+                "seed": 403
             },
             "match_games": []
         },
