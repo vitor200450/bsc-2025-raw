@@ -36601,18 +36601,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c74336c-0a87-11f0-a08a-729b158e3678",
                 "name": "LettuceCook",
-                "seed": 97
+                "seed": 97,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
                 "name": "Kappa",
-                "seed": 353
+                "seed": 353,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2c74336c-0a87-11f0-a08a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2c74336c-0a87-11f0-a08a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 775,
@@ -36941,18 +36976,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "920bdaea-14a0-11f0-964f-cabe1c6ba045",
                 "name": "Jucos",
-                "seed": 552
+                "seed": 552,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
                 "name": "Los Zaarnosos",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "920bdaea-14a0-11f0-964f-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "920bdaea-14a0-11f0-964f-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 792,
@@ -38496,18 +38566,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29b57fa0-0a87-11f0-bd47-729b158e3678",
                 "name": "Crusaders Esports",
-                "seed": 26
+                "seed": 26,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
                 "name": "GG",
-                "seed": 282
+                "seed": 282,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "29b57fa0-0a87-11f0-bd47-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "29b57fa0-0a87-11f0-bd47-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 854,
@@ -39589,7 +39694,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                "name": "Los Zaarnosos",
+                "seed": 296
             },
             "opponent2": {
                 "id": null
@@ -40099,7 +40206,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                "name": "GG",
+                "seed": 282
             },
             "opponent2": {
                 "id": null
