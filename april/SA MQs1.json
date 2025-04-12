@@ -33589,18 +33589,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
                 "name": "GG Wellplayed",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3cc17b40-1715-11f0-a528-0efff8099150",
                 "name": "FORWARN",
-                "seed": 270
+                "seed": 270,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3cc17b40-1715-11f0-a528-0efff8099150",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3cc17b40-1715-11f0-a528-0efff8099150",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 874,
@@ -33609,18 +33644,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "872870ae-12ff-11f0-96d8-2e8d1ec3d504",
                 "name": "EXILADOS",
-                "seed": 398
+                "seed": 398,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
                 "name": "Os Passa Fome",
-                "seed": 371
+                "seed": 371,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "872870ae-12ff-11f0-96d8-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "872870ae-12ff-11f0-96d8-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 875,
@@ -35126,10 +35196,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                "name": "GG Wellplayed",
+                "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "4ed2a440-1174-11f0-8656-8a585fcd80c0",
+                "name": "Os Passa Fome",
+                "seed": 371
             },
             "match_games": []
         },
