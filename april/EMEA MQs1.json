@@ -47346,18 +47346,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a4b54c8-1316-11f0-a9a8-c203eea1d99a",
                 "name": "SuomenKovimmat",
-                "seed": 690
+                "seed": 690,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6dbc6b26-12ef-11f0-a4fe-7634ef9f88fa",
                 "name": "JZ",
-                "seed": 1359
+                "seed": 1359,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4a4b54c8-1316-11f0-a9a8-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6dbc6b26-12ef-11f0-a4fe-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4a4b54c8-1316-11f0-a9a8-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6dbc6b26-12ef-11f0-a4fe-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 609,
@@ -59950,7 +59985,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5163d066-12c4-11f0-ba06-c203eea1d99a",
+                "name": "TSA|Esport",
+                "seed": 1727
             },
             "opponent2": {
                 "id": null
