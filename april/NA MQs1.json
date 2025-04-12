@@ -14514,18 +14514,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d8e57370-127c-11f0-9ca5-c203eea1d99a",
                 "name": "Chaos Mode",
-                "seed": 400
+                "seed": 400,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b56d86b0-11c5-11f0-a7b6-a60123dd55a2",
                 "name": "Dino Division 🦖",
-                "seed": 625
+                "seed": 625,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d8e57370-127c-11f0-9ca5-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b56d86b0-11c5-11f0-a7b6-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d8e57370-127c-11f0-9ca5-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b56d86b0-11c5-11f0-a7b6-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 39,
@@ -20249,18 +20284,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d4d17e18-117e-11f0-9d54-ba73ea539b98",
                 "name": "True GC",
-                "seed": 431
+                "seed": 431,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "983e1344-161a-11f0-9128-7634ef9f88fa",
                 "name": "MANAVKUYU",
-                "seed": 594
+                "seed": 594,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d4d17e18-117e-11f0-9d54-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "983e1344-161a-11f0-9128-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d4d17e18-117e-11f0-9d54-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "983e1344-161a-11f0-9128-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 319,
@@ -21812,18 +21882,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8f58af2c-12f6-11f0-8dd4-4ed1b62a3029",
                 "name": "Bad Randoms",
-                "seed": 446
+                "seed": 446,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "02efebaa-11ba-11f0-947f-8a585fcd80c0",
                 "name": "Rayquaza |:)",
-                "seed": 579
+                "seed": 579,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "8f58af2c-12f6-11f0-8dd4-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "02efebaa-11ba-11f0-947f-8a585fcd80c0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "8f58af2c-12f6-11f0-8dd4-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "02efebaa-11ba-11f0-947f-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 399,
@@ -24437,7 +24542,9 @@
                 "seed": 113
             },
             "opponent2": {
-                "id": null
+                "id": "b56d86b0-11c5-11f0-a7b6-a60123dd55a2",
+                "name": "Dino Division 🦖",
+                "seed": 625
             },
             "match_games": []
         },
@@ -27097,7 +27204,9 @@
                 "seed": 82
             },
             "opponent2": {
-                "id": null
+                "id": "d4d17e18-117e-11f0-9d54-ba73ea539b98",
+                "name": "True GC",
+                "seed": 431
             },
             "match_games": []
         },
@@ -27853,7 +27962,9 @@
                 "seed": 67
             },
             "opponent2": {
-                "id": null
+                "id": "8f58af2c-12f6-11f0-8dd4-4ed1b62a3029",
+                "name": "Bad Randoms",
+                "seed": 446
             },
             "match_games": []
         },
