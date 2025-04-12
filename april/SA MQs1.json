@@ -33762,18 +33762,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e87b65ae-0a86-11f0-993b-729b158e3678",
                 "name": "R.I.P☠️",
-                "seed": 122
+                "seed": 122,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
                 "name": "Os Amostradinhos",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e87b65ae-0a86-11f0-993b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e87b65ae-0a86-11f0-993b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e87b65ae-0a86-11f0-993b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 851,
@@ -35509,18 +35559,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
                 "name": "TapaNaKara",
-                "seed": 566
+                "seed": 566,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
                 "name": "La Masturbanda",
-                "seed": 203
+                "seed": 203,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 892,
@@ -36461,7 +36561,9 @@
                 "seed": 263
             },
             "opponent2": {
-                "id": null
+                "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                "name": "Os Amostradinhos",
+                "seed": 135
             },
             "match_games": []
         },
@@ -36874,10 +36976,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                "name": "La Masturbanda",
+                "seed": 203
             },
             "opponent2": {
-                "id": null
+                "id": "39166950-1310-11f0-a787-7634ef9f88fa",
+                "name": "Peru SG",
+                "seed": 331
             },
             "match_games": []
         },
