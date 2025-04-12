@@ -22386,18 +22386,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c38f8e08-134d-11f0-9984-7634ef9f88fa",
                 "name": "Los chihuahuas",
-                "seed": 168
+                "seed": 168,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9ac372aa-115e-11f0-a874-c2c76dd5c469",
                 "name": "几乇乃|🤡︻デ═一 ▸",
-                "seed": 345
+                "seed": 345,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c38f8e08-134d-11f0-9984-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9ac372aa-115e-11f0-a874-c2c76dd5c469",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c38f8e08-134d-11f0-9984-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9ac372aa-115e-11f0-a874-c2c76dd5c469",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 561,
