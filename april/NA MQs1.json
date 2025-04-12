@@ -16841,18 +16841,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "33c0bd06-1343-11f0-b8ba-c203eea1d99a",
                 "name": "BS-LA PROMESA",
-                "seed": 484
+                "seed": 484,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
                 "name": "Benitos",
-                "seed": 541
+                "seed": 541,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "33c0bd06-1343-11f0-b8ba-c203eea1d99a",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "33c0bd06-1343-11f0-b8ba-c203eea1d99a",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 147,
@@ -18025,18 +18060,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdded16e-12d8-11f0-bb62-4ed1b62a3029",
                 "name": "NLS",
-                "seed": 444
+                "seed": 444,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0c8c2ee4-11ba-11f0-8963-a60123dd55a2",
                 "name": "The Minecrafters",
-                "seed": 581
+                "seed": 581,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bdded16e-12d8-11f0-bb62-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0c8c2ee4-11ba-11f0-8963-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bdded16e-12d8-11f0-bb62-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0c8c2ee4-11ba-11f0-8963-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 207,
@@ -25822,7 +25892,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
+                "name": "Benitos",
+                "seed": 541
             },
             "match_games": []
         },
@@ -26388,7 +26460,9 @@
                 "seed": 69
             },
             "opponent2": {
-                "id": null
+                "id": "0c8c2ee4-11ba-11f0-8963-a60123dd55a2",
+                "name": "The Minecrafters",
+                "seed": 581
             },
             "match_games": []
         },
