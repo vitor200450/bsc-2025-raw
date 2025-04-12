@@ -23156,18 +23156,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8d6cb6a-0a86-11f0-a3f7-729b158e3678",
                 "name": "⚔️ Shadow Warriors ⚔️",
-                "seed": 61
+                "seed": 61,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5f0c4186-134a-11f0-8f34-2e8d1ec3d504",
                 "name": "Sharks|JVK",
-                "seed": 452
+                "seed": 452,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e8d6cb6a-0a86-11f0-a3f7-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f0c4186-134a-11f0-8f34-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e8d6cb6a-0a86-11f0-a3f7-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5f0c4186-134a-11f0-8f34-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 582,
@@ -29123,10 +29158,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5f0c4186-134a-11f0-8f34-2e8d1ec3d504",
+                "name": "Sharks|JVK",
+                "seed": 452
             },
             "opponent2": {
-                "id": null
+                "id": "197ad334-1300-11f0-93a5-2e8d1ec3d504",
+                "name": "VortexX",
+                "seed": 317
             },
             "match_games": []
         },
