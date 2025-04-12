@@ -38529,18 +38529,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
                 "name": "LZK|Esports",
-                "seed": 389
+                "seed": 389,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
                 "name": "LKK",
-                "seed": 645
+                "seed": 645,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d6bfc02c-11d3-11f0-a06f-da47bd160d1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 819,
@@ -42138,7 +42188,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                "name": "LZK|Esports",
+                "seed": 389
             },
             "match_games": []
         },
