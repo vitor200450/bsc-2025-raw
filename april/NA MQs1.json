@@ -26474,18 +26474,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ba14fe2-0a87-11f0-b045-729b158e3678",
                 "name": "Pistacho Team",
-                "seed": 128
+                "seed": 128,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
                 "name": "New Heights Gaming",
-                "seed": 640
+                "seed": 640,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2ba14fe2-0a87-11f0-b045-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2ba14fe2-0a87-11f0-b045-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 516,
@@ -28309,18 +28344,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
                 "name": "Itagui",
-                "seed": 45
+                "seed": 45,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
                 "name": "ALL ON RED",
-                "seed": 557
+                "seed": 557,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74d5fde8-11b2-11f0-be09-da47bd160d1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 606,
@@ -30384,18 +30454,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b55a038-0a87-11f0-aea8-729b158e3678",
                 "name": "Chica Indiscreta |FC",
-                "seed": 126
+                "seed": 126,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
                 "name": "Filthy Casuals",
-                "seed": 638
+                "seed": 638,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2b55a038-0a87-11f0-aea8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2b55a038-0a87-11f0-aea8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 708,
@@ -31539,18 +31644,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "284ea1b4-0a87-11f0-ab80-729b158e3678",
                 "name": "MRY | Murcy",
-                "seed": 107
+                "seed": 107,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "53ea5a9c-1280-11f0-b015-7634ef9f88fa",
                 "name": "Ruthlessrebels",
-                "seed": 406
+                "seed": 406,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "284ea1b4-0a87-11f0-ab80-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53ea5a9c-1280-11f0-b015-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "284ea1b4-0a87-11f0-ab80-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "53ea5a9c-1280-11f0-b015-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 764,
@@ -31677,7 +31817,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                "name": "New Heights Gaming",
+                "seed": 640
             },
             "opponent2": {
                 "id": null
@@ -32399,7 +32541,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2a2db402-0a87-11f0-ab09-729b158e3678",
+                "name": "Itagui",
+                "seed": 45
             },
             "opponent2": {
                 "id": null
@@ -33217,7 +33361,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0fb80eb4-1735-11f0-a682-9e9a7ca09f4b",
+                "name": "Filthy Casuals",
+                "seed": 638
             },
             "opponent2": {
                 "id": null
@@ -33667,7 +33813,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "284ea1b4-0a87-11f0-ab80-729b158e3678",
+                "name": "MRY | Murcy",
+                "seed": 107
             },
             "opponent2": {
                 "id": null
