@@ -13042,18 +13042,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
                 "name": "NeeBo Gaming",
-                "seed": 7
+                "seed": 7,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
                 "name": "マンケルビーム",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 236,
@@ -13157,18 +13192,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
                 "name": "RedBull",
-                "seed": 70
+                "seed": 70,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
                 "name": "世界トーリマス",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4bf57c9c-1300-11f0-b053-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e1b2c700-1308-11f0-9050-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 240,
