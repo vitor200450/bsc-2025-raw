@@ -109767,18 +109767,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ec443530-1193-11f0-813d-ba73ea539b98",
                 "name": "DPB|Esport",
-                "seed": 1758
+                "seed": 1758,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
                 "name": "TS|Too Serious",
-                "seed": 163
+                "seed": 163,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "ec443530-1193-11f0-813d-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "ec443530-1193-11f0-813d-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c8244de-0a86-11f0-8dda-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1973,
@@ -109827,18 +109862,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
                 "name": "Mini Kozaki",
-                "seed": 750
+                "seed": 750,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d965f96-0a86-11f0-90b9-729b158e3678",
                 "name": "CocoSacaelPaint",
-                "seed": 110
+                "seed": 110,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d965f96-0a86-11f0-90b9-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d965f96-0a86-11f0-90b9-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1976,
@@ -109847,18 +109917,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
                 "name": "Ciabatta",
-                "seed": 723
+                "seed": 723,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2e697750-0a86-11f0-b9dc-729b158e3678",
                 "name": "Dj GIGA",
-                "seed": 339
+                "seed": 339,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e697750-0a86-11f0-b9dc-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e697750-0a86-11f0-b9dc-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1977,
@@ -110545,10 +110650,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cabe00a6-1717-11f0-8c50-82ef88cda3e3",
+                "name": "Mini Kozaki",
+                "seed": 750
             },
             "opponent2": {
-                "id": null
+                "id": "cd5d0a42-1324-11f0-823a-4ed1b62a3029",
+                "name": "Ciabatta",
+                "seed": 723
             },
             "match_games": []
         },
