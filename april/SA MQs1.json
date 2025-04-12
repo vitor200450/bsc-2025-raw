@@ -16984,18 +16984,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "d9692cca-11a4-11f0-8bed-a60123dd55a2",
                 "name": "Masters brazil",
-                "seed": 463
+                "seed": 463,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8e19ad48-1731-11f0-a226-9e0be61304e0",
                 "name": "GOD",
-                "seed": 562
+                "seed": 562,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d9692cca-11a4-11f0-8bed-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8e19ad48-1731-11f0-a226-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d9692cca-11a4-11f0-8bed-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "8e19ad48-1731-11f0-a226-9e0be61304e0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 299,
@@ -20495,18 +20530,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4e326838-11a4-11f0-a957-ba73ea539b98",
                 "name": "InMortality Team",
-                "seed": 459
+                "seed": 459,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
                 "name": "TapaNaKara",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4e326838-11a4-11f0-a957-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4e326838-11a4-11f0-a957-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4e326838-11a4-11f0-a957-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 491,
@@ -23862,7 +23947,9 @@
                 "seed": 50
             },
             "opponent2": {
-                "id": null
+                "id": "8e19ad48-1731-11f0-a226-9e0be61304e0",
+                "name": "GOD",
+                "seed": 562
             },
             "match_games": []
         },
@@ -25778,7 +25865,9 @@
                 "seed": 54
             },
             "opponent2": {
-                "id": null
+                "id": "0f8e31a6-1740-11f0-82e4-e282ffa70add",
+                "name": "TapaNaKara",
+                "seed": 566
             },
             "match_games": []
         },
