@@ -43318,18 +43318,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ce66a22-0a87-11f0-a038-729b158e3678",
                 "name": "Shambolic Randoms",
-                "seed": 49
+                "seed": 49,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8031a008-15ad-11f0-a5d6-cabe1c6ba045",
                 "name": "Funnybunbeas",
-                "seed": 177
+                "seed": 177,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2ce66a22-0a87-11f0-a038-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8031a008-15ad-11f0-a5d6-cabe1c6ba045",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2ce66a22-0a87-11f0-a038-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8031a008-15ad-11f0-a5d6-cabe1c6ba045",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 903,
@@ -43908,18 +43943,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a01be9c-0a87-11f0-ba1b-729b158e3678",
                 "name": "Hooters eSports",
-                "seed": 44
+                "seed": 44,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
                 "name": "CHARLY BROTHERS",
-                "seed": 341
+                "seed": 341,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2a01be9c-0a87-11f0-ba1b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2a01be9c-0a87-11f0-ba1b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 929,
