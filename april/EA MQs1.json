@@ -5782,18 +5782,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "cf108cf0-1609-11f0-b997-7634ef9f88fa",
                 "name": "SuzuEcho",
-                "seed": 92
+                "seed": 92,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
                 "name": "fat on the sky",
-                "seed": 165
+                "seed": 165,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "cf108cf0-1609-11f0-b997-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "cf108cf0-1609-11f0-b997-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "cf108cf0-1609-11f0-b997-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 57,
@@ -8419,7 +8469,9 @@
                 "seed": 37
             },
             "opponent2": {
-                "id": null
+                "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                "name": "fat on the sky",
+                "seed": 165
             },
             "match_games": []
         },
