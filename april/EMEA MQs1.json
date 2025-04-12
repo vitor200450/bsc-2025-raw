@@ -114011,18 +114011,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0f1f4b48-13c5-11f0-bd44-7634ef9f88fa",
                 "name": "LUX BAGUETTES",
-                "seed": 763
+                "seed": 763,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
                 "name": "Code : Gas",
-                "seed": 859
+                "seed": 859,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0f1f4b48-13c5-11f0-bd44-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0f1f4b48-13c5-11f0-bd44-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2032,
