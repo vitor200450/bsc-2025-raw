@@ -70992,18 +70992,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e085e84-0a86-11f0-b982-729b158e3678",
                 "name": "Narmaldaki E-sports",
-                "seed": 57
+                "seed": 57,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "93a130a0-121e-11f0-9232-7634ef9f88fa",
                 "name": "Broken Dreams",
-                "seed": 1081
+                "seed": 1081,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2e085e84-0a86-11f0-b982-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93a130a0-121e-11f0-9232-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2e085e84-0a86-11f0-b982-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93a130a0-121e-11f0-9232-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1098,
@@ -75227,7 +75262,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "34e85e7a-0a86-11f0-a23f-729b158e3678",
                 "name": "MightyGuys",
@@ -80686,7 +80721,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2e085e84-0a86-11f0-b982-729b158e3678",
+                "name": "Narmaldaki E-sports",
+                "seed": 57
             },
             "opponent2": {
                 "id": null
