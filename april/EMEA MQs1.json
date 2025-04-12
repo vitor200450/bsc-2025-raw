@@ -67217,18 +67217,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6a62bae-1149-11f0-a389-6e914f196a76",
                 "name": "m¥r",
-                "seed": 758
+                "seed": 758,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "1ad7067a-11f8-11f0-aeee-a60123dd55a2",
                 "name": "OCT",
-                "seed": 1291
+                "seed": 1291,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a6a62bae-1149-11f0-a389-6e914f196a76",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1ad7067a-11f8-11f0-aeee-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a6a62bae-1149-11f0-a389-6e914f196a76",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1ad7067a-11f8-11f0-aeee-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 969,
@@ -78839,7 +78874,9 @@
                 "seed": 267
             },
             "opponent2": {
-                "id": null
+                "id": "1ad7067a-11f8-11f0-aeee-a60123dd55a2",
+                "name": "OCT",
+                "seed": 1291
             },
             "match_games": []
         },
