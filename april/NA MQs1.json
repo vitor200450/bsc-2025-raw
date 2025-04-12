@@ -27074,18 +27074,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28835f12-0a87-11f0-a52b-729b158e3678",
                 "name": "hungry hippos",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
                 "name": "SMC",
-                "seed": 505
+                "seed": 505,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e823ce90-119b-11f0-adde-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 546,
@@ -28994,18 +29029,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
                 "name": "IX Squares",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
                 "name": "Baomusashi",
-                "seed": 514
+                "seed": 514,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b3b23b88-13cb-11f0-8150-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 642,
@@ -31812,7 +31882,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                "name": "hungry hippos",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -32580,7 +32652,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                "name": "IX Squares",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -33316,7 +33390,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                "name": "RANGOLEROS F/A",
+                "seed": 46
             },
             "opponent2": {
                 "id": null
