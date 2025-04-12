@@ -42569,18 +42569,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d53f31e-1729-11f0-ad24-6e11e6122f52",
                 "name": "super不会玩的迪克老强了",
-                "seed": 630
+                "seed": 630,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5dd03aa0-1257-11f0-ba3b-c203eea1d99a",
                 "name": "MangoBrawl",
-                "seed": 374
+                "seed": 374,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1d53f31e-1729-11f0-ad24-6e11e6122f52",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "5dd03aa0-1257-11f0-ba3b-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "1d53f31e-1729-11f0-ad24-6e11e6122f52",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5dd03aa0-1257-11f0-ba3b-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "1d53f31e-1729-11f0-ad24-6e11e6122f52",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5dd03aa0-1257-11f0-ba3b-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 891,
@@ -43992,7 +44042,9 @@
                 "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "5dd03aa0-1257-11f0-ba3b-c203eea1d99a",
+                "name": "MangoBrawl",
+                "seed": 374
             },
             "match_games": []
         },
