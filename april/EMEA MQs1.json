@@ -102869,18 +102869,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
                 "name": "SF Esports EMEA",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7f53009c-131d-11f0-b691-c203eea1d99a",
                 "name": "53721",
-                "seed": 717
+                "seed": 717,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f53009c-131d-11f0-b691-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7f53009c-131d-11f0-b691-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1836,
@@ -105005,7 +105040,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "38f1f94a-0a86-11f0-bb3a-729b158e3678",
+                "name": "SF Esports EMEA",
+                "seed": 52
             },
             "opponent2": {
                 "id": null
