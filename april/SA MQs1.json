@@ -36670,18 +36670,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
                 "name": "Starship troops",
-                "seed": 500
+                "seed": 500,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "031b30fa-1294-11f0-b9f3-2e8d1ec3d504",
                 "name": "Supreme_Bantang",
-                "seed": 372
+                "seed": 372,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "031b30fa-1294-11f0-b9f3-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "031b30fa-1294-11f0-b9f3-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 918,
@@ -38459,10 +38494,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                "name": "Starship troops",
+                "seed": 500
             },
             "opponent2": {
-                "id": null
+                "id": "a1b6a15e-11a4-11f0-bab1-da47bd160d1e",
+                "name": "Wena Bros",
+                "seed": 461
             },
             "match_games": []
         },
