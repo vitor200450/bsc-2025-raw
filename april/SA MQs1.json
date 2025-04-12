@@ -39744,18 +39744,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b0195ac-13b5-11f0-aa0c-cabe1c6ba045",
                 "name": "Nevoy Gaming",
-                "seed": 226
+                "seed": 226,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
                 "name": "Scania",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1b0195ac-13b5-11f0-aa0c-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1b0195ac-13b5-11f0-aa0c-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 979,
@@ -39959,18 +39994,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
                 "name": "GG Wellplayed",
-                "seed": 14
+                "seed": 14,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
                 "name": "TOPWAR",
-                "seed": 435
+                "seed": 435,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 988,
@@ -40253,7 +40323,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                "name": "Scania",
+                "seed": 34
             },
             "match_games": []
         },
@@ -40332,7 +40404,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e55bfff0-0a86-11f0-9a94-729b158e3678",
+                "name": "GG Wellplayed",
+                "seed": 14
             },
             "opponent2": {
                 "id": null
