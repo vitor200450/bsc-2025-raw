@@ -104904,18 +104904,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "31d384b2-0a86-11f0-9a8f-729b158e3678",
                 "name": "PIF",
-                "seed": 127
+                "seed": 127,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "32ef13de-0a86-11f0-bd4b-729b158e3678",
                 "name": "Koteto",
-                "seed": 130
+                "seed": 130,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "31d384b2-0a86-11f0-9a8f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32ef13de-0a86-11f0-bd4b-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "31d384b2-0a86-11f0-9a8f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "32ef13de-0a86-11f0-bd4b-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "31d384b2-0a86-11f0-9a8f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "32ef13de-0a86-11f0-bd4b-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1859,
@@ -105598,18 +105648,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "965db446-1181-11f0-b82c-ba73ea539b98",
                 "name": "A1 Class",
-                "seed": 1594
+                "seed": 1594,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3337fd10-0a86-11f0-aa84-729b158e3678",
                 "name": "Las Cabras",
-                "seed": 199
+                "seed": 199,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3337fd10-0a86-11f0-aa84-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3337fd10-0a86-11f0-aa84-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3337fd10-0a86-11f0-aa84-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1876,
@@ -108255,7 +108355,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "31d384b2-0a86-11f0-9a8f-729b158e3678",
+                "name": "PIF",
+                "seed": 127
             },
             "match_games": []
         },
@@ -108424,7 +108526,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3337fd10-0a86-11f0-aa84-729b158e3678",
+                "name": "Las Cabras",
+                "seed": 199
             },
             "opponent2": {
                 "id": null
