@@ -34888,11 +34888,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2920e142-0a87-11f0-8470-729b158e3678",
                 "name": "Supreme Team",
-                "seed": 78
+                "seed": 78,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f22e1cf4-15cb-11f0-9d44-7634ef9f88fa",
@@ -35018,11 +35019,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f70a8770-1351-11f0-b171-c203eea1d99a",
                 "name": "PEH",
-                "seed": 238
+                "seed": 238,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "9d7e2cf8-17b0-11f0-9b93-824388abd31a",
@@ -35038,11 +35040,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "285d0cc2-0a87-11f0-a985-729b158e3678",
                 "name": "EAS",
-                "seed": 110
+                "seed": 110,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
@@ -38568,8 +38571,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "f22e1cf4-15cb-11f0-9d44-7634ef9f88fa",
+                "name": "BLACKENED",
+                "seed": 590
+            },
+            "opponent2": {
+                "id": "2538a324-15d3-11f0-b8e1-cabe1c6ba045",
+                "name": "we love latinas",
+                "seed": 179
+            },
             "match_games": []
         },
         {
@@ -38585,7 +38596,11 @@
                 "name": "M2 Demons",
                 "seed": 19
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "9d7e2cf8-17b0-11f0-9b93-824388abd31a",
+                "name": "Duerman a leo",
+                "seed": 275
+            },
             "match_games": []
         },
         {
@@ -38596,7 +38611,11 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
+            "opponent1": {
+                "id": "5dbcc884-1168-11f0-906e-8a585fcd80c0",
+                "name": "Spaz",
+                "seed": 403
+            },
             "opponent2": null,
             "match_games": []
         },
