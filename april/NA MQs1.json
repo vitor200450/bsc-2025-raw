@@ -37397,18 +37397,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
                 "name": "Trump2028",
-                "seed": 441
+                "seed": 441,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7b120f4e-17a7-11f0-85a7-42706e72cf32",
                 "name": "Masturbanda",
-                "seed": 328
+                "seed": 328,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b120f4e-17a7-11f0-85a7-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7b120f4e-17a7-11f0-85a7-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7b120f4e-17a7-11f0-85a7-42706e72cf32",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 789,
@@ -43229,7 +43279,9 @@
                 "seed": 57
             },
             "opponent2": {
-                "id": null
+                "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                "name": "Trump2028",
+                "seed": 441
             },
             "match_games": []
         },
