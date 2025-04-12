@@ -68459,18 +68459,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
                 "name": "HBR MONKEYS",
-                "seed": 982
+                "seed": 982,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d3ca9412-14af-11f0-9d39-4ed1b62a3029",
                 "name": "ISRT",
-                "seed": 1067
+                "seed": 1067,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3ca9412-14af-11f0-9d39-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3ca9412-14af-11f0-9d39-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1011,
@@ -79143,7 +79178,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "73e39474-1183-11f0-86dd-8a585fcd80c0",
+                "name": "HBR MONKEYS",
+                "seed": 982
             },
             "match_games": []
         },
