@@ -43610,18 +43610,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
                 "name": "Triple M",
-                "seed": 57
+                "seed": 57,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
                 "name": "Trump2028",
-                "seed": 441
+                "seed": 441,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2928ff12-0a87-11f0-8d69-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 907,
@@ -46320,7 +46370,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                "name": "Trump2028",
+                "seed": 441
             },
             "match_games": []
         },
