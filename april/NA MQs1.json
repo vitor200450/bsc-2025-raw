@@ -18095,18 +18095,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "bdbb0d78-12a7-11f0-8200-2e8d1ec3d504",
                 "name": "MoonFall",
-                "seed": 436
+                "seed": 436,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
                 "name": "RODO",
-                "seed": 589
+                "seed": 589,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "bdbb0d78-12a7-11f0-8200-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "bdbb0d78-12a7-11f0-8200-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "bdbb0d78-12a7-11f0-8200-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 175,
@@ -24911,7 +24961,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e4b8bc4e-130c-11f0-a918-4ed1b62a3029",
                 "name": "The Three Musketeers",
@@ -24920,7 +24970,8 @@
             "opponent2": {
                 "id": "a0af33bc-11b7-11f0-93e9-a60123dd55a2",
                 "name": "Brawl Stars Pros",
-                "seed": 571
+                "seed": 571,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -28110,7 +28161,9 @@
                 "seed": 77
             },
             "opponent2": {
-                "id": null
+                "id": "3ac0c6dc-11bd-11f0-84d1-ba73ea539b98",
+                "name": "RODO",
+                "seed": 589
             },
             "match_games": []
         },
@@ -30948,7 +31001,9 @@
                 "seed": 59
             },
             "opponent2": {
-                "id": null
+                "id": "e4b8bc4e-130c-11f0-a918-4ed1b62a3029",
+                "name": "The Three Musketeers",
+                "seed": 454
             },
             "match_games": []
         },
