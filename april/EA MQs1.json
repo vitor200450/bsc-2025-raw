@@ -12286,11 +12286,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e0c0e88-1239-11f0-9bf2-4ed1b62a3029",
                 "name": "ブロスタ部",
-                "seed": 99
+                "seed": 99,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a452f04c-0a84-11f0-a679-729b158e3678",
@@ -12912,7 +12913,11 @@
                 "name": "ぽぽっちゃお",
                 "seed": 62
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                "name": "HanBao",
+                "seed": 35
+            },
             "match_games": []
         },
         {
