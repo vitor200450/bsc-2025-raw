@@ -19029,18 +19029,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35ef10f8-11a6-11f0-bad0-a60123dd55a2",
                 "name": "VRW",
-                "seed": 467
+                "seed": 467,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "663cfa4e-171f-11f0-985a-8e53a6c0180f",
                 "name": "Starr Players",
-                "seed": 558
+                "seed": 558,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "35ef10f8-11a6-11f0-bad0-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "663cfa4e-171f-11f0-985a-8e53a6c0180f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "35ef10f8-11a6-11f0-bad0-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "663cfa4e-171f-11f0-985a-8e53a6c0180f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 443,
@@ -24490,7 +24525,9 @@
                 "seed": 46
             },
             "opponent2": {
-                "id": null
+                "id": "663cfa4e-171f-11f0-985a-8e53a6c0180f",
+                "name": "Starr Players",
+                "seed": 558
             },
             "match_games": []
         },
