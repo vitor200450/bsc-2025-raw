@@ -104297,18 +104297,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
                 "name": "Czech Heroes",
-                "seed": 1148
+                "seed": 1148,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
                 "name": "Team Peach",
-                "seed": 1669
+                "seed": 1669,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "7957b638-125f-11f0-9d88-c203eea1d99a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1843,
@@ -105968,18 +106003,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "392ff2f4-0a86-11f0-8dd5-729b158e3678",
                 "name": "Sigma Boys",
-                "seed": 71
+                "seed": 71,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f6ebeadc-1206-11f0-9cc4-a60123dd55a2",
                 "name": "LCL",
-                "seed": 1351
+                "seed": 1351,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "392ff2f4-0a86-11f0-8dd5-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "f6ebeadc-1206-11f0-9cc4-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "392ff2f4-0a86-11f0-8dd5-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f6ebeadc-1206-11f0-9cc4-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "392ff2f4-0a86-11f0-8dd5-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f6ebeadc-1206-11f0-9cc4-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1877,
@@ -108546,7 +108631,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "37e1b24c-1239-11f0-a62f-4ed1b62a3029",
+                "name": "Czech Heroes",
+                "seed": 1148
             },
             "match_games": []
         },
@@ -108880,7 +108967,9 @@
                 "seed": 199
             },
             "opponent2": {
-                "id": null
+                "id": "392ff2f4-0a86-11f0-8dd5-729b158e3678",
+                "name": "Sigma Boys",
+                "seed": 71
             },
             "match_games": []
         },
