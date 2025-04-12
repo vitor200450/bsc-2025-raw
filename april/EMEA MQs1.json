@@ -91327,18 +91327,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
                 "name": "Zennox Gaming",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b372c04e-1208-11f0-9123-2e8d1ec3d504",
                 "name": "IMO FAMILY",
-                "seed": 489
+                "seed": 489,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b372c04e-1208-11f0-9123-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b372c04e-1208-11f0-9123-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1594,
@@ -93567,18 +93602,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30e151ba-0a86-11f0-bfd2-729b158e3678",
                 "name": "LUX NNS",
-                "seed": 26
+                "seed": 26,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
                 "name": "BLG TEAM",
-                "seed": 1562
+                "seed": 1562,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "30e151ba-0a86-11f0-bfd2-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "30e151ba-0a86-11f0-bfd2-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1706,
@@ -95777,7 +95847,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
+                "name": "Zennox Gaming",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -96673,7 +96745,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "30e151ba-0a86-11f0-bfd2-729b158e3678",
+                "name": "LUX NNS",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
