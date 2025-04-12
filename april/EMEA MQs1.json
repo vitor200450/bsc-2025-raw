@@ -110105,18 +110105,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
                 "name": "KZR 🔮",
-                "seed": 567
+                "seed": 567,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
                 "name": "F/A Spaghetti 🍝",
-                "seed": 183
+                "seed": 183,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "f164f54a-14cc-11f0-af26-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1967,
