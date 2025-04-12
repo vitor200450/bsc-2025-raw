@@ -36685,18 +36685,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1af8713a-16e3-11f0-9626-92c68b694f6e",
                 "name": "HORIZON X",
-                "seed": 548
+                "seed": 548,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
                 "name": "AMOSTRADINHOS",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "1af8713a-16e3-11f0-9626-92c68b694f6e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1af8713a-16e3-11f0-9626-92c68b694f6e",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 917,
@@ -37490,18 +37525,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a088a56a-126d-11f0-beef-4ed1b62a3029",
                 "name": "SNX Legends",
-                "seed": 263
+                "seed": 263,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
                 "name": "Os Amostradinhos",
-                "seed": 135
+                "seed": 135,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a088a56a-126d-11f0-beef-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a088a56a-126d-11f0-beef-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 938,
@@ -38603,7 +38673,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                "name": "AMOSTRADINHOS",
+                "seed": 93
             },
             "match_games": []
         },
@@ -38794,7 +38866,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e8d7ba3e-0a86-11f0-b9b5-729b158e3678",
+                "name": "Os Amostradinhos",
+                "seed": 135
             },
             "opponent2": {
                 "id": null
