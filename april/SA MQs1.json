@@ -26551,18 +26551,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e50d00c6-0a86-11f0-b04e-729b158e3678",
                 "name": "The GyostPurCt",
-                "seed": 107
+                "seed": 107,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
                 "name": "Darlan bs",
-                "seed": 406
+                "seed": 406,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e50d00c6-0a86-11f0-b04e-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e50d00c6-0a86-11f0-b04e-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 764,
@@ -28679,7 +28714,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                "name": "Darlan bs",
+                "seed": 406
             },
             "opponent2": {
                 "id": null
