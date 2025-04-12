@@ -13889,18 +13889,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "9d111ff4-1261-11f0-9be0-4ed1b62a3029",
                 "name": "Good Boys",
-                "seed": 384
+                "seed": 384,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95ca9c46-11d2-11f0-84ce-a60123dd55a2",
                 "name": "Σ SIGMAPOUTINE",
-                "seed": 641
+                "seed": 641,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "9d111ff4-1261-11f0-9be0-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ca9c46-11d2-11f0-84ce-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "9d111ff4-1261-11f0-9be0-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95ca9c46-11d2-11f0-84ce-a60123dd55a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -16144,18 +16179,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7944b2f4-122d-11f0-80ad-2e8d1ec3d504",
                 "name": "Poulet",
-                "seed": 344
+                "seed": 344,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "99226f52-11e3-11f0-b777-da47bd160d1e",
                 "name": "LOS CARAMELITOS",
-                "seed": 681
+                "seed": 681,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7944b2f4-122d-11f0-80ad-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "99226f52-11e3-11f0-b777-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7944b2f4-122d-11f0-80ad-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "99226f52-11e3-11f0-b777-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 129,
@@ -23241,7 +23311,9 @@
                 "seed": 129
             },
             "opponent2": {
-                "id": null
+                "id": "9d111ff4-1261-11f0-9be0-4ed1b62a3029",
+                "name": "Good Boys",
+                "seed": 384
             },
             "match_games": []
         },
@@ -24371,7 +24443,9 @@
                 "seed": 169
             },
             "opponent2": {
-                "id": null
+                "id": "99226f52-11e3-11f0-b777-da47bd160d1e",
+                "name": "LOS CARAMELITOS",
+                "seed": 681
             },
             "match_games": []
         },
