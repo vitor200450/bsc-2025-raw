@@ -26489,7 +26489,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4a7584de-1418-11f0-ad68-cabe1c6ba045",
                 "name": "0bodies",
@@ -26498,7 +26498,8 @@
             "opponent2": {
                 "id": "2d13f690-1743-11f0-9bfa-92c68b694f6e",
                 "name": "Triple Threat",
-                "seed": 257
+                "seed": 257,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -26619,11 +26620,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2be3a6b2-0a87-11f0-9734-729b158e3678",
                 "name": "AllSaints🪽",
-                "seed": 64
+                "seed": 64,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
@@ -26639,7 +26641,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "20602126-163f-11f0-bfdf-7634ef9f88fa",
                 "name": "Knossos",
@@ -26648,7 +26650,8 @@
             "opponent2": {
                 "id": "33e38c3e-1783-11f0-ab08-f29af8cf94e0",
                 "name": "FC Puliputzi",
-                "seed": 320
+                "seed": 320,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -26659,7 +26662,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ce8301e-0a87-11f0-99ed-729b158e3678",
                 "name": "Berry Creamers",
@@ -26668,7 +26671,8 @@
             "opponent2": {
                 "id": "b4f8b530-11b9-11f0-ba7e-ba73ea539b98",
                 "name": "ScoorPions",
-                "seed": 577
+                "seed": 577,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -26734,11 +26738,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2805affe-0a87-11f0-9147-729b158e3678",
                 "name": "Jacky lovers",
-                "seed": 32
+                "seed": 32,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
@@ -36307,7 +36312,11 @@
                 "name": "H",
                 "seed": 1
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "4a7584de-1418-11f0-ad68-cabe1c6ba045",
+                "name": "0bodies",
+                "seed": 256
+            },
             "match_games": []
         },
         {
@@ -36338,8 +36347,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                "name": "Dallas Too Far",
+                "seed": 576
+            },
+            "opponent2": {
+                "id": "20602126-163f-11f0-bfdf-7634ef9f88fa",
+                "name": "Knossos",
+                "seed": 193
+            },
             "match_games": []
         },
         {
@@ -36350,8 +36367,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2ce8301e-0a87-11f0-99ed-729b158e3678",
+                "name": "Berry Creamers",
+                "seed": 65
+            },
+            "opponent2": {
+                "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
+                "name": "The of olympus",
+                "seed": 321
+            },
             "match_games": []
         },
         {
@@ -36362,8 +36387,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
+                "name": "JAR:dot",
+                "seed": 544
+            },
+            "opponent2": {
+                "id": "a2bdee62-1614-11f0-a0fb-4ed1b62a3029",
+                "name": "Clash On Top",
+                "seed": 288
+            },
             "match_games": []
         },
         {
