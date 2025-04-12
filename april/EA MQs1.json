@@ -4565,11 +4565,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a382c304-0a84-11f0-ae1a-729b158e3678",
                 "name": "Lucifer",
-                "seed": 49
+                "seed": 49,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
@@ -8218,10 +8219,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                "name": "ガチバハズレ枠",
+                "seed": 208
             },
             "opponent2": {
-                "id": null
+                "id": "0bd67274-1166-11f0-a8cc-c2c76dd5c469",
+                "name": "BGT",
+                "seed": 177
             },
             "match_games": []
         },
