@@ -31131,7 +31131,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2835264e-0a87-11f0-82b2-729b158e3678",
                 "name": "GMA",
@@ -31140,7 +31140,8 @@
             "opponent2": {
                 "id": "f99f5b40-1316-11f0-a614-2e8d1ec3d504",
                 "name": "Mavericks",
-                "seed": 460
+                "seed": 460,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31151,11 +31152,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6c21ba48-1716-11f0-b60e-9e6fb0bcba43",
                 "name": "The GGG",
-                "seed": 204
+                "seed": 204,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "855b044a-124f-11f0-a953-4ed1b62a3029",
@@ -31171,7 +31173,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
                 "name": "NA’s Final Hope",
@@ -31180,7 +31182,8 @@
             "opponent2": {
                 "id": "eb6f772e-15bb-11f0-a9d4-cabe1c6ba045",
                 "name": "Vanilla Oreo",
-                "seed": 588
+                "seed": 588,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31191,7 +31194,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
                 "name": "CP",
@@ -31200,7 +31203,8 @@
             "opponent2": {
                 "id": "ec7b93c8-17b4-11f0-97ab-36ccab096f24",
                 "name": "HDzin",
-                "seed": 332
+                "seed": 332,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -36337,11 +36341,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d747cfe-0a87-11f0-9db8-729b158e3678",
                 "name": "Red Devils",
-                "seed": 171
+                "seed": 171,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "d8ffc28a-11e5-11f0-a8a2-da47bd160d1e",
@@ -37518,8 +37523,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2835264e-0a87-11f0-82b2-729b158e3678",
+                "name": "GMA",
+                "seed": 53
+            },
+            "opponent2": {
+                "id": "855b044a-124f-11f0-a953-4ed1b62a3029",
+                "name": "America",
+                "seed": 309
+            },
             "match_games": []
         },
         {
@@ -37530,8 +37543,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                "name": "NA’s Final Hope",
+                "seed": 76
+            },
+            "opponent2": {
+                "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
+                "name": "CP",
+                "seed": 181
+            },
             "match_games": []
         },
         {
@@ -37547,7 +37568,11 @@
                 "name": "🏀🦐🔥",
                 "seed": 21
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                "name": "2025",
+                "seed": 236
+            },
             "match_games": []
         },
         {
@@ -38555,7 +38580,11 @@
                 "name": "Los inservibles",
                 "seed": 427
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "d8ffc28a-11e5-11f0-a8a2-da47bd160d1e",
+                "name": "Hypersonic",
+                "seed": 683
+            },
             "match_games": []
         },
         {
