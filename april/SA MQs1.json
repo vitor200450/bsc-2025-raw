@@ -30929,18 +30929,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e54327c8-0a86-11f0-809f-729b158e3678",
                 "name": "UNI-BS",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "8349a59c-1409-11f0-986c-4ed1b62a3029",
                 "name": "Not Hell e-sports",
-                "seed": 232
+                "seed": 232,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e54327c8-0a86-11f0-809f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8349a59c-1409-11f0-986c-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e54327c8-0a86-11f0-809f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "8349a59c-1409-11f0-986c-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 790,
@@ -31684,18 +31719,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
                 "name": "RLS REVELA",
-                "seed": 524
+                "seed": 524,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "28cc8092-1703-11f0-9fc6-92c68b694f6e",
                 "name": "Caramel Dog Team",
-                "seed": 268
+                "seed": 268,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28cc8092-1703-11f0-9fc6-92c68b694f6e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "28cc8092-1703-11f0-9fc6-92c68b694f6e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 826,
@@ -33321,7 +33391,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "8349a59c-1409-11f0-986c-4ed1b62a3029",
+                "name": "Not Hell e-sports",
+                "seed": 232
             },
             "opponent2": {
                 "id": null
@@ -33609,7 +33681,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                "name": "RLS REVELA",
+                "seed": 524
             },
             "opponent2": {
                 "id": null
