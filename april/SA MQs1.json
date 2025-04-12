@@ -39319,18 +39319,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
                 "name": "M2H😜",
-                "seed": 288
+                "seed": 288,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "36875538-1292-11f0-87ee-4ed1b62a3029",
                 "name": "SPORT CANINOS",
-                "seed": 289
+                "seed": 289,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36875538-1292-11f0-87ee-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2bc086d4-1228-11f0-9369-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "36875538-1292-11f0-87ee-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 963,
