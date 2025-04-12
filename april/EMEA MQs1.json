@@ -112791,18 +112791,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ba3c9d0-0a86-11f0-97b0-729b158e3678",
                 "name": "Aogiri Esport",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "316a092e-0a86-11f0-af83-729b158e3678",
                 "name": "Heretics fan's",
-                "seed": 63
+                "seed": 63,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "2ba3c9d0-0a86-11f0-97b0-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2ba3c9d0-0a86-11f0-97b0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "2ba3c9d0-0a86-11f0-97b0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "316a092e-0a86-11f0-af83-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 2002,
@@ -113793,7 +113843,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2ba3c9d0-0a86-11f0-97b0-729b158e3678",
+                "name": "Aogiri Esport",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
