@@ -39004,18 +39004,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
                 "name": "NA’s Final Hope",
-                "seed": 76
+                "seed": 76,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
                 "name": "CP",
-                "seed": 181
+                "seed": 181,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c9ec19a-0a87-11f0-90b7-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 829,
@@ -39479,18 +39529,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
                 "name": "Dawgwater",
-                "seed": 98
+                "seed": 98,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "40a33214-11dc-11f0-82b5-ba73ea539b98",
                 "name": ">.<",
-                "seed": 671
+                "seed": 671,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "40a33214-11dc-11f0-82b5-ba73ea539b98",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "40a33214-11dc-11f0-82b5-ba73ea539b98",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 839,
@@ -42280,7 +42365,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "28e8bfce-0a87-11f0-a5c8-729b158e3678",
+                "name": "NA’s Final Hope",
+                "seed": 76
             },
             "match_games": []
         },
