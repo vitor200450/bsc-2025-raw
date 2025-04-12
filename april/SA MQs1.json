@@ -41488,18 +41488,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
                 "name": "HiddenX",
-                "seed": 123
+                "seed": 123,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e3d6ce30-0a86-11f0-b8d1-729b158e3678",
                 "name": "Goats of Brawl",
-                "seed": 38
+                "seed": 38,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3d6ce30-0a86-11f0-b8d1-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e8cc02b6-0a86-11f0-9cc1-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e3d6ce30-0a86-11f0-b8d1-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1008,
