@@ -12822,18 +12822,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a367a8f8-0a84-11f0-9789-729b158e3678",
                 "name": "Pineapple San",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
                 "name": "Phantom Dream",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a367a8f8-0a84-11f0-9789-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a367a8f8-0a84-11f0-9789-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 232,
