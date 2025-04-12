@@ -47180,18 +47180,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29d4a786-0a87-11f0-888d-729b158e3678",
                 "name": "Kansas City Chiefs",
-                "seed": 28
+                "seed": 28,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
                 "name": "Thunderbolts",
-                "seed": 476
+                "seed": 476,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 975,
@@ -48126,7 +48176,9 @@
                 "seed": 316
             },
             "opponent2": {
-                "id": null
+                "id": "55464fc2-1334-11f0-aa11-2e8d1ec3d504",
+                "name": "Thunderbolts",
+                "seed": 476
             },
             "match_games": []
         },
