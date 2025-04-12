@@ -7655,18 +7655,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ae421a42-14d9-11f0-b769-4ed1b62a3029",
                 "name": "變態分科阿兵哥",
-                "seed": 86
+                "seed": 86,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "db4084f4-1162-11f0-91ae-c2c76dd5c469",
                 "name": "革命軍",
-                "seed": 171
+                "seed": 171,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "ae421a42-14d9-11f0-b769-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db4084f4-1162-11f0-91ae-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "ae421a42-14d9-11f0-b769-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "db4084f4-1162-11f0-91ae-c2c76dd5c469",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 129,
@@ -8914,7 +8949,9 @@
                 "seed": 43
             },
             "opponent2": {
-                "id": null
+                "id": "ae421a42-14d9-11f0-b769-4ed1b62a3029",
+                "name": "變態分科阿兵哥",
+                "seed": 86
             },
             "match_games": []
         },
