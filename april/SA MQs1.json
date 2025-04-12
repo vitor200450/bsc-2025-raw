@@ -17321,18 +17321,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b0660452-154f-11f0-a290-4ed1b62a3029",
                 "name": "Velox Gaming",
-                "seed": 506
+                "seed": 506,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7c83dddc-11ba-11f0-9667-ba73ea539b98",
                 "name": "ChupaElBot",
-                "seed": 519
+                "seed": 519,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b0660452-154f-11f0-a290-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7c83dddc-11ba-11f0-9667-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b0660452-154f-11f0-a290-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7c83dddc-11ba-11f0-9667-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 323,
@@ -23900,7 +23935,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "7c83dddc-11ba-11f0-9667-ba73ea539b98",
+                "name": "ChupaElBot",
+                "seed": 519
             },
             "match_games": []
         },
