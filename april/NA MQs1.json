@@ -44033,18 +44033,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
                 "name": "Squishy",
-                "seed": 316
+                "seed": 316,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f5267e94-1268-11f0-ab46-c203eea1d99a",
                 "name": "Перец 🫑",
-                "seed": 325
+                "seed": 325,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5267e94-1268-11f0-ab46-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f5267e94-1268-11f0-ab46-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 923,
@@ -45305,7 +45340,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "2da9f1be-1760-11f0-a18a-b24b7e13c044",
+                "name": "Squishy",
+                "seed": 316
             },
             "match_games": []
         },
