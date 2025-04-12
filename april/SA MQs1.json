@@ -37390,18 +37390,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
                 "name": "Scania",
-                "seed": 34
+                "seed": 34,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1609c520-1314-11f0-a5ce-4ed1b62a3029",
                 "name": "SBS TEAM",
-                "seed": 418
+                "seed": 418,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1609c520-1314-11f0-a5ce-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "1609c520-1314-11f0-a5ce-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1609c520-1314-11f0-a5ce-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 933,
@@ -38000,18 +38050,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0ab36034-11b9-11f0-ab8f-da47bd160d1e",
                 "name": "BRS ESPORTS",
-                "seed": 515
+                "seed": 515,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
                 "name": "Bolacheiros",
-                "seed": 131
+                "seed": 131,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "0ab36034-11b9-11f0-ab8f-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "0ab36034-11b9-11f0-ab8f-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e56998ae-0a86-11f0-ae74-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 946,
@@ -38205,18 +38290,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
                 "name": "Las Betias",
-                "seed": 51
+                "seed": 51,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
                 "name": "TOPWAR",
-                "seed": 435
+                "seed": 435,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e64a20a4-0a86-11f0-9444-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 951,
@@ -38963,7 +39083,9 @@
                 "seed": 226
             },
             "opponent2": {
-                "id": null
+                "id": "e8fca4a2-0a86-11f0-8f0b-729b158e3678",
+                "name": "Scania",
+                "seed": 34
             },
             "match_games": []
         },
@@ -39092,10 +39214,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0ab36034-11b9-11f0-ab8f-da47bd160d1e",
+                "name": "BRS ESPORTS",
+                "seed": 515
             },
             "opponent2": {
-                "id": null
+                "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
+                "name": "FLUXO 👻",
+                "seed": 62
             },
             "match_games": []
         },
@@ -39131,7 +39257,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "d5de9150-1198-11f0-8e6a-8a585fcd80c0",
+                "name": "TOPWAR",
+                "seed": 435
             },
             "match_games": []
         },
