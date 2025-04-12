@@ -11534,18 +11534,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
                 "name": "Phantom Dream",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
                 "name": "fat on the sky",
-                "seed": 165
+                "seed": 165,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "55c1b97e-1162-11f0-ab1f-6e914f196a76",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 207,
@@ -12280,7 +12315,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "a2bd5c90-0a84-11f0-bb61-729b158e3678",
+                "name": "Phantom Dream",
+                "seed": 28
             },
             "match_games": []
         },
