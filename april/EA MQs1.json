@@ -11615,18 +11615,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "83e6da5c-11d3-11f0-aade-da47bd160d1e",
                 "name": "Making waves",
-                "seed": 98
+                "seed": 98,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
                 "name": "623",
-                "seed": 95
+                "seed": 95,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "83e6da5c-11d3-11f0-aade-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "83e6da5c-11d3-11f0-aade-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 211,
@@ -12279,7 +12314,9 @@
                 "seed": 194
             },
             "opponent2": {
-                "id": null
+                "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                "name": "623",
+                "seed": 95
             },
             "match_games": []
         },
