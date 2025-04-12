@@ -7610,7 +7610,7 @@
                     "gamerTag": "#2UQ98R022"
                 },
                 {
-                    "name": "JH|Jimbo",
+                    "name": "PB|JIMBO",
                     "gamerTag": "#RGRCYG2L0"
                 },
                 {
@@ -23368,14 +23368,48 @@
                 "id": "d0c64ed2-118a-11f0-8c44-a60123dd55a2",
                 "name": "Sigmafon🥶🥶",
                 "seed": 451,
-                "forfeit": 1
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ba08d00a-1579-11f0-983b-7634ef9f88fa",
                 "name": "Munchers",
-                "seed": 574
+                "seed": 574,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "d0c64ed2-118a-11f0-8c44-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ba08d00a-1579-11f0-983b-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "d0c64ed2-118a-11f0-8c44-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ba08d00a-1579-11f0-983b-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 395,
