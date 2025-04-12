@@ -13239,18 +13239,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
                 "name": "ぽぽっちゃお",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a452f04c-0a84-11f0-a679-729b158e3678",
                 "name": "HanBao",
-                "seed": 35
+                "seed": 35,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2aa30a5e-11fd-11f0-9c1f-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 238,
