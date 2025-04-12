@@ -19885,18 +19885,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f9ddd406-128a-11f0-b4eb-7634ef9f88fa",
                 "name": "Slash",
-                "seed": 351
+                "seed": 351,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "80dcd696-17a9-11f0-ba6c-4e80b20c8782",
                 "name": "THE DRAKO’S",
-                "seed": 674
+                "seed": 674,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "f9ddd406-128a-11f0-b4eb-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "80dcd696-17a9-11f0-ba6c-4e80b20c8782",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "f9ddd406-128a-11f0-b4eb-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "80dcd696-17a9-11f0-ba6c-4e80b20c8782",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 289,
@@ -23321,18 +23356,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
                 "name": "Growtopians",
-                "seed": 390
+                "seed": 390,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "14f228c6-11cf-11f0-bbf4-a60123dd55a2",
                 "name": "Cosmaniacs",
-                "seed": 635
+                "seed": 635,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "14f228c6-11cf-11f0-bbf4-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "14f228c6-11cf-11f0-bbf4-a60123dd55a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 455,
@@ -27298,7 +27368,9 @@
                 "seed": 162
             },
             "opponent2": {
-                "id": null
+                "id": "80dcd696-17a9-11f0-ba6c-4e80b20c8782",
+                "name": "THE DRAKO’S",
+                "seed": 674
             },
             "match_games": []
         },
@@ -28880,7 +28952,9 @@
                 "seed": 123
             },
             "opponent2": {
-                "id": null
+                "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                "name": "Growtopians",
+                "seed": 390
             },
             "match_games": []
         },
