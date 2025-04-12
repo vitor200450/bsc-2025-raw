@@ -13039,18 +13039,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
                 "name": "astronaut",
-                "seed": 194
+                "seed": 194,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
                 "name": "623",
-                "seed": 95
+                "seed": 95,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dc878cea-122f-11f0-a6a6-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 234,
