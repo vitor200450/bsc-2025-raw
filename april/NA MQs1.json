@@ -46876,18 +46876,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29e0793a-0a87-11f0-bbd7-729b158e3678",
                 "name": "Chaos Crew",
-                "seed": 119
+                "seed": 119,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
                 "name": "Snoopy Oops",
-                "seed": 586
+                "seed": 586,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "29e0793a-0a87-11f0-bbd7-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29e0793a-0a87-11f0-bbd7-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 984,
@@ -47256,7 +47291,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                "name": "Snoopy Oops",
+                "seed": 586
             },
             "opponent2": {
                 "id": null
