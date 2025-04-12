@@ -70571,18 +70571,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fcb7c1f2-1193-11f0-8abe-da47bd160d1e",
                 "name": "AEA Esports",
-                "seed": 1760
+                "seed": 1760,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c8d120f0-16ec-11f0-b097-8e53a6c0180f",
                 "name": "PHANTOMS",
-                "seed": 736
+                "seed": 736,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "fcb7c1f2-1193-11f0-8abe-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c8d120f0-16ec-11f0-b097-8e53a6c0180f",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "fcb7c1f2-1193-11f0-8abe-da47bd160d1e",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c8d120f0-16ec-11f0-b097-8e53a6c0180f",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "fcb7c1f2-1193-11f0-8abe-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c8d120f0-16ec-11f0-b097-8e53a6c0180f",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1053,
@@ -85104,18 +85154,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35c8945e-0a86-11f0-a1e2-729b158e3678",
                 "name": "Neptun",
-                "seed": 355
+                "seed": 355,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
                 "name": "Infernux Gaming",
-                "seed": 1379
+                "seed": 1379,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "35c8945e-0a86-11f0-a1e2-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "35c8945e-0a86-11f0-a1e2-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "35c8945e-0a86-11f0-a1e2-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1433,
@@ -89402,7 +89502,9 @@
                 "seed": 1248
             },
             "opponent2": {
-                "id": null
+                "id": "c8d120f0-16ec-11f0-b097-8e53a6c0180f",
+                "name": "PHANTOMS",
+                "seed": 736
             },
             "match_games": []
         },
@@ -93156,7 +93258,9 @@
                 "seed": 158
             },
             "opponent2": {
-                "id": null
+                "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                "name": "Infernux Gaming",
+                "seed": 1379
             },
             "match_games": []
         },
