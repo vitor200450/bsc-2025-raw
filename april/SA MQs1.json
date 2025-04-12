@@ -31089,18 +31089,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5dab8076-1369-11f0-b45b-2e8d1ec3d504",
                 "name": "ERIS",
-                "seed": 464
+                "seed": 464,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3f06058a-12ea-11f0-9ec1-c203eea1d99a",
                 "name": "Deley's Troop",
-                "seed": 305
+                "seed": 305,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5dab8076-1369-11f0-b45b-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3f06058a-12ea-11f0-9ec1-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5dab8076-1369-11f0-b45b-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3f06058a-12ea-11f0-9ec1-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 780,
@@ -35916,10 +35951,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3f06058a-12ea-11f0-9ec1-c203eea1d99a",
+                "name": "Deley's Troop",
+                "seed": 305
             },
             "opponent2": {
-                "id": null
+                "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
+                "name": "THE FIRE",
+                "seed": 80
             },
             "match_games": []
         },
