@@ -36664,18 +36664,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
                 "name": "Nobruzes F/A",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b0945442-1257-11f0-a5e1-2e8d1ec3d504",
                 "name": "Tropa RED",
-                "seed": 130
+                "seed": 130,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0945442-1257-11f0-a5e1-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b0945442-1257-11f0-a5e1-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 930,
@@ -37184,18 +37219,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5ff28f6-0a86-11f0-ad14-729b158e3678",
                 "name": "ixiTeam",
-                "seed": 27
+                "seed": 27,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d224f268-1281-11f0-9395-7634ef9f88fa",
                 "name": "Black_Elements",
-                "seed": 358
+                "seed": 358,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5ff28f6-0a86-11f0-ad14-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d224f268-1281-11f0-9395-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e5ff28f6-0a86-11f0-ad14-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d224f268-1281-11f0-9395-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 956,
@@ -37564,7 +37634,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                "name": "Nobruzes F/A",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -37772,7 +37844,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5ff28f6-0a86-11f0-ad14-729b158e3678",
+                "name": "ixiTeam",
+                "seed": 27
             },
             "opponent2": {
                 "id": null
