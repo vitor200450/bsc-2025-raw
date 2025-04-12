@@ -10957,7 +10957,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b198cae8-113b-11f0-852f-6e914f196a76",
                 "name": "JoyBoy",
@@ -10966,7 +10966,8 @@
             "opponent2": {
                 "id": "310ee55c-120c-11f0-b2f8-4ed1b62a3029",
                 "name": "まっちゃぱふぇ",
-                "seed": 64
+                "seed": 64,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -11097,11 +11098,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ddc3a07a-12e9-11f0-83bb-4ed1b62a3029",
                 "name": "WCE",
-                "seed": 152
+                "seed": 152,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "836036e2-1538-11f0-a449-4ed1b62a3029",
@@ -11177,18 +11179,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
                 "name": "いーはんてい",
-                "seed": 109
+                "seed": 109,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a96553ae-1164-11f0-ba0a-6e914f196a76",
                 "name": "Fug",
-                "seed": 173
+                "seed": 173,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a96553ae-1164-11f0-ba0a-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "daf80140-12aa-11f0-a31f-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a96553ae-1164-11f0-ba0a-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 205,
@@ -11277,11 +11314,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fd77350-113a-11f0-9f7d-c2c76dd5c469",
                 "name": "家ご飯のまさる",
-                "seed": 127
+                "seed": 127,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
@@ -11417,7 +11455,7 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a403650e-0a84-11f0-a2f4-729b158e3678",
                 "name": "UIK (うい教)",
@@ -11426,7 +11464,8 @@
             "opponent2": {
                 "id": "4cda3dba-11e2-11f0-8b84-8a585fcd80c0",
                 "name": "MWD Gaming",
-                "seed": 42
+                "seed": 42,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -11599,7 +11638,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b198cae8-113b-11f0-852f-6e914f196a76",
+                "name": "JoyBoy",
+                "seed": 129
             },
             "opponent2": {
                 "id": null
@@ -11727,7 +11768,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7608b2dc-154f-11f0-8763-4ed1b62a3029",
+                "name": "astronaut",
+                "seed": 194
             },
             "opponent2": {
                 "id": null
