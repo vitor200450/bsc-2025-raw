@@ -17189,18 +17189,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7501c5d4-13a8-11f0-9087-4ed1b62a3029",
                 "name": "DHW Esports",
-                "seed": 466
+                "seed": 466,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
                 "name": "SilVer|ForCes",
-                "seed": 559
+                "seed": 559,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7501c5d4-13a8-11f0-9087-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7501c5d4-13a8-11f0-9087-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 315,
@@ -23857,7 +23892,9 @@
                 "seed": 47
             },
             "opponent2": {
-                "id": null
+                "id": "0250f6ae-11c8-11f0-b394-da47bd160d1e",
+                "name": "SilVer|ForCes",
+                "seed": 559
             },
             "match_games": []
         },
