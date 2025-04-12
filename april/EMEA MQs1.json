@@ -92402,18 +92402,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
                 "name": "DARK EAGLES",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2e656a5c-0a86-11f0-9989-729b158e3678",
                 "name": "Exited Zero",
-                "seed": 476
+                "seed": 476,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e656a5c-0a86-11f0-9989-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2e656a5c-0a86-11f0-9989-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1646,
@@ -95377,18 +95412,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4af5524-1170-11f0-95f8-da47bd160d1e",
                 "name": "Patatas cocidas",
-                "seed": 854
+                "seed": 854,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
                 "name": "NTSX",
-                "seed": 683
+                "seed": 683,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a4af5524-1170-11f0-95f8-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a4af5524-1170-11f0-95f8-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "417a6ba6-12fb-11f0-aca4-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1793,
