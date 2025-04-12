@@ -19371,18 +19371,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "53240f02-11b5-11f0-807f-a60123dd55a2",
                 "name": "GamingGW",
-                "seed": 507
+                "seed": 507,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
                 "name": "DAIJOBU!",
-                "seed": 518
+                "seed": 518,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "53240f02-11b5-11f0-807f-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "53240f02-11b5-11f0-807f-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 451,
@@ -24790,7 +24825,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                "name": "DAIJOBU!",
+                "seed": 518
             },
             "match_games": []
         },
