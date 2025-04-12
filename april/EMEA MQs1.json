@@ -102291,18 +102291,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b2f36502-119e-11f0-85c7-ba73ea539b98",
                 "name": "F/A GRIZZLY Esports",
-                "seed": 913
+                "seed": 913,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "372da8fc-0a86-11f0-b575-729b158e3678",
                 "name": "Plantitas🌻🌹",
-                "seed": 145
+                "seed": 145,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "b2f36502-119e-11f0-85c7-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "372da8fc-0a86-11f0-b575-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b2f36502-119e-11f0-85c7-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "372da8fc-0a86-11f0-b575-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1807,
@@ -107121,7 +107156,9 @@
                 "seed": 17
             },
             "opponent2": {
-                "id": null
+                "id": "b2f36502-119e-11f0-85c7-ba73ea539b98",
+                "name": "F/A GRIZZLY Esports",
+                "seed": 913
             },
             "match_games": []
         },
