@@ -39824,11 +39824,12 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e72a28d4-0a86-11f0-b675-729b158e3678",
                 "name": "CalvinistasDaBahia",
-                "seed": 29
+                "seed": 29,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
@@ -41083,7 +41084,11 @@
                 "name": "SYN  GAMING",
                 "seed": 260
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "e81ccb3e-0a86-11f0-833d-729b158e3678",
+                "name": "AMOSTRADINHOS",
+                "seed": 93
+            },
             "match_games": []
         },
         {
@@ -41133,7 +41138,7 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 0,
             "opponent1": {
                 "id": "e66ffa0e-0a86-11f0-866d-729b158e3678",
                 "name": "Grupio",
