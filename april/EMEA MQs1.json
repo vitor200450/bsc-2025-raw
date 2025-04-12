@@ -103183,18 +103183,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "812bf18e-116b-11f0-b77e-8a585fcd80c0",
                 "name": "NPU",
-                "seed": 1412
+                "seed": 1412,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3d29ee5a-0a86-11f0-9663-729b158e3678",
                 "name": "VTS",
-                "seed": 381
+                "seed": 381,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "812bf18e-116b-11f0-b77e-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d29ee5a-0a86-11f0-9663-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "812bf18e-116b-11f0-b77e-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3d29ee5a-0a86-11f0-9663-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1827,
