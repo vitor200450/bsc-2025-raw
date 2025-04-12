@@ -76912,18 +76912,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "315f0ee8-0a86-11f0-9f08-729b158e3678",
                 "name": "Alkohol > BS",
-                "seed": 191
+                "seed": 191,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e09f4312-1217-11f0-a070-7634ef9f88fa",
                 "name": "FLT-Group",
-                "seed": 834
+                "seed": 834,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "315f0ee8-0a86-11f0-9f08-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e09f4312-1217-11f0-a070-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "315f0ee8-0a86-11f0-9f08-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e09f4312-1217-11f0-a070-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1296,
@@ -83193,18 +83228,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c7587a84-1192-11f0-b23f-a60123dd55a2",
                 "name": "Venom Rush",
-                "seed": 1750
+                "seed": 1750,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "be2159f0-16c8-11f0-90dd-cabe1c6ba045",
                 "name": "Candymandy",
-                "seed": 726
+                "seed": 726,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "c7587a84-1192-11f0-b23f-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "be2159f0-16c8-11f0-90dd-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "c7587a84-1192-11f0-b23f-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "be2159f0-16c8-11f0-90dd-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1533,
@@ -85556,7 +85626,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "315f0ee8-0a86-11f0-9f08-729b158e3678",
+                "name": "Alkohol > BS",
+                "seed": 191
             },
             "opponent2": {
                 "id": null
