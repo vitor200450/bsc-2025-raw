@@ -80640,18 +80640,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5f0b42d8-118b-11f0-a59c-8a585fcd80c0",
                 "name": "IMMORTAL LEGION",
-                "seed": 1698
+                "seed": 1698,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "342a3d80-12f8-11f0-a8ce-4ed1b62a3029",
                 "name": "| RIJ | Gaming |",
-                "seed": 1375
+                "seed": 1375,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "5f0b42d8-118b-11f0-a59c-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "342a3d80-12f8-11f0-a8ce-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "5f0b42d8-118b-11f0-a59c-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "342a3d80-12f8-11f0-a8ce-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "5f0b42d8-118b-11f0-a59c-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "342a3d80-12f8-11f0-a8ce-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1313,
@@ -92232,7 +92282,9 @@
                 "seed": 1186
             },
             "opponent2": {
-                "id": null
+                "id": "342a3d80-12f8-11f0-a8ce-4ed1b62a3029",
+                "name": "| RIJ | Gaming |",
+                "seed": 1375
             },
             "match_games": []
         },
