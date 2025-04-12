@@ -103209,18 +103209,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "66795eaa-1551-11f0-a957-4ed1b62a3029",
                 "name": "eziki v tumane",
-                "seed": 1645
+                "seed": 1645,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
                 "name": "F/A Sucuk",
-                "seed": 877
+                "seed": 877,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "66795eaa-1551-11f0-a957-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "66795eaa-1551-11f0-a957-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1839,
@@ -104974,18 +105009,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ea4dd43a-121e-11f0-b59c-4ed1b62a3029",
                 "name": "WAD",
-                "seed": 1083
+                "seed": 1083,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
                 "name": "LZN",
-                "seed": 710
+                "seed": 710,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "ea4dd43a-121e-11f0-b59c-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "ea4dd43a-121e-11f0-b59c-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1908,
@@ -105701,7 +105771,9 @@
                 "seed": 1773
             },
             "opponent2": {
-                "id": null
+                "id": "b581373e-1727-11f0-ade6-9e0be61304e0",
+                "name": "F/A Sucuk",
+                "seed": 877
             },
             "match_games": []
         },
@@ -106268,10 +106340,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "98da9ea6-161c-11f0-9943-4ed1b62a3029",
+                "name": "LZN",
+                "seed": 710
             },
             "opponent2": {
-                "id": null
+                "id": "380bad96-0a86-11f0-a798-729b158e3678",
+                "name": "RECEA",
+                "seed": 1350
             },
             "match_games": []
         },
