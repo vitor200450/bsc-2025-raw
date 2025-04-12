@@ -48210,18 +48210,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28835f12-0a87-11f0-a52b-729b158e3678",
                 "name": "hungry hippos",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
                 "name": "Los Zaarnosos",
-                "seed": 296
+                "seed": 296,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a3362f6e-1671-11f0-803f-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 996,
@@ -48740,18 +48790,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2538a324-15d3-11f0-b8e1-cabe1c6ba045",
                 "name": "we love latinas",
-                "seed": 179
+                "seed": 179,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
                 "name": "RANGOLEROS F/A",
-                "seed": 46
+                "seed": 46,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "2538a324-15d3-11f0-b8e1-cabe1c6ba045",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2538a324-15d3-11f0-b8e1-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "2538a324-15d3-11f0-b8e1-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2b6ee750-0a87-11f0-9c5b-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1007,
