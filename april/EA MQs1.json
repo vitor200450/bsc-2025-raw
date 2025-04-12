@@ -7391,18 +7391,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7a8f5348-138c-11f0-88c8-4ed1b62a3029",
                 "name": "Zzamzi",
-                "seed": 78
+                "seed": 78,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f7b1232-1166-11f0-ae46-c2c76dd5c469",
                 "name": "愛の戦士",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "7a8f5348-138c-11f0-88c8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f7b1232-1166-11f0-ae46-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "7a8f5348-138c-11f0-88c8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f7b1232-1166-11f0-ae46-c2c76dd5c469",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 109,
@@ -9184,7 +9219,9 @@
                 "seed": 51
             },
             "opponent2": {
-                "id": null
+                "id": "7a8f5348-138c-11f0-88c8-4ed1b62a3029",
+                "name": "Zzamzi",
+                "seed": 78
             },
             "match_games": []
         },
