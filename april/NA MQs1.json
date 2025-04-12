@@ -43218,18 +43218,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b6c2f8-0a88-11f0-a666-729b158e3678",
                 "name": "H",
-                "seed": 1
+                "seed": 1,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
                 "name": "New Heights Gaming",
-                "seed": 640
+                "seed": 640,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5b6c2f8-0a88-11f0-a666-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e5b6c2f8-0a88-11f0-a666-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 898,
@@ -43238,18 +43273,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
                 "name": "Dallas Too Far",
-                "seed": 576
+                "seed": 576,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
                 "name": "The of olympus",
-                "seed": 321
+                "seed": 321,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2dbacf3a-1264-11f0-92d4-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 899,
@@ -44378,18 +44448,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
                 "name": "2025",
-                "seed": 236
+                "seed": 236,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "95b5eb26-124e-11f0-b3d3-2e8d1ec3d504",
                 "name": "Big Busters",
-                "seed": 364
+                "seed": 364,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95b5eb26-124e-11f0-b3d3-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "95b5eb26-124e-11f0-b3d3-2e8d1ec3d504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 928,
@@ -45551,10 +45656,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e0b53fbc-1737-11f0-af66-6af3f459b924",
+                "name": "New Heights Gaming",
+                "seed": 640
             },
             "opponent2": {
-                "id": null
+                "id": "fe12e8d6-157d-11f0-bac6-7634ef9f88fa",
+                "name": "Dallas Too Far",
+                "seed": 576
             },
             "match_games": []
         },
@@ -45821,10 +45930,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                "name": "2025",
+                "seed": 236
             },
             "opponent2": {
-                "id": null
+                "id": "2a01be9c-0a87-11f0-ba1b-729b158e3678",
+                "name": "Hooters eSports",
+                "seed": 44
             },
             "match_games": []
         },
