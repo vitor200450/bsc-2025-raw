@@ -113751,18 +113751,68 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e11cd88-0a86-11f0-b476-729b158e3678",
                 "name": "ZeroQuality",
-                "seed": 16
+                "seed": 16,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "ecade97e-16d6-11f0-b199-6af3f459b924",
                 "name": "Izana is bad",
-                "seed": 849
+                "seed": 849,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3e11cd88-0a86-11f0-b476-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ecade97e-16d6-11f0-b199-6af3f459b924",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3e11cd88-0a86-11f0-b476-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ecade97e-16d6-11f0-b199-6af3f459b924",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "3e11cd88-0a86-11f0-b476-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "ecade97e-16d6-11f0-b199-6af3f459b924",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2019,
