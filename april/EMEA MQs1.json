@@ -113941,18 +113941,53 @@
             "group_id": 0,
             "round_id": 7,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
                 "name": "火星の月の燃える虎",
-                "seed": 821
+                "seed": 821,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73fe8998-0a88-11f0-a419-729b158e3678",
                 "name": "Millesime MG",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2025,

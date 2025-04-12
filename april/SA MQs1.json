@@ -19884,18 +19884,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a971a858-141f-11f0-bdb7-4ed1b62a3029",
                 "name": "DarkV2",
-                "seed": 486
+                "seed": 486,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3115a220-11c1-11f0-821e-8a585fcd80c0",
                 "name": "Barraco Brawl",
-                "seed": 539
+                "seed": 539,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a971a858-141f-11f0-bdb7-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3115a220-11c1-11f0-821e-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a971a858-141f-11f0-bdb7-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3115a220-11c1-11f0-821e-8a585fcd80c0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 467,
@@ -25238,7 +25273,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "3115a220-11c1-11f0-821e-8a585fcd80c0",
+                "name": "Barraco Brawl",
+                "seed": 539
             },
             "match_games": []
         },
