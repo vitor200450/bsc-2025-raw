@@ -41613,18 +41613,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
                 "name": "Golden Stars",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
                 "name": "Darlan bs",
-                "seed": 406
+                "seed": 406,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
