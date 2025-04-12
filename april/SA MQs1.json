@@ -27606,18 +27606,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e528ddf0-0a86-11f0-bc02-729b158e3678",
                 "name": "Game Life",
-                "seed": 6
+                "seed": 6,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
                 "name": "DAIJOBU!",
-                "seed": 518
+                "seed": 518,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e528ddf0-0a86-11f0-bc02-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e528ddf0-0a86-11f0-bc02-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 738,
@@ -27971,18 +28006,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3378fc04-1727-11f0-9b35-7e68064584ae",
                 "name": "Team Tempest",
-                "seed": 219
+                "seed": 219,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "79f6a42a-1230-11f0-82c7-2e8d1ec3d504",
                 "name": "MonkeyFlip",
-                "seed": 294
+                "seed": 294,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3378fc04-1727-11f0-9b35-7e68064584ae",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79f6a42a-1230-11f0-82c7-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3378fc04-1727-11f0-9b35-7e68064584ae",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79f6a42a-1230-11f0-82c7-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 751,
@@ -30464,7 +30534,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7a4bee3e-15a6-11f0-9b4b-7634ef9f88fa",
+                "name": "DAIJOBU!",
+                "seed": 518
             },
             "opponent2": {
                 "id": null
