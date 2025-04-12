@@ -36549,18 +36549,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
                 "name": "RLS REVELA",
-                "seed": 524
+                "seed": 524,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e7252514-0a86-11f0-a045-729b158e3678",
                 "name": "Os Mais Gostosos",
-                "seed": 117
+                "seed": 117,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7252514-0a86-11f0-a045-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e7252514-0a86-11f0-a045-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 926,
@@ -37495,7 +37530,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6feece02-1605-11f0-873a-4ed1b62a3029",
+                "name": "RLS REVELA",
+                "seed": 524
             },
             "opponent2": {
                 "id": null
