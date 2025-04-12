@@ -18544,18 +18544,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
                 "name": "LSR|Esports",
-                "seed": 450
+                "seed": 450,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "49f0b61c-11b8-11f0-89cb-a60123dd55a2",
                 "name": "Egoist Esport",
-                "seed": 575
+                "seed": 575,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49f0b61c-11b8-11f0-89cb-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "49f0b61c-11b8-11f0-89cb-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 267,
@@ -22112,18 +22147,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
                 "name": "Reino del admin",
-                "seed": 358
+                "seed": 358,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "890b7bda-11da-11f0-ae0f-da47bd160d1e",
                 "name": "Mr Beeee",
-                "seed": 667
+                "seed": 667,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "890b7bda-11da-11f0-ae0f-da47bd160d1e",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "890b7bda-11da-11f0-ae0f-da47bd160d1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 473,
@@ -25340,7 +25410,9 @@
                 "seed": 63
             },
             "opponent2": {
-                "id": null
+                "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                "name": "LSR|Esports",
+                "seed": 450
             },
             "match_games": []
         },
@@ -27264,7 +27336,9 @@
                 "seed": 155
             },
             "opponent2": {
-                "id": null
+                "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
+                "name": "Reino del admin",
+                "seed": 358
             },
             "match_games": []
         },
