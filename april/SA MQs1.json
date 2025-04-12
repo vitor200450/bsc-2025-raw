@@ -26651,18 +26651,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
                 "name": "HOGRIDERS",
-                "seed": 190
+                "seed": 190,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "f0520696-1307-11f0-9b2d-2e8d1ec3d504",
                 "name": "Palomas FC",
-                "seed": 323
+                "seed": 323,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0520696-1307-11f0-9b2d-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "f0520696-1307-11f0-9b2d-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 713,
