@@ -43733,18 +43733,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
                 "name": "BERSERKERS",
-                "seed": 5
+                "seed": 5,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
                 "name": "LZK|Esports",
-                "seed": 389
+                "seed": 389,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0f0a6868-115e-11f0-b9f9-c2c76dd5c469",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 922,
@@ -43913,18 +43948,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
                 "name": "LSR|Esports",
-                "seed": 450
+                "seed": 450,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "42a4c4ee-1793-11f0-a28e-f29999dec1d8",
                 "name": "RND Gaming",
-                "seed": 322
+                "seed": 322,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "42a4c4ee-1793-11f0-a28e-f29999dec1d8",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "42a4c4ee-1793-11f0-a28e-f29999dec1d8",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 931,
@@ -44800,7 +44870,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2816780c-0a87-11f0-a6e8-729b158e3678",
+                "name": "BERSERKERS",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
