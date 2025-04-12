@@ -45727,18 +45727,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "521070e0-11a3-11f0-8136-8a585fcd80c0",
                 "name": "Sbridolini",
-                "seed": 804
+                "seed": 804,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6e9d7e7c-125e-11f0-9c42-c203eea1d99a",
                 "name": "Ice T🇬🇪",
-                "seed": 1245
+                "seed": 1245,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "521070e0-11a3-11f0-8136-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e9d7e7c-125e-11f0-9c42-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "521070e0-11a3-11f0-8136-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "6e9d7e7c-125e-11f0-9c42-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "521070e0-11a3-11f0-8136-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6e9d7e7c-125e-11f0-9c42-c203eea1d99a",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 311,
