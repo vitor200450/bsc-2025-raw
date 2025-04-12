@@ -109083,18 +109083,68 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "594a7fa6-171e-11f0-95e9-a27ee8b0efa7",
                 "name": "Nizamettin",
-                "seed": 472
+                "seed": 472,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "75b60e48-1166-11f0-911f-6e914f196a76",
                 "name": "RVE|Gaming",
-                "seed": 1368
+                "seed": 1368,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "594a7fa6-171e-11f0-95e9-a27ee8b0efa7",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "75b60e48-1166-11f0-911f-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "594a7fa6-171e-11f0-95e9-a27ee8b0efa7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75b60e48-1166-11f0-911f-6e914f196a76",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "594a7fa6-171e-11f0-95e9-a27ee8b0efa7",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75b60e48-1166-11f0-911f-6e914f196a76",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1937,
@@ -111432,7 +111482,9 @@
                 "seed": 105
             },
             "opponent2": {
-                "id": null
+                "id": "594a7fa6-171e-11f0-95e9-a27ee8b0efa7",
+                "name": "Nizamettin",
+                "seed": 472
             },
             "match_games": []
         },
