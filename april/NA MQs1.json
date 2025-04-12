@@ -31665,11 +31665,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bf62454-0a87-11f0-8790-729b158e3678",
                 "name": "Golf With Friends!",
-                "seed": 130
+                "seed": 130,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a275a56e-1739-11f0-9cd0-ce1ca2d5bb71",
@@ -31685,11 +31686,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b861c40-0a87-11f0-8ddd-729b158e3678",
                 "name": "TBT | The Big Three",
-                "seed": 63
+                "seed": 63,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
@@ -31775,11 +31777,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27d101e6-0a87-11f0-8fd2-729b158e3678",
                 "name": "T-REX",
-                "seed": 66
+                "seed": 66,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "77e8d1b8-118a-11f0-8422-8a585fcd80c0",
@@ -31795,11 +31798,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bdd37c8-0a87-11f0-903e-729b158e3678",
                 "name": "Ravage 🎠",
-                "seed": 191
+                "seed": 191,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "42a4c4ee-1793-11f0-a28e-f29999dec1d8",
@@ -31815,11 +31819,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c9538b4-0a87-11f0-bd6c-729b158e3678",
                 "name": "OFFWHITE",
-                "seed": 31
+                "seed": 31,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
@@ -31835,7 +31840,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90686392-132a-11f0-8de3-c203eea1d99a",
                 "name": "Team Rapiñadores",
@@ -31844,7 +31849,8 @@
             "opponent2": {
                 "id": "3870985e-1225-11f0-82bc-7634ef9f88fa",
                 "name": "D3SC0N0C1D0S",
-                "seed": 287
+                "seed": 287,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31855,7 +31861,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
                 "name": "Dawgwater",
@@ -31864,7 +31870,8 @@
             "opponent2": {
                 "id": "0a1b24d4-1175-11f0-bfdc-a60123dd55a2",
                 "name": "LOS SINALOENSES🇲🇽",
-                "seed": 415
+                "seed": 415,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -36105,7 +36112,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "298827a8-0a87-11f0-9d53-729b158e3678",
                 "name": "Egoistas",
@@ -36114,7 +36121,8 @@
             "opponent2": {
                 "id": "fc123164-156d-11f0-b4fb-7634ef9f88fa",
                 "name": "SPADES",
-                "seed": 278
+                "seed": 278,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -37674,7 +37682,11 @@
                 "name": "Nani Esport",
                 "seed": 639
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "a275a56e-1739-11f0-9cd0-ce1ca2d5bb71",
+                "name": "Squishis",
+                "seed": 642
+            },
             "match_games": []
         },
         {
@@ -37685,8 +37697,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "13a96d7a-1306-11f0-83d2-c203eea1d99a",
+                "name": "LSR|Esports",
+                "seed": 450
+            },
+            "opponent2": {
+                "id": "b5e7ac7c-1262-11f0-9915-7634ef9f88fa",
+                "name": "DeVo",
+                "seed": 319
+            },
             "match_games": []
         },
         {
@@ -37697,8 +37717,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "77e8d1b8-118a-11f0-8422-8a585fcd80c0",
+                "name": "PECHOCHO TEAM",
+                "seed": 447
+            },
+            "opponent2": {
+                "id": "42a4c4ee-1793-11f0-a28e-f29999dec1d8",
+                "name": "RND Gaming",
+                "seed": 322
+            },
             "match_games": []
         },
         {
@@ -37709,8 +37737,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "a1ffe46c-11aa-11f0-9d8f-a60123dd55a2",
+                "name": "Phantom Express",
+                "seed": 543
+            },
+            "opponent2": {
+                "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                "name": "Team Rapiñadores",
+                "seed": 226
+            },
             "match_games": []
         },
         {
@@ -37721,8 +37757,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                "name": "Dawgwater",
+                "seed": 98
+            },
+            "opponent2": {
+                "id": "40a33214-11dc-11f0-82b5-ba73ea539b98",
+                "name": ">.<",
+                "seed": 671
+            },
             "match_games": []
         },
         {
