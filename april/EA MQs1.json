@@ -10998,18 +10998,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a4178408-0a84-11f0-8404-729b158e3678",
                 "name": "ちょっと旬なバナナ",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
                 "name": "ガチバハズレ枠",
-                "seed": 208
+                "seed": 208,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a4178408-0a84-11f0-8404-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a4178408-0a84-11f0-8404-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 196,
@@ -11183,18 +11218,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3cbed0e-0a84-11f0-8f60-729b158e3678",
                 "name": "We Need Money",
-                "seed": 9
+                "seed": 9,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
                 "name": "俺らが世界を取りにきました",
-                "seed": 73
+                "seed": 73,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a3cbed0e-0a84-11f0-8f60-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a3cbed0e-0a84-11f0-8f60-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a1821df6-15cf-11f0-acfe-cabe1c6ba045",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 200,
@@ -11244,18 +11314,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c5fdc94-11e0-11f0-b28e-8a585fcd80c0",
                 "name": "戦わなければ勝てない！",
-                "seed": 100
+                "seed": 100,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
                 "name": "Hiyoura",
-                "seed": 93
+                "seed": 93,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c5fdc94-11e0-11f0-b28e-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c5fdc94-11e0-11f0-b28e-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 203,
@@ -11901,10 +12006,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "7f7e70b0-16ce-11f0-bbc4-963a7edaaa14",
+                "name": "ガチバハズレ枠",
+                "seed": 208
             },
             "opponent2": {
-                "id": null
+                "id": "a4a4da7e-0a84-11f0-93f3-729b158e3678",
+                "name": "”‬FCサジアキ‪”",
+                "seed": 81
             },
             "match_games": []
         },
@@ -11937,10 +12046,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a3cbed0e-0a84-11f0-8f60-729b158e3678",
+                "name": "We Need Money",
+                "seed": 9
             },
             "opponent2": {
-                "id": null
+                "id": "836036e2-1538-11f0-a449-4ed1b62a3029",
+                "name": "迷子のろいろい",
+                "seed": 88
             },
             "match_games": []
         },
