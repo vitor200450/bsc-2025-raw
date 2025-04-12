@@ -22534,18 +22534,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e79dfcdc-0a86-11f0-8740-729b158e3678",
                 "name": "TeamAlpaca🥵",
-                "seed": 57
+                "seed": 57,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "966b030e-1351-11f0-9133-7634ef9f88fa",
                 "name": "The jackets",
-                "seed": 456
+                "seed": 456,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e79dfcdc-0a86-11f0-8740-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "966b030e-1351-11f0-9133-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e79dfcdc-0a86-11f0-8740-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "966b030e-1351-11f0-9133-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e79dfcdc-0a86-11f0-8740-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "966b030e-1351-11f0-9133-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 550,
@@ -30456,10 +30506,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "966b030e-1351-11f0-9133-7634ef9f88fa",
+                "name": "The jackets",
+                "seed": 456
             },
             "opponent2": {
-                "id": null
+                "id": "411a2026-1313-11f0-b707-2e8d1ec3d504",
+                "name": "Furious Team",
+                "seed": 200
             },
             "match_games": []
         },
