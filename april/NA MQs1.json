@@ -18754,11 +18754,12 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e75a53c4-118e-11f0-a16e-da47bd160d1e",
                 "name": "Tippit",
-                "seed": 469
+                "seed": 469,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "9b5068ea-14c9-11f0-b0e5-cabe1c6ba045",
@@ -18858,18 +18859,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
                 "name": "CHARLY BROTHERS",
-                "seed": 341
+                "seed": 341,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d3bb4a80-17b5-11f0-8a7f-7ee7a66d5f59",
                 "name": "ultimatum",
-                "seed": 684
+                "seed": 684,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3bb4a80-17b5-11f0-8a7f-7ee7a66d5f59",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d3bb4a80-17b5-11f0-8a7f-7ee7a66d5f59",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 257,
@@ -26550,7 +26586,9 @@
                 "seed": 44
             },
             "opponent2": {
-                "id": null
+                "id": "9b5068ea-14c9-11f0-b0e5-cabe1c6ba045",
+                "name": "CBK ESPORTS",
+                "seed": 556
             },
             "match_games": []
         },
@@ -26606,7 +26644,9 @@
                 "seed": 172
             },
             "opponent2": {
-                "id": null
+                "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                "name": "CHARLY BROTHERS",
+                "seed": 341
             },
             "match_games": []
         },
