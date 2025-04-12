@@ -48350,18 +48350,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
                 "name": "Crumbs",
-                "seed": 242
+                "seed": 242,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a1d572e-0a87-11f0-94c4-729b158e3678",
                 "name": "SPACE ESPORT🪐",
-                "seed": 82
+                "seed": 82,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a1d572e-0a87-11f0-94c4-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "2b271638-135a-11f0-8046-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a1d572e-0a87-11f0-94c4-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1003,
