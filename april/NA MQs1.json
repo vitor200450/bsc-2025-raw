@@ -28759,18 +28759,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
                 "name": "Midnight Brawlers",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
                 "name": "Benitos",
-                "seed": 541
+                "seed": 541,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a80cfa26-11a9-11f0-9306-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 586,
@@ -29435,18 +29470,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8fc25df4-131a-11f0-9417-4ed1b62a3029",
                 "name": "Team Raza azteca",
-                "seed": 148
+                "seed": 148,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2f148cba-129e-11f0-bf19-c203eea1d99a",
                 "name": "Magos",
-                "seed": 365
+                "seed": 365,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "8fc25df4-131a-11f0-9417-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2f148cba-129e-11f0-bf19-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "8fc25df4-131a-11f0-9417-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2f148cba-129e-11f0-bf19-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 605,
@@ -33850,18 +33920,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2add7afe-0a87-11f0-a56c-729b158e3678",
                 "name": "Terreneitors",
-                "seed": 123
+                "seed": 123,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
                 "name": "Growtopians",
-                "seed": 390
+                "seed": 390,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2add7afe-0a87-11f0-a56c-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2add7afe-0a87-11f0-a56c-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 740,
@@ -35363,7 +35468,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                "name": "Midnight Brawlers",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
@@ -35522,7 +35629,9 @@
                 "seed": 621
             },
             "opponent2": {
-                "id": null
+                "id": "2f148cba-129e-11f0-bf19-c203eea1d99a",
+                "name": "Magos",
+                "seed": 365
             },
             "match_games": []
         },
@@ -36685,7 +36794,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                "name": "Growtopians",
+                "seed": 390
             },
             "opponent2": {
                 "id": null
