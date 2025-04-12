@@ -31369,18 +31369,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "441701da-1792-11f0-8fb5-82a1de5efc38",
                 "name": "Starr Titans",
-                "seed": 580
+                "seed": 580,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
                 "name": "Teste drive",
-                "seed": 189
+                "seed": 189,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "441701da-1792-11f0-8fb5-82a1de5efc38",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "441701da-1792-11f0-8fb5-82a1de5efc38",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e6894c5c-0a86-11f0-b2e7-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 805,
@@ -32639,18 +32674,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5ca7084-0a86-11f0-8827-729b158e3678",
                 "name": "Sublime",
-                "seed": 10
+                "seed": 10,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c734cd7c-16d9-11f0-8a22-82ef88cda3e3",
                 "name": "No Sympathy",
-                "seed": 247
+                "seed": 247,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e5ca7084-0a86-11f0-8827-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c734cd7c-16d9-11f0-8a22-82ef88cda3e3",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e5ca7084-0a86-11f0-8827-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c734cd7c-16d9-11f0-8a22-82ef88cda3e3",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 858,
@@ -34443,7 +34513,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5ca7084-0a86-11f0-8827-729b158e3678",
+                "name": "Sublime",
+                "seed": 10
             },
             "opponent2": {
                 "id": null
