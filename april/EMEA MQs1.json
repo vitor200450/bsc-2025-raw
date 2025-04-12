@@ -57405,18 +57405,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "342e8f54-0a86-11f0-8847-729b158e3678",
                 "name": "LS french",
-                "seed": 282
+                "seed": 282,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "74c421dc-1724-11f0-b80f-ce1ca2d5bb71",
                 "name": "losescalopes",
-                "seed": 1767
+                "seed": 1767,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "342e8f54-0a86-11f0-8847-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74c421dc-1724-11f0-b80f-ce1ca2d5bb71",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "342e8f54-0a86-11f0-8847-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "74c421dc-1724-11f0-b80f-ce1ca2d5bb71",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "342e8f54-0a86-11f0-8847-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "74c421dc-1724-11f0-b80f-ce1ca2d5bb71",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 680,
@@ -75564,10 +75614,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "74c421dc-1724-11f0-b80f-ce1ca2d5bb71",
+                "name": "losescalopes",
+                "seed": 1767
             },
             "opponent2": {
-                "id": null
+                "id": "37806010-0a86-11f0-929d-729b158e3678",
+                "name": "Prime Team",
+                "seed": 1306
             },
             "match_games": []
         },
