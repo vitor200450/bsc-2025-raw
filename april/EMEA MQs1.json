@@ -73378,18 +73378,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
                 "name": "Cherenobill",
-                "seed": 233
+                "seed": 233,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b11a6c08-119e-11f0-984d-da47bd160d1e",
                 "name": "ONCPAPKONESTLA",
-                "seed": 792
+                "seed": 792,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b11a6c08-119e-11f0-984d-da47bd160d1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b11a6c08-119e-11f0-984d-da47bd160d1e",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1140,
@@ -88281,10 +88316,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3b73aef2-0a86-11f0-8547-729b158e3678",
+                "name": "Cherenobill",
+                "seed": 233
             },
             "opponent2": {
-                "id": null
+                "id": "99b74dea-1727-11f0-b519-de42ecb16687",
+                "name": "Aim#1",
+                "seed": 1769
             },
             "match_games": []
         },
