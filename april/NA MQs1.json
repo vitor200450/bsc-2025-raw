@@ -43383,18 +43383,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28076876-0a87-11f0-8a8f-729b158e3678",
                 "name": "Max Gaming",
-                "seed": 33
+                "seed": 33,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c6c297e-0a87-11f0-8e2f-729b158e3678",
                 "name": "Top G",
-                "seed": 96
+                "seed": 96,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "28076876-0a87-11f0-8a8f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c6c297e-0a87-11f0-8e2f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "28076876-0a87-11f0-8a8f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2c6c297e-0a87-11f0-8e2f-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "28076876-0a87-11f0-8a8f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c6c297e-0a87-11f0-8e2f-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 901,
@@ -46412,7 +46462,9 @@
                 "seed": 353
             },
             "opponent2": {
-                "id": null
+                "id": "28076876-0a87-11f0-8a8f-729b158e3678",
+                "name": "Max Gaming",
+                "seed": 33
             },
             "match_games": []
         },
