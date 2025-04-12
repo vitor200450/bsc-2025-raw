@@ -12030,18 +12030,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
                 "name": "NeeBo Gaming",
-                "seed": 7
+                "seed": 7,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b480136c-147c-11f0-9e2e-4ed1b62a3029",
                 "name": "バドミントン日本代表",
-                "seed": 186
+                "seed": 186,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b480136c-147c-11f0-9e2e-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b480136c-147c-11f0-9e2e-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 214,
@@ -12251,11 +12286,12 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e0c0e88-1239-11f0-9bf2-4ed1b62a3029",
                 "name": "ブロスタ部",
-                "seed": 99
+                "seed": 99,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a452f04c-0a84-11f0-a679-729b158e3678",
@@ -12271,18 +12307,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
                 "name": "ISEKAI Yuusha",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "08a64352-11ea-11f0-b5c3-a60123dd55a2",
                 "name": "OPNOOB",
-                "seed": 51
+                "seed": 51,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "08a64352-11ea-11f0-b5c3-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "08a64352-11ea-11f0-b5c3-a60123dd55a2",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "08a64352-11ea-11f0-b5c3-a60123dd55a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 220,
@@ -12733,10 +12819,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "a3667e7e-0a84-11f0-85d3-729b158e3678",
+                "name": "NeeBo Gaming",
+                "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "a44df416-0a84-11f0-a2fc-729b158e3678",
+                "name": "マンケルビーム",
+                "seed": 26
             },
             "match_games": []
         },
@@ -12774,7 +12864,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "a452f04c-0a84-11f0-a679-729b158e3678",
+                "name": "HanBao",
+                "seed": 35
             },
             "match_games": []
         },
@@ -12787,10 +12879,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                "name": "ISEKAI Yuusha",
+                "seed": 142
             },
             "opponent2": {
-                "id": null
+                "id": "a304db4c-0a84-11f0-af72-729b158e3678",
+                "name": "サ終",
+                "seed": 19
             },
             "match_games": []
         },
