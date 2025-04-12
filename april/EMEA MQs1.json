@@ -39102,18 +39102,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "dc09fe7c-11f0-11f0-9e87-ba73ea539b98",
                 "name": "TheRealMvPs",
-                "seed": 560
+                "seed": 560,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c55703ca-1379-11f0-85f0-7634ef9f88fa",
                 "name": "Les Branllaleurs",
-                "seed": 1489
+                "seed": 1489,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "dc09fe7c-11f0-11f0-9e87-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c55703ca-1379-11f0-85f0-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "dc09fe7c-11f0-11f0-9e87-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c55703ca-1379-11f0-85f0-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "dc09fe7c-11f0-11f0-9e87-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c55703ca-1379-11f0-85f0-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 117,
@@ -49586,18 +49636,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "346094b8-0a86-11f0-ac06-729b158e3678",
                 "name": "LVO x CHM e-sport",
-                "seed": 620
+                "seed": 620,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9f169f20-1312-11f0-8ec8-c203eea1d99a",
                 "name": "SPKZ NEW",
-                "seed": 1429
+                "seed": 1429,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "346094b8-0a86-11f0-ac06-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9f169f20-1312-11f0-8ec8-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "346094b8-0a86-11f0-ac06-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f169f20-1312-11f0-8ec8-c203eea1d99a",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "346094b8-0a86-11f0-ac06-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f169f20-1312-11f0-8ec8-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 493,
@@ -65710,7 +65810,9 @@
                 "seed": 465
             },
             "opponent2": {
-                "id": null
+                "id": "c55703ca-1379-11f0-85f0-7634ef9f88fa",
+                "name": "Les Branllaleurs",
+                "seed": 1489
             },
             "match_games": []
         },
@@ -69400,7 +69502,9 @@
                 "seed": 405
             },
             "opponent2": {
-                "id": null
+                "id": "346094b8-0a86-11f0-ac06-729b158e3678",
+                "name": "LVO x CHM e-sport",
+                "seed": 620
             },
             "match_games": []
         },
