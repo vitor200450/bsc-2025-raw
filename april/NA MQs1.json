@@ -47563,18 +47563,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29f1bbe6-0a87-11f0-9821-729b158e3678",
                 "name": "Stanley Steemers",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
                 "name": "Ping Warriors",
-                "seed": 566
+                "seed": 566,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "29f1bbe6-0a87-11f0-9821-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "29f1bbe6-0a87-11f0-9821-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 992,
@@ -47872,10 +47907,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "df3c4a1c-1503-11f0-8d8c-7634ef9f88fa",
+                "name": "Ping Warriors",
+                "seed": 566
             },
             "opponent2": {
-                "id": null
+                "id": "2a5c2a4e-0a87-11f0-b10c-729b158e3678",
+                "name": "Saro Squad",
+                "seed": 22
             },
             "match_games": []
         }
