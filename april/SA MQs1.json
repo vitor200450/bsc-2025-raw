@@ -39339,18 +39339,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "08fb70f2-1730-11f0-8e2c-4ef6ab04fc72",
                 "name": "UNNAMED F/A",
-                "seed": 272
+                "seed": 272,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
                 "name": "THE FIRE",
-                "seed": 80
+                "seed": 80,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "08fb70f2-1730-11f0-8e2c-4ef6ab04fc72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "08fb70f2-1730-11f0-8e2c-4ef6ab04fc72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e662befc-0a86-11f0-8f7f-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 964,
@@ -39654,18 +39689,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
                 "name": "Nobruzes F/A",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8fad1a4-0a86-11f0-a393-729b158e3678",
                 "name": "ECLIPSE",
-                "seed": 63
+                "seed": 63,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8fad1a4-0a86-11f0-a393-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8fad1a4-0a86-11f0-a393-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 978,
@@ -40062,7 +40132,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "08fb70f2-1730-11f0-8e2c-4ef6ab04fc72",
+                "name": "UNNAMED F/A",
+                "seed": 272
             },
             "opponent2": {
                 "id": null
@@ -40176,7 +40248,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e69f58b2-0a86-11f0-a557-729b158e3678",
+                "name": "Nobruzes F/A",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
