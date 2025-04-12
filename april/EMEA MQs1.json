@@ -46793,18 +46793,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73c1d916-125e-11f0-ac60-2e8d1ec3d504",
                 "name": "TUNG",
-                "seed": 1020
+                "seed": 1020,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "0b8eca8c-120b-11f0-8d73-4ed1b62a3029",
                 "name": "EZCLAP",
-                "seed": 1029
+                "seed": 1029,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73c1d916-125e-11f0-ac60-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b8eca8c-120b-11f0-8d73-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73c1d916-125e-11f0-ac60-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b8eca8c-120b-11f0-8d73-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "73c1d916-125e-11f0-ac60-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b8eca8c-120b-11f0-8d73-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 387,
@@ -65213,18 +65263,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38a8da4e-0a86-11f0-89c0-729b158e3678",
                 "name": "San Victous",
-                "seed": 363
+                "seed": 363,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d4b95b24-118a-11f0-b063-a60123dd55a2",
                 "name": "Kebab Power Fans",
-                "seed": 1686
+                "seed": 1686,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "38a8da4e-0a86-11f0-89c0-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d4b95b24-118a-11f0-b063-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "38a8da4e-0a86-11f0-89c0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4b95b24-118a-11f0-b063-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "38a8da4e-0a86-11f0-89c0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d4b95b24-118a-11f0-b063-a60123dd55a2",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1008,
@@ -68036,7 +68136,9 @@
                 "seed": 408
             },
             "opponent2": {
-                "id": null
+                "id": "3c4a419e-1209-11f0-b4f2-4ed1b62a3029",
+                "name": "Star Energy Esport",
+                "seed": 617
             },
             "match_games": []
         },
@@ -69512,7 +69614,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "0b8eca8c-120b-11f0-8d73-4ed1b62a3029",
+                "name": "EZCLAP",
+                "seed": 1029
             },
             "match_games": []
         },
@@ -75615,10 +75719,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "38a8da4e-0a86-11f0-89c0-729b158e3678",
+                "name": "San Victous",
+                "seed": 363
             },
             "opponent2": {
-                "id": null
+                "id": "2fb4ade6-0a86-11f0-900d-729b158e3678",
+                "name": "Farias Dance Club",
+                "seed": 662
             },
             "match_games": []
         },
