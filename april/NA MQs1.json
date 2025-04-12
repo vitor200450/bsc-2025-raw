@@ -43258,18 +43258,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2bdee62-1614-11f0-a0fb-4ed1b62a3029",
                 "name": "Clash On Top",
-                "seed": 288
+                "seed": 288,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
                 "name": "Kappa",
-                "seed": 353
+                "seed": 353,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a2bdee62-1614-11f0-a0fb-4ed1b62a3029",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a2bdee62-1614-11f0-a0fb-4ed1b62a3029",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 900,
@@ -43893,18 +43928,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
                 "name": "Midnight Brawlers",
-                "seed": 29
+                "seed": 29,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "79e22fde-1246-11f0-8f43-7634ef9f88fa",
                 "name": "Lost Paradise",
-                "seed": 356
+                "seed": 356,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79e22fde-1246-11f0-8f43-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "79e22fde-1246-11f0-8f43-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 916,
@@ -44458,18 +44528,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "90686392-132a-11f0-8de3-c203eea1d99a",
                 "name": "Team Rapiñadores",
-                "seed": 226
+                "seed": 226,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
                 "name": "Dawgwater",
-                "seed": 98
+                "seed": 98,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2c8f8036-0a87-11f0-b9e4-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 932,
@@ -45144,18 +45249,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b4550e-0a88-11f0-a7e7-729b158e3678",
                 "name": "3/5",
-                "seed": 6
+                "seed": 6,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
                 "name": "Growtopians",
-                "seed": 390
+                "seed": 390,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5b4550e-0a88-11f0-a7e7-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "e5b4550e-0a88-11f0-a7e7-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "dfc7fe3e-1267-11f0-8f33-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 954,
@@ -45427,7 +45567,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "018c4b28-1291-11f0-9ffc-4ed1b62a3029",
+                "name": "Kappa",
+                "seed": 353
             },
             "opponent2": {
                 "id": null
@@ -45571,10 +45713,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "27d7c8f0-0a87-11f0-ab27-729b158e3678",
+                "name": "Midnight Brawlers",
+                "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "e596e61a-128d-11f0-9d13-7634ef9f88fa",
+                "name": "Milana Feet Pics",
+                "seed": 420
             },
             "match_games": []
         },
@@ -45707,10 +45853,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                "name": "Team Rapiñadores",
+                "seed": 226
             },
             "opponent2": {
-                "id": null
+                "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
+                "name": "Team Cream",
+                "seed": 223
             },
             "match_games": []
         },
@@ -45891,7 +46041,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b4550e-0a88-11f0-a7e7-729b158e3678",
+                "name": "3/5",
+                "seed": 6
             },
             "opponent2": {
                 "id": null
