@@ -34180,11 +34180,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7739918c-166a-11f0-bde0-7634ef9f88fa",
                 "name": "Tilines",
-                "seed": 195
+                "seed": 195,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e82ddff2-1777-11f0-8c99-5e3e4f9cad4d",
@@ -34200,7 +34201,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27ff2300-0a87-11f0-b8bb-729b158e3678",
                 "name": "MC|Wuebitos",
@@ -34209,7 +34210,8 @@
             "opponent2": {
                 "id": "8f58af2c-12f6-11f0-8dd4-4ed1b62a3029",
                 "name": "Bad Randoms",
-                "seed": 446
+                "seed": 446,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -34440,7 +34442,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c2d4bf0-0a87-11f0-9c11-729b158e3678",
                 "name": "PSG",
@@ -34449,7 +34451,8 @@
             "opponent2": {
                 "id": "8f56ba1e-1292-11f0-a70e-2e8d1ec3d504",
                 "name": "TPK",
-                "seed": 355
+                "seed": 355,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -34530,7 +34533,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "210374b4-1317-11f0-81e2-c203eea1d99a",
                 "name": "Yogurt no spoon",
@@ -34539,7 +34542,8 @@
             "opponent2": {
                 "id": "dac7f4d8-1231-11f0-a9a6-2e8d1ec3d504",
                 "name": "ZKS",
-                "seed": 291
+                "seed": 291,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -34620,11 +34624,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c22e76e-0a87-11f0-9a62-729b158e3678",
                 "name": "FQBrawl",
-                "seed": 163
+                "seed": 163,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1824a7d4-123e-11f0-ae90-7634ef9f88fa",
@@ -34640,11 +34645,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2a0aa3ea-0a87-11f0-bc77-729b158e3678",
                 "name": "Los prietos 🐐",
-                "seed": 14
+                "seed": 14,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "e5214e3a-119a-11f0-afa8-da47bd160d1e",
@@ -34660,7 +34666,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73d72bea-1416-11f0-9afe-7634ef9f88fa",
                 "name": "BROS",
@@ -34669,7 +34675,8 @@
             "opponent2": {
                 "id": "559d9f2e-14ca-11f0-a49b-7634ef9f88fa",
                 "name": "Teamkaoos",
-                "seed": 270
+                "seed": 270,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -34805,7 +34812,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
                 "name": "On3",
@@ -34814,7 +34821,8 @@
             "opponent2": {
                 "id": "73f1d918-1317-11f0-9802-4ed1b62a3029",
                 "name": "Los whitemalans",
-                "seed": 462
+                "seed": 462,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -38385,7 +38393,11 @@
                 "name": "Munchers",
                 "seed": 574
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "e82ddff2-1777-11f0-8c99-5e3e4f9cad4d",
+                "name": "Golira team 🦍",
+                "seed": 318
+            },
             "match_games": []
         },
         {
@@ -38396,8 +38408,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "27ff2300-0a87-11f0-b8bb-729b158e3678",
+                "name": "MC|Wuebitos",
+                "seed": 67
+            },
+            "opponent2": {
+                "id": "76de0bac-1267-11f0-a27c-2e8d1ec3d504",
+                "name": "Aespa",
+                "seed": 323
+            },
             "match_games": []
         },
         {
@@ -38433,7 +38453,11 @@
                 "name": "Los Carboneros",
                 "seed": 99
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "2c2d4bf0-0a87-11f0-9c11-729b158e3678",
+                "name": "PSG",
+                "seed": 158
+            },
             "match_games": []
         },
         {
@@ -38449,7 +38473,11 @@
                 "name": "Les Chou",
                 "seed": 35
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "210374b4-1317-11f0-81e2-c203eea1d99a",
+                "name": "Yogurt no spoon",
+                "seed": 222
+            },
             "match_games": []
         },
         {
@@ -38465,7 +38493,11 @@
                 "name": "Foam Rollers",
                 "seed": 94
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "1824a7d4-123e-11f0-ae90-7634ef9f88fa",
+                "name": "MIAUS 😸😹😾",
+                "seed": 350
+            },
             "match_games": []
         },
         {
@@ -38476,8 +38508,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "e5214e3a-119a-11f0-afa8-da47bd160d1e",
+                "name": "GreenLemons",
+                "seed": 499
+            },
+            "opponent2": {
+                "id": "73d72bea-1416-11f0-9afe-7634ef9f88fa",
+                "name": "BROS",
+                "seed": 243
+            },
             "match_games": []
         },
         {
@@ -38508,8 +38548,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "27f5b6ee-0a87-11f0-89ac-729b158e3678",
+                "name": "On3",
+                "seed": 51
+            },
+            "opponent2": {
+                "id": "5dcb8766-124e-11f0-9963-2e8d1ec3d504",
+                "name": "TripleThreat",
+                "seed": 307
+            },
             "match_games": []
         },
         {
