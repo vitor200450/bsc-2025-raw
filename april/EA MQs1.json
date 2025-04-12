@@ -10978,18 +10978,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "32d2eb30-1235-11f0-9723-2e8d1ec3d504",
                 "name": "かばお",
-                "seed": 97
+                "seed": 97,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "33c68bfa-16ef-11f0-9151-e282ffa70add",
                 "name": "The Lannisters",
-                "seed": 96
+                "seed": 96,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "32d2eb30-1235-11f0-9723-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33c68bfa-16ef-11f0-9151-e282ffa70add",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "32d2eb30-1235-11f0-9723-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "33c68bfa-16ef-11f0-9151-e282ffa70add",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 195,
@@ -11993,7 +12028,9 @@
                 "seed": 129
             },
             "opponent2": {
-                "id": null
+                "id": "32d2eb30-1235-11f0-9723-2e8d1ec3d504",
+                "name": "かばお",
+                "seed": 97
             },
             "match_games": []
         },
