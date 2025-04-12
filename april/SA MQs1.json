@@ -40396,7 +40396,7 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
                 "name": "The Becas",
@@ -40405,7 +40405,8 @@
             "opponent2": {
                 "id": "e7c6bf6e-0a86-11f0-854e-729b158e3678",
                 "name": "Space Division",
-                "seed": 90
+                "seed": 90,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -41198,7 +41199,11 @@
                 "name": "Os Amostradinhos",
                 "seed": 135
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "e5e6cd38-0a86-11f0-974c-729b158e3678",
+                "name": "The Becas",
+                "seed": 26
+            },
             "match_games": []
         },
         {
