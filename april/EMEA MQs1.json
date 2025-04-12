@@ -82602,18 +82602,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2bd2ca14-0a86-11f0-8a40-729b158e3678",
                 "name": "Asᴛʀᴀ|E-Sports",
-                "seed": 243
+                "seed": 243,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6947a0a6-1150-11f0-81a6-6e914f196a76",
                 "name": "TOXIC SQUAD",
-                "seed": 782
+                "seed": 782,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2bd2ca14-0a86-11f0-8a40-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6947a0a6-1150-11f0-81a6-6e914f196a76",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2bd2ca14-0a86-11f0-8a40-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6947a0a6-1150-11f0-81a6-6e914f196a76",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1444,
@@ -85959,7 +85994,9 @@
                 "seed": 161
             },
             "opponent2": {
-                "id": null
+                "id": "d05a3242-164e-11f0-a4d7-4ed1b62a3029",
+                "name": "F/A JHT",
+                "seed": 1697
             },
             "match_games": []
         },
@@ -86350,7 +86387,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3a7e0948-0a86-11f0-a029-729b158e3678",
+                "name": "STW",
+                "seed": 72
             },
             "opponent2": {
                 "id": null
@@ -86564,7 +86603,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "341a9b5c-0a86-11f0-bcaa-729b158e3678",
+                "name": "LOTE LOVE KIT",
+                "seed": 137
             },
             "opponent2": {
                 "id": null
@@ -87052,7 +87093,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "760d836c-1247-11f0-930a-2e8d1ec3d504",
+                "name": "NTSX ACADEMY",
+                "seed": 1188
             },
             "opponent2": {
                 "id": null
@@ -89240,7 +89283,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2bd2ca14-0a86-11f0-8a40-729b158e3678",
+                "name": "Asᴛʀᴀ|E-Sports",
+                "seed": 243
             },
             "opponent2": {
                 "id": null
