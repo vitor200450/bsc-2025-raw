@@ -31270,7 +31270,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
                 "name": "2025",
@@ -31279,7 +31279,8 @@
             "opponent2": {
                 "id": "b1843094-17b5-11f0-9e82-0eb5b2e69d7f",
                 "name": "FCLegmeineeia",
-                "seed": 277
+                "seed": 277,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31290,7 +31291,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "285047d0-0a87-11f0-9a37-729b158e3678",
                 "name": "Elemental guardians",
@@ -31299,7 +31300,8 @@
             "opponent2": {
                 "id": "b437f28e-116c-11f0-bf9f-a60123dd55a2",
                 "name": "BHS",
-                "seed": 405
+                "seed": 405,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31420,11 +31422,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3cfacac0-133d-11f0-b212-4ed1b62a3029",
                 "name": "CHEESEKIT",
-                "seed": 213
+                "seed": 213,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c8d36616-16ed-11f0-a08b-82ef88cda3e3",
@@ -31440,7 +31443,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b2f6f62-0a87-11f0-8c45-729b158e3678",
                 "name": "Silent Tea Drinkers☕",
@@ -31449,7 +31452,8 @@
             "opponent2": {
                 "id": "2beedafa-1298-11f0-be2c-c203eea1d99a",
                 "name": "Very mid",
-                "seed": 428
+                "seed": 428,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -31585,11 +31589,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27f3b2ae-0a87-11f0-a1b6-729b158e3678",
                 "name": "Vz",
-                "seed": 255
+                "seed": 255,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "1308efbc-141e-11f0-b849-7634ef9f88fa",
@@ -36300,11 +36305,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f6dbb87e-125b-11f0-8b69-c203eea1d99a",
                 "name": "Dumble Guys",
-                "seed": 214
+                "seed": 214,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "3e08b3fa-1243-11f0-a35e-7634ef9f88fa",
@@ -37583,8 +37589,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "285047d0-0a87-11f0-9a37-729b158e3678",
+                "name": "Elemental guardians",
+                "seed": 108
+            },
+            "opponent2": {
+                "id": "95b5eb26-124e-11f0-b3d3-2e8d1ec3d504",
+                "name": "Big Busters",
+                "seed": 364
+            },
             "match_games": []
         },
         {
@@ -37600,7 +37614,11 @@
                 "name": "Hooters eSports",
                 "seed": 44
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "c8d36616-16ed-11f0-a08b-82ef88cda3e3",
+                "name": "The Equalizerz",
+                "seed": 300
+            },
             "match_games": []
         },
         {
@@ -37611,8 +37629,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "2b2f6f62-0a87-11f0-8c45-729b158e3678",
+                "name": "Silent Tea Drinkers☕",
+                "seed": 85
+            },
+            "opponent2": {
+                "id": "a2f07fb6-1282-11f0-97b8-4ed1b62a3029",
+                "name": "CHARLY BROTHERS",
+                "seed": 341
+            },
             "match_games": []
         },
         {
@@ -37628,7 +37654,11 @@
                 "name": "IX Squares",
                 "seed": 2
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "1308efbc-141e-11f0-b849-7634ef9f88fa",
+                "name": "alphasunite",
+                "seed": 258
+            },
             "match_games": []
         },
         {
@@ -38564,7 +38594,11 @@
                 "name": "Nasty girls",
                 "seed": 555
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "3e08b3fa-1243-11f0-a35e-7634ef9f88fa",
+                "name": "Poop Inspectors",
+                "seed": 299
+            },
             "match_games": []
         },
         {
