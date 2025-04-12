@@ -37611,18 +37611,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29d4a786-0a87-11f0-888d-729b158e3678",
                 "name": "Kansas City Chiefs",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2a87d02c-0a87-11f0-815b-729b158e3678",
                 "name": "OMG GAMING",
-                "seed": 229
+                "seed": 229,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a87d02c-0a87-11f0-815b-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2a87d02c-0a87-11f0-815b-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 822,
@@ -37886,18 +37921,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
                 "name": "IX Squares",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1308efbc-141e-11f0-b849-7634ef9f88fa",
                 "name": "alphasunite",
-                "seed": 258
+                "seed": 258,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1308efbc-141e-11f0-b849-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1308efbc-141e-11f0-b849-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 834,
@@ -38346,18 +38416,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "7f52264c-164f-11f0-abf1-cabe1c6ba045",
                 "name": "Shadow Systems",
-                "seed": 602
+                "seed": 602,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d37465ee-11e2-11f0-a82d-8a585fcd80c0",
                 "name": "Monky Force",
-                "seed": 679
+                "seed": 679,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "7f52264c-164f-11f0-abf1-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d37465ee-11e2-11f0-a82d-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "7f52264c-164f-11f0-abf1-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d37465ee-11e2-11f0-a82d-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 857,
@@ -39588,7 +39693,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "29d4a786-0a87-11f0-888d-729b158e3678",
+                "name": "Kansas City Chiefs",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
@@ -39686,7 +39793,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                "name": "IX Squares",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
