@@ -91497,18 +91497,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c876b12-0a86-11f0-aa45-729b158e3678",
                 "name": "TSN Esports",
-                "seed": 73
+                "seed": 73,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
                 "name": "We Need Day Two",
-                "seed": 1464
+                "seed": 1464,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3c876b12-0a86-11f0-aa45-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3c876b12-0a86-11f0-aa45-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1592,
@@ -94567,18 +94602,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
                 "name": "F/A Spaghetti 🍝",
-                "seed": 183
+                "seed": 183,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "566166dc-1305-11f0-af82-4ed1b62a3029",
                 "name": "Team Skibidi Bartosz",
-                "seed": 695
+                "seed": 695,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "566166dc-1305-11f0-af82-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2f9db8b6-0a86-11f0-89cd-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "566166dc-1305-11f0-af82-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1721,
@@ -96784,7 +96854,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                "name": "We Need Day Two",
+                "seed": 1464
             },
             "opponent2": {
                 "id": null
