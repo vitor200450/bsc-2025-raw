@@ -109007,18 +109007,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
                 "name": "DARK EAGLES",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "387aa156-0a86-11f0-b22a-729b158e3678",
                 "name": "Russian Grandmothers",
-                "seed": 92
+                "seed": 92,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387aa156-0a86-11f0-b22a-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "387aa156-0a86-11f0-b22a-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1949,
@@ -109047,18 +109082,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
                 "name": "火星の月の燃える虎",
-                "seed": 821
+                "seed": 821,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3df62bb4-0a86-11f0-b14d-729b158e3678",
                 "name": "REVA team",
-                "seed": 76
+                "seed": 76,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3df62bb4-0a86-11f0-b14d-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3df62bb4-0a86-11f0-b14d-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1951,
