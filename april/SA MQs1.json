@@ -41058,18 +41058,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
                 "name": "Os Cheetos",
-                "seed": 521
+                "seed": 521,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "a78d5a9e-166a-11f0-a57b-cabe1c6ba045",
                 "name": "Tribe 6ix One",
-                "seed": 536
+                "seed": 536,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "a78d5a9e-166a-11f0-a57b-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "a692e580-11bc-11f0-afbd-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a78d5a9e-166a-11f0-a57b-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 997,
@@ -41238,18 +41273,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
                 "name": "FLUXO 👻",
-                "seed": 62
+                "seed": 62,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
                 "name": "Snk",
-                "seed": 94
+                "seed": 94,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e8ec988c-0a86-11f0-bb43-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1006,

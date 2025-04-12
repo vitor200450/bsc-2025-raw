@@ -28864,7 +28864,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "29d4a786-0a87-11f0-888d-729b158e3678",
                 "name": "Kansas City Chiefs",
@@ -28964,18 +28964,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fcff930-1311-11f0-81cc-2e8d1ec3d504",
                 "name": "pillos FC",
-                "seed": 220
+                "seed": 220,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b85ed22e-1239-11f0-9588-2e8d1ec3d504",
                 "name": "Rice Brawlers",
-                "seed": 293
+                "seed": 293,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "4fcff930-1311-11f0-81cc-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b85ed22e-1239-11f0-9588-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "4fcff930-1311-11f0-81cc-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b85ed22e-1239-11f0-9588-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 623,
@@ -30134,18 +30169,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "451159d8-1255-11f0-b898-2e8d1ec3d504",
                 "name": "Aquatic Rivals",
-                "seed": 210
+                "seed": 210,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e4ba891a-124a-11f0-8dbc-4ed1b62a3029",
                 "name": "TORO",
-                "seed": 303
+                "seed": 303,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "451159d8-1255-11f0-b898-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4ba891a-124a-11f0-8dbc-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "451159d8-1255-11f0-b898-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4ba891a-124a-11f0-8dbc-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 671,
@@ -30374,18 +30444,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "298fecb8-0a87-11f0-8eb0-729b158e3678",
                 "name": "Looking 4 ABGs",
-                "seed": 231
+                "seed": 231,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
                 "name": "GG",
-                "seed": 282
+                "seed": 282,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "298fecb8-0a87-11f0-8eb0-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "298fecb8-0a87-11f0-8eb0-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 683,
@@ -32364,18 +32469,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3b3465a2-1310-11f0-84ef-4ed1b62a3029",
                 "name": "Stars Esports 💫",
-                "seed": 150
+                "seed": 150,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0720caa8-129d-11f0-b3c6-2e8d1ec3d504",
                 "name": "KKD",
-                "seed": 363
+                "seed": 363,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3b3465a2-1310-11f0-84ef-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0720caa8-129d-11f0-b3c6-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3b3465a2-1310-11f0-84ef-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0720caa8-129d-11f0-b3c6-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 765,
@@ -34513,7 +34653,9 @@
                 "seed": 107
             },
             "opponent2": {
-                "id": null
+                "id": "3b3465a2-1310-11f0-84ef-4ed1b62a3029",
+                "name": "Stars Esports 💫",
+                "seed": 150
             },
             "match_games": []
         },
