@@ -93447,18 +93447,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f483e710-176d-11f0-a412-b24b7e13c044",
                 "name": "WarriorsBude⚔️",
-                "seed": 1181
+                "seed": 1181,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "35e34c04-0a86-11f0-af53-729b158e3678",
                 "name": "Pride One",
-                "seed": 356
+                "seed": 356,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f483e710-176d-11f0-a412-b24b7e13c044",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "f483e710-176d-11f0-a412-b24b7e13c044",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "f483e710-176d-11f0-a412-b24b7e13c044",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1613,
@@ -102515,7 +102565,11 @@
                 "name": "Los mosqueperros",
                 "seed": 413
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                "name": "Pride One",
+                "seed": 356
+            },
             "match_games": []
         },
         {
