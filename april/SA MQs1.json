@@ -34509,18 +34509,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
                 "name": "Kwidado",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
                 "name": "HOGRIDERS",
-                "seed": 190
+                "seed": 190,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "206a173a-1248-11f0-b3d4-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 869,
@@ -36589,7 +36639,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "e3fc8832-0a86-11f0-a23f-729b158e3678",
+                "name": "Kwidado",
+                "seed": 67
             },
             "match_games": []
         },
