@@ -108642,18 +108642,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
                 "name": "Zennox Gaming",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2b915f8e-0a86-11f0-b4a3-729b158e3678",
                 "name": "Ananastortilla",
-                "seed": 105
+                "seed": 105,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b915f8e-0a86-11f0-b4a3-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3e08b95a-0a86-11f0-a99a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2b915f8e-0a86-11f0-b4a3-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1936,
@@ -109317,18 +109352,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "378aac50-0a86-11f0-bebe-729b158e3678",
                 "name": "Promachus",
-                "seed": 23
+                "seed": 23,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2f9a2c0a-0a86-11f0-9345-729b158e3678",
                 "name": "Rakuzan",
-                "seed": 618
+                "seed": 618,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f9a2c0a-0a86-11f0-9345-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2f9a2c0a-0a86-11f0-9345-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1968,
@@ -109896,7 +109966,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2b915f8e-0a86-11f0-b4a3-729b158e3678",
+                "name": "Ananastortilla",
+                "seed": 105
             },
             "opponent2": {
                 "id": null
@@ -110152,7 +110224,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "378aac50-0a86-11f0-bebe-729b158e3678",
+                "name": "Promachus",
+                "seed": 23
             },
             "opponent2": {
                 "id": null
