@@ -102859,7 +102859,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 0,
+            "status": 3,
             "opponent1": {
                 "id": "b37048c0-1206-11f0-8b59-8a585fcd80c0",
                 "name": "The most anskill",
@@ -104199,18 +104199,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "38f3425a-0a86-11f0-8b15-729b158e3678",
                 "name": "SF Star Force",
-                "seed": 1446
+                "seed": 1446,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
                 "name": "Code : Gas",
-                "seed": 859
+                "seed": 859,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "38f3425a-0a86-11f0-8b15-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "38f3425a-0a86-11f0-8b15-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1913,
