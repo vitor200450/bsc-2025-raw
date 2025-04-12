@@ -6468,18 +6468,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1fe7d1fe-1201-11f0-a342-a60123dd55a2",
                 "name": "グチルチキン",
-                "seed": 55
+                "seed": 55,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "553d7fae-1614-11f0-8f9f-4ed1b62a3029",
                 "name": "NightWolves",
-                "seed": 202
+                "seed": 202,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1fe7d1fe-1201-11f0-a342-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "553d7fae-1614-11f0-8f9f-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1fe7d1fe-1201-11f0-a342-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "553d7fae-1614-11f0-8f9f-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 92,
@@ -8306,10 +8341,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1fe7d1fe-1201-11f0-a342-a60123dd55a2",
+                "name": "グチルチキン",
+                "seed": 55
             },
             "opponent2": {
-                "id": null
+                "id": "7fba9b02-116b-11f0-b670-ba73ea539b98",
+                "name": "Desperate",
+                "seed": 183
             },
             "match_games": []
         },
