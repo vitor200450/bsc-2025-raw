@@ -104070,18 +104070,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
                 "name": "Barcelona",
-                "seed": 77
+                "seed": 77,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "93d6ae2e-118d-11f0-92b3-8a585fcd80c0",
                 "name": "3 Goats",
-                "seed": 1716
+                "seed": 1716,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93d6ae2e-118d-11f0-92b3-8a585fcd80c0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "93d6ae2e-118d-11f0-92b3-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "93d6ae2e-118d-11f0-92b3-8a585fcd80c0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1837,
@@ -106795,18 +106845,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4fde975c-1180-11f0-85bb-ba73ea539b98",
                 "name": "Crow Nest Academy",
-                "seed": 958
+                "seed": 958,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
                 "name": "Nemesis",
-                "seed": 835
+                "seed": 835,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "4fde975c-1180-11f0-85bb-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "4fde975c-1180-11f0-85bb-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "4fde975c-1180-11f0-85bb-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1893,
@@ -108573,7 +108673,9 @@
                 "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "2c2a0478-0a86-11f0-9fd1-729b158e3678",
+                "name": "Barcelona",
+                "seed": 77
             },
             "match_games": []
         },
@@ -109125,7 +109227,9 @@
                 "seed": 830
             },
             "opponent2": {
-                "id": null
+                "id": "808fe290-1629-11f0-b353-4ed1b62a3029",
+                "name": "Nemesis",
+                "seed": 835
             },
             "match_games": []
         },
