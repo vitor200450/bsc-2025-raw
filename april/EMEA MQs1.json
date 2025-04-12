@@ -40823,18 +40823,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "370fb3f6-0a86-11f0-aff4-729b158e3678",
                 "name": "TEAM PISA",
-                "seed": 296
+                "seed": 296,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "d59679fe-12d5-11f0-94f8-2e8d1ec3d504",
                 "name": "Team Ezid🔥",
-                "seed": 1753
+                "seed": 1753,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "370fb3f6-0a86-11f0-aff4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d59679fe-12d5-11f0-94f8-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "370fb3f6-0a86-11f0-aff4-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "d59679fe-12d5-11f0-94f8-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 184,
@@ -43481,18 +43516,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3c03db62-0a86-11f0-84f7-729b158e3678",
                 "name": "TK esports",
-                "seed": 317
+                "seed": 317,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d1b1854c-118e-11f0-a38f-8a585fcd80c0",
                 "name": "Kings of Junýk",
-                "seed": 1732
+                "seed": 1732,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "3c03db62-0a86-11f0-84f7-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d1b1854c-118e-11f0-a38f-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "3c03db62-0a86-11f0-84f7-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d1b1854c-118e-11f0-a38f-8a585fcd80c0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 280,
