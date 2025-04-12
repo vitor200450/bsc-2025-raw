@@ -23712,18 +23712,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b7833cbc-133a-11f0-9284-2e8d1ec3d504",
                 "name": "KING OF SOULS",
-                "seed": 478
+                "seed": 478,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "428610c4-11af-11f0-b105-8a585fcd80c0",
                 "name": "GHOSTS FURY",
-                "seed": 547
+                "seed": 547,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "b7833cbc-133a-11f0-9284-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "428610c4-11af-11f0-b105-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "b7833cbc-133a-11f0-9284-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "428610c4-11af-11f0-b105-8a585fcd80c0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b7833cbc-133a-11f0-9284-2e8d1ec3d504",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "428610c4-11af-11f0-b105-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 411,
@@ -30384,7 +30434,9 @@
                 "seed": 35
             },
             "opponent2": {
-                "id": null
+                "id": "b7833cbc-133a-11f0-9284-2e8d1ec3d504",
+                "name": "KING OF SOULS",
+                "seed": 478
             },
             "match_games": []
         },
