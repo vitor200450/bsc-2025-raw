@@ -31724,18 +31724,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e428258c-0a86-11f0-9f42-729b158e3678",
                 "name": "OML",
-                "seed": 100
+                "seed": 100,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "abd5357c-127d-11f0-8ea9-c203eea1d99a",
                 "name": "Proboelite",
-                "seed": 356
+                "seed": 356,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e428258c-0a86-11f0-9f42-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "abd5357c-127d-11f0-8ea9-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e428258c-0a86-11f0-9f42-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "abd5357c-127d-11f0-8ea9-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 807,
@@ -31884,18 +31919,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e60c0832-0a86-11f0-8f1c-729b158e3678",
                 "name": "El descarte",
-                "seed": 109
+                "seed": 109,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "75f149dc-116a-11f0-9872-8a585fcd80c0",
                 "name": "os q tem ódio",
-                "seed": 365
+                "seed": 365,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e60c0832-0a86-11f0-8f1c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75f149dc-116a-11f0-9872-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "e60c0832-0a86-11f0-8f1c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "75f149dc-116a-11f0-9872-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 815,
