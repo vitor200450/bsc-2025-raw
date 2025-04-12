@@ -112206,18 +112206,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35e34c04-0a86-11f0-af53-729b158e3678",
                 "name": "Pride One",
-                "seed": 356
+                "seed": 356,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "760d836c-1247-11f0-930a-2e8d1ec3d504",
                 "name": "NTSX ACADEMY",
-                "seed": 1188
+                "seed": 1188,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "760d836c-1247-11f0-930a-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "35e34c04-0a86-11f0-af53-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "760d836c-1247-11f0-930a-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1995,
@@ -113235,7 +113270,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "760d836c-1247-11f0-930a-2e8d1ec3d504",
+                "name": "NTSX ACADEMY",
+                "seed": 1188
             },
             "match_games": []
         },
