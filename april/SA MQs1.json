@@ -41273,18 +41273,68 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
                 "name": "Starship troops",
-                "seed": 500
+                "seed": 500,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
                 "name": "OÁSIS GANG",
-                "seed": 20
+                "seed": 20,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Super Beach",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000051.png",
+                    "opponent1": {
+                        "id": "b87a76a8-14d4-11f0-a263-cabe1c6ba045",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e650ea92-0a86-11f0-8a56-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 999,
