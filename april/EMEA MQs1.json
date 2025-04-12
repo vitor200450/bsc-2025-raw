@@ -42911,18 +42911,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2e2db666-16c5-11f0-b467-7634ef9f88fa",
                 "name": "Ginola94",
-                "seed": 724
+                "seed": 724,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "156863d4-12dc-11f0-8927-7634ef9f88fa",
                 "name": "Eshkere",
-                "seed": 1325
+                "seed": 1325,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2e2db666-16c5-11f0-b467-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "156863d4-12dc-11f0-8927-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2e2db666-16c5-11f0-b467-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "156863d4-12dc-11f0-8927-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 377,
