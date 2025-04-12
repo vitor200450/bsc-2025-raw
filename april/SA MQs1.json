@@ -40249,18 +40249,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e50b3372-0a86-11f0-9f8a-729b158e3678",
                 "name": "pentagrama",
-                "seed": 106
+                "seed": 106,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e72de67c-0a86-11f0-b6c9-729b158e3678",
                 "name": "RX THE MASTERS",
-                "seed": 215
+                "seed": 215,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e50b3372-0a86-11f0-9f8a-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e72de67c-0a86-11f0-b6c9-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e50b3372-0a86-11f0-9f8a-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e72de67c-0a86-11f0-b6c9-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 985,
@@ -40324,18 +40359,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e744f13c-0a86-11f0-af81-729b158e3678",
                 "name": "Nova Brasil",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
                 "name": "Snk",
-                "seed": 94
+                "seed": 94,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e744f13c-0a86-11f0-af81-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e744f13c-0a86-11f0-af81-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 987,
@@ -40494,18 +40564,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
                 "name": "Golden Stars",
-                "seed": 11
+                "seed": 11,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
                 "name": "La Masturbanda",
-                "seed": 203
+                "seed": 203,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8acbc938-1479-11f0-b2d5-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 992,
@@ -40774,7 +40879,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "e72de67c-0a86-11f0-b6c9-729b158e3678",
+                "name": "RX THE MASTERS",
+                "seed": 215
             },
             "match_games": []
         },
@@ -40792,7 +40899,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "e8302e7c-0a86-11f0-89b7-729b158e3678",
+                "name": "Snk",
+                "seed": 94
             },
             "match_games": []
         },
@@ -40841,10 +40950,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e6a130ce-0a86-11f0-93ad-729b158e3678",
+                "name": "Golden Stars",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "e5f606ce-1308-11f0-8fe6-c203eea1d99a",
+                "name": "Darlan bs",
+                "seed": 406
             },
             "match_games": []
         }
