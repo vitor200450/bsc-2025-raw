@@ -102169,18 +102169,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "8508e974-11fc-11f0-83c5-da47bd160d1e",
                 "name": "Les Légend’R",
-                "seed": 977
+                "seed": 977,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "34b1fede-0a86-11f0-96e6-729b158e3678",
                 "name": "McW",
-                "seed": 209
+                "seed": 209,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "8508e974-11fc-11f0-83c5-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34b1fede-0a86-11f0-96e6-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "8508e974-11fc-11f0-83c5-da47bd160d1e",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "34b1fede-0a86-11f0-96e6-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1808,
@@ -103304,18 +103339,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "387aa156-0a86-11f0-b22a-729b158e3678",
                 "name": "Russian Grandmothers",
-                "seed": 92
+                "seed": 92,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1a4ca548-1167-11f0-8f60-6e914f196a76",
                 "name": "HBB|ESP",
-                "seed": 1372
+                "seed": 1372,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "387aa156-0a86-11f0-b22a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a4ca548-1167-11f0-8f60-6e914f196a76",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "387aa156-0a86-11f0-b22a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1a4ca548-1167-11f0-8f60-6e914f196a76",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1849,
@@ -104985,7 +105055,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "34b1fede-0a86-11f0-96e6-729b158e3678",
+                "name": "McW",
+                "seed": 209
             },
             "opponent2": {
                 "id": null
