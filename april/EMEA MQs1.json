@@ -108843,18 +108843,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
                 "name": "丸",
-                "seed": 25
+                "seed": 25,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "be988cbe-1731-11f0-96cc-7e68064584ae",
                 "name": "janekslabyjest",
-                "seed": 1177
+                "seed": 1177,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be988cbe-1731-11f0-96cc-7e68064584ae",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "be988cbe-1731-11f0-96cc-7e68064584ae",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1932,
@@ -109699,18 +109734,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73fe8998-0a88-11f0-a419-729b158e3678",
                 "name": "Millesime MG",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "8e6f32ae-13ee-11f0-a220-7634ef9f88fa",
                 "name": "Kebab Lovers",
-                "seed": 405
+                "seed": 405,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e6f32ae-13ee-11f0-a220-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "8e6f32ae-13ee-11f0-a220-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1952,
@@ -110720,18 +110790,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "365dc9bc-1570-11f0-b057-4ed1b62a3029",
                 "name": "NANI ESPORTS EMEA",
-                "seed": 819
+                "seed": 819,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
                 "name": "CK|MTM",
-                "seed": 179
+                "seed": 179,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "365dc9bc-1570-11f0-b057-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "365dc9bc-1570-11f0-b057-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d7e84a2-0a86-11f0-9973-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1975,
@@ -111251,10 +111356,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3e5871e8-0a86-11f0-a34f-729b158e3678",
+                "name": "丸",
+                "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "fa6c117a-117d-11f0-a6c2-ba73ea539b98",
+                "name": "Goats",
+                "seed": 1576
             },
             "match_games": []
         },
@@ -111431,10 +111540,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                "name": "Millesime MG",
+                "seed": 21
             },
             "opponent2": {
-                "id": null
+                "id": "35692d8e-0a86-11f0-91e0-729b158e3678",
+                "name": "Muertazos BS",
+                "seed": 213
             },
             "match_games": []
         },
