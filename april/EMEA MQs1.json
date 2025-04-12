@@ -46113,18 +46113,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2ecd51e4-0a86-11f0-9000-729b158e3678",
                 "name": "ebasosinka",
-                "seed": 500
+                "seed": 500,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
                 "name": "The Fanciest",
-                "seed": 1549
+                "seed": 1549,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2ecd51e4-0a86-11f0-9000-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2ecd51e4-0a86-11f0-9000-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "2ecd51e4-0a86-11f0-9000-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 324,
@@ -71050,10 +71100,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b368a37a-13ca-11f0-b479-4ed1b62a3029",
+                "name": "The Fanciest",
+                "seed": 1549
             },
             "opponent2": {
-                "id": null
+                "id": "983a190e-13a6-11f0-8b54-cabe1c6ba045",
+                "name": "Orjajoukot",
+                "seed": 1524
             },
             "match_games": []
         },
