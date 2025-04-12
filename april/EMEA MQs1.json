@@ -78342,18 +78342,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "34e85e7a-0a86-11f0-a23f-729b158e3678",
                 "name": "MightyGuys",
-                "seed": 287
+                "seed": 287,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "7702f5ae-1143-11f0-91f3-6e914f196a76",
                 "name": "SNC | PHOENIX",
-                "seed": 738
+                "seed": 738,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "34e85e7a-0a86-11f0-a23f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7702f5ae-1143-11f0-91f3-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "34e85e7a-0a86-11f0-a23f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "7702f5ae-1143-11f0-91f3-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1301,
@@ -81497,18 +81532,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3a54e43c-0a86-11f0-bd3d-729b158e3678",
                 "name": "StormBorn",
-                "seed": 42
+                "seed": 42,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0027d650-11fe-11f0-a746-da47bd160d1e",
                 "name": "Legend",
-                "seed": 983
+                "seed": 983,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3a54e43c-0a86-11f0-bd3d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0027d650-11fe-11f0-a746-da47bd160d1e",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3a54e43c-0a86-11f0-bd3d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0027d650-11fe-11f0-a746-da47bd160d1e",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1402,
@@ -84188,18 +84258,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3318ca3a-0a86-11f0-bede-729b158e3678",
                 "name": "La BEY🐝",
-                "seed": 198
+                "seed": 198,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3599a876-1600-11f0-aba7-7634ef9f88fa",
                 "name": "Apex esports",
-                "seed": 827
+                "seed": 827,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "3318ca3a-0a86-11f0-bede-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3599a876-1600-11f0-aba7-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "3318ca3a-0a86-11f0-bede-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3599a876-1600-11f0-aba7-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "3318ca3a-0a86-11f0-bede-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3599a876-1600-11f0-aba7-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1484,
@@ -85995,7 +86115,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "38e0a0be-0a86-11f0-bfde-729b158e3678",
+                "name": "SEGOVIA FC",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
@@ -87764,7 +87886,9 @@
                 "seed": 165
             },
             "opponent2": {
-                "id": null
+                "id": "1a4ca548-1167-11f0-8f60-6e914f196a76",
+                "name": "HBB|ESP",
+                "seed": 1372
             },
             "match_games": []
         },
@@ -89063,10 +89187,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3a54e43c-0a86-11f0-bd3d-729b158e3678",
+                "name": "StormBorn",
+                "seed": 42
             },
             "opponent2": {
-                "id": null
+                "id": "9be603f8-117e-11f0-a2b6-8a585fcd80c0",
+                "name": "Pro playeri",
+                "seed": 1578
             },
             "match_games": []
         },
@@ -89761,7 +89889,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "3318ca3a-0a86-11f0-bede-729b158e3678",
+                "name": "La BEY🐝",
+                "seed": 198
             },
             "opponent2": {
                 "id": null
