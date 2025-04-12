@@ -45040,18 +45040,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
                 "name": "Dreamcore🍥",
-                "seed": 306
+                "seed": 306,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
                 "name": "Cheese Esports",
-                "seed": 178
+                "seed": 178,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1b5378c0-1326-11f0-8805-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 935,
@@ -46700,7 +46750,9 @@
                 "seed": 242
             },
             "opponent2": {
-                "id": null
+                "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                "name": "Dreamcore🍥",
+                "seed": 306
             },
             "match_games": []
         },
