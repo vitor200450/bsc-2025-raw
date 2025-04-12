@@ -48295,18 +48295,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
                 "name": "IX Squares",
-                "seed": 2
+                "seed": 2,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "90686392-132a-11f0-8de3-c203eea1d99a",
                 "name": "Team Rapiñadores",
-                "seed": 226
+                "seed": 226,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "e5b66182-0a88-11f0-8e23-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "90686392-132a-11f0-8de3-c203eea1d99a",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1002,
