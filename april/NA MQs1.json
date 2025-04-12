@@ -38181,18 +38181,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "287aad72-0a87-11f0-9428-729b158e3678",
                 "name": "BCJAA",
-                "seed": 34
+                "seed": 34,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
                 "name": "Team Cream",
-                "seed": 223
+                "seed": 223,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "287aad72-0a87-11f0-9428-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "287aad72-0a87-11f0-9428-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 840,
@@ -39950,7 +39985,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e79806da-1358-11f0-93cc-2e8d1ec3d504",
+                "name": "Team Cream",
+                "seed": 223
             },
             "opponent2": {
                 "id": null
