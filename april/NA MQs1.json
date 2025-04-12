@@ -38719,18 +38719,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "29a26e10-0a87-11f0-8fae-729b158e3678",
                 "name": "🏀🦐🔥",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
                 "name": "2025",
-                "seed": 236
+                "seed": 236,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "29a26e10-0a87-11f0-8fae-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "29a26e10-0a87-11f0-8fae-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 830,
@@ -39244,18 +39279,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "27c0607a-0a87-11f0-af2b-729b158e3678",
                 "name": "God Pirates",
-                "seed": 50
+                "seed": 50,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
                 "name": "Dreamcore🍥",
-                "seed": 306
+                "seed": 306,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "27c0607a-0a87-11f0-af2b-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "27c0607a-0a87-11f0-af2b-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 844,
@@ -41424,10 +41494,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c1c8e04c-1348-11f0-84f7-7634ef9f88fa",
+                "name": "2025",
+                "seed": 236
             },
             "opponent2": {
-                "id": null
+                "id": "95b5eb26-124e-11f0-b3d3-2e8d1ec3d504",
+                "name": "Big Busters",
+                "seed": 364
             },
             "match_games": []
         },
@@ -41548,7 +41622,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "2cde0f14-1723-11f0-97ec-d67f7cc5febf",
+                "name": "Dreamcore🍥",
+                "seed": 306
             },
             "opponent2": {
                 "id": null
