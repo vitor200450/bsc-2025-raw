@@ -94445,18 +94445,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "f3edcf7a-16e4-11f0-8863-e282ffa70add",
                 "name": "Rimare",
-                "seed": 1141
+                "seed": 1141,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16b42b48-1263-11f0-94ff-2e8d1ec3d504",
                 "name": "Tom a slon",
-                "seed": 396
+                "seed": 396,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "f3edcf7a-16e4-11f0-8863-e282ffa70add",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16b42b48-1263-11f0-94ff-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "f3edcf7a-16e4-11f0-8863-e282ffa70add",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16b42b48-1263-11f0-94ff-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1652,
@@ -98953,18 +98988,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2f4a6a4e-0a86-11f0-a605-729b158e3678",
                 "name": "ESP X DE",
-                "seed": 182
+                "seed": 182,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3384cb04-0a86-11f0-9599-729b158e3678",
                 "name": "Les Saucisses Frites",
-                "seed": 694
+                "seed": 694,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "2f4a6a4e-0a86-11f0-a605-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3384cb04-0a86-11f0-9599-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "2f4a6a4e-0a86-11f0-a605-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3384cb04-0a86-11f0-9599-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1785,
@@ -100438,7 +100508,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "f3edcf7a-16e4-11f0-8863-e282ffa70add",
+                "name": "Rimare",
+                "seed": 1141
             },
             "opponent2": {
                 "id": null
@@ -101671,7 +101743,9 @@
                 "seed": 75
             },
             "opponent2": {
-                "id": null
+                "id": "2f4a6a4e-0a86-11f0-a605-729b158e3678",
+                "name": "ESP X DE",
+                "seed": 182
             },
             "match_games": []
         },
