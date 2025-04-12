@@ -35061,11 +35061,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2d82007c-0a87-11f0-aa2c-729b158e3678",
                 "name": "T¥T|GAMING",
-                "seed": 147
+                "seed": 147,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "f890caf8-124f-11f0-a9da-2e8d1ec3d504",
@@ -38616,7 +38617,11 @@
                 "name": "Spaz",
                 "seed": 403
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "f890caf8-124f-11f0-a9da-2e8d1ec3d504",
+                "name": "The Chicken Jockeys",
+                "seed": 366
+            },
             "match_games": []
         },
         {
