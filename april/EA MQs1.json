@@ -12742,18 +12742,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
                 "name": "OLD PRESON",
-                "seed": 136
+                "seed": 136,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a434c9c8-0a84-11f0-a31c-729b158e3678",
                 "name": "Riberte",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a434c9c8-0a84-11f0-a31c-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "67050946-1286-11f0-b0a6-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a434c9c8-0a84-11f0-a31c-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 228,
