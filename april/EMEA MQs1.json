@@ -73194,18 +73194,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c7a21e2-0a86-11f0-a5f9-729b158e3678",
                 "name": "BitteGmailHimberg",
-                "seed": 248
+                "seed": 248,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
                 "name": "Turtle Team 🐢",
-                "seed": 777
+                "seed": 777,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "2c7a21e2-0a86-11f0-a5f9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "2c7a21e2-0a86-11f0-a5f9-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "2c7a21e2-0a86-11f0-a5f9-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1124,
@@ -82043,18 +82093,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "965db446-1181-11f0-b82c-ba73ea539b98",
                 "name": "A1 Class",
-                "seed": 1594
+                "seed": 1594,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a05a0832-1339-11f0-9908-4ed1b62a3029",
                 "name": "FELLERS",
-                "seed": 1479
+                "seed": 1479,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a05a0832-1339-11f0-9908-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "a05a0832-1339-11f0-9908-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a05a0832-1339-11f0-9908-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1355,
@@ -90213,10 +90313,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                "name": "Turtle Team 🐢",
+                "seed": 777
             },
             "opponent2": {
-                "id": null
+                "id": "31061d38-0a86-11f0-a649-729b158e3678",
+                "name": "Goon gang",
+                "seed": 265
             },
             "match_games": []
         },
@@ -92488,7 +92592,9 @@
                 "seed": 1082
             },
             "opponent2": {
-                "id": null
+                "id": "965db446-1181-11f0-b82c-ba73ea539b98",
+                "name": "A1 Class",
+                "seed": 1594
             },
             "match_games": []
         },
