@@ -4813,18 +4813,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a1bc91be-11e9-11f0-b5b8-a60123dd55a2",
                 "name": "粑粑",
-                "seed": 104
+                "seed": 104,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3f3e1f42-1155-11f0-ae8e-6e914f196a76",
                 "name": "ゴキブリ",
-                "seed": 153
+                "seed": 153,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a1bc91be-11e9-11f0-b5b8-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3f3e1f42-1155-11f0-ae8e-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a1bc91be-11e9-11f0-b5b8-a60123dd55a2",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3f3e1f42-1155-11f0-ae8e-6e914f196a76",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 23,
@@ -6674,18 +6709,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "80c25258-147f-11f0-aab0-4ed1b62a3029",
                 "name": "強力チーム",
-                "seed": 67
+                "seed": 67,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "e4a4d6b4-14e4-11f0-a171-7634ef9f88fa",
                 "name": "RXL",
-                "seed": 190
+                "seed": 190,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "80c25258-147f-11f0-aab0-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4a4d6b4-14e4-11f0-a171-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "80c25258-147f-11f0-aab0-4ed1b62a3029",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "e4a4d6b4-14e4-11f0-a171-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 101,
@@ -6783,18 +6853,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "59b536d0-12cc-11f0-aa64-2e8d1ec3d504",
                 "name": "FIRE LOAD",
-                "seed": 115
+                "seed": 115,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
                 "name": "ISEKAI Yuusha",
-                "seed": 142
+                "seed": 142,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "59b536d0-12cc-11f0-aa64-2e8d1ec3d504",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "59b536d0-12cc-11f0-aa64-2e8d1ec3d504",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 107,
@@ -7526,7 +7631,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "3f3e1f42-1155-11f0-ae8e-6e914f196a76",
+                "name": "ゴキブリ",
+                "seed": 153
             },
             "match_games": []
         },
@@ -8280,7 +8387,9 @@
                 "seed": 62
             },
             "opponent2": {
-                "id": null
+                "id": "80c25258-147f-11f0-aab0-4ed1b62a3029",
+                "name": "強力チーム",
+                "seed": 67
             },
             "match_games": []
         },
@@ -8336,7 +8445,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "5fae0aea-12b2-11f0-b58e-2e8d1ec3d504",
+                "name": "ISEKAI Yuusha",
+                "seed": 142
             },
             "match_games": []
         },
