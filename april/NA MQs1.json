@@ -28219,18 +28219,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
                 "name": "CAL",
-                "seed": 52
+                "seed": 52,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
                 "name": "The Fellas",
-                "seed": 461
+                "seed": 461,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 598,
@@ -29724,18 +29759,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "285ef85c-0a87-11f0-8f4d-729b158e3678",
                 "name": "Ad Astra",
-                "seed": 111
+                "seed": 111,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "58e92dc8-127d-11f0-8c7f-c203eea1d99a",
                 "name": "Auto-Aimers",
-                "seed": 402
+                "seed": 402,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "285ef85c-0a87-11f0-8f4d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58e92dc8-127d-11f0-8c7f-c203eea1d99a",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "285ef85c-0a87-11f0-8f4d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "58e92dc8-127d-11f0-8c7f-c203eea1d99a",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 668,
@@ -32584,7 +32654,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "281a12aa-0a87-11f0-b4c9-729b158e3678",
+                "name": "CAL",
+                "seed": 52
             },
             "opponent2": {
                 "id": null
@@ -33150,7 +33222,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "58e92dc8-127d-11f0-8c7f-c203eea1d99a",
+                "name": "Auto-Aimers",
+                "seed": 402
             },
             "opponent2": {
                 "id": null
