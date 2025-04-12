@@ -12747,18 +12747,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a320ef3a-0a84-11f0-9454-729b158e3678",
                 "name": "Big Dixk",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
                 "name": "Hiyoura",
-                "seed": 93
+                "seed": 93,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "a320ef3a-0a84-11f0-9454-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "a320ef3a-0a84-11f0-9454-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "46ce2e4a-122d-11f0-888c-2e8d1ec3d504",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 230,
