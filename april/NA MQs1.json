@@ -46515,18 +46515,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28835f12-0a87-11f0-a52b-729b158e3678",
                 "name": "hungry hippos",
-                "seed": 8
+                "seed": 8,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
                 "name": "Trump2028",
-                "seed": 441
+                "seed": 441,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 966,
@@ -47180,7 +47215,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "28835f12-0a87-11f0-a52b-729b158e3678",
+                "name": "hungry hippos",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
