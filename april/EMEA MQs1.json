@@ -111966,18 +111966,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73ffb124-0a88-11f0-8ad5-729b158e3678",
                 "name": "Invictus Mente",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "cbf9a11e-14ab-11f0-b184-7634ef9f88fa",
                 "name": "Remicas Hairline",
-                "seed": 1608
+                "seed": 1608,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "73ffb124-0a88-11f0-8ad5-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "cbf9a11e-14ab-11f0-b184-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "73ffb124-0a88-11f0-8ad5-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "cbf9a11e-14ab-11f0-b184-7634ef9f88fa",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1990,
@@ -112851,18 +112886,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e663fda-0a86-11f0-8526-729b158e3678",
                 "name": "🍉",
-                "seed": 102
+                "seed": 102,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
                 "name": "Code : Gas",
-                "seed": 859
+                "seed": 859,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "3e663fda-0a86-11f0-8526-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "3e663fda-0a86-11f0-8526-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "d559cf88-16f7-11f0-b7f9-7e68064584ae",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 2015,
@@ -113015,7 +113085,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "cbf9a11e-14ab-11f0-b184-7634ef9f88fa",
+                "name": "Remicas Hairline",
+                "seed": 1608
             },
             "opponent2": {
                 "id": null
