@@ -15346,18 +15346,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
                 "name": "Trump2028",
-                "seed": 441
+                "seed": 441,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "eaedcfb6-15ad-11f0-8443-7634ef9f88fa",
                 "name": "Wormhagglers🤤",
-                "seed": 584
+                "seed": 584,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eaedcfb6-15ad-11f0-8443-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "eaedcfb6-15ad-11f0-8443-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "eaedcfb6-15ad-11f0-8443-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 79,
@@ -25240,7 +25290,9 @@
                 "seed": 72
             },
             "opponent2": {
-                "id": null
+                "id": "a39f7dec-1181-11f0-b95b-a60123dd55a2",
+                "name": "Trump2028",
+                "seed": 441
             },
             "match_games": []
         },
