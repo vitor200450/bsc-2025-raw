@@ -92228,18 +92228,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
                 "name": "Turtle Team 🐢",
-                "seed": 777
+                "seed": 777,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "31061d38-0a86-11f0-a649-729b158e3678",
                 "name": "Goon gang",
-                "seed": 265
+                "seed": 265,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "31061d38-0a86-11f0-a649-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31061d38-0a86-11f0-a649-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "31061d38-0a86-11f0-a649-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1587,
@@ -101952,7 +102002,9 @@
                 "seed": 1033
             },
             "opponent2": {
-                "id": null
+                "id": "73796b22-143e-11f0-b9de-7634ef9f88fa",
+                "name": "Turtle Team 🐢",
+                "seed": 777
             },
             "match_games": []
         },
