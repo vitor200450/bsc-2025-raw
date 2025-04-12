@@ -43743,18 +43743,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
                 "name": "Sovereign",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "282336aa-0a87-11f0-a235-729b158e3678",
                 "name": "Crash Out Gaming",
-                "seed": 105
+                "seed": 105,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "282336aa-0a87-11f0-a235-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "282336aa-0a87-11f0-a235-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 912,
@@ -44654,18 +44689,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
                 "name": "GG",
-                "seed": 282
+                "seed": 282,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
                 "name": "The Forgotten",
-                "seed": 103
+                "seed": 103,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2d319d1c-0a87-11f0-83be-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 940,
@@ -45079,18 +45149,53 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1e8651b4-1346-11f0-aea5-c203eea1d99a",
                 "name": "Merica",
-                "seed": 486
+                "seed": 486,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
                 "name": "Reino del admin",
-                "seed": 358
+                "seed": 358,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "1e8651b4-1346-11f0-aea5-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "1e8651b4-1346-11f0-aea5-c203eea1d99a",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "14facdca-124a-11f0-82f4-2e8d1ec3d504",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 956,
@@ -45360,7 +45465,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                "name": "Sovereign",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -45598,7 +45705,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "586453fa-15a7-11f0-93fc-cabe1c6ba045",
+                "name": "GG",
+                "seed": 282
             },
             "opponent2": {
                 "id": null
@@ -45728,10 +45837,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "1e8651b4-1346-11f0-aea5-c203eea1d99a",
+                "name": "Merica",
+                "seed": 486
             },
             "opponent2": {
-                "id": null
+                "id": "84931e74-1292-11f0-b042-c203eea1d99a",
+                "name": "Sigma Boys",
+                "seed": 422
             },
             "match_games": []
         },
