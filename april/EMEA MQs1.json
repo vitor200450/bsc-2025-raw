@@ -108492,18 +108492,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a6333d8c-13c0-11f0-bb68-7634ef9f88fa",
                 "name": "Essay's family",
-                "seed": 545
+                "seed": 545,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
                 "name": "TOP|Academy",
-                "seed": 161
+                "seed": 161,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "a6333d8c-13c0-11f0-bb68-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "a6333d8c-13c0-11f0-bb68-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1925,
@@ -110380,18 +110415,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
                 "name": "Crazy Bear",
-                "seed": 1251
+                "seed": 1251,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
                 "name": "Infernux Gaming",
-                "seed": 1379
+                "seed": 1379,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1972,
@@ -110861,7 +110931,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "3c316f8c-0a86-11f0-8434-729b158e3678",
+                "name": "TOP|Academy",
+                "seed": 161
             },
             "match_games": []
         },
@@ -111292,10 +111364,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "6956dbfa-1189-11f0-8c4b-ba73ea539b98",
+                "name": "Crazy Bear",
+                "seed": 1251
             },
             "opponent2": {
-                "id": null
+                "id": "ec443530-1193-11f0-813d-ba73ea539b98",
+                "name": "DPB|Esport",
+                "seed": 1758
             },
             "match_games": []
         },
