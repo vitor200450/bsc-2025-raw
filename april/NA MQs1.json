@@ -14932,18 +14932,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "69bffb62-118e-11f0-9756-ba73ea539b98",
                 "name": "Team Masters",
-                "seed": 465
+                "seed": 465,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fdaadba6-14d3-11f0-8bb4-4ed1b62a3029",
                 "name": "Do Not Disturb",
-                "seed": 560
+                "seed": 560,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "69bffb62-118e-11f0-9756-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fdaadba6-14d3-11f0-8bb4-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "69bffb62-118e-11f0-9756-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fdaadba6-14d3-11f0-8bb4-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "69bffb62-118e-11f0-9756-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fdaadba6-14d3-11f0-8bb4-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 59,
@@ -17651,18 +17701,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
                 "name": "The Fellas",
-                "seed": 461
+                "seed": 461,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "48699f7a-14f6-11f0-90fe-7634ef9f88fa",
                 "name": "Team Chaos Stars",
-                "seed": 564
+                "seed": 564,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "48699f7a-14f6-11f0-90fe-7634ef9f88fa",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48699f7a-14f6-11f0-90fe-7634ef9f88fa",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "48699f7a-14f6-11f0-90fe-7634ef9f88fa",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 171,
@@ -25874,7 +25974,9 @@
                 "seed": 48
             },
             "opponent2": {
-                "id": null
+                "id": "fdaadba6-14d3-11f0-8bb4-4ed1b62a3029",
+                "name": "Do Not Disturb",
+                "seed": 560
             },
             "match_games": []
         },
@@ -26958,7 +27060,9 @@
                 "seed": 52
             },
             "opponent2": {
-                "id": null
+                "id": "1d1263dc-118d-11f0-9a43-ba73ea539b98",
+                "name": "The Fellas",
+                "seed": 461
             },
             "match_games": []
         },
