@@ -14131,18 +14131,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "617c2ba4-1195-11f0-a810-ba73ea539b98",
                 "name": "PIRATES",
-                "seed": 481
+                "seed": 481,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
                 "name": "JAR:dot",
-                "seed": 544
+                "seed": 544,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "617c2ba4-1195-11f0-a810-ba73ea539b98",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "617c2ba4-1195-11f0-a810-ba73ea539b98",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -24425,7 +24460,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "fc47e8a2-1484-11f0-a6c0-cabe1c6ba045",
+                "name": "JAR:dot",
+                "seed": 544
             },
             "match_games": []
         },
