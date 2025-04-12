@@ -107893,7 +107893,7 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3e663fda-0a86-11f0-8526-729b158e3678",
                 "name": "🍉",
@@ -107902,7 +107902,8 @@
             "opponent2": {
                 "id": "d2f66d80-176c-11f0-844c-e282ffa70add",
                 "name": "Crazy Monti",
-                "seed": 1179
+                "seed": 1179,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -109527,7 +109528,11 @@
                 "name": "Homeless Gang",
                 "seed": 539
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "3e663fda-0a86-11f0-8526-729b158e3678",
+                "name": "🍉",
+                "seed": 102
+            },
             "match_games": []
         },
         {
