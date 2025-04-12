@@ -7401,18 +7401,53 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
                 "name": "hlt/Highlight",
-                "seed": 91
+                "seed": 91,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "05fb64ac-1370-11f0-9621-7634ef9f88fa",
                 "name": "𝖙𝖎𝖕𝖘𝖞",
-                "seed": 166
+                "seed": 166,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05fb64ac-1370-11f0-9621-7634ef9f88fa",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "05fb64ac-1370-11f0-9621-7634ef9f88fa",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 121,
@@ -8871,7 +8906,9 @@
                 "seed": 38
             },
             "opponent2": {
-                "id": null
+                "id": "2b4f556a-1221-11f0-8ef6-7634ef9f88fa",
+                "name": "hlt/Highlight",
+                "seed": 91
             },
             "match_games": []
         },
