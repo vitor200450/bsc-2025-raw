@@ -88724,18 +88724,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "35f9a878-0a86-11f0-bb7f-729b158e3678",
                 "name": "Nice Bit Team",
-                "seed": 294
+                "seed": 294,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "6a63ad54-115f-11f0-bd1e-6e914f196a76",
                 "name": "Venom esport",
-                "seed": 1318
+                "seed": 1318,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "35f9a878-0a86-11f0-bb7f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "6a63ad54-115f-11f0-bd1e-6e914f196a76",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "35f9a878-0a86-11f0-bb7f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a63ad54-115f-11f0-bd1e-6e914f196a76",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "35f9a878-0a86-11f0-bb7f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "6a63ad54-115f-11f0-bd1e-6e914f196a76",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 1501,
@@ -94903,7 +94953,11 @@
                 "name": "SDGeier",
                 "seed": 219
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "35f9a878-0a86-11f0-bb7f-729b158e3678",
+                "name": "Nice Bit Team",
+                "seed": 294
+            },
             "match_games": []
         },
         {
