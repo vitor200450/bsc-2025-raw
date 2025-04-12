@@ -95116,18 +95116,53 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
                 "name": "火星の月の燃える虎",
-                "seed": 821
+                "seed": 821,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "39d9f6a0-0a86-11f0-849a-729b158e3678",
                 "name": "SNS Esports",
-                "seed": 309
+                "seed": 309,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39d9f6a0-0a86-11f0-849a-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "39d9f6a0-0a86-11f0-849a-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1655,
@@ -98608,18 +98643,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "3bb70b70-0a86-11f0-bdb6-729b158e3678",
                 "name": "The monkeys",
-                "seed": 158
+                "seed": 158,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
                 "name": "Infernux Gaming",
-                "seed": 1379
+                "seed": 1379,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "3bb70b70-0a86-11f0-bdb6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "3bb70b70-0a86-11f0-bdb6-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "3bb70b70-0a86-11f0-bdb6-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1741,
@@ -101660,7 +101745,9 @@
                 "seed": 53
             },
             "opponent2": {
-                "id": null
+                "id": "1b5bdd34-157f-11f0-9bd0-cabe1c6ba045",
+                "name": "火星の月の燃える虎",
+                "seed": 821
             },
             "match_games": []
         },
@@ -102488,7 +102575,9 @@
                 "seed": 99
             },
             "opponent2": {
-                "id": null
+                "id": "9f226512-12f9-11f0-a309-4ed1b62a3029",
+                "name": "Infernux Gaming",
+                "seed": 1379
             },
             "match_games": []
         },
