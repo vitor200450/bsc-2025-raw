@@ -33708,7 +33708,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "be1515f8-16f7-11f0-9701-9e6fb0bcba43",
                 "name": "MONKS",
@@ -33717,7 +33717,8 @@
             "opponent2": {
                 "id": "7d0a49ac-1251-11f0-b64c-2e8d1ec3d504",
                 "name": "BJS",
-                "seed": 311
+                "seed": 311,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33728,11 +33729,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28989e54-0a87-11f0-ad4d-729b158e3678",
                 "name": "Mythicals",
-                "seed": 74
+                "seed": 74,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
@@ -33748,7 +33750,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "74a2baa4-16db-11f0-af80-86a7a7362d61",
                 "name": "THE RISKY VIKINGS",
@@ -33757,7 +33759,8 @@
             "opponent2": {
                 "id": "33729c88-17ae-11f0-b5f9-82a1de5efc38",
                 "name": "ポッチャマ倶楽部",
-                "seed": 330
+                "seed": 330,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33768,11 +33771,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28ddabc0-0a87-11f0-a304-729b158e3678",
                 "name": "OneTrickRegrigorator",
-                "seed": 23
+                "seed": 23,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "3dd0d640-134e-11f0-aca9-c203eea1d99a",
@@ -33788,11 +33792,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "ac5c6bfc-1343-11f0-82bc-7634ef9f88fa",
                 "name": "Brawl Brothers",
-                "seed": 234
+                "seed": 234,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "5a06cf50-11f9-11f0-9d49-8a585fcd80c0",
@@ -33808,11 +33813,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "28254968-0a87-11f0-a6ac-729b158e3678",
                 "name": "Folk",
-                "seed": 106
+                "seed": 106,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "a138e80e-16f4-11f0-a6dd-0efff8099150",
@@ -33883,7 +33889,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
                 "name": "Auto Aimers Fan club",
@@ -33892,7 +33898,8 @@
             "opponent2": {
                 "id": "b77a9618-118f-11f0-8ca4-8a585fcd80c0",
                 "name": "B.O.T.",
-                "seed": 471
+                "seed": 471,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -33903,7 +33910,7 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "95a5fe58-1340-11f0-bfa2-2e8d1ec3d504",
                 "name": "LA ALIANZA NA",
@@ -33912,7 +33919,8 @@
             "opponent2": {
                 "id": "73723b46-1681-11f0-95ae-cabe1c6ba045",
                 "name": "X-FORCE",
-                "seed": 298
+                "seed": 298,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -35373,11 +35381,12 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "2c1ad916-0a87-11f0-a6d9-729b158e3678",
                 "name": "Sons of god",
-                "seed": 134
+                "seed": 134,
+                "forfeit": 1
             },
             "opponent2": {
                 "id": "c1f22500-12f9-11f0-befe-7634ef9f88fa",
@@ -38210,7 +38219,11 @@
                 "name": "Dragon Empire",
                 "seed": 55
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "be1515f8-16f7-11f0-9701-9e6fb0bcba43",
+                "name": "MONKS",
+                "seed": 202
+            },
             "match_games": []
         },
         {
@@ -38221,8 +38234,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "5ef27a28-15b9-11f0-8bcf-cabe1c6ba045",
+                "name": "Snoopy Oops",
+                "seed": 586
+            },
+            "opponent2": {
+                "id": "74a2baa4-16db-11f0-af80-86a7a7362d61",
+                "name": "THE RISKY VIKINGS",
+                "seed": 183
+            },
             "match_games": []
         },
         {
@@ -38233,8 +38254,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "3dd0d640-134e-11f0-aca9-c203eea1d99a",
+                "name": "Team healthy",
+                "seed": 490
+            },
+            "opponent2": {
+                "id": "5a06cf50-11f9-11f0-9d49-8a585fcd80c0",
+                "name": "CNB",
+                "seed": 279
+            },
             "match_games": []
         },
         {
@@ -38245,8 +38274,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "a138e80e-16f4-11f0-a6dd-0efff8099150",
+                "name": "Bella",
+                "seed": 618
+            },
+            "opponent2": {
+                "id": "48ea5e98-1736-11f0-b95c-9e0be61304e0",
+                "name": "HACKER’S WEB",
+                "seed": 151
+            },
             "match_games": []
         },
         {
@@ -38257,8 +38294,16 @@
             "round_id": 3,
             "child_count": 3,
             "status": 0,
-            "opponent1": null,
-            "opponent2": null,
+            "opponent1": {
+                "id": "293d2884-0a87-11f0-b9d6-729b158e3678",
+                "name": "Auto Aimers Fan club",
+                "seed": 42
+            },
+            "opponent2": {
+                "id": "95a5fe58-1340-11f0-bfa2-2e8d1ec3d504",
+                "name": "LA ALIANZA NA",
+                "seed": 215
+            },
             "match_games": []
         },
         {
@@ -38550,7 +38595,11 @@
                 "name": "Growtopians",
                 "seed": 390
             },
-            "opponent2": null,
+            "opponent2": {
+                "id": "c1f22500-12f9-11f0-befe-7634ef9f88fa",
+                "name": "Lane",
+                "seed": 379
+            },
             "match_games": []
         },
         {
