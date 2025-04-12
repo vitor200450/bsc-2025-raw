@@ -109542,18 +109542,53 @@
             "group_id": 0,
             "round_id": 5,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "30c0fd20-0a86-11f0-8f9c-729b158e3678",
                 "name": "Gigampfii",
-                "seed": 18
+                "seed": 18,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "2bdab1c0-0a86-11f0-8a5f-729b158e3678",
                 "name": "ATM",
-                "seed": 658
+                "seed": 658,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "30c0fd20-0a86-11f0-8f9c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2bdab1c0-0a86-11f0-8a5f-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "30c0fd20-0a86-11f0-8f9c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "2bdab1c0-0a86-11f0-8a5f-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1960,
@@ -110697,7 +110732,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "30c0fd20-0a86-11f0-8f9c-729b158e3678",
+                "name": "Gigampfii",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
