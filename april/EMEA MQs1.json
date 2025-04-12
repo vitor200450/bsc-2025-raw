@@ -56868,18 +56868,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0952b3f6-1165-11f0-8135-c2c76dd5c469",
                 "name": "IMP Elite",
-                "seed": 487
+                "seed": 487,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
                 "name": "BLG TEAM",
-                "seed": 1562
+                "seed": 1562,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0952b3f6-1165-11f0-8135-c2c76dd5c469",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0952b3f6-1165-11f0-8135-c2c76dd5c469",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0952b3f6-1165-11f0-8135-c2c76dd5c469",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 676,
@@ -74594,10 +74644,14 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4c155af6-117c-11f0-8840-ba73ea539b98",
+                "name": "BLG TEAM",
+                "seed": 1562
             },
             "opponent2": {
-                "id": null
+                "id": "67906d8c-13a4-11f0-b3e4-c203eea1d99a",
+                "name": "GOAT",
+                "seed": 538
             },
             "match_games": []
         },
