@@ -27729,18 +27729,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
                 "name": "Sovereign",
-                "seed": 24
+                "seed": 24,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4cbe75ea-1196-11f0-9551-8a585fcd80c0",
                 "name": "GAF ZONE",
-                "seed": 489
+                "seed": 489,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cbe75ea-1196-11f0-9551-8a585fcd80c0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4cbe75ea-1196-11f0-9551-8a585fcd80c0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 570,
@@ -27889,18 +27924,53 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b4c0a2-0a88-11f0-8999-729b158e3678",
                 "name": "Nameless",
-                "seed": 4
+                "seed": 4,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "ffb32160-13cf-11f0-95a2-4ed1b62a3029",
                 "name": "Link",
-                "seed": 516
+                "seed": 516,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e5b4c0a2-0a88-11f0-8999-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ffb32160-13cf-11f0-95a2-4ed1b62a3029",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e5b4c0a2-0a88-11f0-8999-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "ffb32160-13cf-11f0-95a2-4ed1b62a3029",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 578,
@@ -32817,7 +32887,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "290cd9b8-0a87-11f0-ab3a-729b158e3678",
+                "name": "Sovereign",
+                "seed": 24
             },
             "opponent2": {
                 "id": null
@@ -32881,7 +32953,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b4c0a2-0a88-11f0-8999-729b158e3678",
+                "name": "Nameless",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
