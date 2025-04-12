@@ -101929,18 +101929,68 @@
             "group_id": 0,
             "round_id": 4,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "758452b2-1202-11f0-98f9-8a585fcd80c0",
                 "name": "Green",
-                "seed": 576
+                "seed": 576,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "3c6355c4-0a86-11f0-a95d-729b158e3678",
                 "name": "TRINITY GAMING",
-                "seed": 320
+                "seed": 320,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "758452b2-1202-11f0-98f9-8a585fcd80c0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "3c6355c4-0a86-11f0-a95d-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "758452b2-1202-11f0-98f9-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c6355c4-0a86-11f0-a95d-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Heist",
+                    "mapName": "Bridge Too Far",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000072.png",
+                    "opponent1": {
+                        "id": "758452b2-1202-11f0-98f9-8a585fcd80c0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "3c6355c4-0a86-11f0-a95d-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 1796,
@@ -107148,7 +107198,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "758452b2-1202-11f0-98f9-8a585fcd80c0",
+                "name": "Green",
+                "seed": 576
             },
             "opponent2": {
                 "id": null
