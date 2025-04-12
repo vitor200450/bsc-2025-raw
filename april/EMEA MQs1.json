@@ -111971,18 +111971,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "65704a3e-120c-11f0-827f-7634ef9f88fa",
                 "name": "YTE",
-                "seed": 1033
+                "seed": 1033,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
                 "name": "We Need Day Two",
-                "seed": 1464
+                "seed": 1464,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "65704a3e-120c-11f0-827f-7634ef9f88fa",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "65704a3e-120c-11f0-827f-7634ef9f88fa",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1992,
@@ -112111,18 +112146,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "345ec44e-0a86-11f0-bb76-729b158e3678",
                 "name": "LVA",
-                "seed": 284
+                "seed": 284,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
                 "name": "DARK EAGLES",
-                "seed": 37
+                "seed": 37,
+                "score": 2,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "345ec44e-0a86-11f0-bb76-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "345ec44e-0a86-11f0-bb76-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "2e0c7686-0a86-11f0-9710-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 1999,
@@ -112151,18 +112221,53 @@
             "group_id": 0,
             "round_id": 6,
             "child_count": 3,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73fe8998-0a88-11f0-a419-729b158e3678",
                 "name": "Millesime MG",
-                "seed": 21
+                "seed": 21,
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
                 "id": "35692d8e-0a86-11f0-91e0-729b158e3678",
                 "name": "Muertazos BS",
-                "seed": 213
+                "seed": 213,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35692d8e-0a86-11f0-91e0-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "73fe8998-0a88-11f0-a419-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "35692d8e-0a86-11f0-91e0-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 2001,
@@ -112611,7 +112716,9 @@
             "child_count": 3,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "5d55db6a-1172-11f0-ae87-a60123dd55a2",
+                "name": "We Need Day Two",
+                "seed": 1464
             },
             "opponent2": {
                 "id": null
