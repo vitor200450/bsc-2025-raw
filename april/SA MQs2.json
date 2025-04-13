@@ -4230,18 +4230,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c5793764-0a88-11f0-93ef-729b158e3678",
                 "name": "Blue Lock 357",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
                 "name": "SC TEAM",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 47,
@@ -4315,7 +4365,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                "name": "Blue Lock 357",
+                "seed": 10
             },
             "match_games": []
         },
