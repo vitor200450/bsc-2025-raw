@@ -2812,18 +2812,83 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
                 "name": "LOUD",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
                 "name": "Olimpo Squad",
-                "seed": 5
+                "seed": 5,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 43,
@@ -3944,7 +4009,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                "name": "Olimpo Squad",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
