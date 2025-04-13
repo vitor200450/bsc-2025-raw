@@ -4240,18 +4240,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
                 "name": "Fug",
-                "seed": 24
+                "seed": 24,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "17c8eadc-1772-11f0-b1a6-9e0be61304e0",
                 "name": "”‬FCサジアキ‪”",
-                "seed": 22
+                "seed": 22,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "17c8eadc-1772-11f0-b1a6-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "17c8eadc-1772-11f0-b1a6-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17c8eadc-1772-11f0-b1a6-9e0be61304e0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 49,
@@ -4321,7 +4371,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "17c8eadc-1772-11f0-b1a6-9e0be61304e0",
+                "name": "”‬FCサジアキ‪”",
+                "seed": 22
             },
             "match_games": []
         }
