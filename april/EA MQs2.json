@@ -4180,18 +4180,68 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
                 "name": "Come Next 🤡",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
                 "name": "Angry Bear",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4367,7 +4417,9 @@
                 "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                "name": "Come Next 🤡",
+                "seed": 11
             },
             "match_games": []
         },
