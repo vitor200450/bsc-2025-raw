@@ -4537,18 +4537,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
                 "name": "Skepsis Gaming",
-                "seed": 12
+                "seed": 12,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
                 "name": "DPB|Esport",
-                "seed": 23
+                "seed": 23,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 48,
@@ -4622,7 +4687,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                "name": "DPB|Esport",
+                "seed": 23
             },
             "match_games": []
         },
