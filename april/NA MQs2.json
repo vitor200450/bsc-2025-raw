@@ -2811,18 +2811,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "24c6ca06-0a89-11f0-a5ff-729b158e3678",
                 "name": "Tribe Gaming",
-                "seed": 1
+                "seed": 1,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "24c80358-0a89-11f0-a740-729b158e3678",
                 "name": "STMN",
-                "seed": 9
+                "seed": 9,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "24c6ca06-0a89-11f0-a5ff-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "24c6ca06-0a89-11f0-a5ff-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "24c6ca06-0a89-11f0-a5ff-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 42,
@@ -3706,18 +3756,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
                 "name": "Synchronic Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87f186ae-17f2-11f0-9ea7-5e3e4f9cad4d",
                 "name": "Snoopy Oops",
-                "seed": 30
+                "seed": 30,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f186ae-17f2-11f0-9ea7-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f186ae-17f2-11f0-9ea7-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f186ae-17f2-11f0-9ea7-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 40,
@@ -3796,7 +3896,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                "name": "Synchronic Gaming",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
@@ -3828,7 +3930,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                "name": "STMN",
+                "seed": 9
             },
             "opponent2": {
                 "id": null
