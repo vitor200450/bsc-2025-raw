@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+            "tournament_id": 0,
+            "name": "Ping Warriors",
+            "players": [
+                {
+                    "name": "Dan-YT",
+                    "gamerTag": "#8CYYL8VJ"
+                },
+                {
+                    "name": "JuandaR💜",
+                    "gamerTag": "#2QQ0QVJYV"
+                },
+                {
+                    "name": "Bot | RalG8",
+                    "gamerTag": "#L90PLL89"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "87f21560-17f2-11f0-ba3c-5e3e4f9cad4d",
             "tournament_id": 0,
             "name": "we love latinas",
@@ -971,18 +991,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "24c8cc3e-0a89-11f0-9697-729b158e3678",
                 "name": "CODE OG",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
                 "name": "Ping Warriors",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "24c8cc3e-0a89-11f0-9697-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "24c8cc3e-0a89-11f0-9697-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "24c8cc3e-0a89-11f0-9697-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -1373,7 +1443,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "24c8cc3e-0a89-11f0-9697-729b158e3678",
+                "name": "CODE OG",
+                "seed": 5
             },
             "opponent2": {
                 "id": null
@@ -1571,7 +1643,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                "name": "Ping Warriors",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
