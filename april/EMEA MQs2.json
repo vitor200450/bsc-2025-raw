@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/DARK EAGLES.png"
         },
         {
+            "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+            "tournament_id": 0,
+            "name": "Izana is bad",
+            "players": [
+                {
+                    "name": "SniperGOTY",
+                    "gamerTag": "#2PLVJ0GLV"
+                },
+                {
+                    "name": "ObitoGOTY",
+                    "gamerTag": "#R9GJPP9J"
+                },
+                {
+                    "name": "MewtuGOTY",
+                    "gamerTag": "#28CGVVJGG"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
             "tournament_id": 0,
             "name": "TOP|Academy",
@@ -1402,18 +1422,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
                 "name": "FUT Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
                 "name": "Izana is bad",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 8,
@@ -2094,10 +2194,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                "name": "FUT Esports",
+                "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                "name": "Skepsis Gaming",
+                "seed": 12
             },
             "match_games": []
         },
@@ -2312,10 +2416,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                "name": "Izana is bad",
+                "seed": 28
             },
             "opponent2": {
-                "id": null
+                "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                "name": "TOP|Academy",
+                "seed": 21
             },
             "match_games": []
         },
