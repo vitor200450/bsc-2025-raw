@@ -2634,18 +2634,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87ee55ce-17f2-11f0-8968-5e3e4f9cad4d",
                 "name": "Thunderbolts",
-                "seed": 25
+                "seed": 25,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
                 "name": "Crumbs",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "87ee55ce-17f2-11f0-8968-5e3e4f9cad4d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "87ee55ce-17f2-11f0-8968-5e3e4f9cad4d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "87ee55ce-17f2-11f0-8968-5e3e4f9cad4d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 19,
@@ -2797,7 +2847,9 @@
                 "seed": 14
             },
             "opponent2": {
-                "id": null
+                "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                "name": "Crumbs",
+                "seed": 24
             },
             "match_games": []
         },
