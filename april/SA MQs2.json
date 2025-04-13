@@ -2362,18 +2362,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16f707ce-0a89-11f0-9d95-729b158e3678",
                 "name": "Cross Esports",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c57c76a4-0a88-11f0-bf27-729b158e3678",
                 "name": "Não treinamos",
-                "seed": 11
+                "seed": 11,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "16f707ce-0a89-11f0-9d95-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57c76a4-0a88-11f0-bf27-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "16f707ce-0a89-11f0-9d95-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57c76a4-0a88-11f0-bf27-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16f707ce-0a89-11f0-9d95-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57c76a4-0a88-11f0-bf27-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 41,
@@ -2612,10 +2662,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c57c76a4-0a88-11f0-bf27-729b158e3678",
+                "name": "Não treinamos",
+                "seed": 11
             },
             "opponent2": {
-                "id": null
+                "id": "c581e38c-0a88-11f0-8567-729b158e3678",
+                "name": "La Fúria",
+                "seed": 16
             },
             "match_games": []
         },
