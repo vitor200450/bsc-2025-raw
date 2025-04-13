@@ -2661,18 +2661,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
                 "name": "SC TEAM",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b41355b0-17dd-11f0-b319-1edbf23e3a72",
                 "name": "GG Wellplayed",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41355b0-17dd-11f0-b319-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41355b0-17dd-11f0-b319-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41355b0-17dd-11f0-b319-1edbf23e3a72",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -2823,7 +2873,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                "name": "SC TEAM",
+                "seed": 28
             },
             "match_games": []
         },
