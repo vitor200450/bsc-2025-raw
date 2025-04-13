@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+            "tournament_id": 0,
+            "name": "Inner Circle",
+            "players": [
+                {
+                    "name": "IC|Mebius",
+                    "gamerTag": "#2L08U08RUQ"
+                },
+                {
+                    "name": "IC|Nob?",
+                    "gamerTag": "#P2808PRC"
+                },
+                {
+                    "name": "IC | RamaZR",
+                    "gamerTag": "#J2L2C0RJ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Inner Circle.png"
+        },
+        {
             "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
             "tournament_id": 0,
             "name": "Mini Kozaki",
@@ -862,18 +882,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
                 "name": "Inner Circle",
-                "seed": 4
+                "seed": 4,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
                 "name": "Code : Gas",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 6,
@@ -1238,7 +1308,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
+                "name": "Code : Gas",
+                "seed": 29
             },
             "opponent2": {
                 "id": null
@@ -1434,7 +1506,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+                "name": "Inner Circle",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
