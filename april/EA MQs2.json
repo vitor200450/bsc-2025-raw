@@ -761,6 +761,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+            "tournament_id": 0,
+            "name": "迷子のろいろい",
+            "players": [
+                {
+                    "name": "ぷっちんととぽん💫🩵",
+                    "gamerTag": "#RPJVPR0RY"
+                },
+                {
+                    "name": "いくら",
+                    "gamerTag": "#UJJYQQ2C"
+                },
+                {
+                    "name": "ポンポコタヌキーズ20世",
+                    "gamerTag": "#P9QQU9GCQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "17cbeac0-1772-11f0-86c9-9e0be61304e0",
             "tournament_id": 0,
             "name": "ぽぽっちゃお",
@@ -1303,18 +1323,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
                 "name": "ZETA DIVISION",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
                 "name": "迷子のろいろい",
-                "seed": 31
+                "seed": 31,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1804,7 +1889,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fa378a0a-0a88-11f0-ad42-729b158e3678",
+                "name": "ZETA DIVISION",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2016,7 +2103,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                "name": "迷子のろいろい",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
