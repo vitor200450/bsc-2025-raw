@@ -701,6 +701,46 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Inner Circle.png"
         },
         {
+            "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+            "tournament_id": 0,
+            "name": "TOP|Academy",
+            "players": [
+                {
+                    "name": "TOP|Ethan ツ",
+                    "gamerTag": "#2Y20JR8CQ"
+                },
+                {
+                    "name": "TOP|Gionikツ",
+                    "gamerTag": "#222R82RCU"
+                },
+                {
+                    "name": "TOP|Simone ツ",
+                    "gamerTag": "#9YYY9JVJP"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/TOPAcademy.png"
+        },
+        {
+            "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+            "tournament_id": 0,
+            "name": "Nizamettin",
+            "players": [
+                {
+                    "name": "🍉🪶",
+                    "gamerTag": "#92YGVR8C"
+                },
+                {
+                    "name": "SUP |Extrigotin",
+                    "gamerTag": "#2VG8U2900"
+                },
+                {
+                    "name": "Suffo 🐍",
+                    "gamerTag": "#PVRLUJU"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
             "tournament_id": 0,
             "name": "Mini Kozaki",
@@ -1082,18 +1122,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
                 "name": "Skepsis Gaming",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
                 "name": "TOP|Academy",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 9,
@@ -1102,18 +1192,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
                 "name": "Eclipsar Esport",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
                 "name": "Nizamettin",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1482,7 +1622,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                "name": "Eclipsar Esport",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1684,7 +1826,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                "name": "Nizamettin",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
