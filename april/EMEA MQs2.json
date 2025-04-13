@@ -2392,18 +2392,83 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
                 "name": "FUT Esports",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
                 "name": "Skepsis Gaming",
-                "seed": 12
+                "seed": 12,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2667,7 +2732,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                "name": "FUT Esports",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3282,10 +3349,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                "name": "Skepsis Gaming",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                "name": "Nizamettin",
+                "seed": 31
             },
             "match_games": []
         },
