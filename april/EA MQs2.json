@@ -4580,18 +4580,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fa36d8c6-0a88-11f0-af7c-729b158e3678",
                 "name": "NIWA",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
                 "name": "迷子のろいろい",
-                "seed": 31
+                "seed": 31,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa36d8c6-0a88-11f0-af7c-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa36d8c6-0a88-11f0-af7c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa36d8c6-0a88-11f0-af7c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "fa36d8c6-0a88-11f0-af7c-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cec268-1772-11f0-8d73-9e0be61304e0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 52,
