@@ -4892,18 +4892,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "73f416a2-0a88-11f0-b4b0-729b158e3678",
                 "name": "Team Heretics",
-                "seed": 6
+                "seed": 6,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
                 "name": "DPB|Esport",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "73f416a2-0a88-11f0-b4b0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "73f416a2-0a88-11f0-b4b0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "73f416a2-0a88-11f0-b4b0-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 52,
