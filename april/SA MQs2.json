@@ -2814,18 +2814,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
                 "name": "Tribe 6ix One",
-                "seed": 29
+                "seed": 29,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b41654cc-17dd-11f0-8399-1edbf23e3a72",
                 "name": "Golden Stars",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b41654cc-17dd-11f0-8399-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41654cc-17dd-11f0-8399-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41654cc-17dd-11f0-8399-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41654cc-17dd-11f0-8399-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 20,
@@ -3082,7 +3147,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "b4192350-17dd-11f0-b4b2-1edbf23e3a72",
+                "name": "Tribe 6ix One",
+                "seed": 29
             },
             "match_games": []
         },
