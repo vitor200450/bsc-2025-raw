@@ -2212,18 +2212,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
                 "name": "LOUD",
-                "seed": 4
+                "seed": 4,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c581690c-0a88-11f0-bbeb-729b158e3678",
                 "name": "DRN",
-                "seed": 13
+                "seed": 13,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c581690c-0a88-11f0-bbeb-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c581690c-0a88-11f0-bbeb-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c581690c-0a88-11f0-bbeb-729b158e3678",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 28,
@@ -2500,7 +2550,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16fa7508-0a89-11f0-a5db-729b158e3678",
+                "name": "LOUD",
+                "seed": 4
             },
             "opponent2": {
                 "id": null
@@ -2904,7 +2956,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c581690c-0a88-11f0-bbeb-729b158e3678",
+                "name": "DRN",
+                "seed": 13
             },
             "opponent2": {
                 "id": null
