@@ -781,6 +781,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+            "tournament_id": 0,
+            "name": "Pineapple San",
+            "players": [
+                {
+                    "name": "PS|HaoQian",
+                    "gamerTag": "#LULRJJ2"
+                },
+                {
+                    "name": "𝄞Yeachai純狐™",
+                    "gamerTag": "#YUYQ8UV0Y"
+                },
+                {
+                    "name": "Heruta💜",
+                    "gamerTag": "#P2Q2JYPCV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "17cbeac0-1772-11f0-86c9-9e0be61304e0",
             "tournament_id": 0,
             "name": "ぽぽっちゃお",
@@ -1408,18 +1428,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
                 "name": "ORDER",
-                "seed": 15
+                "seed": 15,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
                 "name": "Pineapple San",
-                "seed": 18
+                "seed": 18,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -1894,7 +1979,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "4f4fe7a4-0a88-11f0-b020-729b158e3678",
+                "name": "ORDER",
+                "seed": 15
             },
             "match_games": []
         },
@@ -2108,7 +2195,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "17c731d8-1772-11f0-a32e-9e0be61304e0",
+                "name": "Pineapple San",
+                "seed": 18
             },
             "match_games": []
         },
