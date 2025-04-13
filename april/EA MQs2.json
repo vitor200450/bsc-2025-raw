@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
+            "tournament_id": 0,
+            "name": "Big Dixk",
+            "players": [
+                {
+                    "name": "空折くうせつ",
+                    "gamerTag": "#YP29GG9U2"
+                },
+                {
+                    "name": "e04!?",
+                    "gamerTag": "#Y0YUU8LR8"
+                },
+                {
+                    "name": "フラグランス",
+                    "gamerTag": "#20YJ9LYUQ"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "17cda63a-1772-11f0-b51d-9e0be61304e0",
             "tournament_id": 0,
             "name": "ISEKAI Yuusha",
@@ -676,6 +696,26 @@
                 {
                     "name": "ØNÈTÓP_잡이✨",
                     "gamerTag": "#2L80JCR2C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "17c7cbca-1772-11f0-9495-9e0be61304e0",
+            "tournament_id": 0,
+            "name": "マンケルビーム",
+            "players": [
+                {
+                    "name": "REX Roland💫🍁",
+                    "gamerTag": "#2LPYGGPL2"
+                },
+                {
+                    "name": "Charizard🐦‍🔥",
+                    "gamerTag": "#VJ8YGJJ0"
+                },
+                {
+                    "name": "Leo레오🐈‍⬛",
+                    "gamerTag": "#2JLUR98VV"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -891,7 +931,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "a2be4cc2-0a84-11f0-8dcd-729b158e3678",
                 "name": "Team Echo",
@@ -900,7 +940,8 @@
             "opponent2": {
                 "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
                 "name": "Big Dixk",
-                "seed": 17
+                "seed": 17,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1061,7 +1102,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
                 "name": "Gen.G Esports",
@@ -1070,7 +1111,8 @@
             "opponent2": {
                 "id": "17c7cbca-1772-11f0-9495-9e0be61304e0",
                 "name": "マンケルビーム",
-                "seed": 21
+                "seed": 21,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1398,7 +1440,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "a2be4cc2-0a84-11f0-8dcd-729b158e3678",
+                "name": "Team Echo",
+                "seed": 16
             },
             "match_games": []
         },
@@ -1600,7 +1644,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
+                "name": "Big Dixk",
+                "seed": 17
             },
             "match_games": []
         },
