@@ -4580,18 +4580,68 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16f99b24-0a89-11f0-899a-729b158e3678",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
                 "name": "Nobruzes F/A",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
