@@ -821,6 +821,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+            "tournament_id": 0,
+            "name": "CRS | Coquitos",
+            "players": [
+                {
+                    "name": "交Rodrigo ϟ",
+                    "gamerTag": "#2P92JPJPC"
+                },
+                {
+                    "name": "海膽 •Benjaxx🦔",
+                    "gamerTag": "#82QLJ8UY2"
+                },
+                {
+                    "name": "說|Dieghost🥷🏻",
+                    "gamerTag": "#99GCG092G"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "b41809d4-17dd-11f0-aaf3-1edbf23e3a72",
             "tournament_id": 0,
             "name": "M2H😜",
@@ -1617,18 +1637,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
                 "name": "CRS | Coquitos",
-                "seed": 15
+                "seed": 15,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
                 "name": "Pitchulas",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 11,
@@ -2159,7 +2259,9 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": null
+                "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                "name": "Pitchulas",
+                "seed": 18
             },
             "match_games": []
         },
@@ -2381,7 +2483,9 @@
                 "seed": 31
             },
             "opponent2": {
-                "id": null
+                "id": "e676ebca-0a86-11f0-9a53-729b158e3678",
+                "name": "CRS | Coquitos",
+                "seed": 15
             },
             "match_games": []
         },
