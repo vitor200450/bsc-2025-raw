@@ -3560,18 +3560,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
                 "name": "Come Next 🤡",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
                 "name": "Big Dixk",
-                "seed": 17
+                "seed": 17,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c65696-1772-11f0-b23a-9e0be61304e0",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 34,
@@ -3722,7 +3772,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "4f4609dc-0a88-11f0-b62d-729b158e3678",
+                "name": "Come Next 🤡",
+                "seed": 11
             },
             "opponent2": {
                 "id": null
