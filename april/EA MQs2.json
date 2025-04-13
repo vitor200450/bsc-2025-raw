@@ -2393,18 +2393,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17cd159e-1772-11f0-9917-9e0be61304e0",
                 "name": "OLD PRESON",
-                "seed": 28
+                "seed": 28,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
                 "name": "Gen.G Esports",
-                "seed": 12
+                "seed": 12,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "17cd159e-1772-11f0-9917-9e0be61304e0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "17cd159e-1772-11f0-9917-9e0be61304e0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "17cd159e-1772-11f0-9917-9e0be61304e0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2720,7 +2770,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "4f4cb570-0a88-11f0-b024-729b158e3678",
+                "name": "Gen.G Esports",
+                "seed": 12
             },
             "match_games": []
         },
@@ -3211,7 +3263,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "17cd159e-1772-11f0-9917-9e0be61304e0",
+                "name": "OLD PRESON",
+                "seed": 28
             },
             "opponent2": {
                 "id": null
