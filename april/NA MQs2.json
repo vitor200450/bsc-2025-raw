@@ -2256,18 +2256,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
                 "name": "Synchronic Gaming",
-                "seed": 8
+                "seed": 8,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "24c80358-0a89-11f0-a740-729b158e3678",
                 "name": "STMN",
-                "seed": 9
+                "seed": 9,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "24c80358-0a89-11f0-a740-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 27,
@@ -2772,7 +2822,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "e5b2f772-0a88-11f0-914c-729b158e3678",
+                "name": "Synchronic Gaming",
+                "seed": 8
             },
             "opponent2": {
                 "id": null
