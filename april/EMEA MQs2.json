@@ -141,21 +141,21 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/XPERION NXT.png"
         },
         {
-            "id": "fc7767ae-17b7-11f0-b29b-42706e72cf32",
+            "id": "8c833fb8-1848-11f0-a9c7-4213c753f0c7",
             "tournament_id": 0,
-            "name": "Ping Abusers",
+            "name": "LUX NNS",
             "players": [
                 {
-                    "name": "Yannic",
-                    "gamerTag": "#92VJ9V29V"
+                    "name": "LUX |Moha",
+                    "gamerTag": "#U08QCLL0"
                 },
                 {
-                    "name": "Melih🍞",
-                    "gamerTag": "#Q92PG0RG8"
+                    "name": "PeRezZ",
+                    "gamerTag": "#Y9Q0GUJ20"
                 },
                 {
-                    "name": "🔱 CoVeRzZz 🔱",
-                    "gamerTag": "#2VUG0JU8Y"
+                    "name": "LUX|Denk",
+                    "gamerTag": "#QL8J82G8"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -381,21 +381,21 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/GLORE.FIFINE.png"
         },
         {
-            "id": "fc73babe-17b7-11f0-bc71-42706e72cf32",
+            "id": "8c841e24-1848-11f0-9722-4213c753f0c7",
             "tournament_id": 0,
-            "name": "Drunk Beavers",
+            "name": "NTSX ACADEMY",
             "players": [
                 {
-                    "name": "ϟOutplayer⋆🦫〃",
-                    "gamerTag": "#98QVV2VQJ"
+                    "name": "NS |Mikxss",
+                    "gamerTag": "#290P8QQRL"
                 },
                 {
-                    "name": "ZETA|Nobitampo",
-                    "gamerTag": "#PYR98RY9J"
+                    "name": "be humble.",
+                    "gamerTag": "#P92J2020"
                 },
                 {
-                    "name": "༺✧༻",
-                    "gamerTag": "#JY22C28R"
+                    "name": "NS|Bartxzz",
+                    "gamerTag": "#8JGVULPR8"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -690,25 +690,37 @@
         },
         {
             "id": 3,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0
+        },
+        {
+            "id": 4,
             "number": 1,
             "stage_id": 0,
             "group_id": 1
         },
         {
-            "id": 4,
+            "id": 5,
             "number": 2,
             "stage_id": 0,
             "group_id": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "number": 3,
             "stage_id": 0,
             "group_id": 1
         },
         {
-            "id": 6,
+            "id": 7,
             "number": 4,
+            "stage_id": 0,
+            "group_id": 1
+        },
+        {
+            "id": 8,
+            "number": 5,
             "stage_id": 0,
             "group_id": 1
         }
@@ -721,17 +733,13 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "0b35c876-0a89-11f0-a002-729b158e3678",
                 "name": "SK Gaming",
                 "seed": 1
             },
-            "opponent2": {
-                "id": "fc90b3b2-17b7-11f0-ac7f-42706e72cf32",
-                "name": "F/A Sucuk",
-                "seed": 32
-            },
+            "opponent2": null,
             "match_games": []
         },
         {
@@ -740,6 +748,524 @@
             "stage_id": 0,
             "group_id": 0,
             "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "fc90b3b2-17b7-11f0-ac7f-42706e72cf32",
+                "name": "F/A Sucuk",
+                "seed": 32
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 3,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+                "name": "Universum Gaming",
+                "seed": 16
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 4,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
+                "name": "Aogiri Esport",
+                "seed": 17
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 5,
+            "number": 5,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b32ff88-0a89-11f0-b324-729b158e3678",
+                "name": "Reply Totem",
+                "seed": 8
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 6,
+            "number": 6,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc7801d2-17b7-11f0-a6b9-42706e72cf32",
+                "name": "NTSX",
+                "seed": 25
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 7,
+            "number": 7,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
+                "name": "XPERION NXT",
+                "seed": 9
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 8,
+            "number": 8,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "8c833fb8-1848-11f0-a9c7-4213c753f0c7",
+                "name": "LUX NNS",
+                "seed": 24
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 9,
+            "number": 9,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b34f4c8-0a89-11f0-bd9d-729b158e3678",
+                "name": "Inner Circle",
+                "seed": 4
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 10,
+            "number": 10,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc7a7e62-17b7-11f0-900b-42706e72cf32",
+                "name": "Code : Gas",
+                "seed": 29
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 11,
+            "number": 11,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                "name": "TOP eSports",
+                "seed": 13
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 12,
+            "number": 12,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                "name": "DARK EAGLES",
+                "seed": 20
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 13,
+            "number": 13,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b349dc0-0a89-11f0-b8ed-729b158e3678",
+                "name": "FUT Esports",
+                "seed": 5
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 14,
+            "number": 14,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                "name": "Izana is bad",
+                "seed": 28
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 15,
+            "number": 15,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f0c768-0a88-11f0-bd71-729b158e3678",
+                "name": "Skepsis Gaming",
+                "seed": 12
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 16,
+            "number": 16,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                "name": "TOP|Academy",
+                "seed": 21
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 17,
+            "number": 17,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                "name": "Eclipsar Esport",
+                "seed": 2
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 18,
+            "number": 18,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
+                "name": "Nizamettin",
+                "seed": 31
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 19,
+            "number": 19,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f341be-0a88-11f0-a78b-729b158e3678",
+                "name": "GLORE.FIFINE",
+                "seed": 15
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 20,
+            "number": 20,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "8c841e24-1848-11f0-9722-4213c753f0c7",
+                "name": "NTSX ACADEMY",
+                "seed": 18
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 21,
+            "number": 21,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                "name": "Papara SuperMassive",
+                "seed": 7
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 22,
+            "number": 22,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                "name": "Remicas Hairline",
+                "seed": 26
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 23,
+            "number": 23,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b3693a0-0a89-11f0-86c9-729b158e3678",
+                "name": "Reverso Gaming",
+                "seed": 10
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 24,
+            "number": 24,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc76b980-17b7-11f0-aae1-42706e72cf32",
+                "name": "DPB|Esport",
+                "seed": 23
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 25,
+            "number": 25,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "0b3436c8-0a89-11f0-8bbf-729b158e3678",
+                "name": "HMBLE",
+                "seed": 3
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 26,
+            "number": 26,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
+                "name": "Mini Kozaki",
+                "seed": 30
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 27,
+            "number": 27,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f154c6-0a88-11f0-b0c6-729b158e3678",
+                "name": "F/A Poland",
+                "seed": 14
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 28,
+            "number": 28,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
+                "name": "Millesime MG",
+                "seed": 19
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 29,
+            "number": 29,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f416a2-0a88-11f0-b4b0-729b158e3678",
+                "name": "Team Heretics",
+                "seed": 6
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 30,
+            "number": 30,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc79341c-17b7-11f0-8f21-42706e72cf32",
+                "name": "F/A Model",
+                "seed": 27
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 31,
+            "number": 31,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "73f25a1a-0a88-11f0-ac9f-729b158e3678",
+                "name": "LLC Esport",
+                "seed": 11
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 32,
+            "number": 32,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 4,
+            "opponent1": {
+                "id": "fc748070-17b7-11f0-b80c-42706e72cf32",
+                "name": "Suspect",
+                "seed": 22
+            },
+            "opponent2": null,
+            "match_games": []
+        },
+        {
+            "id": 35,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": "0b35c876-0a89-11f0-a002-729b158e3678",
+                "name": "SK Gaming",
+                "seed": 1
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 36,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 0,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -755,11 +1281,11 @@
             "match_games": []
         },
         {
-            "id": 3,
+            "id": 37,
             "number": 3,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -775,11 +1301,11 @@
             "match_games": []
         },
         {
-            "id": 4,
+            "id": 38,
             "number": 4,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -788,18 +1314,18 @@
                 "seed": 9
             },
             "opponent2": {
-                "id": "fc7767ae-17b7-11f0-b29b-42706e72cf32",
-                "name": "Ping Abusers",
+                "id": "8c833fb8-1848-11f0-a9c7-4213c753f0c7",
+                "name": "LUX NNS",
                 "seed": 24
             },
             "match_games": []
         },
         {
-            "id": 5,
+            "id": 39,
             "number": 5,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -815,11 +1341,11 @@
             "match_games": []
         },
         {
-            "id": 6,
+            "id": 40,
             "number": 6,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -835,11 +1361,11 @@
             "match_games": []
         },
         {
-            "id": 7,
+            "id": 41,
             "number": 7,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -855,11 +1381,11 @@
             "match_games": []
         },
         {
-            "id": 8,
+            "id": 42,
             "number": 8,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -875,11 +1401,11 @@
             "match_games": []
         },
         {
-            "id": 9,
+            "id": 43,
             "number": 9,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -888,18 +1414,16 @@
                 "seed": 2
             },
             "opponent2": {
-                "id": "fc900142-17b7-11f0-85c8-42706e72cf32",
-                "name": "Nizamettin",
-                "seed": 31
+                "id": null
             },
             "match_games": []
         },
         {
-            "id": 10,
+            "id": 44,
             "number": 10,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -908,18 +1432,18 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": "fc73babe-17b7-11f0-bc71-42706e72cf32",
-                "name": "Drunk Beavers",
+                "id": "8c841e24-1848-11f0-9722-4213c753f0c7",
+                "name": "NTSX ACADEMY",
                 "seed": 18
             },
             "match_games": []
         },
         {
-            "id": 11,
+            "id": 45,
             "number": 11,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -935,11 +1459,11 @@
             "match_games": []
         },
         {
-            "id": 12,
+            "id": 46,
             "number": 12,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -955,11 +1479,11 @@
             "match_games": []
         },
         {
-            "id": 13,
+            "id": 47,
             "number": 13,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -975,11 +1499,11 @@
             "match_games": []
         },
         {
-            "id": 14,
+            "id": 48,
             "number": 14,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -995,11 +1519,11 @@
             "match_games": []
         },
         {
-            "id": 15,
+            "id": 49,
             "number": 15,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1015,11 +1539,11 @@
             "match_games": []
         },
         {
-            "id": 16,
+            "id": 50,
             "number": 16,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 1,
+            "round_id": 2,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1035,11 +1559,11 @@
             "match_games": []
         },
         {
-            "id": 25,
+            "id": 59,
             "number": 1,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1051,11 +1575,11 @@
             "match_games": []
         },
         {
-            "id": 26,
+            "id": 60,
             "number": 2,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1067,11 +1591,11 @@
             "match_games": []
         },
         {
-            "id": 27,
+            "id": 61,
             "number": 3,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1083,11 +1607,11 @@
             "match_games": []
         },
         {
-            "id": 28,
+            "id": 62,
             "number": 4,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1099,11 +1623,11 @@
             "match_games": []
         },
         {
-            "id": 29,
+            "id": 63,
             "number": 5,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1115,11 +1639,11 @@
             "match_games": []
         },
         {
-            "id": 30,
+            "id": 64,
             "number": 6,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1131,11 +1655,11 @@
             "match_games": []
         },
         {
-            "id": 31,
+            "id": 65,
             "number": 7,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1147,11 +1671,11 @@
             "match_games": []
         },
         {
-            "id": 32,
+            "id": 66,
             "number": 8,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 2,
+            "round_id": 3,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1163,11 +1687,11 @@
             "match_games": []
         },
         {
-            "id": 41,
+            "id": 75,
             "number": 1,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 3,
+            "round_id": 4,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1179,11 +1703,11 @@
             "match_games": []
         },
         {
-            "id": 42,
+            "id": 76,
             "number": 2,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 3,
+            "round_id": 4,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1195,11 +1719,11 @@
             "match_games": []
         },
         {
-            "id": 43,
+            "id": 77,
             "number": 3,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 3,
+            "round_id": 4,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1211,139 +1735,11 @@
             "match_games": []
         },
         {
-            "id": 44,
+            "id": 78,
             "number": 4,
             "stage_id": 0,
             "group_id": 0,
-            "round_id": 3,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 17,
-            "number": 1,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 18,
-            "number": 2,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 19,
-            "number": 3,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 20,
-            "number": 4,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 21,
-            "number": 5,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 22,
-            "number": 6,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 23,
-            "number": 7,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
-            "child_count": 5,
-            "status": 0,
-            "opponent1": {
-                "id": null
-            },
-            "opponent2": {
-                "id": null
-            },
-            "match_games": []
-        },
-        {
-            "id": 24,
-            "number": 8,
-            "stage_id": 0,
-            "group_id": 1,
-            "round_id": 1,
+            "round_id": 4,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1359,7 +1755,7 @@
             "number": 1,
             "stage_id": 0,
             "group_id": 1,
-            "round_id": 2,
+            "round_id": 1,
             "child_count": 5,
             "status": 0,
             "opponent1": {
@@ -1375,6 +1771,22 @@
             "number": 2,
             "stage_id": 0,
             "group_id": 1,
+            "round_id": 1,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 51,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 1,
             "round_id": 2,
             "child_count": 5,
             "status": 0,
@@ -1387,7 +1799,23 @@
             "match_games": []
         },
         {
-            "id": 35,
+            "id": 52,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 2,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 53,
             "number": 3,
             "stage_id": 0,
             "group_id": 1,
@@ -1403,7 +1831,7 @@
             "match_games": []
         },
         {
-            "id": 36,
+            "id": 54,
             "number": 4,
             "stage_id": 0,
             "group_id": 1,
@@ -1419,7 +1847,7 @@
             "match_games": []
         },
         {
-            "id": 37,
+            "id": 55,
             "number": 5,
             "stage_id": 0,
             "group_id": 1,
@@ -1435,7 +1863,7 @@
             "match_games": []
         },
         {
-            "id": 38,
+            "id": 56,
             "number": 6,
             "stage_id": 0,
             "group_id": 1,
@@ -1451,7 +1879,7 @@
             "match_games": []
         },
         {
-            "id": 39,
+            "id": 57,
             "number": 7,
             "stage_id": 0,
             "group_id": 1,
@@ -1467,7 +1895,7 @@
             "match_games": []
         },
         {
-            "id": 40,
+            "id": 58,
             "number": 8,
             "stage_id": 0,
             "group_id": 1,
@@ -1483,7 +1911,7 @@
             "match_games": []
         },
         {
-            "id": 45,
+            "id": 67,
             "number": 1,
             "stage_id": 0,
             "group_id": 1,
@@ -1499,7 +1927,7 @@
             "match_games": []
         },
         {
-            "id": 46,
+            "id": 68,
             "number": 2,
             "stage_id": 0,
             "group_id": 1,
@@ -1515,7 +1943,7 @@
             "match_games": []
         },
         {
-            "id": 47,
+            "id": 69,
             "number": 3,
             "stage_id": 0,
             "group_id": 1,
@@ -1531,7 +1959,7 @@
             "match_games": []
         },
         {
-            "id": 48,
+            "id": 70,
             "number": 4,
             "stage_id": 0,
             "group_id": 1,
@@ -1547,7 +1975,71 @@
             "match_games": []
         },
         {
-            "id": 49,
+            "id": 71,
+            "number": 5,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 72,
+            "number": 6,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 73,
+            "number": 7,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 74,
+            "number": 8,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 3,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 79,
             "number": 1,
             "stage_id": 0,
             "group_id": 1,
@@ -1563,7 +2055,7 @@
             "match_games": []
         },
         {
-            "id": 50,
+            "id": 80,
             "number": 2,
             "stage_id": 0,
             "group_id": 1,
@@ -1579,7 +2071,7 @@
             "match_games": []
         },
         {
-            "id": 51,
+            "id": 81,
             "number": 3,
             "stage_id": 0,
             "group_id": 1,
@@ -1595,11 +2087,75 @@
             "match_games": []
         },
         {
-            "id": 52,
+            "id": 82,
             "number": 4,
             "stage_id": 0,
             "group_id": 1,
             "round_id": 4,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 83,
+            "number": 1,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 5,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 84,
+            "number": 2,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 5,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 85,
+            "number": 3,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 5,
+            "child_count": 5,
+            "status": 0,
+            "opponent1": {
+                "id": null
+            },
+            "opponent2": {
+                "id": null
+            },
+            "match_games": []
+        },
+        {
+            "id": 86,
+            "number": 4,
+            "stage_id": 0,
+            "group_id": 1,
+            "round_id": 5,
             "child_count": 5,
             "status": 0,
             "opponent1": {
