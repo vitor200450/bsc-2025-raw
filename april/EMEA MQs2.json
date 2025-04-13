@@ -4962,18 +4962,83 @@
             "group_id": 1,
             "round_id": 4,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
                 "name": "Eclipsar Esport",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
                 "name": "XPERION NXT",
-                "seed": 9
+                "seed": 9,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "0b36377a-0a89-11f0-85a2-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         }
     ]
 }
