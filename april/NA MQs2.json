@@ -3926,18 +3926,98 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
                 "name": "Nameless",
-                "seed": 18
+                "seed": 18,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
                 "name": "Ping Warriors",
-                "seed": 28
+                "seed": 28,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -4281,7 +4361,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "87ed4d0a-17f2-11f0-b6d8-5e3e4f9cad4d",
+                "name": "Nameless",
+                "seed": 18
             },
             "match_games": []
         },
