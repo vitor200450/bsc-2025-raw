@@ -2252,18 +2252,68 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16f99b24-0a89-11f0-899a-729b158e3678",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
                 "name": "Pitchulas",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 30,
@@ -2366,7 +2416,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                "name": "SKCalalas SA",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -2608,7 +2660,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                "name": "Pitchulas",
+                "seed": 18
             },
             "opponent2": {
                 "id": null
