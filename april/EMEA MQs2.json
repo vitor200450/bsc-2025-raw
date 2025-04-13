@@ -2942,18 +2942,68 @@
             "group_id": 0,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
                 "name": "Eclipsar Esport",
-                "seed": 2
+                "seed": 2,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
                 "name": "Papara SuperMassive",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Gem Fort",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000010.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Bounty",
+                    "mapName": "Layer Cake",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000082.png",
+                    "opponent1": {
+                        "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 44,
@@ -4032,7 +4082,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b355aee-0a89-11f0-8ae6-729b158e3678",
+                "name": "Eclipsar Esport",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
