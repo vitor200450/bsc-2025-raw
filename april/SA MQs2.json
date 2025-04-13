@@ -2875,18 +2875,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b4197940-17dd-11f0-8e7e-1edbf23e3a72",
                 "name": "SYN  GAMING",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c580c5a6-0a88-11f0-ad1d-729b158e3678",
                 "name": "Censored Sports",
-                "seed": 14
+                "seed": 14,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "b4197940-17dd-11f0-8e7e-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c580c5a6-0a88-11f0-ad1d-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "b4197940-17dd-11f0-8e7e-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c580c5a6-0a88-11f0-ad1d-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "b4197940-17dd-11f0-8e7e-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c580c5a6-0a88-11f0-ad1d-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 24,
