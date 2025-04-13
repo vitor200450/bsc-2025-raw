@@ -3051,18 +3051,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
                 "name": "Mini Kozaki",
-                "seed": 30
+                "seed": 30,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
                 "name": "Millesime MG",
-                "seed": 19
+                "seed": 19,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "fc8c0be6-17b7-11f0-a0ce-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75fd38-17b7-11f0-88b6-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 24,
