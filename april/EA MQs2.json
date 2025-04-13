@@ -701,6 +701,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+            "tournament_id": 0,
+            "name": "Angry Bear",
+            "players": [
+                {
+                    "name": "無名ᴿᵒʸᵃᴸ",
+                    "gamerTag": "#YJ8VV2C9G"
+                },
+                {
+                    "name": "Queen’s Walk",
+                    "gamerTag": "#PJYGUJLPY"
+                },
+                {
+                    "name": "Meow | 미주🐻‍❄️",
+                    "gamerTag": "#20JLQR90U"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "17cda63a-1772-11f0-b51d-9e0be61304e0",
             "tournament_id": 0,
             "name": "ISEKAI Yuusha",
@@ -1142,18 +1162,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
                 "name": "Angry Bear",
-                "seed": 9
+                "seed": 9,
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
                 "name": "Fug",
-                "seed": 24
+                "seed": 24,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 5,
@@ -1925,7 +2010,9 @@
                 "seed": 8
             },
             "opponent2": {
-                "id": null
+                "id": "17cab34e-1772-11f0-bbf0-9e0be61304e0",
+                "name": "Fug",
+                "seed": 24
             },
             "match_games": []
         },
@@ -2141,7 +2228,9 @@
                 "seed": 25
             },
             "opponent2": {
-                "id": null
+                "id": "4f49b50a-0a88-11f0-9390-729b158e3678",
+                "name": "Angry Bear",
+                "seed": 9
             },
             "match_games": []
         },
