@@ -3980,18 +3980,83 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
                 "name": "Nobruzes F/A",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b41576f6-17dd-11f0-bca5-1edbf23e3a72",
                 "name": "OÁSIS GANG",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b41576f6-17dd-11f0-bca5-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41576f6-17dd-11f0-bca5-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41576f6-17dd-11f0-bca5-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "b415e73a-17dd-11f0-9e2d-1edbf23e3a72",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b41576f6-17dd-11f0-bca5-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 45,
