@@ -2397,18 +2397,98 @@
             "group_id": 0,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
                 "name": "Olimpo Squad",
-                "seed": 5
+                "seed": 5,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
                 "name": "F4TALITY",
-                "seed": 12
+                "seed": 12,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Triple Dribble",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000025.png",
+                    "opponent1": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 29,
@@ -2739,7 +2819,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "16f9e6a6-0a89-11f0-adfd-729b158e3678",
+                "name": "Olimpo Squad",
+                "seed": 5
             },
             "match_games": []
         },
@@ -3379,10 +3461,14 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "c57b3b22-0a88-11f0-beaf-729b158e3678",
+                "name": "F4TALITY",
+                "seed": 12
             },
             "opponent2": {
-                "id": null
+                "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+                "name": "UNNAMED F/A",
+                "seed": 31
             },
             "match_games": []
         },
