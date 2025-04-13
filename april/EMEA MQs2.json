@@ -2891,18 +2891,68 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
                 "name": "Izana is bad",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
                 "name": "TOP|Academy",
-                "seed": 21
+                "seed": 21,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -3152,7 +3202,9 @@
                 "seed": 15
             },
             "opponent2": {
-                "id": null
+                "id": "fc79e2a4-17b7-11f0-863b-42706e72cf32",
+                "name": "Izana is bad",
+                "seed": 28
             },
             "match_games": []
         },
