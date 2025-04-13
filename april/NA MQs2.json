@@ -2984,18 +2984,83 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
                 "name": "Ping Warriors",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87eb2ce6-17f2-11f0-b8c1-5e3e4f9cad4d",
                 "name": "Axolotl Warriors",
-                "seed": 21
+                "seed": 21,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87eb2ce6-17f2-11f0-b8c1-5e3e4f9cad4d",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87eb2ce6-17f2-11f0-b8c1-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87eb2ce6-17f2-11f0-b8c1-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87eb2ce6-17f2-11f0-b8c1-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 21,
@@ -3275,7 +3340,9 @@
                 "seed": 18
             },
             "opponent2": {
-                "id": null
+                "id": "87f06b16-17f2-11f0-bbda-5e3e4f9cad4d",
+                "name": "Ping Warriors",
+                "seed": 28
             },
             "match_games": []
         },
