@@ -3209,18 +3209,98 @@
             "group_id": 1,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
                 "name": "RedBull",
-                "seed": 30
+                "seed": 30,
+                "score": 2,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
                 "name": "Worst Generation",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Ring of Fire",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000300.png",
+                    "opponent1": {
+                        "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Brawl Ball",
+                    "mapName": "Pinhole Punt",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000026.png",
+                    "opponent1": {
+                        "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Last Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000636.png",
+                    "opponent1": {
+                        "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": "Heist",
+                    "mapName": "Safe Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000019.png",
+                    "opponent1": {
+                        "id": "17ce2f42-1772-11f0-a499-9e0be61304e0",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 24,
@@ -3377,7 +3457,9 @@
                 "seed": 24
             },
             "opponent2": {
-                "id": null
+                "id": "4f4a0514-0a88-11f0-8d1f-729b158e3678",
+                "name": "Worst Generation",
+                "seed": 14
             },
             "match_games": []
         },
