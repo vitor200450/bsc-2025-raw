@@ -901,6 +901,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+            "tournament_id": 0,
+            "name": "3/5",
+            "players": [
+                {
+                    "name": "YT: ZTBrawl",
+                    "gamerTag": "#JJCL8PP"
+                },
+                {
+                    "name": "NotYoMilk",
+                    "gamerTag": "#88LQYC08U"
+                },
+                {
+                    "name": "TOG|MAV",
+                    "gamerTag": "#82U8PL8UV"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "87efdfc0-17f2-11f0-b569-5e3e4f9cad4d",
             "tournament_id": 0,
             "name": "YHLQMDLG",
@@ -916,6 +936,26 @@
                 {
                     "name": "Flowing❦",
                     "gamerTag": "#2C2CVCG0"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+            "tournament_id": 0,
+            "name": "Conquerors",
+            "players": [
+                {
+                    "name": "A̸7̸A̸G̸⇘",
+                    "gamerTag": "#99JQQRCJ"
+                },
+                {
+                    "name": "striker ⚡︎",
+                    "gamerTag": "#80P2CQ98"
+                },
+                {
+                    "name": "TT: RComedy",
+                    "gamerTag": "#PJ99QJ2"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1941,18 +1981,98 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
                 "name": "Ares Core",
-                "seed": 14
+                "seed": 14,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
                 "name": "3/5",
-                "seed": 19
+                "seed": 19,
+                "score": 2,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "match_5",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 15,
@@ -2031,18 +2151,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
                 "name": "Olimpo Squad NA",
-                "seed": 11
+                "seed": 11,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
                 "name": "Conquerors",
-                "seed": 22
+                "seed": 22,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 25,
@@ -2178,7 +2363,9 @@
                 "seed": 3
             },
             "opponent2": {
-                "id": null
+                "id": "e5b1a994-0a88-11f0-9a61-729b158e3678",
+                "name": "Ares Core",
+                "seed": 14
             },
             "match_games": []
         },
@@ -2196,7 +2383,9 @@
                 "seed": 6
             },
             "opponent2": {
-                "id": null
+                "id": "e5b0d488-0a88-11f0-b90f-729b158e3678",
+                "name": "Olimpo Squad NA",
+                "seed": 11
             },
             "match_games": []
         },
@@ -2398,7 +2587,9 @@
                 "seed": 30
             },
             "opponent2": {
-                "id": null
+                "id": "87ecc1d2-17f2-11f0-aa5b-5e3e4f9cad4d",
+                "name": "3/5",
+                "seed": 19
             },
             "match_games": []
         },
@@ -2416,7 +2607,9 @@
                 "seed": 27
             },
             "opponent2": {
-                "id": null
+                "id": "87ebb42c-17f2-11f0-9dbe-5e3e4f9cad4d",
+                "name": "Conquerors",
+                "seed": 22
             },
             "match_games": []
         },
