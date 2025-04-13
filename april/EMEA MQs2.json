@@ -639,6 +639,26 @@
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "fc90b3b2-17b7-11f0-ac7f-42706e72cf32",
+            "tournament_id": 0,
+            "name": "F/A Sucuk",
+            "players": [
+                {
+                    "name": "LUX|Ruffy",
+                    "gamerTag": "#8LQR0UU2"
+                },
+                {
+                    "name": "LUX|Izana",
+                    "gamerTag": "#8982L9QYP"
+                },
+                {
+                    "name": "wet and nasty",
+                    "gamerTag": "#92YR22QPL"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         }
     ],
     "stage": [
@@ -721,7 +741,7 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "0b35c876-0a89-11f0-a002-729b158e3678",
                 "name": "SK Gaming",
@@ -730,7 +750,8 @@
             "opponent2": {
                 "id": "fc90b3b2-17b7-11f0-ac7f-42706e72cf32",
                 "name": "F/A Sucuk",
-                "seed": 32
+                "seed": 32,
+                "forfeit": 1
             },
             "match_games": []
         },
@@ -1043,7 +1064,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "0b35c876-0a89-11f0-a002-729b158e3678",
+                "name": "SK Gaming",
+                "seed": 1
             },
             "opponent2": {
                 "id": null
@@ -1235,7 +1258,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc90b3b2-17b7-11f0-ac7f-42706e72cf32",
+                "name": "F/A Sucuk",
+                "seed": 32
             },
             "opponent2": {
                 "id": null
