@@ -3489,18 +3489,68 @@
             "group_id": 1,
             "round_id": 2,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
                 "name": "Pitchulas",
-                "seed": 18
+                "seed": 18,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
                 "name": "SC TEAM",
-                "seed": 28
+                "seed": 28,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Bounty",
+                    "mapName": "Hideout",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000022.png",
+                    "opponent1": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Knockout",
+                    "mapName": "Goldarm Gulch",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000367.png",
+                    "opponent1": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Open Zone",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000527.png",
+                    "opponent1": {
+                        "id": "b417a7aa-17dd-11f0-a4d9-1edbf23e3a72",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 37,
@@ -3613,7 +3663,9 @@
                 "seed": 10
             },
             "opponent2": {
-                "id": null
+                "id": "b418ba46-17dd-11f0-a7d5-1edbf23e3a72",
+                "name": "SC TEAM",
+                "seed": 28
             },
             "match_games": []
         },
