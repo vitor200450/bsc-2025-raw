@@ -741,6 +741,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Inner Circle.png"
         },
         {
+            "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+            "tournament_id": 0,
+            "name": "DARK EAGLES",
+            "players": [
+                {
+                    "name": "DE|MASTER",
+                    "gamerTag": "#2GV90L8YP"
+                },
+                {
+                    "name": "ZeyroX🕊",
+                    "gamerTag": "#82GG2RLQG"
+                },
+                {
+                    "name": "DE|Ferissa",
+                    "gamerTag": "#2LLRJGPVV8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/DARK EAGLES.png"
+        },
+        {
             "id": "fc75424e-17b7-11f0-9eaf-42706e72cf32",
             "tournament_id": 0,
             "name": "TOP|Academy",
@@ -796,6 +816,26 @@
                 {
                     "name": "NS|Bartxzz",
                     "gamerTag": "#8JGVULPR8"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+            "tournament_id": 0,
+            "name": "Remicas Hairline",
+            "players": [
+                {
+                    "name": "TH|RieNs",
+                    "gamerTag": "#89YPPYY2G"
+                },
+                {
+                    "name": "MCNS|Paint",
+                    "gamerTag": "#8CL0YP8Y9"
+                },
+                {
+                    "name": "GordonnBoy",
+                    "gamerTag": "#VUJPG8YY"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1277,18 +1317,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
                 "name": "TOP eSports",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc730466-17b7-11f0-944b-42706e72cf32",
                 "name": "DARK EAGLES",
-                "seed": 20
+                "seed": 20,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1542,18 +1647,83 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
                 "name": "Papara SuperMassive",
-                "seed": 7
+                "seed": 7,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
                 "name": "Remicas Hairline",
-                "seed": 26
+                "seed": 26,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": null,
+                    "mapName": null,
+                    "mapUrl": "",
+                    "opponent1": {
+                        "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 12,
@@ -1909,7 +2079,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "73f1ec60-0a88-11f0-8b28-729b158e3678",
+                "name": "TOP eSports",
+                "seed": 13
             },
             "match_games": []
         },
@@ -1958,7 +2130,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "73f4a9d2-0a88-11f0-9758-729b158e3678",
+                "name": "Papara SuperMassive",
+                "seed": 7
             },
             "opponent2": {
                 "id": null
@@ -2123,7 +2297,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "fc730466-17b7-11f0-944b-42706e72cf32",
+                "name": "DARK EAGLES",
+                "seed": 20
             },
             "match_games": []
         },
@@ -2172,7 +2348,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "fc789fde-17b7-11f0-b5ad-42706e72cf32",
+                "name": "Remicas Hairline",
+                "seed": 26
             },
             "opponent2": {
                 "id": null
