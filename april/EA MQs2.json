@@ -721,6 +721,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
+            "tournament_id": 0,
+            "name": "NANRYU",
+            "players": [
+                {
+                    "name": "Noσ🕊️",
+                    "gamerTag": "#8Y9U2QRYL"
+                },
+                {
+                    "name": "将ちゃんZ★☆★",
+                    "gamerTag": "#82G9GPGQY"
+                },
+                {
+                    "name": "Syupa.",
+                    "gamerTag": "#LQJULUQ8C"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "17c7cbca-1772-11f0-9495-9e0be61304e0",
             "tournament_id": 0,
             "name": "マンケルビーム",
@@ -1132,18 +1152,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "4f4ae11e-0a88-11f0-97db-729b158e3678",
                 "name": "No Organization Team",
-                "seed": 13
+                "seed": 13,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
                 "name": "NANRYU",
-                "seed": 20
+                "seed": 20,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "4f4ae11e-0a88-11f0-97db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "4f4ae11e-0a88-11f0-97db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "4f4ae11e-0a88-11f0-97db-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 7,
@@ -1548,7 +1618,9 @@
                 "seed": 4
             },
             "opponent2": {
-                "id": null
+                "id": "4f4ae11e-0a88-11f0-97db-729b158e3678",
+                "name": "No Organization Team",
+                "seed": 13
             },
             "match_games": []
         },
@@ -1754,7 +1826,9 @@
                 "seed": 29
             },
             "opponent2": {
-                "id": null
+                "id": "17c97628-1772-11f0-ac8c-9e0be61304e0",
+                "name": "NANRYU",
+                "seed": 20
             },
             "match_games": []
         },
