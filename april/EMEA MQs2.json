@@ -661,6 +661,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+            "tournament_id": 0,
+            "name": "Universum Gaming",
+            "players": [
+                {
+                    "name": "SantiagoS",
+                    "gamerTag": "#22Y2CJVJV"
+                },
+                {
+                    "name": "UNV|Falk",
+                    "gamerTag": "#LURLGRUQP"
+                },
+                {
+                    "name": "UNV|Fluxy",
+                    "gamerTag": "#GLVLVUQVU"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/Universum Gaming.png"
+        },
+        {
             "id": "8c833fb8-1848-11f0-a9c7-4213c753f0c7",
             "tournament_id": 0,
             "name": "LUX NNS",
@@ -902,18 +922,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 0,
+            "status": 4,
             "opponent1": {
                 "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
                 "name": "Universum Gaming",
-                "seed": 16
+                "seed": 16,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
                 "name": "Aogiri Esport",
-                "seed": 17
+                "seed": 17,
+                "score": 3,
+                "result": "win"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+                        "score": 0
+                    },
+                    "opponent2": {
+                        "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
+                        "score": 2
+                    }
+                }
+            ]
         },
         {
             "id": 3,
@@ -1559,7 +1629,9 @@
                 "seed": 1
             },
             "opponent2": {
-                "id": null
+                "id": "fc71dc4e-17b7-11f0-922a-42706e72cf32",
+                "name": "Aogiri Esport",
+                "seed": 17
             },
             "match_games": []
         },
@@ -1763,7 +1835,9 @@
                 "seed": 32
             },
             "opponent2": {
-                "id": null
+                "id": "73fa13fe-0a88-11f0-a81f-729b158e3678",
+                "name": "Universum Gaming",
+                "seed": 16
             },
             "match_games": []
         },
