@@ -4466,18 +4466,83 @@
             "group_id": 1,
             "round_id": 3,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
                 "name": "New Heights Gaming",
-                "seed": 32
+                "seed": 32,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
                 "name": "Crumbs",
-                "seed": 24
+                "seed": 24,
+                "score": 1,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Heist",
+                    "mapName": "Pit Stop",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000137.png",
+                    "opponent1": {
+                        "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
+                        "score": 1
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 2
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Out in the Open",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000548.png",
+                    "opponent1": {
+                        "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": "match_4",
+                    "gameMode": "Hot Zone",
+                    "mapName": "Dueling Beetles",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000306.png",
+                    "opponent1": {
+                        "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "87ef5456-17f2-11f0-881e-5e3e4f9cad4d",
+                        "score": 1
+                    }
+                }
+            ]
         },
         {
             "id": 46,
@@ -4653,7 +4718,9 @@
                 "seed": 5
             },
             "opponent2": {
-                "id": null
+                "id": "87f2a408-17f2-11f0-80ef-5e3e4f9cad4d",
+                "name": "New Heights Gaming",
+                "seed": 32
             },
             "match_games": []
         },
