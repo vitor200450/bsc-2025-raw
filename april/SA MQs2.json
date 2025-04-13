@@ -681,6 +681,26 @@
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
         },
         {
+            "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+            "tournament_id": 0,
+            "name": "UNNAMED F/A",
+            "players": [
+                {
+                    "name": "yume 2kki",
+                    "gamerTag": "#PQVJVY2U"
+                },
+                {
+                    "name": "Nicolai'伶",
+                    "gamerTag": "#PC9LPPYV"
+                },
+                {
+                    "name": "VenoX ツ",
+                    "gamerTag": "#80UQP9UYR"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
             "id": "b41809d4-17dd-11f0-aaf3-1edbf23e3a72",
             "tournament_id": 0,
             "name": "M2H😜",
@@ -696,6 +716,26 @@
                 {
                     "name": "Jean®",
                     "gamerTag": "#GLQG9CU20"
+                }
+            ],
+            "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
+        },
+        {
+            "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
+            "tournament_id": 0,
+            "name": "The Becas",
+            "players": [
+                {
+                    "name": "乂𝕊𝕒𝕥𝕦𝕣ℕ𝕫ヤ",
+                    "gamerTag": "#20VRJPJVY"
+                },
+                {
+                    "name": "Sniper",
+                    "gamerTag": "#800YCUU8C"
+                },
+                {
+                    "name": "❄️Master BR❄️",
+                    "gamerTag": "#PY0R8GUJP"
                 }
             ],
             "img": "https://raw.githubusercontent.com/idouab/bsc-2025-raw/main/logos/default.png"
@@ -1052,18 +1092,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "16f99b24-0a89-11f0-899a-729b158e3678",
                 "name": "SKCalalas SA",
-                "seed": 2
+                "seed": 2,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
                 "name": "UNNAMED F/A",
-                "seed": 31
+                "seed": 31,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 10,
@@ -1162,18 +1252,68 @@
             "group_id": 0,
             "round_id": 1,
             "child_count": 5,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": "c5793764-0a88-11f0-93ef-729b158e3678",
                 "name": "Blue Lock 357",
-                "seed": 10
+                "seed": 10,
+                "score": 3,
+                "result": "win"
             },
             "opponent2": {
                 "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
                 "name": "The Becas",
-                "seed": 23
+                "seed": 23,
+                "score": 0,
+                "result": "loss"
             },
-            "match_games": []
+            "match_games": [
+                {
+                    "id": 0,
+                    "name": "match_1",
+                    "gameMode": "Gem Grab",
+                    "mapName": "Hard Rock Mine",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000007.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
+                        "score": 1
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "match_2",
+                    "gameMode": "Bounty",
+                    "mapName": "Shooting Star",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000005.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
+                        "score": 0
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "match_3",
+                    "gameMode": "Knockout",
+                    "mapName": "Belle's Rock",
+                    "mapUrl": "https://cdn.brawlify.com/maps/regular/15000368.png",
+                    "opponent1": {
+                        "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                        "score": 2
+                    },
+                    "opponent2": {
+                        "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
+                        "score": 0
+                    }
+                }
+            ]
         },
         {
             "id": 13,
@@ -1482,7 +1622,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "16f99b24-0a89-11f0-899a-729b158e3678",
+                "name": "SKCalalas SA",
+                "seed": 2
             },
             "opponent2": {
                 "id": null
@@ -1503,7 +1645,9 @@
                 "seed": 7
             },
             "opponent2": {
-                "id": null
+                "id": "c5793764-0a88-11f0-93ef-729b158e3678",
+                "name": "Blue Lock 357",
+                "seed": 10
             },
             "match_games": []
         },
@@ -1684,7 +1828,9 @@
             "child_count": 5,
             "status": 0,
             "opponent1": {
-                "id": null
+                "id": "b419c5e4-17dd-11f0-8fe7-1edbf23e3a72",
+                "name": "UNNAMED F/A",
+                "seed": 31
             },
             "opponent2": {
                 "id": null
@@ -1705,7 +1851,9 @@
                 "seed": 26
             },
             "opponent2": {
-                "id": null
+                "id": "b4151df0-17dd-11f0-a398-1edbf23e3a72",
+                "name": "The Becas",
+                "seed": 23
             },
             "match_games": []
         },
